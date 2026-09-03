@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T19:09:47.537Z",
+ "generated": "2026-09-03T19:50:55.941Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 271
+   "events": 272
   },
   {
    "id": "ticketmaster",
@@ -759,8 +759,8 @@
    "date": "2026-09-03",
    "time": "22:00",
    "price": 4,
-   "priceMax": 4,
-   "priceText": null,
+   "priceMax": 4.5,
+   "priceText": "£4–£4.50",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-corkys-t-shirt-giveaway-southampton-s-best-student-night-1-shots-all-night",
@@ -11563,6 +11563,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-fea28eee-210",
+   "artist": "SEMSU Presents: Spin It Back!",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
+   "date": "2026-09-22",
+   "time": "22:30",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/semsu-presents-spin-it-back",
+   "infoUrl": "https://www.fatsoma.com/e/semsu-presents-spin-it-back",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
