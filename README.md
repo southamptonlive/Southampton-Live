@@ -80,7 +80,7 @@ Share action.
 The guide keeps the *facts* (artist, venue, postcode, date, time, price,
 ticket link) — facts are not copyright-protected. It does not display images
 or promoter descriptions from sources without a licence or written permission:
-Songkick and Fatsoma media is stripped at build time (the app renders its own
+Songkick and Fatsoma media is stripped at build time; Music in the City images are shown with the organisers''s written permission (granted 3 Sept 2026) (the app renders its own
 generated poster art instead), pending permission requests. The scraper
 identifies itself honestly as `SotonLive/1.0 (+https://southampton.live)`, is
 paced politely, and never evades blocks — a source that blocks the bot is

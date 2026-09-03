@@ -791,6 +791,59 @@ async function ticketmaster() {
   return { url: 'https://www.ticketmaster.co.uk/', events };
 }
 
+/* ---------- source: Skiddle official API (licensed; images + genres by right) ---------- */
+async function skiddleApi() {
+  const KEY = process.env.SKIDDLE_API_KEY;
+  if (!KEY) throw new Error('skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret');
+  const events = [];
+  let offset = 0, total = 1;
+  while (offset < total && offset < 500) {
+    const u = `https://www.skiddle.com/api/v1/events/search/?api_key=${KEY}&latitude=50.9097&longitude=-1.4044&radius=15&order=date&limit=100&offset=${offset}&description=1`;
+    const res = await fetch(u, { headers: { 'user-agent': UA } });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const d = await res.json();
+    total = parseInt(d.totalcount || 0, 10);
+    const rows = d.results || [];
+    if (!rows.length) break;
+    for (const ev of rows) {
+      const pc = String(ev.venue?.postcode || '').toUpperCase().replace(/^S0(\d)/, 'SO$1').trim();
+      if (!/^SO\d{1,2}/.test(pc)) continue;
+      const v = canonVenue(deent(ev.venue?.name || ''), pc);
+      if (!v.postcode) v.postcode = pc;
+      const name = deent(ev.eventname || '').trim();
+      if (!name || !ev.date) continue;
+      const genreNames = (ev.genres || []).map((g) => String(g.name || '')).filter(Boolean);
+      const ghay = `${name} ${genreNames.join(' ')} ${deent(ev.description || '').slice(0, 200)}`;
+      const price = ev.entryprice ? (String(ev.entryprice).match(/([\d.]+)/) ? parseFloat(String(ev.entryprice).match(/([\d.]+)/)[1]) : null) : null;
+      events.push({
+        type: inferType(ghay, '', ev.EventCode || 'LIVE'),
+        tags: [...new Set([...genreNames.map((g) => g.toLowerCase()).slice(0, 3), ...inferTags(name, '', price)])].slice(0, 4),
+        hot: false,
+        id: 'sk-' + ev.id,
+        artist: name,
+        venueId: v.id, venueName: v.name, postcode: v.postcode,
+        date: ev.date,
+        time: ev.openingtimes?.doorsopen || ev.starttime || null,
+        price, priceMax: price,
+        priceText: /free/i.test(String(ev.entryprice || '')) ? 'Free' : null,
+        genre: inferGenre(ghay, '', ev.EventCode || 'LIVE'),
+        img: ev.largeimageurl || ev.imageurl || null, // licensed via the API programme
+        ticketUrl: ev.link || null, infoUrl: ev.link || null,
+        going: parseInt(ev.goingtocount || 0, 10) || 0,
+        minage: ev.MinAge || null,
+        desc: deent(String(ev.description || '')).replace(/\s+/g, ' ').trim().slice(0, 280) || null,
+        cancelled: false,
+        source: 'skiddle',
+        _venue: { name: v.name, postcode: v.postcode, address: deent(ev.venue?.address || '') || null },
+      });
+    }
+    offset += rows.length;
+    await sleep(1200);
+  }
+  if (!events.length) throw new Error('no in-patch events from API');
+  return { url: 'https://www.skiddle.com', events };
+}
+
 /* ---------- pipeline ---------- */
 
 async function main() {
@@ -814,6 +867,7 @@ async function main() {
     { id: 'songkick:metro', label: 'Songkick · Southampton metro', fn: songkickMetro },
     { id: 'mitc', label: 'Music in the City (musicinthecity.org)', fn: musicInTheCity },
     { id: 'mayflower', label: 'Mayflower Theatre + MAST (mayflower.org.uk)', fn: mayflower },
+    { id: 'skiddle:api', label: 'Skiddle official API', fn: skiddleApi },
     { id: 'fatsoma', label: 'Fatsoma (api.fatsoma.com)', fn: fatsoma },
     { id: 'ticketmaster', label: 'Ticketmaster Discovery (optional key)', fn: ticketmaster },
   ];
