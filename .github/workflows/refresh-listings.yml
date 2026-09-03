@@ -1,28 +1,9 @@
-# Soton Live — scheduled listings refresh + deploy to SiteGround
-#
-# Place at .github/workflows/refresh-listings.yml in a repo containing
-# index.html, events.json, build-events.mjs, classify-events.mjs,
-# genre-overrides.json and logo.png at its root.
-#
-# Every 3 hours it: re-scrapes every source → runs the AI genre classifier
-# (if ANTHROPIC_API_KEY is set) → commits the refreshed data → deploys the
-# site to SiteGround over FTPS. The app also refetches events.json every
-# 15 minutes while open, so visitors get new data without reloading.
-#
-# Required repo secrets (Settings → Secrets and variables → Actions):
-#   FTP_SERVER    e.g. yourdomain.co.uk  (or the SiteGround server hostname)
-#   FTP_USERNAME  the FTP account you create in Site Tools → Site → FTP Accounts
-#   FTP_PASSWORD  its password
-# Optional secrets:
-#   TM_API_KEY         free at developer.ticketmaster.com — adds TM listings
-#   ANTHROPIC_API_KEY  enables the AI genre-classification pass
-
 name: Refresh Soton Live listings
 
 on:
   schedule:
-    - cron: '17 */3 * * *'   # every 3 hours (offset to dodge the top-of-hour stampede)
-  workflow_dispatch: {}       # manual "Run workflow" button
+    - cron: '17 */3 * * *'
+  workflow_dispatch: {}
   push:
     branches: [main]
 
@@ -61,7 +42,14 @@ jobs:
           git diff --cached --quiet || git commit -m "listings: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
-           - name: Deploy to SiteGround (FTPS)
+      - name: Assemble deployable site
+        run: |
+          mkdir -p dist
+          cp index.html events.json logo.png dist/
+          for f in privacy.html about.html; do [ -f "$f" ] && cp "$f" dist/; done
+          ls -la dist/
+
+      - name: Deploy to SiteGround (FTPS)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
