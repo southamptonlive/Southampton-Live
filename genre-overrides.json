@@ -1,0 +1,216 @@
+{
+  "note": "AI knowledge layer: artist-level corrections applied after scraping, because ticket outlets expose no genre data. Keys are lowercase substrings matched against the event name. Seeded by AI review of the full listings on 2026-08-31; classify-events.mjs extends this cache for new unknown artists.",
+  "overrides": [
+    {
+      "match": "krs-one",
+      "genre": "hiphop"
+    },
+    {
+      "match": "stereo mcs",
+      "genre": "hiphop"
+    },
+    {
+      "match": "michael mathers",
+      "genre": "hiphop"
+    },
+    {
+      "match": "eminem experience",
+      "genre": "hiphop"
+    },
+    {
+      "match": "quireboys",
+      "genre": "indie"
+    },
+    {
+      "match": "independent band night",
+      "genre": "indie"
+    },
+    {
+      "match": "soulfly",
+      "genre": "punk"
+    },
+    {
+      "match": "genitorturers",
+      "genre": "punk"
+    },
+    {
+      "match": "as everything unfolds",
+      "genre": "punk"
+    },
+    {
+      "match": "moretallica",
+      "genre": "punk"
+    },
+    {
+      "match": "mosh spice",
+      "genre": "punk"
+    },
+    {
+      "match": "nightwish",
+      "genre": "punk"
+    },
+    {
+      "match": "shred fest",
+      "genre": "punk"
+    },
+    {
+      "match": "uncle acid",
+      "genre": "punk"
+    },
+    {
+      "match": "wormrot",
+      "genre": "punk"
+    },
+    {
+      "match": "skids & theatre of hate",
+      "genre": "punk"
+    },
+    {
+      "match": "perpetual paradox",
+      "genre": "punk"
+    },
+    {
+      "match": "struck/down",
+      "genre": "punk"
+    },
+    {
+      "match": "tuffaf presents",
+      "genre": "punk"
+    },
+    {
+      "match": "blink daze",
+      "genre": "punk"
+    },
+    {
+      "match": "the dualers",
+      "genre": "jazz"
+    },
+    {
+      "match": "kamil bednarek",
+      "genre": "jazz"
+    },
+    {
+      "match": "the tumbling paddies",
+      "genre": "acoustic"
+    },
+    {
+      "match": "martyn joseph",
+      "genre": "acoustic"
+    },
+    {
+      "match": "mike dawes",
+      "genre": "acoustic"
+    },
+    {
+      "match": "listening garden",
+      "genre": "acoustic"
+    },
+    {
+      "match": "steward sons of val doonican",
+      "genre": "acoustic"
+    },
+    {
+      "match": "the wurzels",
+      "genre": "acoustic"
+    },
+    {
+      "match": "massaoke",
+      "genre": "other"
+    },
+    {
+      "match": "max fulham",
+      "genre": "other",
+      "type": "comedy"
+    },
+    {
+      "match": "luke wright",
+      "genre": "other",
+      "type": "other"
+    },
+    {
+      "match": "andrew lawrence",
+      "genre": "other",
+      "type": "comedy"
+    },
+    {
+      "match": "200% badgers",
+      "genre": "other",
+      "type": "comedy"
+    },
+    {
+      "match": "frank sanazi",
+      "genre": "other",
+      "type": "comedy"
+    },
+    {
+      "match": "myndstate",
+      "genre": "other",
+      "type": "other"
+    },
+    {
+      "match": "devin townsend",
+      "genre": "punk"
+    },
+    {
+      "match": "allegaeon",
+      "genre": "punk"
+    },
+    {
+      "match": "king parrot",
+      "genre": "punk"
+    },
+    {
+      "match": "vexed",
+      "genre": "punk"
+    },
+    {
+      "match": "the five hundred",
+      "genre": "punk"
+    },
+    {
+      "match": "a skylit drive",
+      "genre": "punk"
+    },
+    {
+      "match": "weird nightmare",
+      "genre": "punk"
+    },
+    {
+      "match": "kevin bridges",
+      "genre": "other",
+      "type": "comedy"
+    },
+    {
+      "match": "lucy kitchen",
+      "genre": "acoustic"
+    },
+    {
+      "match": "laura veirs",
+      "genre": "acoustic"
+    },
+    {
+      "match": "the specials",
+      "genre": "jazz"
+    },
+    {
+      "match": "king king",
+      "genre": "jazz"
+    },
+    {
+      "match": "will wilde",
+      "genre": "jazz"
+    },
+    {
+      "match": "bare jams",
+      "genre": "jazz"
+    },
+    {
+      "match": "barejams",
+      "genre": "jazz"
+    },
+    {
+      "match": "ruled by raptors",
+      "genre": "indie"
+    }
+  ]
+}
