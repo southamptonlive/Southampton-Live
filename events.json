@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T15:31:26.303Z",
+ "generated": "2026-09-03T15:54:06.140Z",
  "region": "SO14–SO53",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 16
+   "ok": false,
+   "carried": 16,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -173,18 +173,6 @@
    "address": "Southampton"
   },
   {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
    "id": "94-high-street-vault",
    "name": "94 High Street Vault",
    "postcode": "SO14 2AA",
@@ -230,6 +218,12 @@
    "id": "god-s-house-tower",
    "name": "God's House Tower",
    "postcode": "SO14 2NY",
+   "address": null
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
    "address": null
   },
   {
@@ -429,6 +423,12 @@
    "name": "Tudor House & Garden",
    "postcode": "SO14 2AD",
    "address": "Bugle St, Southampton SO14 2AD"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "caf-parfait",
