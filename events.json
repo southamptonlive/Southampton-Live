@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T20:41:56.672Z",
+ "generated": "2026-09-03T21:27:08.588Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 16
+   "ok": false,
+   "carried": 16,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -186,12 +186,6 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
    "id": "concorde-club",
    "name": "Concorde Club",
    "postcode": "SO50 9HQ",
@@ -208,6 +202,12 @@
    "name": "Bitterne Railway station",
    "postcode": "SO18 1GG",
    "address": "Bitterne station MacNaghten Road Bitterne Hampshire"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -720,7 +720,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -1416,7 +1417,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "club",
@@ -2033,7 +2035,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -2056,7 +2059,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -9296,7 +9300,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "club",
@@ -9960,7 +9965,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -10367,7 +10373,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "comedy",
@@ -11539,7 +11546,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -20981,7 +20989,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -21681,7 +21690,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "club",
@@ -24840,7 +24850,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -25582,7 +25593,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -25755,7 +25767,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "club",
@@ -26723,7 +26736,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -26817,7 +26831,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
@@ -27122,7 +27137,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-03T20:41:56.672Z"
   },
   {
    "type": "gig",
