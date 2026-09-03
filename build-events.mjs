@@ -796,6 +796,16 @@ async function ticketmaster() {
 /* ---------- pipeline ---------- */
 
 async function main() {
+  // Previous build (if any): the safety net when a source is blocked from this IP.
+  let prevBySource = {};
+  try {
+    const { readFileSync, existsSync } = await import('node:fs');
+    if (existsSync(OUT)) {
+      const prev = JSON.parse(readFileSync(OUT, 'utf8'));
+      for (const e of prev.events || []) (prevBySource[e.source] = prevBySource[e.source] || []).push(e);
+    }
+  } catch (e) { /* no previous build */ }
+  const FORCE_FAIL = String(process.env.FORCE_FAIL_SOURCES || '').split(',').filter(Boolean);
   const sources = [];
   let pool = [];
 
@@ -810,16 +820,30 @@ async function main() {
     { id: 'ticketmaster', label: 'Ticketmaster Discovery (optional key)', fn: ticketmaster },
   ];
 
+  // events are tagged with a coarse source family in the feed (e.g. 'skiddle', 'songkick')
+  const family = (runId) => runId.split(':')[0].replace('thebrook', 'thebrook');
+  const carriedFamilies = new Set();
   for (const run of runs) {
     process.stdout.write(`fetching ${run.id} … `);
     try {
+      if (FORCE_FAIL.includes(run.id)) throw new Error('forced failure (test)');
       const { url, events } = await run.fn();
       sources.push({ id: run.id, label: run.label, url, ok: true, events: events.length });
       pool = pool.concat(events);
       console.log(`${events.length} events`);
     } catch (e) {
-      sources.push({ id: run.id, label: run.label, ok: false, error: String(e.message || e) });
-      console.log(`FAILED (${e.message})`);
+      // Carry forward this family's previous still-future events instead of
+      // erasing real listings just because this IP got blocked today.
+      const fam = family(run.id);
+      let carried = 0;
+      if (!carriedFamilies.has(fam) && prevBySource[fam]) {
+        carriedFamilies.add(fam);
+        const alive = prevBySource[fam].filter((ev) => ev.date >= todayISO());
+        pool = pool.concat(alive);
+        carried = alive.length;
+      }
+      sources.push({ id: run.id, label: run.label, ok: false, carried, error: String(e.message || e) });
+      console.log(`FAILED (${e.message})${carried ? ` — carried ${carried} previous events forward` : ''}`);
     }
     await sleep(2500); // be a polite client
   }
