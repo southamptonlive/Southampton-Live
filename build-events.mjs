@@ -15,9 +15,7 @@
 
 const OUT = new URL('./events.json', import.meta.url).pathname;
 
-const UA =
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
-  '(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 SO-LIVE-guide/1.0';
+const UA = 'SotonLive/1.0 (+https://southampton.live; hello@southampton.live)';
 
 const HEADERS = {
   'User-Agent': UA,
@@ -749,7 +747,7 @@ async function ticketmaster() {
   if (!KEY) throw new Error('skipped — set TM_API_KEY (free at developer.ticketmaster.com) to enable');
   const events = [];
   for (let page = 0; page < 5; page++) {
-    const u = `https://app.ticketmaster.com/discovery/v2/events.json?apikey=${KEY}&city=Southampton&countryCode=GB&classificationName=music&size=100&page=${page}&sort=date,asc`;
+    const u = `https://app.ticketmaster.com/discovery/v2/events.json?apikey=${KEY}&latlong=50.9097,-1.4044&radius=15&unit=miles&countryCode=GB&classificationName=music&size=100&page=${page}&sort=date,asc`;
     const res = await fetch(u, { headers: { 'user-agent': UA } });
     if (!res.ok) break;
     const d = await res.json();
@@ -789,7 +787,7 @@ async function ticketmaster() {
     if (page + 1 >= (d.page?.totalPages || 1)) break;
     await sleep(1200);
   }
-  if (!events.length) throw new Error('no in-patch events');
+  if (!events.length) throw new Error('no in-patch events (searched 15mi around Southampton — check key activation at developer.ticketmaster.com)');
   return { url: 'https://www.ticketmaster.co.uk/', events };
 }
 
@@ -854,6 +852,12 @@ async function main() {
   let events = pool.filter(
     (e) => e.artist && e.date && e.date >= today && !e.cancelled && inPatch(e.postcode)
   );
+
+  // Rights pass: keep the facts (artist, venue, date, time, price, links) but do
+  // not display images or promoter copy from sources with no licence in place.
+  // Reverse per-source when written permission arrives. (MITC pending reply.)
+  const STRIP_MEDIA = new Set(['songkick', 'fatsoma']);
+  for (const e of events) if (STRIP_MEDIA.has(e.source)) { e.img = null; e.desc = null; }
 
   // AI knowledge layer pass
   let corrected = 0;

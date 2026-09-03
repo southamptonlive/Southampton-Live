@@ -75,6 +75,21 @@ event, day, and view is deep-linkable (`#/e/<id>`, `#/day/<iso>`,
 `#/weekend`, `#/tonight`, `#/venue/<id>`, `#/type/<t>`) and events carry a
 Share action.
 
+## Content rights
+
+The guide keeps the *facts* (artist, venue, postcode, date, time, price,
+ticket link) — facts are not copyright-protected. It does not display images
+or promoter descriptions from sources without a licence or written permission:
+Songkick and Fatsoma media is stripped at build time (the app renders its own
+generated poster art instead), pending permission requests. The scraper
+identifies itself honestly as `SotonLive/1.0 (+https://southampton.live)`, is
+paced politely, and never evades blocks — a source that blocks the bot is
+declining, and carry-forward preserves previously published facts instead.
+Every listing credits and links its source. Rights-holders can have content
+credited differently or removed via hello@southampton.live (see terms). The
+strategic direction is licensed feeds (Ticketmaster ✓ keyed, Skiddle API
+migration planned) and venue-direct permission.
+
 ## Coverage strategy (vs. Visit Southampton)
 
 Visit Southampton runs on the Simpleview tourism DMS: venues and promoters
@@ -89,7 +104,7 @@ venue canon normalises name variants. This took the guide from 160 events at
 11 venues to ~554 events at 38 venues — including The 1865 (2 → 115),
 Heartbreakers (1 → 48), The Joiners (4 → 37), plus O2 Guildhall, Mayflower
 Theatre, Turner Sims and the wider SO14–SO53 patch. **Fatsoma** — the student/promoter club-night outlet — is pulled from its
-public JSON:API (licensed at fatsoma.com/policies/api): ~270 in-patch events
+public JSON:API: ~270 in-patch events
 gated by the postcode inside each venue's address, with fee-inclusive prices
 (the only source that includes fees), category-driven typing, posters and
 promoter descriptions. A **Ticketmaster Discovery** adapter ships key-gated:
