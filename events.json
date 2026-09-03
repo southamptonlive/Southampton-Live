@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T16:05:23.936Z",
+ "generated": "2026-09-03T16:48:30.738Z",
  "region": "SO14–SO53",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 245
+   "events": 246
   }
  ],
  "venues": [
@@ -12320,7 +12320,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/9/0/2308071_2c98481f_locked-in-alcemist-deekline-serial-killaz-jungle-cakes-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/LOCKED-IN-AlcemistDeeklineSerial-Killaz-JUNGLE-CAKES/42605182/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/LOCKED-IN-AlcemistDeeklineSerial-Killaz-JUNGLE-CAKES/42605182/",
-   "going": 0,
+   "going": 11,
    "minage": "18",
    "desc": "Hooked, Jungle Cakes and Wavz have teamed up with each together to bring you three huge headliners + a stacked support line up",
    "source": "skiddle"
@@ -28873,6 +28873,29 @@
    "img": "https://s1.ticketm.net/dam/a/b8c/cc2c45aa-b956-49fd-ae06-01c8923ddb8c_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/ben-portsmouth-this-is-elvis-southampton-19-03-2027/event/360064CFBDD15726",
    "infoUrl": "https://www.ticketmaster.co.uk/ben-portsmouth-this-is-elvis-southampton-19-03-2027/event/360064CFBDD15726",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QtP9ZDCqpszU5Heg",
+   "artist": "Seattle's Finest",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-03-20",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/seattles-finest-tickets-Z4D78C?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/seattles-finest-tickets-Z4D78C?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
