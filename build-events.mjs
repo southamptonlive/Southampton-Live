@@ -70,10 +70,14 @@ async function fetchText(url, tries = 3) {
 }
 
 const district = (pc) => parseInt(String(pc || '').replace(/^SO\s*/i, ''), 10);
+// Greater Southampton, explicitly: city SO14–SO19, plus Hedge End SO30,
+// Totton SO40, Hythe SO45, Eastleigh SO50, Romsey-edge SO52, Chandler's Ford SO53.
+// Winchester (SO21–23), Warsash (SO31) and Romsey town (SO51) are OUT of patch.
+const PATCH_DISTRICTS = new Set([14, 15, 16, 17, 18, 19, 30, 40, 45, 50, 52, 53]);
 const inPatch = (pc) => {
   if (!/^SO\d/i.test(String(pc || '').trim())) return false;
   const d = district(pc);
-  return d >= 14 && d <= 53;
+  return PATCH_DISTRICTS.has(d);
 };
 
 const slugify = (s) =>
@@ -849,10 +853,12 @@ async function skiddleApi() {
 async function main() {
   // Previous build (if any): the safety net when a source is blocked from this IP.
   let prevBySource = {};
+  let prevGenerated = new Date().toISOString();
   try {
     const { readFileSync, existsSync } = await import('node:fs');
     if (existsSync(OUT)) {
       const prev = JSON.parse(readFileSync(OUT, 'utf8'));
+      prevGenerated = prev.generated || prevGenerated;
       for (const e of prev.events || []) (prevBySource[e.source] = prevBySource[e.source] || []).push(e);
     }
   } catch (e) { /* no previous build */ }
@@ -890,7 +896,10 @@ async function main() {
       let carried = 0;
       if (!carriedFamilies.has(fam) && prevBySource[fam]) {
         carriedFamilies.add(fam);
-        const alive = prevBySource[fam].filter((ev) => ev.date >= todayISO());
+        const cutoff = Date.now() - 7 * 864e5; // one week, then we let it go
+        const alive = prevBySource[fam]
+          .map((ev) => ({ ...ev, _carriedSince: ev._carriedSince || prevGenerated }))
+          .filter((ev) => ev.date >= todayISO() && new Date(ev._carriedSince).getTime() > cutoff);
         pool = pool.concat(alive);
         carried = alive.length;
       }

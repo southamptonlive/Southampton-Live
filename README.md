@@ -129,7 +129,11 @@ to Simpleview and appear on no scrapeable outlet at all — the honest counter
 is this app's own submit-a-gig plus venues submitting here directly. Note also
 that Visit Southampton's headline counts include surrounding towns and
 multi-week date-range cards, so raw totals aren't comparable; this guide holds
-850+ individually dated, postcode-verified events.
+1,000+ individually dated events, postcode-verified against an explicit
+Greater Southampton district list (SO14–SO19 city, plus SO30, SO40, SO45,
+SO50, SO52, SO53 — Winchester, Warsash and Romsey town are out of patch).
+Carried-forward data from a blocking source expires after one week: a block
+is a signal, and respecting it means not republishing indefinitely.
 
 ## Price honesty
 
