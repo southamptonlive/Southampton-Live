@@ -967,7 +967,7 @@ async function main() {
   const feed = {
     version: 1,
     generated: new Date().toISOString(),
-    region: 'SO14–SO53',
+    region: 'Greater Southampton',
     note: 'Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.',
     sources,
     venues: [...venues.values()],
