@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T15:54:06.140Z",
+ "generated": "2026-09-03T16:05:23.936Z",
  "region": "SO14–SO53",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 16,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 16
   },
   {
    "id": "songkick:metro",
@@ -173,6 +173,18 @@
    "address": "Southampton"
   },
   {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
+  },
+  {
    "id": "94-high-street-vault",
    "name": "94 High Street Vault",
    "postcode": "SO14 2AA",
@@ -218,12 +230,6 @@
    "id": "god-s-house-tower",
    "name": "God's House Tower",
    "postcode": "SO14 2NY",
-   "address": null
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
    "address": null
   },
   {
@@ -423,12 +429,6 @@
    "name": "Tudor House & Garden",
    "postcode": "SO14 2AD",
    "address": "Bugle St, Southampton SO14 2AD"
-  },
-  {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "caf-parfait",
@@ -22200,11 +22200,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-11-12",
    "time": "19:30",
-   "price": 13.2,
-   "priceMax": 13.2,
+   "price": 16.5,
+   "priceMax": 16.5,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/64/51/13_Original.jpg?v=5",
+   "img": "https://i.ticketweb.com/i/00/13/64/51/13_Original.jpg?v=6",
    "ticketUrl": "https://www.ticketweb.uk/event/chris-payn-the-parade-the-brook-tickets/15048093",
    "infoUrl": "https://www.the-brook.com/tm-event/chris-payn-the-parade/",
    "going": 0,
@@ -24551,7 +24551,7 @@
   {
    "type": "club",
    "tags": [],
-   "hot": false,
+   "hot": true,
    "id": "sk-42502156",
    "artist": "WHE Presents: 4am Kru + Support",
    "venueId": "engine",
@@ -28087,7 +28087,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/0/2325375_68ac1e5a_catseye-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
-   "going": 21,
+   "going": 0,
    "minage": "4",
    "desc": "CATSEYE: the ultimate KATSEYE tribute experience live at EngineRooms, Southampton on Saturday 20th February 2027. All the hits, and fierce energy.",
    "source": "skiddle"
