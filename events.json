@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T09:15:33.827Z",
+ "generated": "2026-09-03T09:21:05.306Z",
  "region": "SO14–SO53",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -112,7 +112,7 @@
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "ok": false,
-   "error": "skipped — set TM_API_KEY (free at developer.ticketmaster.com) to enable"
+   "error": "no in-patch events"
   }
  ],
  "venues": [
