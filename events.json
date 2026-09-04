@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T11:25:49.574Z",
+ "generated": "2026-09-04T12:34:27.095Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 40
+   "events": 39
   },
   {
    "id": "skiddle:The-Joiners",
@@ -17402,7 +17402,8 @@
    "going": 142,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-04T11:25:49.574Z"
   },
   {
    "type": "club",
@@ -22471,7 +22472,8 @@
    "going": 0,
    "minage": "18",
    "desc": "University of Southampton's Sports Societies come together to bring you a Hooch Party!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-04T11:25:49.574Z"
   },
   {
    "type": "gig",
@@ -25762,26 +25764,26 @@
   {
    "type": "club",
    "tags": [
-    "free entry"
+    "trance"
    ],
    "hot": false,
    "id": "sk-42424548",
-   "artist": "EngineRooms Southampton Secret Boxing Day Headliner",
+   "artist": "EngineRooms Presents: Paul Oakenfold & Seb Fontaine BOXING DAY",
    "venueId": "engine",
    "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
    "date": "2026-12-26",
    "time": "20:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
+   "price": 10,
+   "priceMax": 15,
+   "priceText": "£10–£15",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/8/e/2264385_e0c1f874_enginerooms-southampton-secret-boxing-day-headliner_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Southampton-Secret-Boxing-Day-Headliner/42424548/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Southampton-Secret-Boxing-Day-Headliner/42424548/",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
    "going": 0,
    "minage": "18",
-   "desc": "One of the biggest names in Dance music heads to EngineRooms this Boxing Day!",
+   "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
    "source": "skiddle"
   },
   {
