@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T10:34:35.101Z",
+ "generated": "2026-09-04T10:46:07.984Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 16,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 17
   },
   {
    "id": "songkick:metro",
@@ -180,10 +180,10 @@
    "address": "Southampton"
   },
   {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "heartbreakers",
@@ -192,16 +192,16 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
+  },
+  {
    "id": "bitterne-railway-station",
    "name": "Bitterne Railway station",
    "postcode": "SO18 1GG",
    "address": "Bitterne station MacNaghten Road Bitterne Hampshire"
-  },
-  {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -1204,8 +1204,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -1822,8 +1821,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -1846,8 +1844,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9087,8 +9084,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -9752,8 +9748,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10160,8 +10155,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "comedy",
@@ -11333,8 +11327,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11426,8 +11419,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -17370,7 +17362,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 142,
+   "going": 140,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
    "source": "skiddle"
@@ -20775,8 +20767,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21476,8 +21467,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -24619,30 +24609,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-jamie-and-the-falcons-2026-12-06",
-   "artist": "Jamie and The Falcons",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-12-06",
-   "time": "19:30",
-   "price": 26.4,
-   "priceMax": 26.4,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/59/83/03_Original.jpg?v=2",
-   "ticketUrl": "https://www.ticketweb.uk/event/jamie-and-the-falcons-the-brook-tickets/14994873",
-   "infoUrl": "https://www.the-brook.com/tm-event/jamie-and-the-falcons/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43341498",
    "artist": "Falcons",
    "venueId": "brook",
@@ -24661,6 +24627,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-17GOv0G62R888iG",
+   "artist": "Jamie and the Falcons",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-12-06",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/jamie-and-the-falcons-the-brook-tickets/14994873?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/jamie-and-the-falcons-the-brook-tickets/14994873?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -25379,8 +25368,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25553,8 +25541,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -26522,8 +26509,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26617,8 +26603,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26923,8 +26908,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T10:21:06.333Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27745,24 +27729,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-1AdFZ_oGknB-ZLk",
+   "id": "br-alcest-2027-03-16",
    "artist": "Alcest",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2027-03-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
+   "time": "19:30",
+   "price": 30.25,
+   "priceMax": 30.25,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/08c/a68e876a-b712-4df2-986f-e7a0bb85608c_SOURCE",
-   "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
-   "going": null,
+   "img": "https://i.ticketweb.com/i/00/13/00/35/14_Original.jpg?v=3",
+   "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024",
+   "infoUrl": "https://www.the-brook.com/tm-event/alcest/",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "thebrook"
   },
   {
    "type": "gig",
