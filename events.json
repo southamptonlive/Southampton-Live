@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T17:04:34.236Z",
+ "generated": "2026-09-04T18:29:09.781Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 272
+   "events": 273
   },
   {
    "id": "ticketmaster",
@@ -11386,6 +11386,31 @@
    "minage": "18",
    "desc": "We are proud to be taking over Suburbia to bring you the first SEMSU-run event of the year: Spin It Back!",
    "source": "skiddle"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-68cb6f20-951",
+   "artist": "Backstage pass",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-09-23",
+   "time": "11:00",
+   "price": 0,
+   "priceMax": 16.5,
+   "priceText": "£0–£16.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/backstage-pass",
+   "infoUrl": "https://www.fatsoma.com/e/backstage-pass",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
