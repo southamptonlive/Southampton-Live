@@ -15,7 +15,7 @@
 
 const OUT = new URL('./events.json', import.meta.url).pathname;
 
-const UA = 'SotonLive/1.0 (+https://southampton.live; hello@southampton.live)';
+const UA = 'SouthamptonLive/1.0 (+https://southampton.live; hello@southampton.live)';
 
 const HEADERS = {
   'User-Agent': UA,
