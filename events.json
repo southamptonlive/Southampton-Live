@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T09:47:40.930Z",
+ "generated": "2026-09-04T10:21:06.333Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 146,
+   "carried": 147,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 238
+   "events": 239
   }
  ],
  "venues": [
@@ -17362,7 +17362,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 140,
+   "going": 142,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
    "source": "skiddle"
@@ -27724,6 +27724,29 @@
    "minage": "14",
    "desc": "Polish Hip-Hop/Rap artist Cypis is heading to EngineRooms Southampton!",
    "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AdFZ_oGknB-ZLk",
+   "artist": "Alcest",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-03-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/08c/a68e876a-b712-4df2-986f-e7a0bb85608c_SOURCE",
+   "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
