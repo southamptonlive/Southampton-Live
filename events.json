@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T03:28:21.139Z",
+ "generated": "2026-09-04T06:33:31.501Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 461
+   "events": 460
   },
   {
    "id": "mitc",
@@ -9899,6 +9899,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43258566",
+   "artist": "Ruled By Raptors",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-17",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43258566-ruled-by-raptors-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43258566-ruled-by-raptors-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -10389,6 +10412,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43276306",
+   "artist": "Martial Arts (UK)",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-18",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43276306-martial-arts-uk-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43276306-martial-arts-uk-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
