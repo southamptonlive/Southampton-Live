@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T08:53:33.287Z",
+ "generated": "2026-09-04T09:05:42.010Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 15,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 17
   },
   {
    "id": "songkick:metro",
@@ -180,28 +180,28 @@
    "address": "Southampton"
   },
   {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
-  },
-  {
    "id": "heartbreakers",
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "bitterne-railway-station",
-   "name": "Bitterne Railway station",
-   "postcode": "SO18 1GG",
-   "address": "Bitterne station MacNaghten Road Bitterne Hampshire"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
    "address": "466 Portswood Road, Southampton"
+  },
+  {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
+  },
+  {
+   "id": "bitterne-railway-station",
+   "name": "Bitterne Railway station",
+   "postcode": "SO18 1GG",
+   "address": "Bitterne station MacNaghten Road Bitterne Hampshire"
   },
   {
    "id": "guildhall",
@@ -1204,8 +1204,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -1822,8 +1821,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -1846,8 +1844,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9087,8 +9084,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -9752,8 +9748,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10160,8 +10155,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "comedy",
@@ -11333,8 +11327,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11411,6 +11404,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "br-spread-eagle-2026-09-23",
+   "artist": "Spread Eagle",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-09-23",
+   "time": "19:30",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/36/01/03_Original.jpg?v=5",
+   "ticketUrl": "https://www.ticketweb.uk/event/spread-eagle-the-brook-tickets/14747893",
+   "infoUrl": "https://www.the-brook.com/tm-event/spread-eagle/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43227318",
    "artist": "Big Fear",
    "venueId": "heartbreakers",
@@ -11425,29 +11441,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43227318-big-fear-at-heartbreakers",
    "infoUrl": "https://www.songkick.com/concerts/43227318-big-fear-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43077887",
-   "artist": "Spread Eagle",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-09-23",
-   "time": "20:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43077887-spread-eagle-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43077887-spread-eagle-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -20776,8 +20769,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21477,8 +21469,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -24637,8 +24628,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25380,8 +25370,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25554,8 +25543,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -26523,8 +26511,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26618,8 +26605,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26924,8 +26910,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-04T08:06:33.709Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
