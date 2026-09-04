@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T09:28:58.014Z",
+ "generated": "2026-09-04T09:47:40.930Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 39
+   "events": 40
   },
   {
    "id": "skiddle:The-Joiners",
@@ -11354,14 +11354,12 @@
   },
   {
    "type": "club",
-   "tags": [
-    "house"
-   ],
+   "tags": [],
    "hot": false,
-   "id": "fat-fea28eee-210",
+   "id": "sk-42711103",
    "artist": "SEMSU Presents: Spin It Back!",
    "venueId": "suburbia",
-   "venueName": "Suburbia",
+   "venueName": "Suburbia Southampton",
    "postcode": "SO14 0JD",
    "date": "2026-09-22",
    "time": "22:30",
@@ -11369,13 +11367,13 @@
    "priceMax": 5,
    "priceText": null,
    "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/semsu-presents-spin-it-back",
-   "infoUrl": "https://www.fatsoma.com/e/semsu-presents-spin-it-back",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/5/2/2333196_9aede9b3_semsu-presents-spin-it-back-_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SEMSU-Presents-Spin-It-Back/42711103/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SEMSU-Presents-Spin-It-Back/42711103/",
+   "going": 0,
+   "minage": "18",
+   "desc": "We are proud to be taking over Suburbia to bring you the first SEMSU-run event of the year: Spin It Back!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
