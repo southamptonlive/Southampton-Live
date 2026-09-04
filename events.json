@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-03T21:27:08.588Z",
+ "generated": "2026-09-04T00:35:20.911Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 69
+   "events": 68
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -77,16 +77,16 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 16,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 16
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 465
+   "events": 461
   },
   {
    "id": "mitc",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 147,
+   "carried": 146,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -186,10 +186,10 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "concorde-club",
-   "name": "Concorde Club",
-   "postcode": "SO50 9HQ",
-   "address": "Stoneham Lane"
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "mayflower",
@@ -202,12 +202,6 @@
    "name": "Bitterne Railway station",
    "postcode": "SO18 1GG",
    "address": "Bitterne station MacNaghten Road Bitterne Hampshire"
-  },
-  {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -262,6 +256,12 @@
    "name": "Central Hall",
    "postcode": "SO14 1NF",
    "address": "St Mary Street, Southampton"
+  },
+  {
+   "id": "concorde-club",
+   "name": "Concorde Club",
+   "postcode": "SO50 9HQ",
+   "address": "Stoneham Lane"
   },
   {
    "id": "vinilo",
@@ -607,219 +607,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42486401",
-   "artist": "Soulfly",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-03",
-   "time": "19:00",
-   "price": 25,
-   "priceMax": 25,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/4/2/2280473_0c58301b_soulfly_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Soulfly/42486401/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Soulfly/42486401/",
-   "going": 0,
-   "minage": "14",
-   "desc": "Soulfly hit EngineRooms Southampton this September!",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43197086",
-   "artist": "Devin Townsend",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-03",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43197086-devin-townsend-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43197086-devin-townsend-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qx5G0LCUlYZVjWPS",
-   "artist": "Soulfly + Nailbomb",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-03",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://s1.ticketm.net/dam/a/c1b/bf38bef3-a8f6-404f-8aa4-5b531f311c1b_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/soulfly-nailbomb-tickets-6B9H8Y?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/soulfly-nailbomb-tickets-6B9H8Y?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QLF9QKonIYv1Jc0b",
-   "artist": "An Audience with Devin Townsend",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-03",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://s1.ticketm.net/dam/a/596/0bd64b03-293c-4869-aaed-b82140566596_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/an-audience-with-devin-townsend-tickets-9NJ8GB?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/an-audience-with-devin-townsend-tickets-9NJ8GB?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-curved-air-rescheduled-2026-09-03",
-   "artist": "Curved Air - Rescheduled",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-09-03",
-   "time": "19:30",
-   "price": 26.4,
-   "priceMax": 26.4,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/60/03/13_Original.jpg?v=14",
-   "ticketUrl": "https://www.the-brook.com/tm-event/curved-air-rescheduled/",
-   "infoUrl": "https://www.the-brook.com/tm-event/curved-air-rescheduled/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43267348",
-   "artist": "Spiral Drive",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-03",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43267348-spiral-drive-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43267348-spiral-drive-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-af02d551-a53",
-   "artist": "Glam Thursdays | 👕CORKYS T-SHIRT GIVEAWAY! 👕 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
-   "venueId": "trilogy-nightclub",
-   "venueName": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "date": "2026-09-03",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4.5,
-   "priceText": "£4–£4.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-corkys-t-shirt-giveaway-southampton-s-best-student-night-1-shots-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-corkys-t-shirt-giveaway-southampton-s-best-student-night-1-shots-all-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-a707aae9-ab7",
-   "artist": "PLAY HOUSE THURSDAYS",
-   "venueId": "popworld-southampton",
-   "venueName": "Popworld - Southampton",
-   "postcode": "SO15 2EH",
-   "date": "2026-09-03",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 2,
-   "priceText": "£0–£2",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/play-house-thursdays",
-   "infoUrl": "https://www.fatsoma.com/e/play-house-thursdays",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42936379",
-   "artist": "The Kilkennys",
-   "venueId": "concorde-club",
-   "venueName": "Concorde Club",
-   "postcode": "SO50 9HQ",
-   "date": "2026-09-03",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42936379-kilkennys-at-concorde-club",
-   "infoUrl": "https://www.songkick.com/concerts/42936379-kilkennys-at-concorde-club",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
   {
    "type": "gig",
    "tags": [],
@@ -1417,8 +1204,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -2035,8 +1821,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -2059,8 +1844,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9300,8 +9084,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -9965,8 +9748,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10115,29 +9897,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43258566",
-   "artist": "Ruled By Raptors",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-17",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43258566-ruled-by-raptors-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43258566-ruled-by-raptors-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "theatre",
@@ -10373,8 +10132,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "comedy",
@@ -10631,29 +10389,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43276306",
-   "artist": "Martial Arts (UK)",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-18",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43276306-martial-arts-uk-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43276306-martial-arts-uk-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "gig",
@@ -11546,8 +11281,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -20989,8 +20723,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21690,8 +21423,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -24850,8 +24582,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25593,8 +25324,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25767,8 +25497,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -26736,8 +26465,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26831,8 +26559,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27137,8 +26864,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-03T20:41:56.672Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
