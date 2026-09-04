@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T00:35:20.911Z",
+ "generated": "2026-09-04T03:28:21.139Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 272
+   "events": 270
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 240
+   "events": 238
   }
  ],
  "venues": [
@@ -989,7 +989,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/a/e/2154353_9ea81cea_enginerooms-presents-mauro-picotto-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Mauro-Picotto--Support/41617210/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Mauro-Picotto--Support/41617210/",
-   "going": 0,
+   "going": 195,
    "minage": "18",
    "desc": "Mauro Picotto is set to unleash Komodo, Lizard and Iguana vibes as he tears up EngineRooms Southampton on Saturday 5th September 2026.",
    "source": "skiddle"
@@ -1703,7 +1703,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/6/2275519_97903ce0_minimal-eventss-16-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
-   "going": 0,
+   "going": 140,
    "minage": "16",
    "desc": "Pop Up Event - House & Garage All Night Long",
    "source": "skiddle"
@@ -5331,7 +5331,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/2/5/2217769_8691515f_other-worlds-festival_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/Other-Worlds-Festival/42156367/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/Other-Worlds-Festival/42156367/",
-   "going": 0,
+   "going": 28,
    "minage": "18",
    "desc": "Other Worlds Festival: a themed metal night of sci-fi, post-apocalyptic and fantasy bands with a costume competition",
    "source": "skiddle"
@@ -5412,7 +5412,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/e/2270098_614f1c7f_elder-emo-day-party-in-southampton-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
-   "going": 0,
+   "going": 11,
    "minage": "25",
    "desc": "Break out the black eyeliner & band tees Southampton's first ever EMO DAY PARTY is coming for all our elder emos!",
    "source": "skiddle"
@@ -9132,7 +9132,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/0/d/2274708_e1ac8166_f-ck-me-it-s-freshers-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/FCK-ME-Its-Freshers--Southampton-Freshers-2026/42469552/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/FCK-ME-Its-Freshers--Southampton-Freshers-2026/42469552/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "F*CK ME ITS FRESHERS IS BACK AT ENGINEROOMS THIS SEPTEMBER!",
    "source": "skiddle"
@@ -9207,7 +9207,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/1/2/2322491_631964fe_the-big-freshers-icebreaker_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Big-Freshers-Icebreaker/42664675/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Big-Freshers-Icebreaker/42664675/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "The Big Freshers Icebreaker hits EngineRooms Southampton this Monday September 14th!",
    "source": "skiddle"
@@ -9627,7 +9627,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/7/8/2274718_c05a0102_the-project-x-freshers-house-party-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Project-X-Freshers-House-Party--EngineRooms-Southampton/42469564/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Project-X-Freshers-House-Party--EngineRooms-Southampton/42469564/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "The Project X Freshers House Party is back at EngineRooms Southampton this September!",
    "source": "skiddle"
@@ -9964,7 +9964,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/9/9/2294670_28f324d8_krs-one_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/KRS-One/42542876/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/KRS-One/42542876/",
-   "going": 0,
+   "going": 57,
    "minage": "14",
    "desc": "KRS-One makes his long awaited return to Southampton this September!",
    "source": "skiddle"
@@ -10456,7 +10456,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/9/2314816_ebcff752_bass-n-blends-presents-drinks-on-me-suburbia-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "Bass'N'Blends return this September to the legendary Suburbia, for a night of UKG, with the Legendary... Drinks On Me",
    "source": "skiddle"
@@ -10555,7 +10555,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/d/d/2232817_bc3afbf8_enginerooms-presents-general-levy_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-General-Levy/42276005/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-General-Levy/42276005/",
-   "going": 0,
+   "going": 135,
    "minage": "18",
    "desc": "One of the most recognisable voices in Jungle & DnB hits EngineRooms this September!",
    "source": "skiddle"
@@ -10580,7 +10580,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/2/3/2302312_09a82837_hammerdown-presents-perpetual-paradox-x-the-cartographer_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Perpetual-Paradox-x-The-Cartographer/42582689/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Perpetual-Paradox-x-The-Cartographer/42582689/",
-   "going": 0,
+   "going": 5,
    "minage": "14",
    "desc": "Experience Ferpetual Paradox's \"Beholden to Hate\" UK Tour with special guests Cartographer at Suburbia, Southampton.",
    "source": "skiddle"
@@ -11209,7 +11209,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/7/1/2274725_ae21558e_ibiza-white-party-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Ibiza-White-Party--Southampton-Freshers-2026/42469571/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Ibiza-White-Party--Southampton-Freshers-2026/42469571/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "The Ibiza White Party hits EngineRooms this September!",
    "source": "skiddle"
@@ -11667,7 +11667,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/b/8/2327124_1a02b36d_uos-sports-societies-presents-hooch-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/UoS-Sports-Societies-Presents-Hooch-Party/42678608/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/UoS-Sports-Societies-Presents-Hooch-Party/42678608/",
-   "going": 0,
+   "going": 22,
    "minage": "18",
    "desc": "Hosted by Hales' Angels Netball and ECSSFC Football, don't miss this Hooch Party at Suburbia Southampton!",
    "source": "skiddle"
@@ -11764,7 +11764,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/0/3/2256439_5463b48f_indie-fest-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Indie-Fest-Southampton/42388836/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Indie-Fest-Southampton/42388836/",
-   "going": 0,
+   "going": 61,
    "minage": "14",
    "desc": "The UK's biggest indie tribute night returns to Southampton!",
    "source": "skiddle"
@@ -11787,7 +11787,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/5/8/2160416_62563c60_foo-fighters-gb-unreal-blood-1865-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Foo-Fighters-GB---Unreal-Blood--1865-Southampton/41642172/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Foo-Fighters-GB---Unreal-Blood--1865-Southampton/41642172/",
-   "going": 0,
+   "going": 22,
    "minage": "14",
    "desc": "Foo Fighters GB return to 1865, Southampton - Saturday 2nd May 2026. Following Sold Out Show throughout the UK & Europe this is a show not to miss",
    "source": "skiddle"
@@ -11953,8 +11953,7 @@
    "going": 11,
    "minage": "18",
    "desc": "Hooked, Jungle Cakes and Wavz have teamed up with each together to bring you three huge headliners + a stacked support line up",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-03T17:57:49.622Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12101,7 +12100,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/2/3/2267229_641c62bd_dubtendo-allstars_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dubtendo-Allstars/42434988/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dubtendo-Allstars/42434988/",
-   "going": 0,
+   "going": 48,
    "minage": "18",
    "desc": "The Dubtendo Allstars are heading back to EngineRooms this September!",
    "source": "skiddle"
@@ -12268,7 +12267,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/b/c/2269041_6208beca_rnb-mania-southampton-s-r-b-festival_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-RB-Festival/42439148/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-RB-Festival/42439148/",
-   "going": 0,
+   "going": 197,
    "minage": "18",
    "desc": "Southampton, are you ready to experience the very best of R&B music? R&B MANIA is returning to EngineRooms on Saturday 26 September 2026!",
    "source": "skiddle"
@@ -12293,7 +12292,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/d/a/2274630_b4034ca3_rnb-mania-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RnB-Mania--Southampton/42469357/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RnB-Mania--Southampton/42469357/",
-   "going": 0,
+   "going": 18,
    "minage": "18",
    "desc": "RnB Mania returns to EngineRooms this September for another massive day of all your favourite hits!",
    "source": "skiddle"
@@ -12366,7 +12365,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/b/9/2296677_cff8ecf6_suburbia-presents-lisa-pin-up-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia-Presents-Lisa-Pin-Up--Support/42563409/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia-Presents-Lisa-Pin-Up--Support/42563409/",
-   "going": 0,
+   "going": 24,
    "minage": "18",
    "desc": "Hard House icon Lisa Pin Up is heading to Suburbia Southampton this September!",
    "source": "skiddle"
@@ -12581,7 +12580,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/d/1/2312090_e35d23a8_hedex-eksman_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Hedex--Eksman/42617120/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Hedex--Eksman/42617120/",
-   "going": 0,
+   "going": 221,
    "minage": "18",
    "desc": "Hedex & Eksman headline EngineRooms Southampton",
    "source": "skiddle"
@@ -12753,6 +12752,7 @@
   {
    "type": "gig",
    "tags": [
+    "free entry",
     "tribute"
    ],
    "hot": false,
@@ -12763,14 +12763,14 @@
    "postcode": "SO15 1GZ",
    "date": "2026-09-27",
    "time": "12:00",
-   "price": 15,
+   "price": 0,
    "priceMax": 27,
-   "priceText": "£15–£27",
+   "priceText": "£0–£27",
    "genre": "indie",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/6/0/2270125_2d4bb5df_girlypop-live-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/GirlyPop-Live--EngineRooms-Southampton/42447808/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/GirlyPop-Live--EngineRooms-Southampton/42447808/",
-   "going": 0,
+   "going": 125,
    "minage": "5",
    "desc": "GirlyPop is returning to indoor venue EngineRooms, Southampton with your favourite Pop icons in one live show brought to you by the best tribute acts!",
    "source": "skiddle"
@@ -12793,7 +12793,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/4/8/2274743_1a194c65_girly-pop-live-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Girly-Pop-Live--Southampton/42469594/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Girly-Pop-Live--Southampton/42469594/",
-   "going": 0,
+   "going": 32,
    "minage": "5",
    "desc": "Girly Pop Live is back at EngineRooms Southampton this September!",
    "source": "skiddle"
@@ -13607,7 +13607,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/c/0/2303339_89886456_taking-back-thursdays-emo-riot_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Emo-Riot/42587956/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Emo-Riot/42587956/",
-   "going": 0,
+   "going": 2,
    "minage": "18",
    "desc": "Relive the golden era of emo with a night of classic anthems, giveaways and non-stop pop punk, metal core, nu metal and alt hits.",
    "source": "skiddle"
@@ -13843,7 +13843,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/1/9/2283833_665efdbd_er-360-weekender-20-years-of-low-down-deep_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-20-Years-of-Low-Down-Deep/42498731/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-20-Years-of-Low-Down-Deep/42498731/",
-   "going": 0,
+   "going": 110,
    "minage": "18",
    "desc": "Catch a STACKED Low Down Deep line up this October on the EngineRooms 360 Weekender",
    "source": "skiddle"
@@ -13965,7 +13965,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/d/b/2234311_75059721_SubBass-Presents-Get-Hard-Fridays-with-Woody-Cook_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SubBass-Presents-Get-Hard-Fridays-with-Woody-Cook/42284004/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SubBass-Presents-Get-Hard-Fridays-with-Woody-Cook/42284004/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Woody Cook heads to Suburbia Southampton!",
    "source": "skiddle"
@@ -14273,7 +14273,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/8/8/2275066_fc3e459d_er-360-weekender-with-future-focus_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-Future-Focus-Mandidextrous--More/42469917/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-Future-Focus-Mandidextrous--More/42469917/",
-   "going": 0,
+   "going": 124,
    "minage": "18",
    "desc": "EngineRooms & Future Focus are teaming up again to bring you another HUGE event! But this time its on a 360 set up...",
    "source": "skiddle"
@@ -14348,7 +14348,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/7/e/2315060_f6616fce_hammerdown-struck-down-presents-a-queue-for-the-tour_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown--StruckDown-Presents-A-Queue-For-the-Tour/42627840/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown--StruckDown-Presents-A-Queue-For-the-Tour/42627840/",
-   "going": 0,
+   "going": 5,
    "minage": "14",
    "desc": "Kent groove metal band Struck/Down bring crushing riffs and viral momentum to Suburbia, touring their latest release Queue For The Cure",
    "source": "skiddle"
@@ -14371,7 +14371,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/e/a/2213568_18964588_Stereo-MCs_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
-   "going": 0,
+   "going": 6,
    "minage": "14",
    "desc": "JOY. Present Stereo MCs 03 October 2026 Papillon, Southampton 7pm-10pm 14+ (U16s accompanied)",
    "source": "skiddle"
@@ -14754,7 +14754,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/4/c/2284101_358aefbc_er-360-weekender-southampton-dj-community-free-rave_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ER-360-Weekender-Southampton-DJ-Community-FREE-RAVE/42502051/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ER-360-Weekender-Southampton-DJ-Community-FREE-RAVE/42502051/",
-   "going": 0,
+   "going": 59,
    "minage": "18",
    "desc": "We invite the people of Southampton to come and close the EngineRooms 360 weekender with a MASSIVE FREE RAVE!",
    "source": "skiddle"
@@ -15580,7 +15580,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/b/0/2210387_ca5902a8_the-wanted-2-0_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Wanted-20/42124206/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Wanted-20/42124206/",
-   "going": 0,
+   "going": 42,
    "minage": "14",
    "desc": "Get ready for... The Wanted 2.0. The next chapter in the history of one of Britain's biggest pop bands.",
    "source": "skiddle"
@@ -15847,7 +15847,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/4/5/2307160_6b40e5e9_codename-amen_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Codename-Amen/42602462/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Codename-Amen/42602462/",
-   "going": 0,
+   "going": 2,
    "minage": "18",
    "desc": "Code Name: Amen lands at Suburbia with a heavyweight line-up of jungle, drum & bass and 160. Pure underground energy from start to finish.",
    "source": "skiddle"
@@ -16086,7 +16086,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/3/1/2221340_d7bc28ba_marvin-humes-noughties-baby_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marvin-Humes-Noughties-Baby/42171081/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marvin-Humes-Noughties-Baby/42171081/",
-   "going": 0,
+   "going": 85,
    "minage": "18",
    "desc": "Step back into the Noughties with Marvin Humes' \"Noughties Baby\" tour! Don't miss your chance to experience the ultimate throwback to the 2000s",
    "source": "skiddle"
@@ -16321,7 +16321,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/5/0/2298989_60619a1a_shy-fx-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shy-FX-Southampton/42570605/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shy-FX-Southampton/42570605/",
-   "going": 0,
+   "going": 85,
    "minage": "18",
    "desc": "SHY FX heads back to EngineRooms Southampton this October!",
    "source": "skiddle"
@@ -16413,7 +16413,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/2/8/2326215_419093e5_kamil-bednarek_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kamil-Bednarek/42675284/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kamil-Bednarek/42675284/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "Get ready for Kamil Bednarek to perform at EngineRooms this Sunday October 11th!",
    "source": "skiddle"
@@ -16884,7 +16884,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/1/e/2323920_d69b7d3b_taking-back-thursdays-nu-metal-vs-pop-punk_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Nu-Metal-VS-Pop-Punk/42668403/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Nu-Metal-VS-Pop-Punk/42668403/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Nu metal vs pop punk! Two iconic sounds go head-to-head at Taking Back Thursdays. Expect huge anthems, throwbacks and all-out chaos at Suburbia!",
    "source": "skiddle"
@@ -16955,7 +16955,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/d/1/2250503_95273772_gentleman-s-dub-club-20th-anniversary-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Gentlemans-Dub-Club-20th-Anniversary-Tour--Southampton/42357826/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Gentlemans-Dub-Club-20th-Anniversary-Tour--Southampton/42357826/",
-   "going": 0,
+   "going": 113,
    "minage": "14",
    "desc": "Gentleman's Dub Club head to EngineRooms Southampton this October to celebrate their 20th Anniversary",
    "source": "skiddle"
@@ -17318,7 +17318,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 0,
+   "going": 140,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
    "source": "skiddle"
@@ -17391,7 +17391,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/0/4/2305145_7a43f95f_the-quireboys_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Quireboys/42596016/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Quireboys/42596016/",
-   "going": 0,
+   "going": 72,
    "minage": "14",
    "desc": "Rock legends Quireboys bring their electrifying live show to EngineRooms Southampton on Saturday 17th October, 6pm-10pm!",
    "source": "skiddle"
@@ -17555,7 +17555,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/0/d/2327628_cdb25c44_at-events-presents-darius-syrossian-philip-george-louden_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/AT-Events-Presents-Darius-Syrossian-Philip-George--Louden/42680062/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/AT-Events-Presents-Darius-Syrossian-Philip-George--Louden/42680062/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "AT Events make their Southampton with a stacked line up featuring Darius Syrossian, Philip George & Louden",
    "source": "skiddle"
@@ -17670,7 +17670,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/e/2217085_22d4dabc_the-hoosiers-compassion-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
-   "going": 0,
+   "going": 116,
    "minage": "14",
    "desc": "The Hoosiers head to EngineRooms Southampton this October!",
    "source": "skiddle"
@@ -17831,7 +17831,7 @@
    "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Skids--Theatre-Of-Hate/42477544/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Skids--Theatre-Of-Hate/42477544/",
-   "going": 0,
+   "going": 35,
    "minage": "14",
    "desc": "Skids return to EngineRooms this October with Theatre Of Hate",
    "source": "skiddle"
@@ -18207,7 +18207,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/6/a/2220526_f7cb189f_punk-rock-factory_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Punk-Rock-Factory/42165123/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Punk-Rock-Factory/42165123/",
-   "going": 0,
+   "going": 33,
    "minage": "18",
    "desc": "Get ready for a night of raw energy as Punk Rock Factory takes over Engine Rooms!",
    "source": "skiddle"
@@ -18395,7 +18395,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/c/a/2256317_a47a335c_pete-bas_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Pete--Bas/42376132/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Pete--Bas/42376132/",
-   "going": 0,
+   "going": 74,
    "minage": "14",
    "desc": "Pete & Bas bring their unmistakable blend of gritty UK drill and tongue-in-cheek charisma to EngineRooms Southampton!",
    "source": "skiddle"
@@ -18700,7 +18700,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/a/2/2298911_354c3d92_obsidian-nights-presents-first-contact_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Obsidian-Nights-Presents-First-Contact/42570385/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Obsidian-Nights-Presents-First-Contact/42570385/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Join us for our Southampton debut at Suburbia! Where darkness meets the dancefloor and the underground comes alive.",
    "source": "skiddle"
@@ -18817,7 +18817,7 @@
    "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chameleons/41645107/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chameleons/41645107/",
-   "going": 0,
+   "going": 39,
    "minage": null,
    "desc": "+ Very Special Guests LOL TOLHURST PLAYS THE SONGS OF THE CURE",
    "source": "skiddle"
@@ -18980,7 +18980,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/3/8/2301220_b060f2a3_born-on-road-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
-   "going": 0,
+   "going": 85,
    "minage": "18",
    "desc": "Born on Road are coming to Engine Rooms this September!",
    "source": "skiddle"
@@ -19404,7 +19404,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/0/f/2322477_aa108746_halloween-asylum_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Halloween-Asylum/42664658/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Halloween-Asylum/42664658/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "The Official Asylum Halloween Special hits Southampton EngineRooms! Don't miss the UK's biggest Halloween event this Wednesday October 28th.",
    "source": "skiddle"
@@ -19455,7 +19455,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/f/a/2326222_8c0a8a6b_martin-mucklowe-s-this-country-quiz-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Martin-Mucklowes-This-Country-Quiz---Southampton/42675294/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Martin-Mucklowes-This-Country-Quiz---Southampton/42675294/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Martin Mucklowe's This Country Quiz returns to EngineRooms Southampton this October!",
    "source": "skiddle"
@@ -19765,7 +19765,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/c/d/2218112_52c2b112_dj-killer-w_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-KILLER-Southampton/42157226/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-KILLER-Southampton/42157226/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Poland Event Party brings DJ Killer to Suburbia",
    "source": "skiddle"
@@ -19817,7 +19817,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/a/9/2275059_d9bc419f_f-ck-me-it-s-halloween-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/FCK-ME-Its-Halloween--Southampton-Freshers-2026/42469910/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/FCK-ME-Its-Halloween--Southampton-Freshers-2026/42469910/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "F*CK ME ITS HALLOWEEN RETURNS TO ENGINEROOMS THIS OCTOBER!",
    "source": "skiddle"
@@ -19919,7 +19919,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/5/2/2288879_11edf818_dave-pearce-trance-anthems-halloween-with-signum_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dave-Pearce-Trance-Anthems-Halloween-with-Signum/42513985/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dave-Pearce-Trance-Anthems-Halloween-with-Signum/42513985/",
-   "going": 0,
+   "going": 89,
    "minage": "18",
    "desc": "Dave Pearce heads back to EngineRooms Southampton this October with Signum!",
    "source": "skiddle"
@@ -20083,7 +20083,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/a/2204257_22b5af8c_on-a-mission-halloween_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
-   "going": 0,
+   "going": 102,
    "minage": null,
    "desc": "The south Coasts biggest halloween Drum & Bass Party is back !",
    "source": "skiddle"
@@ -20578,7 +20578,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/3/a/2314305_59948748_The-Brook-Live-Presents--GARDNA_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Brook-Live-Presents-GARDNA/42624048/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Brook-Live-Presents-GARDNA/42624048/",
-   "going": 0,
+   "going": 3,
    "minage": "14",
    "desc": "Forward-thinking drum & bass lands at Suburbia as Gardna headlines the South Coast for the first time.",
    "source": "skiddle"
@@ -20911,7 +20911,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/f/7/2119680_12ebf546_the-dualers_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
-   "going": 0,
+   "going": 54,
    "minage": "14",
    "desc": "The Dualers head to EngineRooms Southampton!",
    "source": "skiddle"
@@ -21072,7 +21072,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/3/d/2268625_2247ba6a_energy-saturday-vol-4-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Energy-Saturday-VOL-4-SOUTHAMPTON/42437843/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Energy-Saturday-VOL-4-SOUTHAMPTON/42437843/",
-   "going": 0,
+   "going": 21,
    "minage": "18",
    "desc": "Night of Legend Kalwi & Remi - DJ X Meen - DJ Madsson - DJ Dante - DJ Michale K",
    "source": "skiddle"
@@ -21118,7 +21118,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/1/8/2266867_9901bf40_anna-von-hausswolff_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Anna-Von-Hausswolff/42433548/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Anna-Von-Hausswolff/42433548/",
-   "going": 0,
+   "going": 14,
    "minage": "14",
    "desc": "Anna Von Hausswolff heads to EngineRooms Southampton this November!",
    "source": "skiddle"
@@ -21498,7 +21498,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/a/d/2158142_98353856_The-Vintage-Explosion_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
-   "going": 0,
+   "going": 85,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
    "source": "skiddle"
@@ -22392,7 +22392,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/a/8/2175266_b7797f6f_complete-beatles_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Beatles-Complete---A-Tribute-To-The-Fab-Four/41785925/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Beatles-Complete---A-Tribute-To-The-Fab-Four/41785925/",
-   "going": 0,
+   "going": 12,
    "minage": "14",
    "desc": "Beatles Complete - A Tribute To The Fab Four comes to EngineRooms!",
    "source": "skiddle"
@@ -22584,7 +22584,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/9/b/2281420_8570ddcf_a-m-c-phantom-presents-grassroots-energy-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/",
-   "going": 0,
+   "going": 111,
    "minage": "18",
    "desc": "Head to Suburbia this November to see one of the biggest names in Drum & Bass perform an intimate show in Southampton!",
    "source": "skiddle"
@@ -22653,7 +22653,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 0,
+   "going": 10,
    "minage": "18",
    "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
    "source": "skiddle"
@@ -22701,7 +22701,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/2/2273633_b73f995d_wormrot-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Wormrot--Support/42463502/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Wormrot--Support/42463502/",
-   "going": 0,
+   "going": 28,
    "minage": "14",
    "desc": "True Steel Promotions and Byker Grave Bookings, in association with Doomstar Booking is proud to present WORMROT live at Suburbia Southampton.",
    "source": "skiddle"
@@ -22747,7 +22747,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/6/2261968_85656205_Definitely-Oasis---Southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Definitely-Oasis---Southampton/42415287/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Definitely-Oasis---Southampton/42415287/",
-   "going": 0,
+   "going": 7,
    "minage": "14",
    "desc": "Back by popular demand 'Definitely, Oasis' returns to Southampton",
    "source": "skiddle"
@@ -23002,7 +23002,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/a/3/2297344_31c0080c_the-jam-uk_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Jam-UK/42565694/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Jam-UK/42565694/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "The Jam UK head to EngineRooms this November for a legendary live gig!",
    "source": "skiddle"
@@ -23211,7 +23211,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/f/f/2259418_a46036d7_uncle-acid-the-deadbeats-with-the-wytches_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Uncle-Acid--The-Deadbeats-with-The-Wytches/42405260/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Uncle-Acid--The-Deadbeats-with-The-Wytches/42405260/",
-   "going": 0,
+   "going": 18,
    "minage": "14",
    "desc": "Uncle Acid & The Deadbeats head to EngineRooms Southampton with support from The Wytches!",
    "source": "skiddle"
@@ -23428,7 +23428,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/c/5/2280111_59e7567c_myriad-the-joiners-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Myriad--The-Joiners/42485729/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Myriad--The-Joiners/42485729/",
-   "going": 0,
+   "going": 27,
    "minage": "14",
    "desc": "One of the fastest rising bands in the country Myriad hit The Joiners this November for a headline gig to finish of a MASSIVE year for the band!",
    "source": "skiddle"
@@ -23618,7 +23618,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/7/e/2284149_33e5d869_whe-presents-4am-kru-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Presents-4am-Kru--Support/42502156/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Presents-4am-Kru--Support/42502156/",
-   "going": 0,
+   "going": 257,
    "minage": "18",
    "desc": "4am Kru return to EngineRooms this November!",
    "source": "skiddle"
@@ -23712,7 +23712,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/e/b/2181659_a19e0b40_moretallica-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Moretallica--Southampton/41917438/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Moretallica--Southampton/41917438/",
-   "going": 0,
+   "going": 32,
    "minage": "14",
    "desc": "Head to EngineRooms this November to hear all your favourite songs made by one of the most iconic bands to have ever lived!",
    "source": "skiddle"
@@ -24176,7 +24176,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/4/2277379_b5dcd7a8_the-wurzels_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Wurzels/42476319/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Wurzels/42476319/",
-   "going": 0,
+   "going": 17,
    "minage": "14",
    "desc": "The Wurzels return to EngineRooms Southampton this December!",
    "source": "skiddle"
@@ -24199,7 +24199,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/4/9/2165206_94750171_The-Tumbling-Paddies_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/The-Tumbling-Paddies/41654545/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/The-Tumbling-Paddies/41654545/",
-   "going": 0,
+   "going": 1,
    "minage": "8",
    "desc": "Irelands hottest band, The Tumbling Paddies are coming back to the UK. Songs include The Way I am, Pretty Girl and Closing Time.",
    "source": "skiddle"
@@ -24247,7 +24247,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/c/4/2307761_33bd87c6_suburbia-codename-amen-presents-bladerunner-pure-jungle_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia--CodeName-Amen-Presents-Bladerunner-Pure-Jungle/42604107/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia--CodeName-Amen-Presents-Bladerunner-Pure-Jungle/42604107/",
-   "going": 0,
+   "going": 17,
    "minage": "18",
    "desc": "Suburbia & CodeName Amen are teaming up this December bringing you Bladerunner Pure Jungle",
    "source": "skiddle"
@@ -24369,7 +24369,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/c/8/2256506_7f451b68_emo-fest-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Emo-Fest-Southampton/42393294/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Emo-Fest-Southampton/42393294/",
-   "going": 0,
+   "going": 13,
    "minage": "14",
    "desc": "Emo Fest returns to EngineRooms Southampton this December!",
    "source": "skiddle"
@@ -24392,7 +24392,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/a/9/2214392_6e207f96_mc-devvo-20th-anniversary-show-at-suburbia-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MC-Devvo-20th-Anniversary-Show-at-Suburbia-Southampton/42141419/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MC-Devvo-20th-Anniversary-Show-at-Suburbia-Southampton/42141419/",
-   "going": 0,
+   "going": 57,
    "minage": "18",
    "desc": "MC Devvo is heading to Southampton this December to celebrate 20 years of MC Devvo!",
    "source": "skiddle"
@@ -24841,7 +24841,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/8/9/2143459_3bdc3a7d_martin-kemp-back-to-the-80s-christmas-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Martin-Kemp---Back-To-The-80s-Christmas-Party/41502264/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Martin-Kemp---Back-To-The-80s-Christmas-Party/41502264/",
-   "going": 0,
+   "going": 32,
    "minage": "18",
    "desc": "Martin Kemp is coming to EngineRooms!",
    "source": "skiddle"
@@ -25010,7 +25010,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/4/0/2221387_04dffe26_arctic-numpties_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Arctic-Numpties/42171164/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Arctic-Numpties/42171164/",
-   "going": 0,
+   "going": 7,
    "minage": "14",
    "desc": "Arctic Numpties bring the ultimate Arctic Monkeys tribute to EngineRooms, serving up all the indie anthems, sharp riffs, and singalong classics.",
    "source": "skiddle"
@@ -25273,7 +25273,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/4/6/2330389_99d225df_massaoke_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Massaoke/42698829/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Massaoke/42698829/",
-   "going": 0,
+   "going": 3,
    "minage": "14",
    "desc": "Massaoke head to EngineRooms Southampton this December!",
    "source": "skiddle"
@@ -25711,7 +25711,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/8/f/2303723_d3d98685_future-focus-nye-2026-27_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-NYE-2026-27/42589316/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-NYE-2026-27/42589316/",
-   "going": 0,
+   "going": 12,
    "minage": "18",
    "desc": "Bring in the new year with your FUTURE FOCUS Family",
    "source": "skiddle"
@@ -25736,7 +25736,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/8/1/2307673_2f3fd5aa_future-focus-new-years-eve_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-New-Years-Eve/42603940/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-New-Years-Eve/42603940/",
-   "going": 0,
+   "going": 2,
    "minage": "18",
    "desc": "Celebrate New Year's Eve with Future Focus at Suburbia. Countdown to 2027 with an unforgettable night of music, energy and surprises.",
    "source": "skiddle"
@@ -26317,7 +26317,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/4/7/2310433_38b99ebb_michael-mathers-eminem-tribute_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Michael-Mathers---Eminem-Tribute/42612504/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Michael-Mathers---Eminem-Tribute/42612504/",
-   "going": 0,
+   "going": 3,
    "minage": "14",
    "desc": "Michael Mathers - Eminem Tribute returns to Suburbia Southampton!",
    "source": "skiddle"
@@ -26721,7 +26721,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/7/3/2274189_2dee8f6d_trance-day-party-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Trance-Day-Party-Southampton/42467362/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Trance-Day-Party-Southampton/42467362/",
-   "going": 0,
+   "going": 15,
    "minage": "18",
    "desc": "Head to EngineRooms Southampton for a Trance Day party of the ages!",
    "source": "skiddle"
@@ -26884,7 +26884,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/a/0/2258413_d438b114_shred-fest_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shred-Fest/42400774/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shred-Fest/42400774/",
-   "going": 0,
+   "going": 3,
    "minage": "14",
    "desc": "Head to EngineRooms on the 15th of February!",
    "source": "skiddle"
@@ -26953,7 +26953,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/f/8/2282321_349726d6_as-everything-unfolds_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
-   "going": 0,
+   "going": 19,
    "minage": "14",
    "desc": "As Everything Unfolds hit EngineRooms Southampton",
    "source": "skiddle"
@@ -27001,7 +27001,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/0/2325375_68ac1e5a_catseye-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
-   "going": 0,
+   "going": 22,
    "minage": "4",
    "desc": "CATSEYE: the ultimate KATSEYE tribute experience live at EngineRooms, Southampton on Saturday 20th February 2027. All the hits, and fierce energy.",
    "source": "skiddle"
@@ -27166,11 +27166,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/5/3/2326066_4c68dacb_mad-caddies_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/",
-   "going": 1,
+   "going": 8,
    "minage": "14",
    "desc": "Punk rock legends Mad Caddies are bringing their infectious ska-punk energy to EngineRooms Southampton next year!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-03T19:01:37.418Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27468,7 +27467,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/1/9/2210597_b8e855c4_tom-meighan_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Tom-Meighan/42124708/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Tom-Meighan/42124708/",
-   "going": 0,
+   "going": 77,
    "minage": "14",
    "desc": "The original voice of Kasabian Tom Meighan returns to EngineRooms for an intimate show.",
    "source": "skiddle"
@@ -27677,7 +27676,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/6/8/2281961_ee04e0ee_whe-live-poland-event-party-presents-cypis_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Live--Poland-Event-Party-Presents-CYPIS/42490261/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Live--Poland-Event-Party-Presents-CYPIS/42490261/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "Polish Hip-Hop/Rap artist Cypis is heading to EngineRooms Southampton!",
    "source": "skiddle"
@@ -28262,7 +28261,7 @@
    "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Simon-Fowler--The-Ocean-Colour-Scene-Songbook-and-beyond/42428546/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Simon-Fowler--The-Ocean-Colour-Scene-Songbook-and-beyond/42428546/",
-   "going": 0,
+   "going": 9,
    "minage": "14",
    "desc": "Head to EngineRooms for an intimate evening with Ocean Colour Scene Frontman/Songwriter Simon Fowler",
    "source": "skiddle"
@@ -28430,7 +28429,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/8/6/2322675_a10b8988_too-much-too-young_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Too-Much-Too-Young/42665198/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Too-Much-Too-Young/42665198/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "Too Much Too Young hits EngineRooms Southampton this Friday 7th May 2027 for a huge smash hit ska theatre experience!",
    "source": "skiddle"
@@ -28502,7 +28501,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/4/a/2309876_7d4bacd6_the-reggae-orchestra_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Reggae-Orchestra/42610446/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Reggae-Orchestra/42610446/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "The Reggae Orchestra brings a breathtaking live music experience to EngineRooms Southampton on Saturday 15th May!",
    "source": "skiddle"
@@ -28665,7 +28664,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/2/2285569_4a94eda8_the-eminem-experience-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Eminem-Experience-in-Southampton/42504843/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Eminem-Experience-in-Southampton/42504843/",
-   "going": 0,
+   "going": 5,
    "minage": "14",
    "desc": "The Eminem Experience heads to EngineRooms Southampton for an explosive live tribute to one of hip-hop's most iconic artists!",
    "source": "skiddle"
@@ -28805,7 +28804,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/7/b/2308041_22cdd102_the-gorillaz-experience-in-southampton-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Engine-Rooms-Southampton/The-Gorillaz-Experience-in-Southampton/42604583/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Engine-Rooms-Southampton/The-Gorillaz-Experience-in-Southampton/42604583/",
-   "going": 0,
+   "going": 71,
    "minage": "14",
    "desc": "An immersive live tribute experience to one of the most innovative bands of all time.",
    "source": "skiddle"
@@ -28828,7 +28827,7 @@
    "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Paul-Young-Songs--Stories/42428534/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Paul-Young-Songs--Stories/42428534/",
-   "going": 0,
+   "going": 23,
    "minage": null,
    "desc": "Head to EngineRooms for an intimate evening with a true musical icon, Paul Young.",
    "source": "skiddle"
