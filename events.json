@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-04T12:34:27.095Z",
+ "generated": "2026-09-04T15:29:20.437Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 461
+   "events": 463
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 270
+   "events": 271
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 239
+   "events": 240
   }
  ],
  "venues": [
@@ -989,11 +989,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/a/e/2154353_9ea81cea_enginerooms-presents-mauro-picotto-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Mauro-Picotto--Support/41617210/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Mauro-Picotto--Support/41617210/",
-   "going": 195,
+   "going": 201,
    "minage": "18",
    "desc": "Mauro Picotto is set to unleash Komodo, Lizard and Iguana vibes as he tears up EngineRooms Southampton on Saturday 5th September 2026.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -1704,11 +1703,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/6/2275519_97903ce0_minimal-eventss-16-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
-   "going": 140,
+   "going": 145,
    "minage": "16",
    "desc": "Pop Up Event - House & Garage All Night Long",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -5336,8 +5334,7 @@
    "going": 28,
    "minage": "18",
    "desc": "Other Worlds Festival: a themed metal night of sci-fi, post-apocalyptic and fantasy bands with a costume competition",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -5418,8 +5415,7 @@
    "going": 11,
    "minage": "25",
    "desc": "Break out the black eyeliner & band tees Southampton's first ever EMO DAY PARTY is coming for all our elder emos!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -9139,8 +9135,7 @@
    "going": 4,
    "minage": "18",
    "desc": "F*CK ME ITS FRESHERS IS BACK AT ENGINEROOMS THIS SEPTEMBER!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -9215,8 +9210,7 @@
    "going": 1,
    "minage": "18",
    "desc": "The Big Freshers Icebreaker hits EngineRooms Southampton this Monday September 14th!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -9636,8 +9630,7 @@
    "going": 1,
    "minage": "18",
    "desc": "The Project X Freshers House Party is back at EngineRooms Southampton this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "theatre",
@@ -9988,8 +9981,8 @@
    "date": "2026-09-18",
    "time": "18:00",
    "price": 41.75,
-   "priceMax": 51.75,
-   "priceText": "£41.75–£51.75",
+   "priceMax": 136,
+   "priceText": "£41.75–£136",
    "genre": "hiphop",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/9/9/2294670_28f324d8_krs-one_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/KRS-One/42542876/",
@@ -9997,8 +9990,7 @@
    "going": 57,
    "minage": "14",
    "desc": "KRS-One makes his long awaited return to Southampton this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -10510,11 +10502,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/9/2314816_ebcff752_bass-n-blends-presents-drinks-on-me-suburbia-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
-   "going": 4,
+   "going": 5,
    "minage": "18",
    "desc": "Bass'N'Blends return this September to the legendary Suburbia, for a night of UKG, with the Legendary... Drinks On Me",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10613,8 +10604,7 @@
    "going": 135,
    "minage": "18",
    "desc": "One of the most recognisable voices in Jungle & DnB hits EngineRooms this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -10639,8 +10629,7 @@
    "going": 5,
    "minage": "14",
    "desc": "Experience Ferpetual Paradox's \"Beholden to Hate\" UK Tour with special guests Cartographer at Suburbia, Southampton.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -11269,8 +11258,7 @@
    "going": 1,
    "minage": "18",
    "desc": "The Ibiza White Party hits EngineRooms this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -11726,8 +11714,7 @@
    "going": 22,
    "minage": "18",
    "desc": "Hosted by Hales' Angels Netball and ECSSFC Football, don't miss this Hooch Party at Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -11824,8 +11811,7 @@
    "going": 61,
    "minage": "14",
    "desc": "The UK's biggest indie tribute night returns to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -11848,8 +11834,7 @@
    "going": 22,
    "minage": "14",
    "desc": "Foo Fighters GB return to 1865, Southampton - Saturday 2nd May 2026. Following Sold Out Show throughout the UK & Europe this is a show not to miss",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -12012,8 +11997,7 @@
    "going": 11,
    "minage": "18",
    "desc": "Hooked, Jungle Cakes and Wavz have teamed up with each together to bring you three huge headliners + a stacked support line up",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12160,11 +12144,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/2/3/2267229_641c62bd_dubtendo-allstars_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dubtendo-Allstars/42434988/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dubtendo-Allstars/42434988/",
-   "going": 48,
+   "going": 49,
    "minage": "18",
    "desc": "The Dubtendo Allstars are heading back to EngineRooms this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12328,11 +12311,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/b/c/2269041_6208beca_rnb-mania-southampton-s-r-b-festival_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-RB-Festival/42439148/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-RB-Festival/42439148/",
-   "going": 197,
+   "going": 201,
    "minage": "18",
    "desc": "Southampton, are you ready to experience the very best of R&B music? R&B MANIA is returning to EngineRooms on Saturday 26 September 2026!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12357,8 +12339,7 @@
    "going": 18,
    "minage": "18",
    "desc": "RnB Mania returns to EngineRooms this September for another massive day of all your favourite hits!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12431,8 +12412,7 @@
    "going": 24,
    "minage": "18",
    "desc": "Hard House icon Lisa Pin Up is heading to Suburbia Southampton this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12644,11 +12624,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/d/1/2312090_e35d23a8_hedex-eksman_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Hedex--Eksman/42617120/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Hedex--Eksman/42617120/",
-   "going": 221,
+   "going": 230,
    "minage": "18",
    "desc": "Hedex & Eksman headline EngineRooms Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12835,11 +12814,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/6/0/2270125_2d4bb5df_girlypop-live-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/GirlyPop-Live--EngineRooms-Southampton/42447808/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/GirlyPop-Live--EngineRooms-Southampton/42447808/",
-   "going": 125,
+   "going": 126,
    "minage": "5",
    "desc": "GirlyPop is returning to indoor venue EngineRooms, Southampton with your favourite Pop icons in one live show brought to you by the best tribute acts!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -12859,11 +12837,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/4/8/2274743_1a194c65_girly-pop-live-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Girly-Pop-Live--Southampton/42469594/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Girly-Pop-Live--Southampton/42469594/",
-   "going": 32,
+   "going": 33,
    "minage": "5",
    "desc": "Girly Pop Live is back at EngineRooms Southampton this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13677,8 +13654,7 @@
    "going": 2,
    "minage": "18",
    "desc": "Relive the golden era of emo with a night of classic anthems, giveaways and non-stop pop punk, metal core, nu metal and alt hits.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "theatre",
@@ -13914,8 +13890,7 @@
    "going": 110,
    "minage": "18",
    "desc": "Catch a STACKED Low Down Deep line up this October on the EngineRooms 360 Weekender",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14037,8 +14012,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Woody Cook heads to Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -14343,11 +14317,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/8/8/2275066_fc3e459d_er-360-weekender-with-future-focus_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-Future-Focus-Mandidextrous--More/42469917/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-360-Weekender-Future-Focus-Mandidextrous--More/42469917/",
-   "going": 124,
+   "going": 125,
    "minage": "18",
    "desc": "EngineRooms & Future Focus are teaming up again to bring you another HUGE event! But this time its on a 360 set up...",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -14422,8 +14395,7 @@
    "going": 5,
    "minage": "14",
    "desc": "Kent groove metal band Struck/Down bring crushing riffs and viral momentum to Suburbia, touring their latest release Queue For The Cure",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14446,8 +14418,7 @@
    "going": 6,
    "minage": "14",
    "desc": "JOY. Present Stereo MCs 03 October 2026 Papillon, Southampton 7pm-10pm 14+ (U16s accompanied)",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14827,11 +14798,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/4/c/2284101_358aefbc_er-360-weekender-southampton-dj-community-free-rave_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ER-360-Weekender-Southampton-DJ-Community-FREE-RAVE/42502051/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ER-360-Weekender-Southampton-DJ-Community-FREE-RAVE/42502051/",
-   "going": 59,
+   "going": 60,
    "minage": "18",
    "desc": "We invite the people of Southampton to come and close the EngineRooms 360 weekender with a MASSIVE FREE RAVE!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -15657,8 +15627,7 @@
    "going": 42,
    "minage": "14",
    "desc": "Get ready for... The Wanted 2.0. The next chapter in the history of one of Britain's biggest pop bands.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -15925,8 +15894,7 @@
    "going": 2,
    "minage": "18",
    "desc": "Code Name: Amen lands at Suburbia with a heavyweight line-up of jungle, drum & bass and 160. Pure underground energy from start to finish.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -16165,8 +16133,7 @@
    "going": 85,
    "minage": "18",
    "desc": "Step back into the Noughties with Marvin Humes' \"Noughties Baby\" tour! Don't miss your chance to experience the ultimate throwback to the 2000s",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16401,8 +16368,7 @@
    "going": 85,
    "minage": "18",
    "desc": "SHY FX heads back to EngineRooms Southampton this October!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16494,8 +16460,7 @@
    "going": 2,
    "minage": "14",
    "desc": "Get ready for Kamil Bednarek to perform at EngineRooms this Sunday October 11th!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16966,8 +16931,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Nu metal vs pop punk! Two iconic sounds go head-to-head at Taking Back Thursdays. Expect huge anthems, throwbacks and all-out chaos at Suburbia!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17035,11 +16999,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/d/1/2250503_95273772_gentleman-s-dub-club-20th-anniversary-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Gentlemans-Dub-Club-20th-Anniversary-Tour--Southampton/42357826/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Gentlemans-Dub-Club-20th-Anniversary-Tour--Southampton/42357826/",
-   "going": 113,
+   "going": 115,
    "minage": "14",
    "desc": "Gentleman's Dub Club head to EngineRooms Southampton this October to celebrate their 20th Anniversary",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "comedy",
@@ -17402,8 +17365,7 @@
    "going": 142,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T11:25:49.574Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -17476,8 +17438,7 @@
    "going": 72,
    "minage": "14",
    "desc": "Rock legends Quireboys bring their electrifying live show to EngineRooms Southampton on Saturday 17th October, 6pm-10pm!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17641,8 +17602,7 @@
    "going": 1,
    "minage": "18",
    "desc": "AT Events make their Southampton with a stacked line up featuring Darius Syrossian, Philip George & Louden",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17754,11 +17714,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/e/2217085_22d4dabc_the-hoosiers-compassion-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
-   "going": 116,
+   "going": 117,
    "minage": "14",
    "desc": "The Hoosiers head to EngineRooms Southampton this October!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17916,11 +17875,10 @@
    "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Skids--Theatre-Of-Hate/42477544/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Skids--Theatre-Of-Hate/42477544/",
-   "going": 35,
+   "going": 36,
    "minage": "14",
    "desc": "Skids return to EngineRooms this October with Theatre Of Hate",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18293,11 +18251,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/6/a/2220526_f7cb189f_punk-rock-factory_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Punk-Rock-Factory/42165123/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Punk-Rock-Factory/42165123/",
-   "going": 33,
+   "going": 34,
    "minage": "18",
    "desc": "Get ready for a night of raw energy as Punk Rock Factory takes over Engine Rooms!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18485,8 +18442,7 @@
    "going": 74,
    "minage": "14",
    "desc": "Pete & Bas bring their unmistakable blend of gritty UK drill and tongue-in-cheek charisma to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -18791,8 +18747,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Join us for our Southampton debut at Suburbia! Where darkness meets the dancefloor and the underground comes alive.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "theatre",
@@ -18909,8 +18864,7 @@
    "going": 39,
    "minage": null,
    "desc": "+ Very Special Guests LOL TOLHURST PLAYS THE SONGS OF THE CURE",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -19073,8 +19027,7 @@
    "going": 85,
    "minage": "18",
    "desc": "Born on Road are coming to Engine Rooms this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -19498,8 +19451,7 @@
    "going": 1,
    "minage": "18",
    "desc": "The Official Asylum Halloween Special hits Southampton EngineRooms! Don't miss the UK's biggest Halloween event this Wednesday October 28th.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -19550,8 +19502,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Martin Mucklowe's This Country Quiz returns to EngineRooms Southampton this October!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -19861,8 +19812,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Poland Event Party brings DJ Killer to Suburbia",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -19914,8 +19864,7 @@
    "going": 1,
    "minage": "18",
    "desc": "F*CK ME ITS HALLOWEEN RETURNS TO ENGINEROOMS THIS OCTOBER!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -20017,8 +19966,7 @@
    "going": 89,
    "minage": "18",
    "desc": "Dave Pearce heads back to EngineRooms Southampton this October with Signum!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20179,11 +20127,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/a/2204257_22b5af8c_on-a-mission-halloween_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
-   "going": 102,
+   "going": 105,
    "minage": null,
    "desc": "The south Coasts biggest halloween Drum & Bass Party is back !",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -20678,8 +20625,7 @@
    "going": 3,
    "minage": "14",
    "desc": "Forward-thinking drum & bass lands at Suburbia as Gardna headlines the South Coast for the first time.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21012,8 +20958,7 @@
    "going": 54,
    "minage": "14",
    "desc": "The Dualers head to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21174,8 +21119,7 @@
    "going": 21,
    "minage": "18",
    "desc": "Night of Legend Kalwi & Remi - DJ X Meen - DJ Madsson - DJ Dante - DJ Michale K",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21221,8 +21165,7 @@
    "going": 14,
    "minage": "14",
    "desc": "Anna Von Hausswolff heads to EngineRooms Southampton this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21602,8 +21545,7 @@
    "going": 85,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22195,6 +22137,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-1AdfZ_8GkzDF7OV",
+   "artist": "Dermot Henry",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/5d9/402daee4-e472-444d-bdac-0e7c6d7c65d9_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/dermot-henry-southampton-17-11-2026/event/3500650E3B204834",
+   "infoUrl": "https://www.ticketmaster.co.uk/dermot-henry-southampton-17-11-2026/event/3500650E3B204834",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43372894",
    "artist": "Yndling",
    "venueId": "joiners",
@@ -22498,8 +22463,7 @@
    "going": 12,
    "minage": "14",
    "desc": "Beatles Complete - A Tribute To The Fab Four comes to EngineRooms!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22688,11 +22652,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/9/b/2281420_8570ddcf_a-m-c-phantom-presents-grassroots-energy-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/",
-   "going": 111,
+   "going": 112,
    "minage": "18",
    "desc": "Head to Suburbia this November to see one of the biggest names in Drum & Bass perform an intimate show in Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22758,11 +22721,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 10,
+   "going": 13,
    "minage": "18",
    "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -22810,8 +22772,7 @@
    "going": 28,
    "minage": "14",
    "desc": "True Steel Promotions and Byker Grave Bookings, in association with Doomstar Booking is proud to present WORMROT live at Suburbia Southampton.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22857,8 +22818,7 @@
    "going": 7,
    "minage": "14",
    "desc": "Back by popular demand 'Definitely, Oasis' returns to Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "comedy",
@@ -23113,8 +23073,7 @@
    "going": 1,
    "minage": "14",
    "desc": "The Jam UK head to EngineRooms this November for a legendary live gig!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -23323,8 +23282,7 @@
    "going": 18,
    "minage": "14",
    "desc": "Uncle Acid & The Deadbeats head to EngineRooms Southampton with support from The Wytches!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -23541,8 +23499,7 @@
    "going": 27,
    "minage": "14",
    "desc": "One of the fastest rising bands in the country Myriad hit The Joiners this November for a headline gig to finish of a MASSIVE year for the band!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -23732,8 +23689,7 @@
    "going": 257,
    "minage": "18",
    "desc": "4am Kru return to EngineRooms this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -23827,8 +23783,7 @@
    "going": 32,
    "minage": "14",
    "desc": "Head to EngineRooms this November to hear all your favourite songs made by one of the most iconic bands to have ever lived!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24292,8 +24247,7 @@
    "going": 17,
    "minage": "14",
    "desc": "The Wurzels return to EngineRooms Southampton this December!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24316,8 +24270,7 @@
    "going": 1,
    "minage": "8",
    "desc": "Irelands hottest band, The Tumbling Paddies are coming back to the UK. Songs include The Way I am, Pretty Girl and Closing Time.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24365,8 +24318,7 @@
    "going": 17,
    "minage": "18",
    "desc": "Suburbia & CodeName Amen are teaming up this December bringing you Bladerunner Pure Jungle",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24485,11 +24437,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/c/8/2256506_7f451b68_emo-fest-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Emo-Fest-Southampton/42393294/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Emo-Fest-Southampton/42393294/",
-   "going": 13,
+   "going": 14,
    "minage": "14",
    "desc": "Emo Fest returns to EngineRooms Southampton this December!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24512,8 +24463,7 @@
    "going": 57,
    "minage": "18",
    "desc": "MC Devvo is heading to Southampton this December to celebrate 20 years of MC Devvo!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -24962,8 +24912,7 @@
    "going": 32,
    "minage": "18",
    "desc": "Martin Kemp is coming to EngineRooms!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -25132,8 +25081,7 @@
    "going": 7,
    "minage": "14",
    "desc": "Arctic Numpties bring the ultimate Arctic Monkeys tribute to EngineRooms, serving up all the indie anthems, sharp riffs, and singalong classics.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -25157,6 +25105,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AUZkfxGkeEgkpf",
+   "artist": "SPC & SU Phil: Coronation and Celebration",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/e/5e2/e995d17b-f474-47ff-a717-8f65fbecc5e2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketmaster.co.uk/spc-su-phil-coronation-and-celebration-southampton-12-12-2026/event/36006522A7D46594",
+   "infoUrl": "https://www.ticketmaster.co.uk/spc-su-phil-coronation-and-celebration-southampton-12-12-2026/event/36006522A7D46594",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -25396,8 +25367,7 @@
    "going": 3,
    "minage": "14",
    "desc": "Massaoke head to EngineRooms Southampton this December!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "comedy",
@@ -25787,6 +25757,29 @@
    "source": "skiddle"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43399402",
+   "artist": "Paul Oakenfold",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-12-26",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43399402-paul-oakenfold-at-enginerooms",
+   "infoUrl": "https://www.songkick.com/concerts/43399402-paul-oakenfold-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "club",
    "tags": [
     "drum & bass",
@@ -25835,8 +25828,7 @@
    "going": 12,
    "minage": "18",
    "desc": "Bring in the new year with your FUTURE FOCUS Family",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -25861,8 +25853,7 @@
    "going": 2,
    "minage": "18",
    "desc": "Celebrate New Year's Eve with Future Focus at Suburbia. Countdown to 2027 with an unforgettable night of music, energy and surprises.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -26443,8 +26434,7 @@
    "going": 3,
    "minage": "14",
    "desc": "Michael Mathers - Eminem Tribute returns to Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -26848,8 +26838,7 @@
    "going": 15,
    "minage": "18",
    "desc": "Head to EngineRooms Southampton for a Trance Day party of the ages!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27012,8 +27001,7 @@
    "going": 3,
    "minage": "14",
    "desc": "Head to EngineRooms on the 15th of February!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27082,8 +27070,7 @@
    "going": 19,
    "minage": "14",
    "desc": "As Everything Unfolds hit EngineRooms Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27128,11 +27115,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/0/2325375_68ac1e5a_catseye-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
-   "going": 22,
+   "going": 26,
    "minage": "4",
    "desc": "CATSEYE: the ultimate KATSEYE tribute experience live at EngineRooms, Southampton on Saturday 20th February 2027. All the hits, and fierce energy.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -27294,11 +27280,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/5/3/2326066_4c68dacb_mad-caddies_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/",
-   "going": 8,
+   "going": 10,
    "minage": "14",
    "desc": "Punk rock legends Mad Caddies are bringing their infectious ska-punk energy to EngineRooms Southampton next year!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27599,8 +27584,7 @@
    "going": 77,
    "minage": "14",
    "desc": "The original voice of Kasabian Tom Meighan returns to EngineRooms for an intimate show.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -27809,8 +27793,7 @@
    "going": 2,
    "minage": "14",
    "desc": "Polish Hip-Hop/Rap artist Cypis is heading to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -28419,8 +28402,7 @@
    "going": 9,
    "minage": "14",
    "desc": "Head to EngineRooms for an intimate evening with Ocean Colour Scene Frontman/Songwriter Simon Fowler",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -28588,8 +28570,7 @@
    "going": 2,
    "minage": "14",
    "desc": "Too Much Too Young hits EngineRooms Southampton this Friday 7th May 2027 for a huge smash hit ska theatre experience!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "comedy",
@@ -28661,8 +28642,7 @@
    "going": 2,
    "minage": "14",
    "desc": "The Reggae Orchestra brings a breathtaking live music experience to EngineRooms Southampton on Saturday 15th May!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -28825,8 +28805,7 @@
    "going": 5,
    "minage": "14",
    "desc": "The Eminem Experience heads to EngineRooms Southampton for an explosive live tribute to one of hip-hop's most iconic artists!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -28963,11 +28942,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/7/b/2308041_22cdd102_the-gorillaz-experience-in-southampton-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Engine-Rooms-Southampton/The-Gorillaz-Experience-in-Southampton/42604583/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Engine-Rooms-Southampton/The-Gorillaz-Experience-in-Southampton/42604583/",
-   "going": 71,
+   "going": 72,
    "minage": "14",
    "desc": "An immersive live tribute experience to one of the most innovative bands of all time.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "theatre",
@@ -28990,8 +28968,7 @@
    "going": 23,
    "minage": null,
    "desc": "Head to EngineRooms for an intimate evening with a true musical icon, Paul Young.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T10:46:07.984Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
