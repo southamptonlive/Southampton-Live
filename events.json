@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-05T15:26:52.129Z",
+ "generated": "2026-09-05T18:28:46.350Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 16,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 17
   },
   {
    "id": "songkick:metro",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 147,
+   "carried": 148,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -186,16 +186,22 @@
    "address": "Southampton"
   },
   {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
    "address": "466 Portswood Road, Southampton"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -214,12 +220,6 @@
    "name": "Platform Tavern",
    "postcode": "SO14 2NY",
    "address": "Town Quay"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -936,8 +936,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -1555,8 +1554,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -1579,8 +1577,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -8794,8 +8791,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -9462,8 +9458,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9871,8 +9866,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "comedy",
@@ -11046,8 +11040,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11164,8 +11157,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -20629,8 +20621,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21333,8 +21324,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -25301,8 +25291,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25475,8 +25464,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -26470,8 +26458,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26565,8 +26552,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26872,8 +26858,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27717,8 +27702,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-05T12:31:14.083Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
