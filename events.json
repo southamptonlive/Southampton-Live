@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-05T12:31:14.083Z",
+ "generated": "2026-09-05T15:26:52.129Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,16 +77,16 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 17
+   "ok": false,
+   "carried": 16,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 458
+   "events": 460
   },
   {
    "id": "mitc",
@@ -180,22 +180,22 @@
    "address": "Southampton"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
   },
   {
    "id": "mayflower",
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -216,10 +216,10 @@
    "address": "Town Quay"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -603,29 +603,6 @@
  "events": [
   {
    "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-0d7b44a4-17d",
-   "artist": "Bangers & Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-05",
-   "time": "14:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
    "tags": [
     "disco"
    ],
@@ -959,7 +936,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "club",
@@ -1577,7 +1555,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -1600,7 +1579,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -8814,7 +8794,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "club",
@@ -9481,7 +9462,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -9889,7 +9871,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "comedy",
@@ -10246,6 +10229,29 @@
    "type": "club",
    "tags": [],
    "hot": false,
+   "id": "sk-42083356",
+   "artist": "Sander Van Doorn / Marco V / Lange / Standerwick - Southampton",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-19",
+   "time": "14:00",
+   "price": 10,
+   "priceMax": 30,
+   "priceText": "£10–£30",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/9/2204829_5381c5bb_sander-van-doorn-marco-v-lange-standerwick-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Sobar-Southampton/Sander-Van-Doorn--Marco-V--Lange--Standerwick---Southampton/42083356/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Sobar-Southampton/Sander-Van-Doorn--Marco-V--Lange--Standerwick---Southampton/42083356/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Frequency returns to the garden on Saturday 19th September 2026 with an elite lineup, featuring a UK-exclusive B2B never before seen in the UK.",
+   "source": "skiddle"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
    "id": "fat-444d2767-737",
    "artist": "Bangers & Brunch [BOOK VIA WEBSITE]",
    "venueId": "medbar-southampton",
@@ -10260,31 +10266,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
    "infoUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "trance"
-   ],
-   "hot": false,
-   "id": "fat-14fa67dc-b83",
-   "artist": "Sander Van Doorn / Marco V / Lange / Standerwick - Trance Classics Garden Party",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-19",
-   "time": "14:00",
-   "price": 30.25,
-   "priceMax": 30.25,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sander-van-doorn-marco-v-lange-standerwick-trance-classics-garden-party",
-   "infoUrl": "https://www.fatsoma.com/e/sander-van-doorn-marco-v-lange-standerwick-trance-classics-garden-party",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -11065,7 +11046,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -11182,7 +11164,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -11308,6 +11291,29 @@
    "minage": null,
    "desc": null,
    "source": "mayflower"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43400853",
+   "artist": "Cheap Street",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-09-24",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43400853-cheap-street-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43400853-cheap-street-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -16695,6 +16701,31 @@
   {
    "type": "club",
    "tags": [
+    "indie"
+   ],
+   "hot": false,
+   "id": "fat-b390fa22-b08",
+   "artist": "WTF IS INDIE? THE PRODIGY SPECIAL! 🐜",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-15",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-prodigy-special",
+   "infoUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-prodigy-special",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "punk",
     "metal"
@@ -20598,7 +20629,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -21301,7 +21333,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "club",
@@ -22712,6 +22745,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43237369",
+   "artist": "Neckbreakker",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43384348",
    "artist": "Diaz Brothers",
    "venueId": "hobbit",
@@ -22726,29 +22782,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43384348-diaz-brothers-at-hobbit-pub",
    "infoUrl": "https://www.songkick.com/concerts/43384348-diaz-brothers-at-hobbit-pub",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43237369",
-   "artist": "Neckbreakker",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "date": "2026-11-21",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
-   "infoUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -25268,7 +25301,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -25441,7 +25475,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "club",
@@ -26435,7 +26470,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -26529,7 +26565,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -26835,7 +26872,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -27679,7 +27717,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T12:31:14.083Z"
   },
   {
    "type": "gig",
@@ -28361,6 +28400,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43308850",
+   "artist": "Al Murray",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-04-25",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43308850-al-murray-at-mayflower-theatre",
+   "infoUrl": "https://www.songkick.com/concerts/43308850-al-murray-at-mayflower-theatre",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
