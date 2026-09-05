@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-05T18:28:46.350Z",
+ "generated": "2026-09-05T21:25:40.361Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 269
+   "events": 266
   },
   {
    "id": "ticketmaster",
@@ -604,31 +604,6 @@
   {
    "type": "club",
    "tags": [
-    "disco"
-   ],
-   "hot": false,
-   "id": "fat-636ae7d9-9b2",
-   "artist": "80s Day Disco: Southampton 🪩",
-   "venueId": "trilogy-southampton",
-   "venueName": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
-   "date": "2026-09-05",
-   "time": "15:00",
-   "price": 12.5,
-   "priceMax": 22.5,
-   "priceText": "£12.50–£22.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/80s-day-disco-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/80s-day-disco-southampton",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
     "house",
     "rave"
    ],
@@ -647,56 +622,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/pure-the-shooting-star-southampton-with-rue-jay-toolroom-records-armada-music",
    "infoUrl": "https://www.fatsoma.com/e/pure-the-shooting-star-southampton-with-rue-jay-toolroom-records-armada-music",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-537edf1e-cbb",
-   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-09-05",
-   "time": "15:00",
-   "price": 15.4,
-   "priceMax": 82.5,
-   "priceText": "£15.40–£82.50",
-   "genre": "hiphop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "infoUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "going": null,
-   "minage": "30+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-b86c5f2c-9ee",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-05",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -15380,6 +15305,31 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-a-small-enclosed-room-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-a-small-enclosed-room-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "mayf-stitches-comedy-club-2026-10-08",
+   "artist": "Stitches Comedy Club",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-08",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/stitches-comedy-club-oct-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/stitches-comedy-club-oct-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
