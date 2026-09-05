@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-05T00:37:04.966Z",
+ "generated": "2026-09-05T03:27:18.387Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 17
+   "ok": false,
+   "carried": 16,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 272
+   "events": 269
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 241
+   "events": 240
   }
  ],
  "venues": [
@@ -180,22 +180,16 @@
    "address": "Southampton"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
-  },
-  {
    "id": "mayflower",
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -214,6 +208,12 @@
    "name": "Platform Tavern",
    "postcode": "SO14 2NY",
    "address": "Town Quay"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "sobar",
@@ -959,7 +959,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "club",
@@ -1577,7 +1578,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -1600,7 +1602,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -8842,7 +8845,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "club",
@@ -9509,7 +9513,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -9917,7 +9922,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "comedy",
@@ -11093,7 +11099,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -11210,7 +11217,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -20626,7 +20634,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -21329,7 +21338,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "club",
@@ -25296,7 +25306,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -25469,7 +25480,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "club",
@@ -26463,7 +26475,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -26557,7 +26570,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -26863,7 +26877,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
@@ -27707,7 +27722,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-05T00:37:04.966Z"
   },
   {
    "type": "gig",
