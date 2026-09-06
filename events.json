@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-06T18:28:57.105Z",
+ "generated": "2026-09-06T21:25:57.741Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 264
+   "events": 277
   },
   {
    "id": "ticketmaster",
@@ -510,16 +510,16 @@
    "address": "Bugle St, Southampton SO14 2AD"
   },
   {
-   "id": "caf-parfait",
-   "name": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar St, Southampton SO14 7DW"
-  },
-  {
    "id": "orange-rooms-southampton",
    "name": "Orange Rooms Southampton",
    "postcode": "SO15 2EJ",
    "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
+   "id": "caf-parfait",
+   "name": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar St, Southampton SO14 7DW"
   },
   {
    "id": "clowns-wine-bar-and-jesters-nightclub",
@@ -688,29 +688,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-thank-you-for-the-music-2026-09-06",
-   "artist": "Thank You for the Music",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-06",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/thank-you-for-the-music-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/thank-you-for-the-music-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -9595,6 +9572,31 @@
   {
    "type": "club",
    "tags": [
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-88c0bdd0-2b7",
+   "artist": "THE BIG SOUTHAMPTON BAR CRAWL",
+   "venueId": "orange-rooms-southampton",
+   "venueName": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "date": "2026-09-18",
+   "time": "21:00",
+   "price": 4,
+   "priceMax": 8,
+   "priceText": "£4–£8",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-big-southampton-bar-crawl",
+   "infoUrl": "https://www.fatsoma.com/e/the-big-southampton-bar-crawl",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "house",
     "tribute"
@@ -13515,6 +13517,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-2d154583-7f4",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-02",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14088,6 +14116,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-latinoland-freshers-360-edition",
    "infoUrl": "https://www.fatsoma.com/e/southampton-latinoland-freshers-360-edition",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-66fb03f3-0ce",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-03",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -15428,6 +15481,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-410d1142-397",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-09",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -15468,6 +15547,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-buffy-revamped-2026-10-09",
+   "artist": "Buffy Revamped",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-09",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/buffy-revamped-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/buffy-revamped-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -15878,6 +15980,31 @@
    "_carriedSince": "2026-09-06T09:27:17.434Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-bfdf1479-f00",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-10",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -16015,6 +16142,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-065834d7-60c",
+   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-11",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "theatre",
@@ -16834,6 +16986,32 @@
    "source": "skiddle"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-c472298f-6c7",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-16",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -17143,6 +17321,31 @@
    "_carriedSince": "2026-09-06T09:27:17.434Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-82712605-36c",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-17",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -17303,6 +17506,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-30d2f09f-ca4",
+   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-18",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -18293,6 +18521,32 @@
    "_carriedSince": "2026-09-06T09:27:17.434Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-b8086c7b-581",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-23",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -18575,6 +18829,31 @@
    "_carriedSince": "2026-09-06T09:27:17.434Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-a9a9ca85-9ea",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-24",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -18665,6 +18944,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-d2cb721f-5d0",
+   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-25",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -19157,8 +19461,8 @@
    "date": "2026-10-29",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
+   "priceMax": 7,
+   "priceText": "£3.80–£7",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-glam-hallowen-2026-southampton-s-best-student-night-1-shots-all-night-gala-event",
@@ -23607,6 +23911,32 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
    "infoUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-62e00d57-bd1",
+   "artist": "Patron El Alto x Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-28",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/patron-el-alto-x-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/patron-el-alto-x-cafe-parfait",
    "going": null,
    "minage": "18+",
    "desc": null,
