@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-06T15:27:06.224Z",
+ "generated": "2026-09-06T18:28:57.105Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -93,7 +93,7 @@
    "label": "Music in the City (musicinthecity.org)",
    "url": "https://musicinthecity.org/full-listings-2026",
    "ok": true,
-   "events": 240
+   "events": 239
   },
   {
    "id": "mayflower",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 263
+   "events": 264
   },
   {
    "id": "ticketmaster",
@@ -3507,34 +3507,6 @@
    "priceText": "Free",
    "genre": "jazz",
    "img": "https://musicinthecity.org/slir/w600/venues/MusicInTheCity_O&#039;Neills2025.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "singer songwriter",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-rosie-jay-raven-bine",
-   "artist": "Rosie jay",
-   "venueId": "raven-bine",
-   "venueName": "Raven & Bine",
-   "postcode": "SO15 2DY",
-   "date": "2026-09-12",
-   "time": "14:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "acoustic",
-   "img": "https://musicinthecity.org/slir/w600/venues/Raven&amp;Bine2025.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -19548,11 +19520,12 @@
   {
    "type": "club",
    "tags": [
+    "rave",
     "halloween"
    ],
    "hot": false,
    "id": "fat-b9878b59-1a6",
-   "artist": "High Tide vs Riddle Halloween - Eats Everything, Danny Howard, Di Chiara Brothers & Scott Steer",
+   "artist": "High Tide & Riddle Halloween Rave - Eats Everything, Danny Howard, Di Chiara Brothers & Scott Steer (£10 EARLY BIRDS ONLINE - BE QUICK)",
    "venueId": "guildhall-square",
    "venueName": "Guildhall Square",
    "postcode": "SO14 7FP",
@@ -19563,8 +19536,8 @@
    "priceText": "£11–£27.50",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/high-tide-vs-riddle-halloween-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
-   "infoUrl": "https://www.fatsoma.com/e/high-tide-vs-riddle-halloween-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
+   "ticketUrl": "https://www.fatsoma.com/e/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer-10-early-birds-online-be-quick",
+   "infoUrl": "https://www.fatsoma.com/e/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer-10-early-birds-online-be-quick",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -19711,6 +19684,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-4a5da184-31b",
+   "artist": "Loose X Ritmo - Halloween Party",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-31",
+   "time": "20:30",
+   "price": 6,
+   "priceMax": 22,
+   "priceText": "£6–£22",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/loose-x-ritmo-halloween-party",
+   "infoUrl": "https://www.fatsoma.com/e/loose-x-ritmo-halloween-party",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
