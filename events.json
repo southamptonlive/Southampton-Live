@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-07T18:31:40.934Z",
+ "generated": "2026-09-07T21:28:14.577Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 39
+   "events": 40
   },
   {
    "id": "skiddle:The-Joiners",
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 25
+   "events": 26
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 278
+   "events": 281
   },
   {
    "id": "ticketmaster",
@@ -174,15 +174,15 @@
    "address": "Bedford Place, Southampton"
   },
   {
-   "id": "circuit",
-   "name": "Circuit",
-   "postcode": "SO14 7FN",
-   "address": "Southampton"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
+   "id": "circuit",
+   "name": "Circuit",
+   "postcode": "SO14 7FN",
    "address": "Southampton"
   },
   {
@@ -498,6 +498,12 @@
    "address": null
   },
   {
+   "id": "orange-rooms-southampton",
+   "name": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -508,12 +514,6 @@
    "name": "Tudor House & Garden",
    "postcode": "SO14 2AD",
    "address": "Bugle St, Southampton SO14 2AD"
-  },
-  {
-   "id": "orange-rooms-southampton",
-   "name": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "caf-parfait",
@@ -568,6 +568,12 @@
    "name": "University of Southampton Highfield Campus",
    "postcode": "SO17 1BJ",
    "address": "University Rd, Southampton SO17 1BJ"
+  },
+  {
+   "id": "goals-millbrook-southampton",
+   "name": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "address": "Third Ave, Millbrook, Southampton SO15 0JW"
   },
   {
    "id": "medbar-southampton",
@@ -9992,6 +9998,31 @@
    "source": "ticketmaster"
   },
   {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42719287",
+   "artist": "Stand up comedy with headliner Laura Belbin",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-09-19",
+   "time": "19:45",
+   "price": 14.5,
+   "priceMax": 14.5,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/2/7/2335815_195610cd_stand-up-comedy-with-headliner-laura-belbin_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-with-headliner-Laura-Belbin/42719287/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-with-headliner-Laura-Belbin/42719287/",
+   "going": 0,
+   "minage": "16",
+   "desc": "Laura Belbin & Friends for a night of Stand up comedy in Southampton- Saturday 19th September",
+   "source": "skiddle"
+  },
+  {
    "type": "club",
    "tags": [
     "emo",
@@ -16954,7 +16985,8 @@
    "going": 152,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-07T18:31:40.934Z"
   },
   {
    "type": "club",
@@ -22847,6 +22879,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42719298",
+   "artist": "Reggaeton Party (Southampton) November 2026",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-11-21",
+   "time": "22:30",
+   "price": 7,
+   "priceMax": 9,
+   "priceText": "£7–£9",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/e/c/2335826_d303aa2b_reggaeton-party-southampton-november-2026_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-November-2026/42719298/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-November-2026/42719298/",
+   "going": 0,
+   "minage": "18",
+   "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -29032,6 +29087,52 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-f7103712-4e1",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U8/U9/U10 - SAT 26TH JUNE 2027 - 10AM - 12PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "10:00",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4c8dbcc2-eb8",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "12:30",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
