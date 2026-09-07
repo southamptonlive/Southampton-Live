@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-07T12:35:40.113Z",
+ "generated": "2026-09-07T15:28:51.890Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 277
+   "events": 278
   },
   {
    "id": "ticketmaster",
@@ -174,15 +174,15 @@
    "address": "Bedford Place, Southampton"
   },
   {
-   "id": "circuit",
-   "name": "Circuit",
-   "postcode": "SO14 7FN",
-   "address": "Southampton"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
+   "id": "circuit",
+   "name": "Circuit",
+   "postcode": "SO14 7FN",
    "address": "Southampton"
   },
   {
@@ -771,9 +771,9 @@
    "postcode": "SO14 7FP",
    "date": "2026-09-09",
    "time": "19:00",
-   "price": 22,
+   "price": 13.75,
    "priceMax": 48.4,
-   "priceText": "£22–£48.40",
+   "priceText": "£13.75–£48.40",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/20s-30s-singles-night-at-turtle-bay-southampton-love-at-first-sign",
@@ -16936,7 +16936,7 @@
   {
    "type": "club",
    "tags": [],
-   "hot": true,
+   "hot": false,
    "id": "sk-42666273",
    "artist": "Puzzle: Jamback, Mella Dee, Cam Stockman & LiLi",
    "venueId": "circuit",
@@ -16951,11 +16951,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 142,
+   "going": 149,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-04T15:29:20.437Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -19474,6 +19473,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-1a66cf68-8e5",
+   "artist": "Halloween Singles Party at Turtle Bay Southampton| Love at First Sign",
+   "venueId": "turtle-bay-southampton",
+   "venueName": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "price": 22,
+   "priceMax": 48.4,
+   "priceText": "£22–£48.40",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/halloween-singles-party-at-turtle-bay-southampton-love-at-first-sign",
+   "infoUrl": "https://www.fatsoma.com/e/halloween-singles-party-at-turtle-bay-southampton-love-at-first-sign",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
