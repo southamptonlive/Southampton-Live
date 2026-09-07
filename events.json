@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-07T00:39:53.201Z",
+ "generated": "2026-09-07T03:29:43.925Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 445
+   "events": 456
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 278
+   "events": 275
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 237
+   "events": 236
   }
  ],
  "venues": [
@@ -256,6 +256,12 @@
    "name": "Concorde Club",
    "postcode": "SO50 9HQ",
    "address": "Stoneham Lane"
+  },
+  {
+   "id": "vinilo",
+   "name": "Vinilo",
+   "postcode": "SO14 3BL",
+   "address": "43 - 47 Queensway"
   },
   {
    "id": "mast",
@@ -10305,6 +10311,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43214212",
+   "artist": "A Skylit Drive",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-09-20",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "punk",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43214212-a-skylit-drive-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43214212-a-skylit-drive-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QLMaQW7pGZZJn_Rz",
    "artist": "A Skylit Drive / Vampires Everywhere - POSTPONED",
    "venueId": "the-1865",
@@ -10399,6 +10428,31 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "soul"
+   ],
+   "hot": false,
+   "id": "sg-43301222",
+   "artist": "Warrior Soul",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-09-21",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "jazz",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43301222-warrior-soul-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43301222-warrior-soul-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -10525,6 +10579,29 @@
    "desc": "The Ibiza White Party hits EngineRooms this September!",
    "source": "skiddle",
    "_carriedSince": "2026-09-06T09:27:17.434Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43108928",
+   "artist": "Cold",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43108928-cold-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43108928-cold-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -16305,7 +16382,30 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-1AdFZ_kGkR-kOn_",
+   "id": "sg-43293215",
+   "artist": "Lady Leshurr",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-15",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43293215-lady-leshurr-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43293215-lady-leshurr-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43109417",
    "artist": "Hayseed Dixie",
    "venueId": "brook",
    "venueName": "The Brook",
@@ -16316,13 +16416,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/8b8/27f05e9c-a9e0-4bdb-b0df-733e6bc0e8b8_SOURCE",
-   "ticketUrl": "https://www.ticketweb.uk/event/hayseed-dixie-the-brook-tickets/14777493?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/hayseed-dixie-the-brook-tickets/14777493?REFERRAL_ID=tmfeed",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43109417-hayseed-dixie-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43109417-hayseed-dixie-at-brook",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "club",
@@ -16424,6 +16524,29 @@
    "desc": "Nu metal vs pop punk! Two iconic sounds go head-to-head at Taking Back Thursdays. Expect huge anthems, throwbacks and all-out chaos at Suburbia!",
    "source": "skiddle",
    "_carriedSince": "2026-09-06T09:27:17.434Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43301246",
+   "artist": "The Howlers",
+   "venueId": "vinilo",
+   "venueName": "Vinilo",
+   "postcode": "SO14 3BL",
+   "date": "2026-10-15",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43301246-howlers-at-vinilo",
+   "infoUrl": "https://www.songkick.com/concerts/43301246-howlers-at-vinilo",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "theatre",
@@ -28398,7 +28521,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-1AdFZ_6GkR4dYWp",
+   "id": "sg-43130954",
    "artist": "Toby Lee",
    "venueId": "brook",
    "venueName": "The Brook",
@@ -28409,13 +28532,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/5a7/a998a888-2d9d-4013-b646-dd74baac45a7_SOURCE",
-   "ticketUrl": "https://www.ticketweb.uk/event/toby-lee-the-brook-tickets/14819593?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/toby-lee-the-brook-tickets/14819593?REFERRAL_ID=tmfeed",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43130954-toby-lee-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43130954-toby-lee-at-brook",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
