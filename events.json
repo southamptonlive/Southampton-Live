@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-07T15:28:51.890Z",
+ "generated": "2026-09-07T18:31:40.934Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -174,15 +174,15 @@
    "address": "Bedford Place, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "circuit",
    "name": "Circuit",
    "postcode": "SO14 7FN",
+   "address": "Southampton"
+  },
+  {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
    "address": "Southampton"
   },
   {
@@ -16951,7 +16951,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 149,
+   "going": 152,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
    "source": "skiddle"
