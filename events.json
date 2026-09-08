@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-07T21:28:14.577Z",
+ "generated": "2026-09-08T00:39:23.314Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 457
+   "events": 455
   },
   {
    "id": "mitc",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 148,
+   "carried": 150,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -498,12 +498,6 @@
    "address": null
   },
   {
-   "id": "orange-rooms-southampton",
-   "name": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -514,6 +508,12 @@
    "name": "Tudor House & Garden",
    "postcode": "SO14 2AD",
    "address": "Bugle St, Southampton SO14 2AD"
+  },
+  {
+   "id": "orange-rooms-southampton",
+   "name": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "caf-parfait",
@@ -601,29 +601,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43011454",
-   "artist": "Los Endos - Ultimate Genesis",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-07",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43011454-los-endos-ultimate-genesis-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43011454-los-endos-ultimate-genesis-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
   {
    "type": "gig",
    "tags": [],
@@ -13151,29 +13128,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
    "infoUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43367749",
-   "artist": "Charlie Smith",
-   "venueId": "loft",
-   "venueName": "The Loft",
-   "postcode": "SO15 2EH",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43367749-charlie-smith-at-loft",
-   "infoUrl": "https://www.songkick.com/concerts/43367749-charlie-smith-at-loft",
    "going": 0,
    "minage": null,
    "desc": null,
