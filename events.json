@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-08T06:34:21.300Z",
+ "generated": "2026-09-08T09:30:25.311Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -93,7 +93,7 @@
    "label": "Music in the City (musicinthecity.org)",
    "url": "https://musicinthecity.org/full-listings-2026",
    "ok": true,
-   "events": 238
+   "events": 237
   },
   {
    "id": "mayflower",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 235
+   "events": 237
   }
  ],
  "venues": [
@@ -498,6 +498,12 @@
    "address": null
   },
   {
+   "id": "orange-rooms-southampton",
+   "name": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -508,12 +514,6 @@
    "name": "Tudor House & Garden",
    "postcode": "SO14 2AD",
    "address": "Bugle St, Southampton SO14 2AD"
-  },
-  {
-   "id": "orange-rooms-southampton",
-   "name": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "caf-parfait",
@@ -1625,34 +1625,6 @@
   {
    "type": "gig",
    "tags": [
-    "indie rock",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-helicopter-pirates-heartbreakers",
-   "artist": "Helicopter Pirates",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-12",
-   "time": "12:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "indie",
-   "img": "https://musicinthecity.org/slir/w600/venues/heartbreakers.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
     "rock",
     "music in the city",
     "free entry"
@@ -2309,34 +2281,6 @@
    "priceText": "Free",
    "genre": "indie",
    "img": "https://musicinthecity.org/slir/w600/venues/funky-flamingo.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "fusion",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-ibz-da-goats-heartbreakers",
-   "artist": "Ibz & Da Goats",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-12",
-   "time": "13:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "indie",
-   "img": "https://musicinthecity.org/slir/w600/venues/heartbreakers.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -3093,6 +3037,34 @@
    "priceText": "Free",
    "genre": "electronic",
    "img": "https://musicinthecity.org/slir/w600/venues/funky-flamingo.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
+   "source": "mitc",
+   "noFuzzyMerge": true
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "indie rock",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-helicopter-pirates-heartbreakers",
+   "artist": "Helicopter Pirates",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-12",
+   "time": "14:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "indie",
+   "img": "https://musicinthecity.org/slir/w600/venues/heartbreakers.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -16923,11 +16895,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 152,
+   "going": 153,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-07T18:31:40.934Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -19911,14 +19882,14 @@
    "date": "2026-10-31",
    "time": "23:00",
    "price": 10,
-   "priceMax": 10,
-   "priceText": null,
+   "priceMax": 20,
+   "priceText": "£10–£20",
    "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/a/2204257_22b5af8c_on-a-mission-halloween_1024.jpg",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/a/2204257_9b7c1c27_on-a-mission-halloween_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/",
    "going": 122,
-   "minage": null,
+   "minage": "18",
    "desc": "The south Coasts biggest halloween Drum & Bass Party is back !",
    "source": "skiddle"
   },
@@ -25430,6 +25401,29 @@
   },
   {
    "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QtlUCbX32fV-o3Y1",
+   "artist": "Not A Band + Prof. Elemental",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/50a/fa9caa1f-73a1-411e-b507-ec56fa59650a_106061_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/not-a-band-prof-elemental-tickets-M9LFVP?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/not-a-band-prof-elemental-tickets-M9LFVP?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
    "tags": [
     "xmas"
    ],
@@ -27471,6 +27465,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1kGOvPawGA1A8xN",
+   "artist": "Signs of the Swarm",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-03-06",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/952/eac63340-5d08-4558-9d70-c4632a870952_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/signs-of-the-swarm-the-brook-tickets/14306174?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/signs-of-the-swarm-the-brook-tickets/14306174?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
