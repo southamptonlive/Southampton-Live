@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-08T00:39:23.314Z",
+ "generated": "2026-09-08T03:29:18.678Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 236
+   "events": 235
   }
  ],
  "venues": [
