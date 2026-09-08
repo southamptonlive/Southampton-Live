@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-08T18:33:14.053Z",
+ "generated": "2026-09-08T21:26:32.352Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,13 +100,13 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 61
+   "events": 60
   },
   {
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 151,
+   "carried": 152,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -696,29 +696,6 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-ballad-of-johnny-june-2026-09-08",
-   "artist": "The Ballad of Johnny & June",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-08",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "gig",
