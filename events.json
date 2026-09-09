@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-09T18:32:31.863Z",
+ "generated": "2026-09-09T21:27:18.212Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 25
+   "events": 26
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 60
+   "events": 58
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 287
+   "events": 288
   },
   {
    "id": "ticketmaster",
@@ -594,6 +594,12 @@
    "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
+   "id": "mile-high-southampton",
+   "name": "Mile High Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
    "id": "the-edge-the-box-bar",
    "name": "The Edge & The Box Bar",
    "postcode": "SO14 0BH",
@@ -680,52 +686,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-ballad-of-johnny-june-2026-09-09",
-   "artist": "The Ballad of Johnny & June",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-09",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-pianist-2026-09-09",
-   "artist": "The Pianist",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-09",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "comedy",
@@ -13919,6 +13879,31 @@
   },
   {
    "type": "club",
+   "tags": [
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-c1b32994-f74",
+   "artist": "La Casa Loca X Mile High",
+   "venueId": "mile-high-southampton",
+   "venueName": "Mile High Southampton",
+   "postcode": "SO15 2EJ",
+   "date": "2026-10-03",
+   "time": "21:00",
+   "price": 7,
+   "priceMax": 13.2,
+   "priceText": "£7–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/la-casa-loca-x-mile-high",
+   "infoUrl": "https://www.fatsoma.com/e/la-casa-loca-x-mile-high",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-cf910b0e-ee6",
@@ -16341,6 +16326,31 @@
    "source": "mayflower"
   },
   {
+   "type": "club",
+   "tags": [
+    "country"
+   ],
+   "hot": false,
+   "id": "fat-b6b9cec8-600",
+   "artist": "🤠 COUNTRY LINE DANCING AT MEDBAR 🤠",
+   "venueId": "medbar-southampton",
+   "venueName": "Medbar Southampton",
+   "postcode": "SO14 3DP",
+   "date": "2026-10-15",
+   "time": "18:00",
+   "price": 11,
+   "priceMax": 11,
+   "priceText": null,
+   "genre": "acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/country-line-dancing-at-medbar",
+   "infoUrl": "https://www.fatsoma.com/e/country-line-dancing-at-medbar",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -16992,7 +17002,8 @@
    "going": 158,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T18:32:31.863Z"
   },
   {
    "type": "club",
@@ -27955,6 +27966,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42724346",
+   "artist": "Chris Cantrill Stand up Comedy Tour in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-03-12",
+   "time": "19:45",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/9/d/2338253_7397cd75_chris-cantrill-stand-up-comedy-tour-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Chris-Cantrill-Stand-up-Comedy-Tour-in-Southampton/42724346/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Chris-Cantrill-Stand-up-Comedy-Tour-in-Southampton/42724346/",
+   "going": 0,
+   "minage": "16",
+   "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
+   "source": "skiddle"
   },
   {
    "type": "gig",
