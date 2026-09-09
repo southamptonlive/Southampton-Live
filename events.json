@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-09T00:39:06.146Z",
+ "generated": "2026-09-09T03:29:34.822Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 239
+   "events": 238
   }
  ],
  "venues": [
@@ -10479,6 +10479,29 @@
    "source": "thebrook"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43274436",
+   "artist": "Divorce Attorney",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-22",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43274436-divorce-attorney-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43274436-divorce-attorney-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -10530,7 +10553,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QqyQAVpKxZv1qtIo",
+   "id": "sg-43170069",
    "artist": "The Lemonheads",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -10541,13 +10564,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/658/6a2eb769-43e2-4892-94ac-55a685483658_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/the-lemonheads-tickets-ZYW4PT?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-lemonheads-tickets-ZYW4PT?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43170069-lemonheads-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43170069-lemonheads-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -10571,6 +10594,29 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43227318",
+   "artist": "Big Fear",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-23",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43227318-big-fear-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43227318-big-fear-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "other",
