@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-09T15:30:09.227Z",
+ "generated": "2026-09-09T18:32:31.863Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 457
+   "events": 459
   },
   {
    "id": "mitc",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 152,
+   "carried": 153,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 241
+   "events": 240
   }
  ],
  "venues": [
@@ -12971,7 +12971,8 @@
    "going": 2,
    "minage": "18",
    "desc": "Relive the golden era of emo with a night of classic anthems, giveaways and non-stop pop punk, metal core, nu metal and alt hits.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T15:30:09.227Z"
   },
   {
    "type": "theatre",
@@ -16704,6 +16705,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-42888293",
+   "artist": "Walter Trout",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42888293-walter-trout-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/42888293-walter-trout-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43299015",
    "artist": "Downpour",
    "venueId": "heartbreakers",
@@ -16741,29 +16765,6 @@
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-1adFZbU8spvZdCCe",
-   "artist": "Walter Trout",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-16",
-   "time": "20:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/walter-trout-the-brook-tickets/14666783?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/walter-trout-the-brook-tickets/14666783?REFERRAL_ID=tmfeed",
    "going": null,
    "minage": null,
    "desc": null,
@@ -16988,11 +16989,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 156,
+   "going": 158,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T09:31:06.442Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -26742,6 +26742,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43406146",
+   "artist": "Modern Woman",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-02-02",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43406146-modern-woman-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43406146-modern-woman-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43238553",
    "artist": "Tool Shed",
    "venueId": "the-1865",
@@ -28914,7 +28937,7 @@
    "venueName": "The 1865",
    "postcode": "SO14 3AR",
    "date": "2027-05-18",
-   "time": "19:30",
+   "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
