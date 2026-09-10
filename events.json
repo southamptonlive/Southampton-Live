@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-10T00:35:50.335Z",
+ "generated": "2026-09-10T03:29:43.320Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -44,14 +44,14 @@
    "label": "Skiddle · Papillon",
    "url": "https://www.skiddle.com/whats-on/Southampton/Papillon/",
    "ok": true,
-   "events": 2
+   "events": 4
   },
   {
    "id": "skiddle:The-Attic-Southampton",
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 10
+   "events": 26
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -65,7 +65,7 @@
    "label": "Skiddle · Southampton gigs",
    "url": "https://www.skiddle.com/gigs/Southampton/",
    "ok": true,
-   "events": 0
+   "events": 24
   },
   {
    "id": "skiddle:clubs",
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 17,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 17
   },
   {
    "id": "songkick:metro",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 154,
+   "carried": 153,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 240
+   "events": 239
   }
  ],
  "venues": [
@@ -192,6 +192,12 @@
    "address": "466 Portswood Road, Southampton"
   },
   {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
+  },
+  {
    "id": "totton-rec-club",
    "name": "Totton Rec Club",
    "postcode": "SO40 9DS",
@@ -208,12 +214,6 @@
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -614,29 +614,6 @@
  ],
  "events": [
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43267593",
-   "artist": "Famous Monsters",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-10",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -659,8 +636,30 @@
    "going": 0,
    "minage": null,
    "desc": "Lloyd Griffith's \"Pardon\" work in progress Comedy in Southampton Thursday 10th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43267593",
+   "artist": "Famous Monsters",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-09-10",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
@@ -947,8 +946,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -971,8 +969,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -8178,8 +8175,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -8631,29 +8627,6 @@
    "source": "fatsoma"
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43115051",
-   "artist": "Sofia",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
    "type": "comedy",
    "tags": [
     "open mic",
@@ -8677,8 +8650,30 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 16th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43115051",
+   "artist": "Sofia",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
@@ -8997,8 +8992,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9431,8 +9425,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "comedy",
@@ -9458,8 +9451,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10053,8 +10045,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Laura Belbin & Friends for a night of Stand up comedy in Southampton- Saturday 19th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10757,8 +10748,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10900,8 +10890,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11459,8 +11448,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -12120,8 +12108,7 @@
    "going": 0,
    "minage": null,
    "desc": "The Noise Next Door \"Comedy, Improvised\" at The Attic in Southampton comedy Saturday 26th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13177,29 +13164,6 @@
    "source": "songkick"
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43041654",
-   "artist": "Laibach",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -13222,8 +13186,30 @@
    "going": 0,
    "minage": null,
    "desc": "British Comedian of the year - Thursday 1st October at The Attic in Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43041654",
+   "artist": "Laibach",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
@@ -13420,6 +13406,31 @@
    "source": "mayflower"
   },
   {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42437561",
+   "artist": "Stephen K Amos & Friends Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-10-02",
+   "time": "19:00",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/a/0/2268370_83bd766c_stephen-k-amos-friends-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
+   "going": 0,
+   "minage": null,
+   "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
+   "source": "skiddle"
+  },
+  {
    "type": "gig",
    "tags": [
     "indie"
@@ -13512,32 +13523,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42437561",
-   "artist": "Stephen K Amos & Friends Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/a/0/2268370_83bd766c_stephen-k-amos-friends-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
-   "going": 0,
-   "minage": null,
-   "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -14149,6 +14134,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sk-42138768",
+   "artist": "Stereo MCs",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-03",
+   "time": "19:00",
+   "price": 25.2,
+   "priceMax": 25.2,
+   "priceText": null,
+   "genre": "hiphop",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/e/a/2213568_18964588_Stereo-MCs_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
+   "going": 0,
+   "minage": "14",
+   "desc": "JOY. Present Stereo MCs 03 October 2026 Papillon, Southampton 7pm-10pm 14+ (U16s accompanied)",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43174277",
    "artist": "Hairforce 5",
    "venueId": "brook",
@@ -14192,29 +14200,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43072748",
-   "artist": "Stereo MCs",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-03",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "hiphop",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43072748-stereo-mcs-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43072748-stereo-mcs-at-papillon",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "other",
@@ -17078,29 +17063,6 @@
    "_carriedSince": "2026-09-09T09:31:06.442Z"
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43177572",
-   "artist": "The Smyths",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -17123,8 +17085,30 @@
    "going": 0,
    "minage": null,
    "desc": "Milo Edwards: Catamaran tour stand up comedy in Southampton Friday 16th October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43177572",
+   "artist": "The Smyths",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "theatre",
@@ -21748,8 +21732,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21913,8 +21896,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -22814,8 +22796,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -25349,8 +25330,7 @@
    "going": 0,
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -25810,8 +25790,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -25933,8 +25912,7 @@
    "going": 0,
    "minage": null,
    "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -25957,8 +25935,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26108,29 +26085,6 @@
   },
   {
    "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43403739",
-   "artist": "Professor Elemental",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
    "tags": [
     "tribute"
    ],
@@ -26152,8 +26106,30 @@
    "going": 0,
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43403739",
+   "artist": "Professor Elemental",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -26201,8 +26177,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -27196,8 +27171,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27314,8 +27288,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27621,8 +27594,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -28279,8 +28251,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -28466,8 +28437,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -28539,8 +28509,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -29320,8 +29289,7 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -29964,8 +29932,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T21:27:18.212Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
