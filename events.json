@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-09T21:27:18.212Z",
+ "generated": "2026-09-10T00:35:50.335Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -44,14 +44,14 @@
    "label": "Skiddle · Papillon",
    "url": "https://www.skiddle.com/whats-on/Southampton/Papillon/",
    "ok": true,
-   "events": 4
+   "events": 2
   },
   {
    "id": "skiddle:The-Attic-Southampton",
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 26
+   "events": 10
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -65,7 +65,7 @@
    "label": "Skiddle · Southampton gigs",
    "url": "https://www.skiddle.com/gigs/Southampton/",
    "ok": true,
-   "events": 24
+   "events": 0
   },
   {
    "id": "skiddle:clubs",
@@ -77,23 +77,23 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 17
+   "ok": false,
+   "carried": 17,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 459
+   "events": 457
   },
   {
    "id": "mitc",
    "label": "Music in the City (musicinthecity.org)",
    "url": "https://musicinthecity.org/full-listings-2026",
    "ok": true,
-   "events": 236
+   "events": 238
   },
   {
    "id": "mayflower",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 153,
+   "carried": 154,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 288
+   "events": 306
   },
   {
    "id": "ticketmaster",
@@ -192,12 +192,6 @@
    "address": "466 Portswood Road, Southampton"
   },
   {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
-  },
-  {
    "id": "totton-rec-club",
    "name": "Totton Rec Club",
    "postcode": "SO40 9DS",
@@ -214,6 +208,12 @@
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -594,16 +594,16 @@
    "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
-   "id": "mile-high-southampton",
-   "name": "Mile High Southampton",
-   "postcode": "SO15 2EJ",
-   "address": "Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
    "id": "the-edge-the-box-bar",
    "name": "The Edge & The Box Bar",
    "postcode": "SO14 0BH",
    "address": "Compton Walk, Southampton SO14 0BH"
+  },
+  {
+   "id": "mile-high-southampton",
+   "name": "Mile High Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "level1",
@@ -617,75 +617,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43051401",
-   "artist": "Holy Holy",
+   "id": "sg-43267593",
+   "artist": "Famous Monsters",
    "venueId": "the-1865",
    "venueName": "The 1865",
    "postcode": "SO14 3AR",
-   "date": "2026-09-09",
+   "date": "2026-09-10",
    "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
    "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43051401-holy-holy-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43051401-holy-holy-at-1865",
+   "ticketUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
    "going": 0,
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "other",
-   "tags": [
-    "free entry",
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-b50fa255-56d",
-   "artist": "Karaoke & DJ from 8pm",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-09",
-   "time": "20:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
-   "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-396a12d5-eae",
-   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-09-09",
-   "time": "21:00",
-   "price": 4,
-   "priceMax": 6,
-   "priceText": "£4–£6",
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
-   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "comedy",
@@ -710,30 +659,8 @@
    "going": 0,
    "minage": null,
    "desc": "Lloyd Griffith's \"Pardon\" work in progress Comedy in Southampton Thursday 10th September",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43267593",
-   "artist": "Famous Monsters",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-10",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43267593-famous-monsters-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -778,6 +705,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
    "infoUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-a2e7374b-91d",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-10",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -995,7 +947,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -1018,7 +971,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -1042,6 +996,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-3ea9a9f3-098",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-11",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -3149,6 +3128,34 @@
   {
    "type": "gig",
    "tags": [
+    "singer songwriter",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-jake-tilley-raven-bine",
+   "artist": "Jake Tilley",
+   "venueId": "raven-bine",
+   "venueName": "Raven & Bine",
+   "postcode": "SO15 2DY",
+   "date": "2026-09-12",
+   "time": "14:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "acoustic",
+   "img": "https://musicinthecity.org/slir/w600/venues/Raven&amp;Bine2025.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
+   "source": "mitc",
+   "noFuzzyMerge": true
+  },
+  {
+   "type": "gig",
+   "tags": [
     "folk",
     "music in the city",
     "free entry"
@@ -3194,6 +3201,34 @@
    "priceText": "Free",
    "genre": "indie",
    "img": "https://musicinthecity.org/slir/w600/venues/r2s-external-landscape.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
+   "source": "mitc",
+   "noFuzzyMerge": true
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "rock n roll, blues & pop",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-high-mileage-slug-and-lettuce",
+   "artist": "High Mileage",
+   "venueId": "slug-and-lettuce",
+   "venueName": "Slug and Lettuce",
+   "postcode": "SO14 7FG",
+   "date": "2026-09-12",
+   "time": "14:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "jazz",
+   "img": "https://musicinthecity.org/slir/w600/venues/Outside_1.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -7607,6 +7642,29 @@
    "noFuzzyMerge": true
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-71c4da3f-883",
+   "artist": "The Big One - Cocktails 2-4-1",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-12",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [
     "indie/folk",
@@ -8120,7 +8178,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -8143,6 +8202,32 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/full-moon-party-13th-september",
    "infoUrl": "https://www.fatsoma.com/e/full-moon-party-13th-september",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-955eb97c-109",
+   "artist": "Karaoke Sundays - FREE ENTRY B4 MIDNIGHT",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-13",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/karaoke-sundays-free-entry-b4-midnight",
+   "infoUrl": "https://www.fatsoma.com/e/karaoke-sundays-free-entry-b4-midnight",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -8473,6 +8558,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-51f65f74-5e6",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-15",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "freshers"
    ],
@@ -8523,6 +8631,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43115051",
+   "artist": "Sofia",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-09-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "comedy",
    "tags": [
     "open mic",
@@ -8546,30 +8677,8 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 16th September",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43115051",
-   "artist": "Sofia",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43115051-sofia-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -8615,6 +8724,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
    "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-ee3b9ef4-1c0",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-16",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -8863,7 +8997,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -8982,6 +9117,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
    "infoUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-fd7c61c5-bce",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-17",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -9271,7 +9431,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "comedy",
@@ -9297,7 +9458,33 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-c07eb097-f9d",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-18",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -9866,7 +10053,31 @@
    "going": 0,
    "minage": "16",
    "desc": "Laura Belbin & Friends for a night of Stand up comedy in Southampton- Saturday 19th September",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-afd313a7-4f6",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-19",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -10280,6 +10491,32 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-72b8c3bc-1c6",
+   "artist": "🎤 Karaoke Give Away! - WIN a 32\" TV 📺",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-20",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/karaoke-give-away-win-a-32-tv",
+   "infoUrl": "https://www.fatsoma.com/e/karaoke-give-away-win-a-32-tv",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -10520,7 +10757,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -10544,6 +10782,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-0f0c7afa-4a3",
+   "artist": "💥Pounded Tuesday - £1 Drinks & Free Donuts! 🍩",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-22",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesday-1-drinks-free-donuts",
+   "infoUrl": "https://www.fatsoma.com/e/pounded-tuesday-1-drinks-free-donuts",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -10637,7 +10900,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -10683,6 +10947,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
    "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-8fe15aa5-5b7",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-23",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -10901,6 +11190,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/let-s-get-trollied-wtd-thursdays",
    "infoUrl": "https://www.fatsoma.com/e/let-s-get-trollied-wtd-thursdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-24c13555-bb1",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -11145,7 +11459,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -11192,6 +11507,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-5015d81f-ada",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-25",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -11780,7 +12120,8 @@
    "going": 0,
    "minage": null,
    "desc": "The Noise Next Door \"Comedy, Improvised\" at The Attic in Southampton comedy Saturday 26th September",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -11804,6 +12145,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-93ce124d-00f",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-26",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -12264,6 +12628,32 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-361405e5-f03",
+   "artist": "🎤 Karaoke Give Away! - WIN URBAN OUTFITTERS GIFT CARDS 🛒",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-27",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/karaoke-give-away-win-urban-outfitters-gift-cards",
+   "infoUrl": "https://www.fatsoma.com/e/karaoke-give-away-win-urban-outfitters-gift-cards",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -12478,6 +12868,29 @@
    "source": "songkick"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-3b4477b4-957",
+   "artist": "💥Pounded Tuesdays - £1 Drinks & Free Chicken Nuggets 🍗",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-29",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks-free-chicken-nuggets",
+   "infoUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks-free-chicken-nuggets",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -12621,6 +13034,31 @@
   {
    "type": "club",
    "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-7fefe73e-95c",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-30",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "freshers"
    ],
@@ -12739,6 +13177,29 @@
    "source": "songkick"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43041654",
+   "artist": "Laibach",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-01",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -12761,30 +13222,8 @@
    "going": 0,
    "minage": null,
    "desc": "British Comedian of the year - Thursday 1st October at The Attic in Southampton",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43041654",
-   "artist": "Laibach",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43041654-laibach-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -12981,31 +13420,6 @@
    "source": "mayflower"
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42437561",
-   "artist": "Stephen K Amos & Friends Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/a/0/2268370_83bd766c_stephen-k-amos-friends-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
-   "going": 0,
-   "minage": null,
-   "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
-   "source": "skiddle"
-  },
-  {
    "type": "gig",
    "tags": [
     "indie"
@@ -13098,6 +13512,32 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42437561",
+   "artist": "Stephen K Amos & Friends Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-10-02",
+   "time": "19:00",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/a/0/2268370_83bd766c_stephen-k-amos-friends-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stephen-K-Amos--Friends-Southampton/42437561/",
+   "going": 0,
+   "minage": null,
+   "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -13709,30 +14149,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sk-42138768",
-   "artist": "Stereo MCs",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-03",
-   "time": "19:00",
-   "price": 25.2,
-   "priceMax": 25.2,
-   "priceText": null,
-   "genre": "hiphop",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/e/a/2213568_18964588_Stereo-MCs_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stereo-MCs/42138768/",
-   "going": 6,
-   "minage": "14",
-   "desc": "JOY. Present Stereo MCs 03 October 2026 Papillon, Southampton 7pm-10pm 14+ (U16s accompanied)",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-09T09:31:06.442Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43174277",
    "artist": "Hairforce 5",
    "venueId": "brook",
@@ -13776,6 +14192,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43072748",
+   "artist": "Stereo MCs",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-03",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "hiphop",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43072748-stereo-mcs-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43072748-stereo-mcs-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "other",
@@ -14539,6 +14978,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-a29a607a-d28",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-10-06",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "theatre",
@@ -16332,7 +16794,7 @@
    ],
    "hot": false,
    "id": "fat-b6b9cec8-600",
-   "artist": "🤠 COUNTRY LINE DANCING AT MEDBAR 🤠",
+   "artist": "🤠 COUNTRY LINE DANCING CLASS AT MEDBAR 🤠",
    "venueId": "medbar-southampton",
    "venueName": "Medbar Southampton",
    "postcode": "SO14 3DP",
@@ -16343,8 +16805,8 @@
    "priceText": null,
    "genre": "acoustic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/country-line-dancing-at-medbar",
-   "infoUrl": "https://www.fatsoma.com/e/country-line-dancing-at-medbar",
+   "ticketUrl": "https://www.fatsoma.com/e/country-line-dancing-class-at-medbar",
+   "infoUrl": "https://www.fatsoma.com/e/country-line-dancing-class-at-medbar",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -16616,6 +17078,29 @@
    "_carriedSince": "2026-09-09T09:31:06.442Z"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43177572",
+   "artist": "The Smyths",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -16638,30 +17123,8 @@
    "going": 0,
    "minage": null,
    "desc": "Milo Edwards: Catamaran tour stand up comedy in Southampton Friday 16th October",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43177572",
-   "artist": "The Smyths",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43177572-smyths-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "theatre",
@@ -16715,29 +17178,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-42888293",
-   "artist": "Walter Trout",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-16",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42888293-walter-trout-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/42888293-walter-trout-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43299015",
    "artist": "Downpour",
    "venueId": "heartbreakers",
@@ -16775,6 +17215,29 @@
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1adFZbU8spvZdCCe",
+   "artist": "Walter Trout",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/walter-trout-the-brook-tickets/14666783?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/walter-trout-the-brook-tickets/14666783?REFERRAL_ID=tmfeed",
    "going": null,
    "minage": null,
    "desc": null,
@@ -21285,7 +21748,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -21449,7 +21913,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -22349,7 +22814,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -24883,7 +25349,8 @@
    "going": 0,
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -25343,7 +25810,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -25465,7 +25933,8 @@
    "going": 0,
    "minage": null,
    "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -25488,7 +25957,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -25638,6 +26108,29 @@
   },
   {
    "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43403739",
+   "artist": "Professor Elemental",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
    "tags": [
     "tribute"
    ],
@@ -25659,30 +26152,8 @@
    "going": 0,
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43403739",
-   "artist": "Professor Elemental",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43403739-professor-elemental-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -25730,7 +26201,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "club",
@@ -26724,7 +27196,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -26841,7 +27314,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -27147,7 +27621,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -27804,7 +28279,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -27990,7 +28466,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -28062,7 +28539,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -28842,7 +29320,8 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
@@ -29485,7 +29964,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-09T21:27:18.212Z"
   },
   {
    "type": "gig",
