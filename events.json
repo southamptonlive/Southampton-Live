@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-10T12:35:23.552Z",
+ "generated": "2026-09-10T15:30:00.151Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 43
+   "events": 44
   },
   {
    "id": "skiddle:The-Joiners",
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 155,
+   "carried": 156,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 308
+   "events": 311
   },
   {
    "id": "ticketmaster",
@@ -8382,6 +8382,32 @@
    "desc": "The Big Freshers Icebreaker hits EngineRooms Southampton this Monday September 14th!",
    "source": "skiddle",
    "_carriedSince": "2026-09-10T09:30:16.490Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-5bfc02f8-04c",
+   "artist": "Southampton Independent Student Fair",
+   "venueId": "hobbit",
+   "venueName": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-14",
+   "time": "14:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-independent-student-fair",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-independent-student-fair",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -19203,6 +19229,32 @@
   {
    "type": "club",
    "tags": [
+    "house",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-42726886",
+   "artist": "A Mala Casa Halloween",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "price": 14,
+   "priceMax": 14,
+   "priceText": null,
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/4/7/2339186_d0d04246_a-mala-casa-halloween_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
+   "source": "skiddle"
+  },
+  {
+   "type": "club",
+   "tags": [
     "halloween"
    ],
    "hot": false,
@@ -20165,6 +20217,32 @@
   },
   {
    "type": "club",
+   "tags": [
+    "free entry",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-b9d37598-e0e",
+   "artist": "CASE FILE 16 - FRIDAY NIGHT",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-30",
+   "time": "21:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/case-file-16-friday-night",
+   "infoUrl": "https://www.fatsoma.com/e/case-file-16-friday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "sk-42157226",
@@ -20529,6 +20607,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/loose-x-ritmo-halloween-party",
    "infoUrl": "https://www.fatsoma.com/e/loose-x-ritmo-halloween-party",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-33825b24-836",
+   "artist": "CASE FILE 16 - HALLOWEEN",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "price": 5,
+   "priceMax": 7,
+   "priceText": "£5–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/case-file-16-halloween",
+   "infoUrl": "https://www.fatsoma.com/e/case-file-16-halloween",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -27847,7 +27950,7 @@
    ],
    "hot": true,
    "id": "sk-42673629",
-   "artist": "CATSEYE | EngineRooms Southampton",
+   "artist": "CATSEYE | EngineRooms, Southampton",
    "venueId": "engine",
    "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
@@ -27860,11 +27963,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/0/2325375_68ac1e5a_catseye-enginerooms-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/CATSEYE--EngineRooms-Southampton/42673629/",
-   "going": 48,
+   "going": 49,
    "minage": "4",
    "desc": "CATSEYE: the ultimate KATSEYE tribute experience live at EngineRooms, Southampton on Saturday 20th February 2027. All the hits, and fierce energy.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-10T09:30:16.490Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
