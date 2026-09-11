@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-11T18:31:51.013Z",
+ "generated": "2026-09-11T21:26:47.739Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 24
+   "events": 25
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 17
+   "ok": false,
+   "carried": 17,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 56
+   "events": 54
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 310
+   "events": 309
   },
   {
    "id": "ticketmaster",
@@ -174,15 +174,15 @@
    "address": "Bedford Place, Southampton"
   },
   {
-   "id": "circuit",
-   "name": "Circuit",
-   "postcode": "SO14 7FN",
-   "address": "Southampton"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
+   "id": "circuit",
+   "name": "Circuit",
+   "postcode": "SO14 7FN",
    "address": "Southampton"
   },
   {
@@ -190,12 +190,6 @@
    "name": "The Brook",
    "postcode": "SO17 3QF",
    "address": "466 Portswood Road, Southampton"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "totton-rec-club",
@@ -214,6 +208,12 @@
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -687,29 +687,6 @@
    "_carriedSince": "2026-09-08T15:31:46.683Z"
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-b612cfa1-0da",
-   "artist": "Late Night Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/late-night-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/late-night-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -753,7 +730,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -776,7 +754,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -927,52 +906,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-ballad-of-johnny-june-2026-09-11",
-   "artist": "The Ballad of Johnny & June",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-11",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-pianist-2026-09-11",
-   "artist": "The Pianist",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-11",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -7954,7 +7887,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "club",
@@ -8797,7 +8731,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -9230,7 +9165,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -10576,7 +10512,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -10718,7 +10655,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -11276,7 +11214,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -14982,6 +14921,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42734084",
+   "artist": "Comedy Improv in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-10-07",
+   "time": "19:30",
+   "price": 35,
+   "priceMax": 35,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/0/4/2341663_68805152_comedy-improv-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Comedy-Improv-in-Southampton/42734084/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Comedy-Improv-in-Southampton/42734084/",
+   "going": 0,
+   "minage": null,
+   "desc": "Comedy Improv, Southampton, Hampshire at The Attic - Wednesday 7th October",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22026,7 +21990,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "club",
@@ -22898,7 +22863,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -26080,7 +26046,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -26322,7 +26289,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "club",
@@ -27340,7 +27308,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -27457,7 +27426,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -27764,7 +27734,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -28421,7 +28392,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
@@ -28679,7 +28651,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-11T18:31:51.013Z"
   },
   {
    "type": "gig",
