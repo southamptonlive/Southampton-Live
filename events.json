@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-11T12:34:34.197Z",
+ "generated": "2026-09-11T15:28:59.822Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -106,7 +106,7 @@
    "id": "skiddle:api",
    "label": "Skiddle official API",
    "ok": false,
-   "carried": 155,
+   "carried": 156,
    "error": "skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret"
   },
   {
@@ -17328,7 +17328,8 @@
    "going": 162,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-11T12:34:34.197Z"
   },
   {
    "type": "club",
