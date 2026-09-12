@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-11T21:26:47.739Z",
+ "generated": "2026-09-12T00:34:29.756Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,23 +77,23 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 17,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 17
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 471
+   "events": 466
   },
   {
    "id": "mitc",
    "label": "Music in the City (musicinthecity.org)",
    "url": "https://musicinthecity.org/full-listings-2026",
    "ok": true,
-   "events": 237
+   "events": 235
   },
   {
    "id": "mayflower",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 309
+   "events": 308
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 244
+   "events": 241
   }
  ],
  "venues": [
@@ -192,28 +192,16 @@
    "address": "466 Portswood Road, Southampton"
   },
   {
-   "id": "totton-rec-club",
-   "name": "Totton Rec Club",
-   "postcode": "SO40 9DS",
-   "address": null
-  },
-  {
-   "id": "platform-tavern",
-   "name": "Platform Tavern",
-   "postcode": "SO14 2NY",
-   "address": "Town Quay"
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "mayflower",
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -613,300 +601,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42605513",
-   "artist": "The Jam'd",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42605513-jamd-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/42605513-jamd-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43202845",
-   "artist": "DiElle",
-   "venueId": "totton-rec-club",
-   "venueName": "Totton Rec Club",
-   "postcode": "SO40 9DS",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43202845-dielle-at-totton-rec-club",
-   "infoUrl": "https://www.songkick.com/concerts/43202845-dielle-at-totton-rec-club",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "garage",
-    "house"
-   ],
-   "hot": false,
-   "id": "sk-42470758",
-   "artist": "Minimal Eventss 16+",
-   "venueId": "attic",
-   "venueName": "The Attic",
-   "postcode": "SO40 9HQ",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "price": 8,
-   "priceMax": 12,
-   "priceText": "£8–£12",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/6/2275519_97903ce0_minimal-eventss-16-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Southampton%2C-The-Attic/Minimal-Eventss-16/42470758/",
-   "going": 162,
-   "minage": "16",
-   "desc": "Pop Up Event - House & Garage All Night Long",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-08T15:31:46.683Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-17GOv0G6CkiEOJg",
-   "artist": "Genitorturers @ the Joiners",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-09-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://s1.ticketm.net/dam/a/fe2/79f8a54f-3569-47bc-b082-64beb8ffafe2_SOURCE",
-   "ticketUrl": "https://www.ticketweb.uk/event/genitorturers-the-joiners-the-joiners-tickets/14232434?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/genitorturers-the-joiners-the-joiners-tickets/14232434?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-genitorturers-2026-09-11",
-   "artist": "Genitorturers",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-09-11",
-   "time": "19:30",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://i.ticketweb.com/i/00/12/94/90/44_Original.jpg?v=8",
-   "ticketUrl": "https://www.ticketweb.uk/event/genitorturers-the-joiners-the-joiners-tickets/14232434",
-   "infoUrl": "https://www.the-brook.com/tm-event/genitorturers-the-joiners/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-the-blow-monkeys-2026-09-11",
-   "artist": "The Blow Monkeys",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-09-11",
-   "time": "19:30",
-   "price": 33,
-   "priceMax": 33,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/83/00/84_Original.jpg?v=6",
-   "ticketUrl": "https://www.ticketweb.uk/event/the-blow-monkeys-the-brook-tickets/14106704",
-   "infoUrl": "https://www.the-brook.com/tm-event/the-blow-monkeys/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-1AUZkGfGkdh_xc2",
-   "artist": "Boyband in the Buff starring Gareth Gates",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "date": "2026-09-11",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketmaster.co.uk/boyband-in-the-buff-starring-gareth-southampton-11-09-2026/event/36006314DB662B4F",
-   "infoUrl": "https://www.ticketmaster.co.uk/boyband-in-the-buff-starring-gareth-southampton-11-09-2026/event/36006314DB662B4F",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "fat-3ea9a9f3-098",
-   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-09-11",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
-   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43390303",
-   "artist": "Leonardo Giuliani",
-   "venueId": "platform-tavern",
-   "venueName": "Platform Tavern",
-   "postcode": "SO14 2NY",
-   "date": "2026-09-11",
-   "time": "21:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43390303-leonardo-giuliani-at-platform-tavern",
-   "infoUrl": "https://www.songkick.com/concerts/43390303-leonardo-giuliani-at-platform-tavern",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house",
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-7f5bce95-b51",
-   "artist": "FRIDAY - MIDNIGHT MADDNESS",
-   "venueId": "popworld-southampton",
-   "venueName": "Popworld - Southampton",
-   "postcode": "SO15 2EH",
-   "date": "2026-09-11",
-   "time": "21:00",
-   "price": 0,
-   "priceMax": 4,
-   "priceText": "£0–£4",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
-   "infoUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "hip hop",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-594e43e1-f5a",
-   "artist": "Urban Room Fridays | Upstairs",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-11",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/urban-room-fridays-upstairs",
-   "infoUrl": "https://www.fatsoma.com/e/urban-room-fridays-upstairs",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-3b6bc491-1b5",
-   "artist": "Feel . Good . Friday @ Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-09-11",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 7,
-   "priceText": "£0–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
   {
    "type": "gig",
    "tags": [
@@ -3145,34 +2839,6 @@
   {
    "type": "gig",
    "tags": [
-    "covers",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-the-pop-tarts-the-white-star-tav",
-   "artist": "The Pop Tarts",
-   "venueId": "the-white-star-tavern",
-   "venueName": "The White Star Tavern",
-   "postcode": "SO14 3DJ",
-   "date": "2026-09-12",
-   "time": "14:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "indie",
-   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
     "dj",
     "music in the city",
     "free entry"
@@ -3276,6 +2942,34 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "covers",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-the-pop-tarts-the-white-star-tav",
+   "artist": "The Pop Tarts",
+   "venueId": "the-white-star-tavern",
+   "venueName": "The White Star Tavern",
+   "postcode": "SO14 3DJ",
+   "date": "2026-09-12",
+   "time": "14:15",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "indie",
+   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
+   "source": "mitc",
+   "noFuzzyMerge": true
   },
   {
    "type": "theatre",
@@ -4008,34 +3702,6 @@
   {
    "type": "gig",
    "tags": [
-    "covers",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-mariano-korman-the-white-star-tav",
-   "artist": "Mariano Korman",
-   "venueId": "the-white-star-tavern",
-   "venueName": "The White Star Tavern",
-   "postcode": "SO14 3DJ",
-   "date": "2026-09-12",
-   "time": "15:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "indie",
-   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
     "samba rock & drums",
     "music in the city",
     "free entry"
@@ -4219,6 +3885,34 @@
    "priceText": "Free",
    "genre": "indie",
    "img": "https://musicinthecity.org/slir/w600/venues/LankastersVault2025.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
+   "source": "mitc",
+   "noFuzzyMerge": true
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "covers",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-mariano-korman-the-white-star-tav",
+   "artist": "Mariano Korman",
+   "venueId": "the-white-star-tavern",
+   "venueName": "The White Star Tavern",
+   "postcode": "SO14 3DJ",
+   "date": "2026-09-12",
+   "time": "15:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "indie",
+   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -4870,34 +4564,6 @@
    "noFuzzyMerge": true
   },
   {
-   "type": "theatre",
-   "tags": [
-    "musical theatre",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-tesoro-duo-the-white-star-tav",
-   "artist": "Tesoro Duo",
-   "venueId": "the-white-star-tavern",
-   "venueName": "The White Star Tavern",
-   "postcode": "SO14 3DJ",
-   "date": "2026-09-12",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "indie",
-   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
    "type": "gig",
    "tags": [
     "pop",
@@ -5059,6 +4725,34 @@
    "going": 0,
    "minage": null,
    "desc": "Part of Music in the City — Southampton's free city-wide music festival. A coming together and celebration of the music Andrew loved and the scene he contributed so much to, RIP Andrew",
+   "source": "mitc",
+   "noFuzzyMerge": true
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "singer songwriter",
+    "music in the city",
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mitc-09-12-hobb-lane-the-white-star-tav",
+   "artist": "Hobb Lane",
+   "venueId": "the-white-star-tavern",
+   "venueName": "The White Star Tavern",
+   "postcode": "SO14 3DJ",
+   "date": "2026-09-12",
+   "time": "16:45",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "acoustic",
+   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
+   "ticketUrl": null,
+   "infoUrl": "https://musicinthecity.org/full-listings-2026",
+   "going": 0,
+   "minage": null,
+   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
    "source": "mitc",
    "noFuzzyMerge": true
   },
@@ -5653,34 +5347,6 @@
   {
    "type": "gig",
    "tags": [
-    "singer songwriter",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-hobb-lane-the-white-star-tav",
-   "artist": "Hobb Lane",
-   "venueId": "the-white-star-tavern",
-   "venueName": "The White Star Tavern",
-   "postcode": "SO14 3DJ",
-   "date": "2026-09-12",
-   "time": "17:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "acoustic",
-   "img": "https://musicinthecity.org/slir/w600/venues/white-star_2024_07_02_12_03_46.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
     "classical",
     "music in the city",
     "free entry"
@@ -6006,34 +5672,6 @@
    "priceText": "Free",
    "genre": "indie",
    "img": "https://musicinthecity.org/slir/w600/venues/mamacitas.jpg",
-   "ticketUrl": null,
-   "infoUrl": "https://musicinthecity.org/full-listings-2026",
-   "going": 0,
-   "minage": null,
-   "desc": "Part of Music in the City — Southampton's free city-wide music festival.",
-   "source": "mitc",
-   "noFuzzyMerge": true
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "singer songwriter",
-    "music in the city",
-    "free entry"
-   ],
-   "hot": false,
-   "id": "mitc-09-12-margarita-sleepover-o-neill-s-southamp",
-   "artist": "Margarita Sleepover",
-   "venueId": "o-neill-s-southampton",
-   "venueName": "O'Neill's Southampton",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-12",
-   "time": "18:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "acoustic",
-   "img": "https://musicinthecity.org/slir/w600/venues/MusicInTheCity_O&#039;Neills2025.jpg",
    "ticketUrl": null,
    "infoUrl": "https://musicinthecity.org/full-listings-2026",
    "going": 0,
@@ -7887,8 +7525,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -8731,8 +8368,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -9165,8 +8801,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10512,8 +10147,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -10655,8 +10289,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11214,8 +10847,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21990,8 +21622,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -22863,8 +22494,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26046,8 +25676,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -26289,8 +25918,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -27308,8 +26936,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27426,8 +27053,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -27734,8 +27360,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -28392,8 +28017,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -28651,8 +28275,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-11T18:31:51.013Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
