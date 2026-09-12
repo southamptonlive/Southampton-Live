@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-12T00:34:29.756Z",
+ "generated": "2026-09-12T03:28:11.065Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 308
+   "events": 305
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 241
+   "events": 240
   }
  ],
  "venues": [
