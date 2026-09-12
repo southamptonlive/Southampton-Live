@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-12T15:26:57.152Z",
+ "generated": "2026-09-12T18:28:50.467Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -7648,8 +7648,8 @@
    "date": "2026-09-13",
    "time": "23:00",
    "price": 4.99,
-   "priceMax": 9.99,
-   "priceText": "£4.99–£9.99",
+   "priceMax": 5.99,
+   "priceText": "£4.99–£5.99",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
