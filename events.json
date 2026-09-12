@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-12T18:28:50.467Z",
+ "generated": "2026-09-12T21:27:12.305Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 44
+   "events": 43
   },
   {
    "id": "skiddle:The-Joiners",
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 18
+   "ok": false,
+   "carried": 18,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 55
+   "events": 53
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 304
+   "events": 302
   },
   {
    "id": "ticketmaster",
@@ -186,6 +186,12 @@
    "address": "Southampton"
   },
   {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
+  },
+  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -196,12 +202,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -3900,32 +3900,6 @@
    "noFuzzyMerge": true
   },
   {
-   "type": "club",
-   "tags": [
-    "emo"
-   ],
-   "hot": false,
-   "id": "sk-42447764",
-   "artist": "Elder Emo Day Party in Southampton!",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-09-12",
-   "time": "16:00",
-   "price": 12,
-   "priceMax": 15,
-   "priceText": "£12–£15",
-   "genre": "punk",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/e/2270098_614f1c7f_elder-emo-day-party-in-southampton-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
-   "going": 12,
-   "minage": "25",
-   "desc": "Break out the black eyeliner & band tees Southampton's first ever EMO DAY PARTY is coming for all our elder emos!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T09:27:38.573Z"
-  },
-  {
    "type": "gig",
    "tags": [
     "rock",
@@ -4600,27 +4574,28 @@
   {
    "type": "club",
    "tags": [
-    "free entry"
+    "emo"
    ],
    "hot": false,
-   "id": "fat-69ad54cd-e7e",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
+   "id": "sk-42447764",
+   "artist": "Elder Emo Day Party in Southampton!",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
    "date": "2026-09-12",
    "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
+   "price": 12,
+   "priceMax": 15,
+   "priceText": "£12–£15",
+   "genre": "punk",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/e/e/2270098_614f1c7f_elder-emo-day-party-in-southampton-_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Elder-Emo-Day-Party-in-Southampton/42447764/",
+   "going": 12,
+   "minage": "25",
+   "desc": "Break out the black eyeliner & band tees Southampton's first ever EMO DAY PARTY is coming for all our elder emos!",
+   "source": "skiddle",
+   "_carriedSince": "2026-09-12T09:27:38.573Z"
   },
   {
    "type": "comedy",
@@ -5995,31 +5970,6 @@
    "noFuzzyMerge": true
   },
   {
-   "type": "club",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-0d8c39a4-a89",
-   "artist": "FLEETWOOD MAC XXL TRIBUTE CONCERT | LIVE AT ENGINEROOMS",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-12",
-   "time": "18:00",
-   "price": 22,
-   "priceMax": 88,
-   "priceText": "£22–£88",
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/fleetwood-mac-xxl-tribute-concert-live-at-enginerooms",
-   "infoUrl": "https://www.fatsoma.com/e/fleetwood-mac-xxl-tribute-concert-live-at-enginerooms",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "gig",
    "tags": [
     "rock n roll, blues & pop",
@@ -7391,52 +7341,6 @@
    "noFuzzyMerge": true
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-ballad-of-johnny-june-2026-09-12",
-   "artist": "The Ballad of Johnny & June",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-12",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-ballad-of-johnny-june-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-pianist-2026-09-12",
-   "artist": "The Pianist",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-12",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-pianist-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -7503,7 +7407,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "club",
@@ -8346,7 +8251,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -8779,7 +8685,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -10125,7 +10032,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -10267,7 +10175,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -10825,7 +10734,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -11463,7 +11373,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -11963,7 +11874,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -21624,7 +21536,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "club",
@@ -22523,7 +22436,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -25705,7 +25619,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -25947,7 +25862,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "club",
@@ -26965,7 +26881,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -27082,7 +26999,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -27389,7 +27307,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -28046,7 +27965,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -28304,7 +28224,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
@@ -28957,7 +28878,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-12T18:28:50.467Z"
   },
   {
    "type": "gig",
