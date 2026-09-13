@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T18:29:49.146Z",
+ "generated": "2026-09-13T21:27:02.200Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 18,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 18
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 53
+   "events": 55
   },
   {
    "id": "skiddle:api",
@@ -180,12 +180,6 @@
    "address": "Southampton"
   },
   {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -196,6 +190,12 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -452,8 +452,33 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "tribute",
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-734a87b1-90c",
+   "artist": "FRESHERS TAKEOVER SOUTHAMPTON 2026 ⚡️🚨 90% SOLD OUT 🚨 Official Student Partners with BoohooMAN 👕 FREE T-Shirt with Every Ticket! ⚡Sold Out 15 years Running!",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-13",
+   "time": "22:00",
+   "price": 4.99,
+   "priceMax": 7.99,
+   "priceText": "£4.99–£7.99",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
+   "infoUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -578,32 +603,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/last-chance-to-buy-southampton-freshers-welcome-week-official-move-in-party-sold-out-10-years-running-85-sold-out",
    "infoUrl": "https://www.fatsoma.com/e/last-chance-to-buy-southampton-freshers-welcome-week-official-move-in-party-sold-out-10-years-running-85-sold-out",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "tribute",
-    "freshers"
-   ],
-   "hot": false,
-   "id": "fat-734a87b1-90c",
-   "artist": "FRESHERS TAKEOVER SOUTHAMPTON 2026 ⚡️🚨 90% SOLD OUT 🚨 Official Student Partners with BoohooMAN 👕 FREE T-Shirt with Every Ticket! ⚡Sold Out 15 years Running!",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-13",
-   "time": "23:00",
-   "price": 4.99,
-   "priceMax": 7.99,
-   "priceText": "£4.99–£7.99",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
-   "infoUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -892,9 +891,9 @@
    "postcode": "SO14 0JZ",
    "date": "2026-09-15",
    "time": "23:00",
-   "price": 7.99,
+   "price": 6.99,
    "priceMax": 21.99,
-   "priceText": "£7.99–£21.99",
+   "priceText": "£6.99–£21.99",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/freshers-groovy-land-orange-rooms-80-sold-out-southampton-s-biggest-throwback-event",
@@ -1297,8 +1296,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -1734,8 +1732,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -3085,8 +3082,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -3229,8 +3225,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -3766,8 +3761,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -4406,8 +4400,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -4909,8 +4902,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -11066,6 +11058,29 @@
    "source": "mayflower"
   },
   {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-murder-she-didn-t-write-2026-10-22",
+   "artist": "Murder, She Didn't Write",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-22",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
    "type": "gig",
    "tags": [
     "drill"
@@ -11448,6 +11463,29 @@
    "source": "mayflower"
   },
   {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-murder-she-didn-t-write-2026-10-23",
+   "artist": "Murder, She Didn't Write",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-23",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -11553,9 +11591,9 @@
    "postcode": "SO14 7FP",
    "date": "2026-10-24",
    "time": "18:30",
-   "price": 9,
+   "price": 16.5,
    "priceMax": 357.8,
-   "priceText": "£9–£357.80",
+   "priceText": "£16.50–£357.80",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/oktoberfest-southampton-saturday-24th-october-2026-evening-session",
@@ -11850,6 +11888,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-murder-she-didn-t-write-2026-10-24",
+   "artist": "Murder, She Didn't Write",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-24",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -13422,7 +13483,7 @@
    ],
    "hot": false,
    "id": "fat-96e0fd7e-952",
-   "artist": "Halloween Sunday 02.11.25: The Nuns Curse",
+   "artist": "Halloween Sunday 01.11.26: The Reckoning",
    "venueId": "caf-parfait",
    "venueName": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -13433,8 +13494,8 @@
    "priceText": "£0–£5",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/halloween-sunday-02-11-25-the-nuns-curse",
-   "infoUrl": "https://www.fatsoma.com/e/halloween-sunday-02-11-25-the-nuns-curse",
+   "ticketUrl": "https://www.fatsoma.com/e/halloween-sunday-01-11-26-the-reckoning",
+   "infoUrl": "https://www.fatsoma.com/e/halloween-sunday-01-11-26-the-reckoning",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -14664,8 +14725,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -15569,8 +15629,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -18785,8 +18844,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -19030,8 +19088,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "club",
@@ -20052,8 +20109,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -20170,8 +20226,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -20480,8 +20535,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21138,8 +21192,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -21398,8 +21451,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
@@ -22054,8 +22106,7 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "_carriedSince": "2026-09-13T15:27:28.911Z"
+   "source": "thebrook"
   },
   {
    "type": "gig",
