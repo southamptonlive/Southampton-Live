@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T03:28:32.108Z",
+ "generated": "2026-09-13T06:36:02.550Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 299
+   "events": 297
   },
   {
    "id": "ticketmaster",
@@ -10017,11 +10017,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/9/e/2300560_65676c23_hammerdown-presents-hot-one-two_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Hot-One-Two/42577888/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Hot-One-Two/42577888/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "The Hot One Two bring their explosive live show to Suburbia Southampton! Expect huge riffs, high energy and an unforgettable night.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18816,11 +18815,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/2/5/2327596_3e8219a6_suburbia-presents-blink-daze-alternative-xmas-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia-Presents-Blink-Daze-Alternative-XMAS-Party/42679972/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia-Presents-Blink-Daze-Alternative-XMAS-Party/42679972/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "Our annual Alternative Xmas Party is back! Blink Daze bring the nostalgic anthems to Suburbia Southampton.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
