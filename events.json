@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T06:36:02.550Z",
+ "generated": "2026-09-13T09:51:51.942Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 297
+   "events": 298
   },
   {
    "id": "ticketmaster",
@@ -10020,7 +10020,8 @@
    "going": 1,
    "minage": "14",
    "desc": "The Hot One Two bring their explosive live show to Suburbia Southampton! Expect huge riffs, high energy and an unforgettable night.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-13T06:36:02.550Z"
   },
   {
    "type": "gig",
@@ -11844,6 +11845,31 @@
    "minage": null,
    "desc": null,
    "source": "mayflower"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "country"
+   ],
+   "hot": false,
+   "id": "fat-1293faad-bc7",
+   "artist": "Country Road Barn Dance 2026",
+   "venueId": "guildhall-square",
+   "venueName": "Guildhall Square",
+   "postcode": "SO14 7FP",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "price": 24.75,
+   "priceMax": 44,
+   "priceText": "£24.75–£44",
+   "genre": "acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/country-road-barn-dance-2026",
+   "infoUrl": "https://www.fatsoma.com/e/country-road-barn-dance-2026",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -18818,7 +18844,8 @@
    "going": 1,
    "minage": "14",
    "desc": "Our annual Alternative Xmas Party is back! Blink Daze bring the nostalgic anthems to Suburbia Southampton.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-13T06:36:02.550Z"
   },
   {
    "type": "gig",
