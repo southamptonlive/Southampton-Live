@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T15:27:28.911Z",
+ "generated": "2026-09-13T18:29:49.146Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 18
+   "ok": false,
+   "carried": 18,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 300
+   "events": 301
   },
   {
    "id": "ticketmaster",
@@ -180,6 +180,12 @@
    "address": "Southampton"
   },
   {
+   "id": "mayflower",
+   "name": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "address": "Commercial Road, Southampton"
+  },
+  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -190,12 +196,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "mayflower",
-   "name": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "address": "Commercial Road, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -336,16 +336,16 @@
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
   },
   {
-   "id": "university-of-southampton-highfield-campus",
-   "name": "University of Southampton Highfield Campus",
-   "postcode": "SO17 1BJ",
-   "address": "University Rd, Southampton SO17 1BJ"
-  },
-  {
    "id": "goals-millbrook-southampton",
    "name": "GOALS - Millbrook - (Southampton)",
    "postcode": "SO15 0JW",
    "address": "Third Ave, Millbrook, Southampton SO15 0JW"
+  },
+  {
+   "id": "university-of-southampton-highfield-campus",
+   "name": "University of Southampton Highfield Campus",
+   "postcode": "SO17 1BJ",
+   "address": "University Rd, Southampton SO17 1BJ"
   },
   {
    "id": "medbar-southampton",
@@ -452,7 +452,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "club",
@@ -597,8 +598,8 @@
    "date": "2026-09-13",
    "time": "23:00",
    "price": 4.99,
-   "priceMax": 5.99,
-   "priceText": "£4.99–£5.99",
+   "priceMax": 7.99,
+   "priceText": "£4.99–£7.99",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/freshers-takeover-southampton-2026-90-sold-out-official-student-partners-with-boohooman-free-t-shirt-with-every-ticket-sold-out-15-years-running",
@@ -1296,7 +1297,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -1732,7 +1734,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -2698,7 +2701,7 @@
    ],
    "hot": false,
    "id": "fat-6e5493d5-f9f",
-   "artist": "Southampton Bollywood Freshers Icebreaker 2026-27 Signup - The Official Waitlist",
+   "artist": "FREE SIGN UP- Southampton Bollywood Freshers Icebreaker 2026-27 Signup - The Official Waitlist",
    "venueId": "university-of-southampton-highfield-campus",
    "venueName": "University of Southampton Highfield Campus",
    "postcode": "SO17 1BJ",
@@ -2709,8 +2712,8 @@
    "priceText": "Free",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
-   "infoUrl": "https://www.fatsoma.com/e/southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
+   "ticketUrl": "https://www.fatsoma.com/e/free-sign-up-southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
+   "infoUrl": "https://www.fatsoma.com/e/free-sign-up-southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
    "going": null,
    "minage": null,
    "desc": null,
@@ -3082,7 +3085,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -3225,7 +3229,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -3761,7 +3766,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -4400,7 +4406,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -4902,7 +4909,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -14656,7 +14664,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "club",
@@ -15560,7 +15569,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -18321,6 +18331,31 @@
   },
   {
    "type": "club",
+   "tags": [
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-2869b3f4-3e7",
+   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-12-12",
+   "time": "16:00",
+   "price": 17.6,
+   "priceMax": 82.5,
+   "priceText": "£17.60–£82.50",
+   "genre": "hiphop",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
+   "infoUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-f9d1945e-9a3",
@@ -18750,7 +18785,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -18994,7 +19030,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "club",
@@ -20015,7 +20052,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -20132,7 +20170,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -20441,7 +20480,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -21098,7 +21138,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -21357,7 +21398,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
@@ -22012,7 +22054,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-13T15:27:28.911Z"
   },
   {
    "type": "gig",
