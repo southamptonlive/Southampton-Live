@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T12:32:48.330Z",
+ "generated": "2026-09-13T15:27:28.911Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 298
+   "events": 300
   },
   {
    "id": "ticketmaster",
@@ -2693,6 +2693,7 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
     "freshers"
    ],
    "hot": false,
@@ -2703,9 +2704,9 @@
    "postcode": "SO17 1BJ",
    "date": "2026-09-20",
    "time": "00:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
@@ -12670,6 +12671,32 @@
   {
    "type": "club",
    "tags": [
+    "drag",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-41d87907-2a1",
+   "artist": "🎬 Halloween Movie Night - Costume Party! 🎃",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/halloween-movie-night-costume-party",
+   "infoUrl": "https://www.fatsoma.com/e/halloween-movie-night-costume-party",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "halloween"
    ],
@@ -13038,6 +13065,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-9f72e62f-0af",
+   "artist": "👻 The Halloween Party - Cocktails 2-4-1 👻",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "price": 5,
+   "priceMax": 7.5,
+   "priceText": "£5–£7.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-halloween-party-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/the-halloween-party-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
