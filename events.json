@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-13T00:35:50.913Z",
+ "generated": "2026-09-13T03:28:32.108Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 461
+   "events": 462
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 302
+   "events": 299
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 241
+   "events": 240
   }
  ],
  "venues": [
@@ -210,6 +210,12 @@
    "address": "Aikman Lane, Totton"
   },
   {
+   "id": "guildhall",
+   "name": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "address": "West Marlands Road, Southampton"
+  },
+  {
    "id": "planet-sounds",
    "name": "Planet Sounds",
    "postcode": "SO14 3FE",
@@ -226,12 +232,6 @@
    "name": "Central Hall",
    "postcode": "SO14 1NF",
    "address": "St Mary Street, Southampton"
-  },
-  {
-   "id": "guildhall",
-   "name": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "address": "West Marlands Road, Southampton"
   },
   {
    "id": "concorde-club",
@@ -3694,6 +3694,29 @@
    "_carriedSince": "2026-09-12T09:27:38.573Z"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42736688",
+   "artist": "Foo Fighters GB",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-09-25",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42736688-foo-fighters-gb-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/42736688-foo-fighters-gb-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -3720,29 +3743,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QauG_AEsFYZ0saom",
-   "artist": "Foo Fighters GB",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-25",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/foo-fighters-gb-tickets-TQZ6R9?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/foo-fighters-gb-tickets-TQZ6R9?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "br-blue-water-giants-the-songs-the-stories--2026-09-25",
    "artist": "Blue Water Giants - The Songs. The Stories. The Musicians Who Lived Them.",
    "venueId": "brook",
@@ -3761,6 +3761,52 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42909965",
+   "artist": "Jonathan Pie",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-09-25",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42909965-jonathan-pie-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/42909965-jonathan-pie-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43265886",
+   "artist": "Josh Phillips",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-09-25",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43265886-josh-phillips-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43265886-josh-phillips-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
