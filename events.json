@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-14T15:32:04.919Z",
+ "generated": "2026-09-14T18:32:39.180Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 294
+   "events": 295
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 237
+   "events": 238
   }
  ],
  "venues": [
@@ -443,31 +443,6 @@
     "freshers"
    ],
    "hot": false,
-   "id": "fat-5381d36f-d3c",
-   "artist": "The Official Traffic Light Party | Southampton Freshers 2026",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-14",
-   "time": "22:00",
-   "price": 4.5,
-   "priceMax": 7.5,
-   "priceText": "£4.50–£7.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026",
-   "infoUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "freshers"
-   ],
-   "hot": false,
    "id": "fat-ab657943-7da",
    "artist": "Traffic Light Party | Southampton Freshers 2026",
    "venueId": "sobar",
@@ -482,6 +457,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/traffic-light-party-southampton-freshers-2026",
    "infoUrl": "https://www.fatsoma.com/e/traffic-light-party-southampton-freshers-2026",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-5381d36f-d3c",
+   "artist": "The Official Traffic Light Party | Southampton Freshers 2026 - Last 50 Tickets ⚠️",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-14",
+   "time": "22:00",
+   "price": 10,
+   "priceMax": 10,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-last-50-tickets",
+   "infoUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-last-50-tickets",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -902,6 +902,31 @@
    "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays-freshers-launch-party",
    "going": null,
    "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-08588f86-b9d",
+   "artist": "Fiesta Miércoles | International Party 🍊",
+   "venueId": "orange-rooms-southampton",
+   "venueName": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "date": "2026-09-16",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 5.5,
+   "priceText": "£0–£5.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/fiesta-miércoles-international-party",
+   "infoUrl": "https://www.fatsoma.com/e/fiesta-miércoles-international-party",
+   "going": null,
+   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
