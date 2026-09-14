@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-14T06:36:41.860Z",
+ "generated": "2026-09-14T09:31:33.816Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 70
+   "events": 71
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 458
+   "events": 459
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 293
+   "events": 294
   },
   {
    "id": "ticketmaster",
@@ -637,7 +637,7 @@
    ],
    "hot": false,
    "id": "fat-fff00e40-6a9",
-   "artist": "Freshers Groovy Land @ Orange Rooms✌️⚠️ 95% SOLD OUT ⚠️🪩 Southampton's Biggest Throwback Event ☮️ ✌️",
+   "artist": "Freshers Groovy Land @ Orange Rooms✌️🚨 97% SOLD OUT 🚨🪩 Southampton's Biggest Throwback Event ☮️ ✌️",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
@@ -648,8 +648,8 @@
    "priceText": "£6.99–£21.99",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/freshers-groovy-land-orange-rooms-95-sold-out-southampton-s-biggest-throwback-event",
-   "infoUrl": "https://www.fatsoma.com/e/freshers-groovy-land-orange-rooms-95-sold-out-southampton-s-biggest-throwback-event",
+   "ticketUrl": "https://www.fatsoma.com/e/freshers-groovy-land-orange-rooms-97-sold-out-southampton-s-biggest-throwback-event",
+   "infoUrl": "https://www.fatsoma.com/e/freshers-groovy-land-orange-rooms-97-sold-out-southampton-s-biggest-throwback-event",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -2828,7 +2828,7 @@
    "priceMax": 22,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/61/09/93_Original.jpg?v=2",
+   "img": "https://i.ticketweb.com/i/00/13/61/09/93_Original.jpg?v=3",
    "ticketUrl": "https://www.ticketweb.uk/event/sports-team-the-brook-tickets/15008523",
    "infoUrl": "https://www.the-brook.com/tm-event/sports-team/",
    "going": 0,
@@ -3635,7 +3635,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Hooked, Jungle Cakes and Wavz have teamed up with each together to bring you three huge headliners + a stacked support line up",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-14T06:36:41.860Z"
   },
   {
    "type": "club",
@@ -4972,6 +4973,31 @@
   },
   {
    "type": "club",
+   "tags": [
+    "hip hop"
+   ],
+   "hot": false,
+   "id": "fat-0f9ad915-2db",
+   "artist": "DND × UOS OASIS — BACK 2 SCHOOL 📚",
+   "venueId": "circuit",
+   "venueName": "Circuit",
+   "postcode": "SO14 7FN",
+   "date": "2026-09-29",
+   "time": "23:00",
+   "price": 8.5,
+   "priceMax": 11,
+   "priceText": "£8.50–£11",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dnd-uos-oasis-back-2-school",
+   "infoUrl": "https://www.fatsoma.com/e/dnd-uos-oasis-back-2-school",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-58138f30-153",
@@ -5692,6 +5718,29 @@
    "source": "ticketmaster"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-wall-of-floyd-2026-10-02",
+   "artist": "Wall of Floyd",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/12/89/77/34_Original.jpg?v=6",
+   "ticketUrl": "https://www.ticketweb.uk/event/wall-of-floyd-the-brook-tickets/14180644",
+   "infoUrl": "https://www.the-brook.com/tm-event/wall-of-floyd/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -5737,29 +5786,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-16dFZ_AoUG7mZDG",
-   "artist": "Wall of Floyd",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-02",
-   "time": "20:15",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/wall-of-floyd-the-brook-tickets/14180644?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/wall-of-floyd-the-brook-tickets/14180644?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -7468,6 +7494,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43113275",
+   "artist": "Joe Wells",
+   "venueId": "attic",
+   "venueName": "The Attic",
+   "postcode": "SO40 9HQ",
+   "date": "2026-10-08",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43113275-joe-wells-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43113275-joe-wells-at-attic",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -20075,6 +20124,29 @@
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
    "source": "skiddle",
    "_carriedSince": "2026-09-12T21:27:12.305Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42732508",
+   "artist": "Marky Ramone's Blitzkrieg",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-02-12",
+   "time": "18:00",
+   "price": 37,
+   "priceMax": 37,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/a/2341316_92b4b1ba_marky-ramone-s-blitzkrieg_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
