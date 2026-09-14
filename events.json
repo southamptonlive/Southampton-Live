@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-14T18:32:39.180Z",
+ "generated": "2026-09-14T21:28:16.615Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -465,23 +465,24 @@
   {
    "type": "club",
    "tags": [
+    "house",
     "freshers"
    ],
    "hot": false,
    "id": "fat-5381d36f-d3c",
-   "artist": "The Official Traffic Light Party | Southampton Freshers 2026 - Last 50 Tickets ⚠️",
+   "artist": "The Official Traffic Light Party | Southampton Freshers 2026 - SOLD OUT ⛔ - GET YOUR HOUSE PARTY TICKETS NOW 🍕",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-09-14",
    "time": "22:00",
-   "price": 10,
-   "priceMax": 10,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-last-50-tickets",
-   "infoUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-last-50-tickets",
+   "ticketUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-sold-out-get-your-house-party-tickets-now",
+   "infoUrl": "https://www.fatsoma.com/e/the-official-traffic-light-party-southampton-freshers-2026-sold-out-get-your-house-party-tickets-now",
    "going": null,
    "minage": "18+",
    "desc": null,
