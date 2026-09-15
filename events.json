@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-15T15:28:21.620Z",
+ "generated": "2026-09-15T18:30:05.833Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 465
+   "events": 466
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 291
+   "events": 294
   },
   {
    "id": "ticketmaster",
@@ -288,16 +288,16 @@
    "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   },
   {
-   "id": "clowns-wine-bar-and-jesters-nightclub",
-   "name": "Clowns Wine Bar and Jesters Nightclub",
-   "postcode": "SO14 0JZ",
-   "address": "114-118 Bevois Valley Rd, Southampton SO14 0JZ"
-  },
-  {
    "id": "caf-parfait",
    "name": "Café Parfait",
    "postcode": "SO14 7DW",
    "address": "194 Above Bar St, Southampton SO14 7DW"
+  },
+  {
+   "id": "clowns-wine-bar-and-jesters-nightclub",
+   "name": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "address": "114-118 Bevois Valley Rd, Southampton SO14 0JZ"
   },
   {
    "id": "guildhall-square",
@@ -10259,6 +10259,29 @@
    "source": "songkick"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43346344",
+   "artist": "Tō Yō",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-10-20",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43346344-to-yo-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43346344-to-yo-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -10661,6 +10684,31 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-c718f84d-edf",
+   "artist": "WHAT THE DUCK? THURDAY NIGHT",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-22",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 2,
+   "priceText": "£0–£2",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
+   "infoUrl": "https://www.fatsoma.com/e/what-the-duck-thurday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -11011,6 +11059,33 @@
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
    "source": "skiddle",
    "_carriedSince": "2026-09-12T21:27:12.305Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-a5623a7e-61f",
+   "artist": "FRIDAY - MIDNIGHT MADDNESS",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-23",
+   "time": "21:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
+   "infoUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -11398,6 +11473,32 @@
    "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
    "source": "skiddle",
    "_carriedSince": "2026-09-12T21:27:12.305Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-39e8e537-9fd",
+   "artist": "SATURDAY SESSIONS",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturday-sessions",
+   "infoUrl": "https://www.fatsoma.com/e/saturday-sessions",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
