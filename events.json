@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-15T18:30:05.833Z",
+ "generated": "2026-09-15T21:26:47.279Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -1035,8 +1035,8 @@
    "date": "2026-09-17",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 8,
-   "priceText": "£3.80–£8",
+   "priceMax": 11.5,
+   "priceText": "£3.80–£11.50",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-freshers-glow-project-southampton-s-best-student-night-1-shots-all-night-gala-event",
@@ -2726,7 +2726,7 @@
    "priceMax": 22,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/61/09/93_Original.jpg?v=3",
+   "img": "https://i.ticketweb.com/i/00/13/61/09/93_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/sports-team-the-brook-tickets/15008523",
    "infoUrl": "https://www.the-brook.com/tm-event/sports-team/",
    "going": 0,
