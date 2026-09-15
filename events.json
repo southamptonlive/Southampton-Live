@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-15T00:37:22.491Z",
+ "generated": "2026-09-15T03:31:22.555Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 71
+   "events": 70
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 295
+   "events": 291
   },
   {
    "id": "ticketmaster",
@@ -2426,8 +2426,8 @@
    "date": "2026-09-20",
    "time": "22:00",
    "price": 2.99,
-   "priceMax": 12.09,
-   "priceText": "£2.99–£12.09",
+   "priceMax": 16.5,
+   "priceText": "£2.99–£16.50",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bollywood-fresher-s-night-2026-namaste-soton-2-0",
@@ -3415,7 +3415,7 @@
    "tags": [],
    "hot": false,
    "id": "sg-43265886",
-   "artist": "Josh Phillips",
+   "artist": "Blue Water Giants",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
@@ -3426,8 +3426,8 @@
    "priceText": null,
    "genre": "indie",
    "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43265886-josh-phillips-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43265886-josh-phillips-at-brook",
+   "ticketUrl": "https://www.songkick.com/concerts/43265886-blue-water-giants-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43265886-blue-water-giants-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
