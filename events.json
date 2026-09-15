@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-15T06:36:19.487Z",
+ "generated": "2026-09-15T09:35:09.042Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 153,
+   "carried": 152,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 463
+   "events": 465
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 291
+   "events": 292
   },
   {
    "id": "ticketmaster",
@@ -485,9 +485,9 @@
    "hot": false,
    "id": "fat-fff00e40-6a9",
    "artist": "Freshers Groovy Land @ Orange Rooms✌️🚨 97% SOLD OUT 🚨🪩 Southampton's Biggest Throwback Event ☮️ ✌️",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
+   "venueId": "orange-rooms-southampton",
+   "venueName": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
    "date": "2026-09-15",
    "time": "23:00",
    "price": 6.99,
@@ -1637,7 +1637,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Backyard Events is BACK... With their second freshers event of the season - BLACKED OUT: The All-Black Attire Edition",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-15T06:36:19.487Z"
   },
   {
    "type": "club",
@@ -4844,6 +4845,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4d99c7e0-a36",
+   "artist": "an EPIC SAX NIGHT!! - Jesters Nightclub",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-29",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 6,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/an-epic-sax-night-jesters-nightclub",
+   "infoUrl": "https://www.fatsoma.com/e/an-epic-sax-night-jesters-nightclub",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "hip hop"
    ],
@@ -6134,9 +6158,9 @@
    "postcode": "SO15 2EL",
    "date": "2026-10-03",
    "time": "17:00",
-   "price": 12.05,
+   "price": 14.25,
    "priceMax": 110,
-   "priceText": "£12.05–£110",
+   "priceText": "£14.25–£110",
    "genre": "hiphop",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/u-me-rnb-viberoom-official-live",
@@ -6243,32 +6267,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
-  },
-  {
-   "type": "other",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "sk-42498052",
-   "artist": "Drag Queen Bingo in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-10-03",
-   "time": "19:45",
-   "price": 14,
-   "priceMax": 14,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/f/3/2283572_5033378a_drag-queen-bingo-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Drag-Queen-Bingo-in-Southampton/42498052/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Drag-Queen-Bingo-in-Southampton/42498052/",
-   "going": 0,
-   "minage": null,
-   "desc": "Best Drag Queen Bingo Night in Southampton with Charlie Hides at The Attic Saturday 3rd October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-08T09:30:25.311Z"
   },
   {
    "type": "gig",
@@ -14923,7 +14921,8 @@
    "going": 1,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-15T06:36:19.487Z"
   },
   {
    "type": "gig",
@@ -17018,7 +17017,7 @@
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-11-29",
-   "time": "20:00",
+   "time": "20:30",
    "price": null,
    "priceMax": null,
    "priceText": null,
@@ -17408,6 +17407,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43342763-bladerunner-at-suburbia-southampton",
    "infoUrl": "https://www.songkick.com/concerts/43342763-bladerunner-at-suburbia-southampton",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43415255",
+   "artist": "Battle Born",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-12-04",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43415255-battle-born-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43415255-battle-born-at-joiners",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -17836,6 +17858,29 @@
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
    "source": "skiddle",
    "_carriedSince": "2026-09-12T21:27:12.305Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43410900",
+   "artist": "Mauvey",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-12-10",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43410900-mauvey-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43410900-mauvey-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
