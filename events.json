@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-16T09:29:12.107Z",
+ "generated": "2026-09-16T12:34:57.057Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 152,
+   "carried": 153,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 44
+   "events": 45
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 292
+   "events": 289
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 238
+   "events": 237
   }
  ],
  "venues": [
@@ -178,6 +178,12 @@
    "name": "Circuit",
    "postcode": "SO14 7FN",
    "address": "Southampton"
+  },
+  {
+   "id": "cafe-parfait",
+   "name": "Cafe Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar Street"
   },
   {
    "id": "brook",
@@ -702,8 +708,8 @@
    "date": "2026-09-16",
    "time": "22:30",
    "price": 4.5,
-   "priceMax": 11.5,
-   "priceText": "£4.50–£11.50",
+   "priceMax": 8,
+   "priceText": "£4.50–£8",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/project-x-freshers-house-party-engine-rooms-southampton-freshers-2026",
@@ -807,6 +813,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QPIWrM-H3nQ8O4n6",
+   "artist": "Vexed + The Five Hundred",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-09-17",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "punk",
+   "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/vexed-the-five-hundred-tickets-FTNCZ4?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/vexed-the-five-hundred-tickets-FTNCZ4?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -2379,7 +2408,7 @@
    ],
    "hot": false,
    "id": "fat-a0598546-fa8",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
    "venueId": "caf-parfait",
    "venueName": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -2390,8 +2419,8 @@
    "priceText": "£0–£5",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -4520,7 +4549,7 @@
    ],
    "hot": false,
    "id": "fat-2e8492e3-9d8",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
    "venueId": "caf-parfait",
    "venueName": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -4531,8 +4560,8 @@
    "priceText": "£0–£5",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -6564,6 +6593,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "metal"
+   ],
+   "hot": false,
+   "id": "sk-42743423",
+   "artist": "War Shepherd Live at Suburbia + Support",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-04",
+   "time": "18:00",
+   "price": 8,
+   "priceMax": 8,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/7/2/d/2343984_a5e783ee_war-shepherd-live-at-suburbia-support_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
+   "going": 0,
+   "minage": "14",
+   "desc": "War Shepherd, Death Brigade, Nihilith & Shadow of Icarus bring melodic, blackened & prog metal to Suburbia Southampton for one heavy night.",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43409586",
@@ -6709,7 +6763,7 @@
    ],
    "hot": false,
    "id": "fat-418fd3bc-710",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
    "venueId": "caf-parfait",
    "venueName": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -6720,8 +6774,8 @@
    "priceText": "£0–£5",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -8493,31 +8547,6 @@
    "source": "ticketmaster"
   },
   {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-065834d7-60c",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-11",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -9246,7 +9275,7 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "img": "https://s1.ticketm.net/dam/a/f76/5b274386-76b4-487b-b155-f99d4b294f76_SOURCE",
    "ticketUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/downpour-heartbreakers-heartbreakers-tickets/14222634?REFERRAL_ID=tmfeed",
    "going": null,
@@ -9953,31 +9982,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-30d2f09f-ca4",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-18",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -10908,7 +10912,7 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/80b/f3cd8d24-c3ae-4fa0-b4bc-1ba99f9b380b_106091_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "img": "https://s1.ticketm.net/dam/a/c0f/985645bf-d056-4128-9b15-fafcab899c0f_SOURCE",
    "ticketUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403?REFERRAL_ID=tmfeed",
    "going": null,
@@ -11619,31 +11623,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-d2cb721f-5d0",
-   "artist": "Brand new Sunday Funday! Super cheap drinks deals!",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-25",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "infoUrl": "https://www.fatsoma.com/e/brand-new-sunday-funday-super-cheap-drinks-deals",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -16986,7 +16965,7 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "img": "https://s1.ticketm.net/dam/a/c97/5bcba097-7b5a-4f00-8227-52e84ae34c97_SOURCE",
    "ticketUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
    "going": null,
@@ -18096,24 +18075,24 @@
     "r&b"
    ],
    "hot": false,
-   "id": "fat-2869b3f4-3e7",
-   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
+   "id": "sk-42722739",
+   "artist": "RnB Throwbacks: Over 30's day party with 90's & 00's RnB",
+   "venueId": "cafe-parfait",
+   "venueName": "Cafe Parfait",
    "postcode": "SO14 7DW",
    "date": "2026-12-12",
    "time": "16:00",
-   "price": 17.6,
-   "priceMax": 82.5,
-   "priceText": "£17.60–£82.50",
+   "price": 15,
+   "priceMax": 70,
+   "priceText": "£15–£70",
    "genre": "hiphop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "infoUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/2/e/2337415_cc632fa5_rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
+   "going": 0,
+   "minage": "30",
+   "desc": "Get ready for the ultimate Over 30s Day Party as we take over Cafe Parfait for an afternoon of huge 90s & 00s R&B Throwbacks!",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -21010,7 +20989,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-16T09:29:12.107Z"
   },
   {
    "type": "gig",
