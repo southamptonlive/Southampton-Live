@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-16T15:29:07.286Z",
+ "generated": "2026-09-16T18:31:46.873Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 71
+   "events": 70
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 45
+   "events": 46
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 291
+   "events": 295
   },
   {
    "id": "ticketmaster",
@@ -294,16 +294,16 @@
    "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   },
   {
-   "id": "caf-parfait",
-   "name": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar St, Southampton SO14 7DW"
-  },
-  {
    "id": "clowns-wine-bar-and-jesters-nightclub",
    "name": "Clowns Wine Bar and Jesters Nightclub",
    "postcode": "SO14 0JZ",
    "address": "114-118 Bevois Valley Rd, Southampton SO14 0JZ"
+  },
+  {
+   "id": "caf-parfait",
+   "name": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar St, Southampton SO14 7DW"
   },
   {
    "id": "guildhall-square",
@@ -4661,6 +4661,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/fusion-nights-southampton-freshers-2026",
    "infoUrl": "https://www.fatsoma.com/e/fusion-nights-southampton-freshers-2026",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-a028e959-fa7",
+   "artist": "BOLLYWOOD x DESI FRESHERS ICEBREAKER - SOUTHAMPTON | CRAZY BEATS TAKEOVER",
+   "venueId": "orange-rooms-southampton",
+   "venueName": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "date": "2026-09-28",
+   "time": "23:30",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bollywood-x-desi-freshers-icebreaker-southampton-crazy-beats-takeover",
+   "infoUrl": "https://www.fatsoma.com/e/bollywood-x-desi-freshers-icebreaker-southampton-crazy-beats-takeover",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -18993,6 +19018,29 @@
    "_carriedSince": "2026-09-12T21:27:12.305Z"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42748924",
+   "artist": "Multi Genre Madness | Boxing Day | WAVZ X SDS",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-12-26",
+   "time": "22:00",
+   "price": 4,
+   "priceMax": 9,
+   "priceText": "£4–£9",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/d/b/2344607_1cc12c19_multi-genre-madness-boxing-day-wavz-x-sds_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/",
+   "going": 0,
+   "minage": "18",
+   "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
+   "source": "skiddle"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -21350,6 +21398,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "disco"
+   ],
+   "hot": false,
+   "id": "fat-f158dc83-269",
+   "artist": "Dolly's Disco: Southampton 💋👢",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2027-03-20",
+   "time": "15:00",
+   "price": 12.5,
+   "priceMax": 22.5,
+   "priceText": "£12.50–£22.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dolly-s-disco-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/dolly-s-disco-southampton",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
