@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-17T06:35:43.626Z",
+ "generated": "2026-09-17T09:29:37.797Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 237
+   "events": 238
   }
  ],
  "venues": [
@@ -497,8 +497,8 @@
    "postcode": "SO17 3QF",
    "date": "2026-09-17",
    "time": "19:30",
-   "price": 18.7,
-   "priceMax": 18.7,
+   "price": 22,
+   "priceMax": 22,
    "priceText": null,
    "genre": "jazz",
    "img": "https://i.ticketweb.com/i/00/12/91/30/54_Original.jpg?v=6",
@@ -5409,8 +5409,8 @@
    "date": "2026-10-02",
    "time": "23:00",
    "price": 6,
-   "priceMax": 11,
-   "priceText": "£6–£11",
+   "priceMax": 9.99,
+   "priceText": "£6–£9.99",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/fuego-southampton-s-reggaeton-latin-night",
@@ -14144,7 +14144,8 @@
    "going": 88,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-17T06:35:43.626Z"
   },
   {
    "type": "gig",
@@ -19850,7 +19851,8 @@
    "going": 6,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-17T06:35:43.626Z"
   },
   {
    "type": "gig",
@@ -22663,6 +22665,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QnPqhYCeTAQjsVIp",
+   "artist": "Overhead + Damanek",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-07-18",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/overhead-damanek-tickets-8WC0JR?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/overhead-damanek-tickets-8WC0JR?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
