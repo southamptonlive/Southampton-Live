@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-17T03:29:46.976Z",
+ "generated": "2026-09-17T06:35:43.626Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 462
+   "events": 463
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 290
+   "events": 288
   },
   {
    "id": "ticketmaster",
@@ -5609,29 +5609,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43328381",
-   "artist": "The Pop Kids",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-03",
-   "time": "12:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "club",
@@ -12842,6 +12819,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43327670",
+   "artist": "Inhuman Nature",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-11-01",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43327670-inhuman-nature-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43327670-inhuman-nature-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43278717",
    "artist": "Knats",
    "venueId": "heartbreakers",
@@ -14141,11 +14141,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/a/d/2158142_98353856_The-Vintage-Explosion_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
-   "going": 0,
+   "going": 88,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16391,6 +16390,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
    "infoUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43328381",
+   "artist": "The Pop Kids",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-11-28",
+   "time": "12:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -19818,18 +19840,17 @@
    "postcode": "SO15 1GZ",
    "date": "2027-02-12",
    "time": "18:00",
-   "price": 37,
+   "price": 32,
    "priceMax": 37,
-   "priceText": null,
+   "priceText": "£32–£37",
    "genre": "indie",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/a/2341316_92b4b1ba_marky-ramone-s-blitzkrieg_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
-   "going": 0,
+   "going": 6,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-14T09:31:33.816Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
