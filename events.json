@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-18T12:32:57.245Z",
+ "generated": "2026-09-18T15:28:19.986Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 153,
+   "carried": 152,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 45
+   "events": 46
   },
   {
    "id": "skiddle:The-Joiners",
@@ -77,16 +77,16 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 18
+   "ok": false,
+   "carried": 18,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 460
+   "events": 461
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 287
+   "events": 286
   },
   {
    "id": "ticketmaster",
@@ -186,16 +186,22 @@
    "address": "194 Above Bar Street"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "address": "Civic Centre Road"
   },
   {
    "id": "heartbreakers",
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "locomotive-engineers-club",
@@ -298,12 +304,6 @@
    "name": "Café Parfait",
    "postcode": "SO14 7DW",
    "address": "194 Above Bar St, Southampton SO14 7DW"
-  },
-  {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "turtle-bay-southampton",
@@ -626,7 +626,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -772,8 +773,8 @@
    "date": "2026-09-18",
    "time": "21:30",
    "price": 4.5,
-   "priceMax": 6.5,
-   "priceText": "£4.50–£6.50",
+   "priceMax": 7,
+   "priceText": "£4.50–£7",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/don-t-tell-mum-dad",
@@ -1976,7 +1977,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -2142,7 +2144,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -2703,7 +2706,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -3342,7 +3346,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -3844,7 +3849,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -4976,7 +4982,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -5584,7 +5591,31 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43337840",
+   "artist": "Henry Grace",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-10-03",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43337840-henry-grace-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43337840-henry-grace-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -5824,29 +5855,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42908921-beat-uk-at-o2-guildhall",
    "infoUrl": "https://www.songkick.com/concerts/42908921-beat-uk-at-o2-guildhall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43337840",
-   "artist": "Henry Grace",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-03",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43337840-henry-grace-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43337840-henry-grace-at-heartbreakers",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -8886,11 +8894,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_65551544_Puzzle--SOUTHAMPTON-17-10-26_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 162,
+   "going": 0,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-11T12:34:34.197Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -11942,24 +11949,24 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-dd97ccf8-d4f",
+   "id": "sk-42718277",
    "artist": "Raver Tots Halloween Party Southampton",
    "venueId": "guildhall-square",
    "venueName": "Guildhall Square",
-   "postcode": "SO14 7FP",
+   "postcode": "SO14 7LP",
    "date": "2026-10-31",
    "time": "12:30",
-   "price": 13.5,
-   "priceMax": 18,
-   "priceText": "£13.50–£18",
+   "price": 15,
+   "priceMax": 19,
+   "priceText": "£15–£19",
    "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/raver-tots-halloween-party-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/raver-tots-halloween-party-southampton",
-   "going": null,
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/6/9/2335390_36063856_Raver-Tots-Halloween-Party-Southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
+   "going": 0,
    "minage": null,
-   "desc": null,
-   "source": "fatsoma"
+   "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -13795,7 +13802,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "club",
@@ -14400,7 +14408,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18Qjn9LaPqmOZztBTg",
+   "id": "sg-42948078",
    "artist": "Blank Manuskript",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -14411,13 +14419,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/blank-manuskript-tickets-F6DH3S?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/blank-manuskript-tickets-F6DH3S?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42948078-blank-manuskript-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/42948078-blank-manuskript-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -14699,7 +14707,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -16148,31 +16157,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "rave"
-   ],
-   "hot": false,
-   "id": "tm-LvZ18QP_4O4PTPjSzDrV7",
-   "artist": "Popkids Southampton - The Big Neon Rave",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-28",
-   "time": "12:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/popkids-southampton-the-big-neon-rave-tickets-9MSQD4?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/popkids-southampton-the-big-neon-rave-tickets-9MSQD4?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -17771,6 +17755,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "tm-LvZ18QP_4O4PTPjSzDrV7",
+   "artist": "Popkids Southampton - Christmas Wonderland",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-13",
+   "time": "12:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/popkids-southampton-christmas-wonderland-tickets-9MSQD4?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/popkids-southampton-christmas-wonderland-tickets-9MSQD4?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43233148",
@@ -18032,7 +18041,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -18276,7 +18286,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "club",
@@ -19321,7 +19332,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -19438,7 +19450,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -19794,7 +19807,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -20451,7 +20465,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -20734,7 +20749,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
@@ -21437,7 +21453,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-18T12:32:57.245Z"
   },
   {
    "type": "gig",
