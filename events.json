@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-18T00:34:36.609Z",
+ "generated": "2026-09-18T03:28:06.866Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 46
+   "events": 45
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 290
+   "events": 286
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 252
+   "events": 251
   }
  ],
  "venues": [
