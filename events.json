@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-18T09:28:45.032Z",
+ "generated": "2026-09-18T12:32:57.245Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 286
+   "events": 287
   },
   {
    "id": "ticketmaster",
@@ -4970,7 +4970,7 @@
    "priceMax": 22,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/89/77/34_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/12/89/77/34_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/wall-of-floyd-the-brook-tickets/14180644",
    "infoUrl": "https://www.the-brook.com/tm-event/wall-of-floyd/",
    "going": 0,
@@ -5562,6 +5562,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-neon-fields-kola-2026-10-03",
+   "artist": "Neon Fields @ KOLA",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-03",
+   "time": "19:30",
+   "price": 13.2,
+   "priceMax": 13.2,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/52/79/23_Original.jpg?v=10",
+   "ticketUrl": "https://www.ticketweb.uk/event/neon-fields-kola-kola-tickets/14932523",
+   "infoUrl": "https://www.the-brook.com/tm-event/neon-fields-kola/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
   },
   {
    "type": "gig",
