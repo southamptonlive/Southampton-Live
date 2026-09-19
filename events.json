@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-19T00:34:40.170Z",
+ "generated": "2026-09-19T03:27:43.274Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 45
+   "events": 44
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 282
+   "events": 270
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 251
+   "events": 250
   }
  ],
  "venues": [
@@ -8108,7 +8108,8 @@
    "going": 189,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-19T00:34:40.170Z"
   },
   {
    "type": "club",
