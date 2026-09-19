@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-19T06:32:16.060Z",
+ "generated": "2026-09-19T09:27:24.100Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,16 +77,16 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 18
+   "ok": false,
+   "carried": 17,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 453
+   "events": 456
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 270
+   "events": 272
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 250
+   "events": 251
   }
  ],
  "venues": [
@@ -186,6 +186,12 @@
    "address": "194 Above Bar Street"
   },
   {
+   "id": "locomotive-engineers-club",
+   "name": "Locomotive Engineers Club",
+   "postcode": "SO50 9FJ",
+   "address": "18 Southampton Rd"
+  },
+  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -196,12 +202,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "locomotive-engineers-club",
-   "name": "Locomotive Engineers Club",
-   "postcode": "SO50 9FJ",
-   "address": "18 Southampton Rd"
   },
   {
    "id": "hangarfarm",
@@ -1333,7 +1333,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -1499,7 +1500,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -2060,7 +2062,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -2699,7 +2702,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -3201,7 +3205,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -4333,7 +4338,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -4941,7 +4947,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -5351,7 +5358,8 @@
    "going": 1,
    "minage": "14",
    "desc": "War Shepherd, Death Brigade, Nihilith & Shadow of Icarus bring melodic, blackened & prog metal to Suburbia Southampton for one heavy night.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -5728,6 +5736,33 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "free entry",
+    "blues",
+    "comedy"
+   ],
+   "hot": false,
+   "id": "fat-43be14d8-81e",
+   "artist": "Comedy At Heartbreakers",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-10-06",
+   "time": "19:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "infoUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -11448,29 +11483,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43160266",
-   "artist": "Mad Dog Mcrea",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-31",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43160266-mad-dog-mcrea-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43160266-mad-dog-mcrea-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43128322",
    "artist": "Nic Cage Against The Machine",
    "venueId": "joiners",
@@ -11535,6 +11547,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43160266",
+   "artist": "Mad Dog Mcrea",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43160266-mad-dog-mcrea-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43160266-mad-dog-mcrea-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "club",
@@ -13152,7 +13187,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "club",
@@ -14056,7 +14092,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -14289,7 +14326,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -14309,6 +14347,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43408558-bella-hull-at-papillon",
    "infoUrl": "https://www.songkick.com/concerts/43408558-bella-hull-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43424022",
+   "artist": "Barefoot Bandit",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -15501,29 +15562,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
    "infoUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43328381",
-   "artist": "The Pop Kids",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-28",
-   "time": "12:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -17149,12 +17187,10 @@
   },
   {
    "type": "gig",
-   "tags": [
-    "xmas"
-   ],
+   "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QP_4O4PTPjSzDrV7",
-   "artist": "Popkids Southampton - Christmas Wonderland",
+   "id": "sg-43328381",
+   "artist": "The Pop Kids",
    "venueId": "the-1865",
    "venueName": "The 1865",
    "postcode": "SO14 3AR",
@@ -17164,13 +17200,38 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/popkids-southampton-christmas-wonderland-tickets-9MSQD4?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/popkids-southampton-christmas-wonderland-tickets-9MSQD4?ref=ticketmaster",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43328381-pop-kids-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-2bd6286a-4eb",
+   "artist": "Popkids Southampton - Christmas Wonderland",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-13",
+   "time": "12:00",
+   "price": 6,
+   "priceMax": 6,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/popkids-southampton-christmas-wonderland",
+   "infoUrl": "https://www.fatsoma.com/e/popkids-southampton-christmas-wonderland",
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -17412,7 +17473,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -17822,7 +17884,8 @@
    "going": 1,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "club",
@@ -18435,7 +18498,8 @@
    "going": 2,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -18699,7 +18763,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -18816,7 +18881,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -19172,7 +19238,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -19404,6 +19471,29 @@
    "img": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/an-evening-with-steve-cradock-tickets-LMZ4QK?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/an-evening-with-steve-cradock-tickets-LMZ4QK?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18Qnguzh4YA3kHsbcW",
+   "artist": "A Night for Jason",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-02-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/a-night-for-jason-tickets-3V9TDX?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/a-night-for-jason-tickets-3V9TDX?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
@@ -19829,7 +19919,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -19898,7 +19989,8 @@
    "going": 49,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -20111,7 +20203,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
@@ -20814,7 +20907,8 @@
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "thebrook",
+   "_carriedSince": "2026-09-19T06:32:16.060Z"
   },
   {
    "type": "gig",
