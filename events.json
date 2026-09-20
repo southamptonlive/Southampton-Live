@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-20T15:27:04.149Z",
+ "generated": "2026-09-20T18:29:16.043Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 261
+   "events": 262
   },
   {
    "id": "ticketmaster",
@@ -497,8 +497,8 @@
    "date": "2026-09-20",
    "time": "22:00",
    "price": 2.99,
-   "priceMax": 26.4,
-   "priceText": "£2.99–£26.40",
+   "priceMax": 12.09,
+   "priceText": "£2.99–£12.09",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bollywood-fresher-s-night-2026-namaste-soton-2-0",
@@ -654,6 +654,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/90-sold-out-desi-beatz-southampton-freshers-icebreaker-sobar-southampton",
    "infoUrl": "https://www.fatsoma.com/e/90-sold-out-desi-beatz-southampton-freshers-icebreaker-sobar-southampton",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-feb4bd71-f8e",
+   "artist": "[99% SOLD OUT] Desi Beatz Southampton : FRESHERS ICEBREAKER! | Sobar Southampton",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-21",
+   "time": "22:00",
+   "price": 4,
+   "priceMax": 12.1,
+   "priceText": "£4–£12.10",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/99-sold-out-desi-beatz-southampton-freshers-icebreaker-sobar-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/99-sold-out-desi-beatz-southampton-freshers-icebreaker-sobar-southampton",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3871,6 +3896,32 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
    "infoUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "emo",
+    "metal"
+   ],
+   "hot": false,
+   "id": "fat-c8720bcd-57d",
+   "artist": "Apocalypse Southampton - *10th Birthday* - Metal / Emo / Alternative / Party",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-02",
+   "time": "22:00",
+   "price": 10,
+   "priceMax": 10,
+   "priceText": null,
+   "genre": "punk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/apocalypse-southampton-10th-birthday-metal-emo-alternative-party",
+   "infoUrl": "https://www.fatsoma.com/e/apocalypse-southampton-10th-birthday-metal-emo-alternative-party",
    "going": null,
    "minage": "18+",
    "desc": null,
