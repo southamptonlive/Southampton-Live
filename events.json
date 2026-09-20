@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-19T21:26:09.360Z",
+ "generated": "2026-09-20T00:35:51.260Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 149,
+   "carried": 102,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 71
+   "events": 70
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 44
+   "events": 43
   },
   {
    "id": "skiddle:The-Joiners",
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 23
+   "events": 22
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 456
+   "events": 449
   },
   {
    "id": "mitc",
@@ -168,12 +168,6 @@
    "address": "Bedford Place, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "circuit",
    "name": "Circuit",
    "postcode": "SO14 7FN",
@@ -186,6 +180,12 @@
    "address": "194 Above Bar Street"
   },
   {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "address": "Civic Centre Road"
+  },
+  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -196,12 +196,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "locomotive-engineers-club",
-   "name": "Locomotive Engineers Club",
-   "postcode": "SO50 9FJ",
-   "address": "18 Southampton Rd"
   },
   {
    "id": "hangarfarm",
@@ -226,6 +220,12 @@
    "name": "Turner Sims",
    "postcode": "SO17 1BJ",
    "address": "University of Southampton"
+  },
+  {
+   "id": "locomotive-engineers-club",
+   "name": "Locomotive Engineers Club",
+   "postcode": "SO50 9FJ",
+   "address": "18 Southampton Rd"
   },
   {
    "id": "centralhall",
@@ -288,6 +288,12 @@
    "address": "Bugle St, Southampton SO14 2AD"
   },
   {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
    "id": "caf-parfait",
    "name": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -298,12 +304,6 @@
    "name": "Orange Rooms Southampton",
    "postcode": "SO15 2EJ",
    "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "turtle-bay-southampton",
@@ -360,12 +360,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "clowns-wine-bar-and-jesters-nightclub",
-   "name": "Clowns Wine Bar and Jesters Nightclub",
-   "postcode": "SO14 0JZ",
-   "address": "114-118 Bevois Valley Rd, Southampton SO14 0JZ"
-  },
-  {
    "id": "crib-cocktails-shuffleboard",
    "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
    "postcode": "SO15 2EJ",
@@ -382,473 +376,15 @@
    "name": "Mile High Southampton",
    "postcode": "SO15 2EJ",
    "address": "Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
+   "id": "clowns-wine-bar-and-jesters-nightclub",
+   "name": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "address": "114-118 Bevois Valley Rd, Southampton SO14 0JZ"
   }
  ],
  "events": [
-  {
-   "type": "club",
-   "tags": [
-    "garage"
-   ],
-   "hot": false,
-   "id": "sk-42627172",
-   "artist": "Bass'N'Blends Presents: Drinks On Me - Suburbia Southampton",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-09-19",
-   "time": "10:30",
-   "price": 5,
-   "priceMax": 9,
-   "priceText": "£5–£9",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/9/2314816_ebcff752_bass-n-blends-presents-drinks-on-me-suburbia-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/BassNBlends-Presents-Drinks-On-Me---Suburbia-Southampton/42627172/",
-   "going": 0,
-   "minage": "18",
-   "desc": "Bass'N'Blends return this September to the legendary Suburbia, for a night of UKG, with the Legendary... Drinks On Me",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T12:31:56.506Z"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42083356",
-   "artist": "Sander Van Doorn / Marco V / Lange / Standerwick - Southampton",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-19",
-   "time": "14:00",
-   "price": 10,
-   "priceMax": 30,
-   "priceText": "£10–£30",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/9/2204829_5381c5bb_sander-van-doorn-marco-v-lange-standerwick-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Sobar-Southampton/Sander-Van-Doorn--Marco-V--Lange--Standerwick---Southampton/42083356/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Sobar-Southampton/Sander-Van-Doorn--Marco-V--Lange--Standerwick---Southampton/42083356/",
-   "going": 0,
-   "minage": "18",
-   "desc": "Frequency returns to the garden on Saturday 19th September 2026 with an elite lineup, featuring a UK-exclusive B2B never before seen in the UK.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T12:31:56.506Z"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drum & bass",
-    "jungle"
-   ],
-   "hot": true,
-   "id": "sk-42276005",
-   "artist": "EngineRooms Presents: General Levy",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-19",
-   "time": "17:00",
-   "price": 8,
-   "priceMax": 12.5,
-   "priceText": "£8–£12.50",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/d/d/2232817_bc3afbf8_enginerooms-presents-general-levy_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-General-Levy/42276005/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-General-Levy/42276005/",
-   "going": 0,
-   "minage": "18",
-   "desc": "One of the most recognisable voices in Jungle & DnB hits EngineRooms this September!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T12:31:56.506Z"
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sk-42582689",
-   "artist": "HammerDown Presents: Perpetual Paradox x The Cartographer",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-09-19",
-   "time": "18:00",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/2/3/2302312_09a82837_hammerdown-presents-perpetual-paradox-x-the-cartographer_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Perpetual-Paradox-x-The-Cartographer/42582689/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Perpetual-Paradox-x-The-Cartographer/42582689/",
-   "going": 0,
-   "minage": "14",
-   "desc": "Experience Ferpetual Paradox's \"Beholden to Hate\" UK Tour with special guests Cartographer at Suburbia, Southampton.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T12:31:56.506Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43097979",
-   "artist": "Mull Historical Society",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-09-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43097979-mull-historical-society-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43097979-mull-historical-society-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42902585",
-   "artist": "The Specials Ltd",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "jazz",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42902585-specials-ltd-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/42902585-specials-ltd-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QoqVdelXs8vs8Na_",
-   "artist": "The Specials LTD ‘GHOST TOWN 45th ANNIVERSARY’ Tour",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "jazz",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/the-specials-ltd-ghost-town-45th-anniversary-tour-tickets-6J72CL?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-specials-ltd-ghost-town-45th-anniversary-tour-tickets-6J72CL?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42719287",
-   "artist": "Stand up comedy with headliner Laura Belbin",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-09-19",
-   "time": "19:45",
-   "price": 14.5,
-   "priceMax": 14.5,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/2/7/2335815_195610cd_stand-up-comedy-with-headliner-laura-belbin_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-with-headliner-Laura-Belbin/42719287/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-with-headliner-Laura-Belbin/42719287/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Laura Belbin & Friends for a night of Stand up comedy in Southampton- Saturday 19th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-afd313a7-4f6",
-   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-09-19",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 7,
-   "priceText": "£4–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
-   "infoUrl": "https://www.fatsoma.com/e/the-big-one-cocktails-2-4-1",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "emo",
-    "indie"
-   ],
-   "hot": false,
-   "id": "fat-7b45699c-2e7",
-   "artist": "Strays EXTENDED!",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-19",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 5,
-   "priceText": "£4–£5",
-   "genre": "punk",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/strays-extended",
-   "infoUrl": "https://www.fatsoma.com/e/strays-extended",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-1952a4ee-026",
-   "artist": "SATURDAY SESSIONS",
-   "venueId": "popworld-southampton",
-   "venueName": "Popworld - Southampton",
-   "postcode": "SO15 2EH",
-   "date": "2026-09-19",
-   "time": "21:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/saturday-sessions",
-   "infoUrl": "https://www.fatsoma.com/e/saturday-sessions",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-ce35758c-a29",
-   "artist": "Afro Kulture | Urban Room",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-09-19",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
-   "infoUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "freshers"
-   ],
-   "hot": false,
-   "id": "fat-478f469b-f1f",
-   "artist": "Freshers Heroes - 19th Sept",
-   "venueId": "clowns-wine-bar-and-jesters-nightclub",
-   "venueName": "Clowns Wine Bar and Jesters Nightclub",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-19",
-   "time": "22:00",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/freshers-heroes-19th-sept",
-   "infoUrl": "https://www.fatsoma.com/e/freshers-heroes-19th-sept",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": true,
-   "id": "sk-42627556",
-   "artist": "Groove Cartel w/ Stef Davidse, Chopper, Ryan Nicholls + MORE",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-19",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "jazz",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/7/5/1/2314918_e420de32_groove-cartel-w-stef-davidse-chopper-ryan-nicholls-more_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Groove-Cartel-w-Stef-Davidse-Chopper-Ryan-Nicholls--MORE/42627556/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Groove-Cartel-w-Stef-Davidse-Chopper-Ryan-Nicholls--MORE/42627556/",
-   "going": 195,
-   "minage": "18",
-   "desc": "Groove Cartel are bringing Chopper, Stef Davidse, Ryan Nicholls and Samantha Neal to Southampton for our debut show",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T15:26:44.859Z"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-75c21e5b-80e",
-   "artist": "Saturdays at Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-09-19",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 13.2,
-   "priceText": "£0–£13.20",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43114688",
-   "artist": "General Levy",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-09-19",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43114688-general-levy-at-enginerooms",
-   "infoUrl": "https://www.songkick.com/concerts/43114688-general-levy-at-enginerooms",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43035308",
-   "artist": "Sander van Doorn",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-19",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43035308-sander-van-doorn-at-sobar-southampton",
-   "infoUrl": "https://www.songkick.com/concerts/43035308-sander-van-doorn-at-sobar-southampton",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43141681",
-   "artist": "New Tonic",
-   "venueId": "locomotive-engineers-club",
-   "venueName": "Locomotive Engineers Club",
-   "postcode": "SO50 9FJ",
-   "date": "2026-09-19",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43141681-new-tonic-at-locomotive-engineers-club",
-   "infoUrl": "https://www.songkick.com/concerts/43141681-new-tonic-at-locomotive-engineers-club",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43352809",
-   "artist": "Drinks on Me",
-   "venueId": "suburbia",
-   "venueName": "Suburbia",
-   "postcode": "SO14 0JD",
-   "date": "2026-09-19",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43352809-drinks-on-me-at-suburbia-southampton",
-   "infoUrl": "https://www.songkick.com/concerts/43352809-drinks-on-me-at-suburbia-southampton",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
   {
    "type": "club",
    "tags": [
@@ -961,8 +497,8 @@
    "date": "2026-09-20",
    "time": "22:00",
    "price": 2.99,
-   "priceMax": 22,
-   "priceText": "£2.99–£22",
+   "priceMax": 26.4,
+   "priceText": "£2.99–£26.40",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bollywood-fresher-s-night-2026-namaste-soton-2-0",
@@ -1674,8 +1210,7 @@
    "going": 0,
    "minage": null,
    "desc": "Luke Wright's \"Later Life Letter\" an evening with at The Attic Southampton - Thursday 24th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -2701,8 +2236,7 @@
    "going": 0,
    "minage": null,
    "desc": "The Noise Next Door \"Comedy, Improvised\" at The Attic in Southampton comedy Saturday 26th September",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -2847,8 +2381,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Polish Single Retro Party at Suburbia! DJs Degres and Mass Free single wristbands and LED glow sticks.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -3854,8 +3387,7 @@
    "going": 0,
    "minage": null,
    "desc": "British Comedian of the year - Thursday 1st October at The Attic in Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -4097,8 +3629,7 @@
    "going": 0,
    "minage": null,
    "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -4123,8 +3654,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Chill out with some fresh indie vibes and discover your new favourite band",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -5803,8 +5333,7 @@
    "going": 0,
    "minage": null,
    "desc": "Comedy Improv, Southampton, Hampshire at The Attic - Wednesday 7th October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -5972,8 +5501,7 @@
    "going": 0,
    "minage": null,
    "desc": "Joe Wells Stand up Comedy Tour \"Daddy Autism\" - Thursday 8th October at The Attic in Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -6964,7 +6492,7 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "sk-42641892",
+   "id": "sk-42735053",
    "artist": "Reggaeton Party (Southampton) October 2026",
    "venueId": "suburbia",
    "venueName": "Suburbia Southampton",
@@ -6975,14 +6503,13 @@
    "priceMax": 9,
    "priceText": "£7–£9",
    "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/9/c/2317492_9bb4894a_reggaeton-party-southampton-october-2026_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-October-2026/42641892/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-October-2026/42641892/",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/7/4/f/2342116_e5eb60db_reggaeton-party-southampton-october-2026_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-October-2026/42735053/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-October-2026/42735053/",
    "going": 0,
    "minage": "18",
-   "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "desc": "The UK's biggest Reggaeton Party is coming back to Southampton! Come and celebrate all things Reggaeton with 200+ other Reggaeton lovers.",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -7153,52 +6680,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43406144",
-   "artist": "Kaïros",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43406144-kairos-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43406144-kairos-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42947980",
-   "artist": "The John Hackett Band",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42947980-john-hackett-band-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/42947980-john-hackett-band-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "tm-LvZ18QfQ8MiEb6YZyoOHJ",
    "artist": "The John Hackett Band + Dorie Jackson",
    "venueId": "the-1865",
@@ -7270,7 +6751,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43041230",
+   "id": "tm-LvZ18QbFEtRvefYZllIEC",
    "artist": "John 5",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -7281,13 +6762,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43041230-john-5-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43041230-john-5-at-1865",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/a/550/aa0b4618-fb1b-4e79-adee-269f4b1bf550_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/john-5-tickets-JNYQPL?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/john-5-tickets-JNYQPL?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "songkick"
+   "source": "ticketmaster"
   },
   {
    "type": "theatre",
@@ -7316,7 +6797,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43345176",
+   "id": "tm-17u8v0G62wriw_t",
    "artist": "Saint Clair",
    "venueId": "heartbreakers",
    "venueName": "Heartbreakers",
@@ -7327,13 +6808,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43345176-saint-clair-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43345176-saint-clair-at-heartbreakers",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/a/c33/e0163490-2b0e-4e0c-901c-9b2e52489c33_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/saint-clair-southampton-13-10-2026/event/350064FC9EB32669",
+   "infoUrl": "https://www.ticketmaster.co.uk/saint-clair-southampton-13-10-2026/event/350064FC9EB32669",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "songkick"
+   "source": "ticketmaster"
   },
   {
    "type": "theatre",
@@ -7362,7 +6843,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43036424",
+   "id": "tm-LvZ18QbKd_Dtzx8Zld4DA",
    "artist": "Lazuli",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -7373,42 +6854,19 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43036424-lazuli-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43036424-lazuli-at-1865",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/lazuli-tickets-5V71KM?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/lazuli-tickets-5V71KM?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43205395",
-   "artist": "The Theatre",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-14",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43205395-theatre-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43205395-theatre-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43065758",
+   "id": "tm-LvZ18Qn0CAZl0TlorILI9",
    "artist": "Eleine",
    "venueId": "brook",
    "venueName": "The Brook",
@@ -7419,13 +6877,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43065758-eleine-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43065758-eleine-at-brook",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/eleine-tickets-38G4B0?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/eleine-tickets-38G4B0?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "songkick"
+   "source": "ticketmaster"
   },
   {
    "type": "other",
@@ -7837,8 +7295,7 @@
    "going": 0,
    "minage": null,
    "desc": "Milo Edwards: Catamaran tour stand up comedy in Southampton Friday 16th October",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -8072,8 +7529,8 @@
    "postcode": "SO14 0JD",
    "date": "2026-10-16",
    "time": "22:30",
-   "price": 5,
-   "priceMax": 5,
+   "price": 2,
+   "priceMax": 2,
    "priceText": null,
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/5/1/2331061_479efed5_wavz-audio-presents-dnb-s-got-talent_1024.jpg",
@@ -8082,8 +7539,7 @@
    "going": 0,
    "minage": "18",
    "desc": "WAVZ Audio presents DNB'S GOT TALENT, a brand new Drum & Bass talent competition coming to Suburbia Southampton this October.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -8098,8 +7554,8 @@
    "postcode": "SO14 0JD",
    "date": "2026-10-16",
    "time": "22:30",
-   "price": 5,
-   "priceMax": 5,
+   "price": 2,
+   "priceMax": 2,
    "priceText": null,
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/2/c/2325319_b4f6ca02_dnb-s-got-talent-wavz-audio_1024.jpg",
@@ -8108,8 +7564,7 @@
    "going": 0,
    "minage": "18",
    "desc": "One night. One stage. One winner. WAVZ Audio presents DNB'S GOT TALENT, a brand new Drum & Bass talent competition coming to Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -9643,8 +9098,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10054,8 +9508,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10070,9 +9523,9 @@
    "postcode": "SO14 0JD",
    "date": "2026-10-24",
    "time": "21:00",
-   "price": 5,
+   "price": 8,
    "priceMax": 17,
-   "priceText": "£5–£17",
+   "priceText": "£8–£17",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/e/f/2332807_be1e2227_mala-casa-halloween-at-suburbia-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
@@ -10080,8 +9533,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10971,8 +10423,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt all night! Get weird with Clowning Around at Taking Back Thursdays. Fancy dress strongly encouraged!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -11663,8 +11114,7 @@
    "going": 0,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12046,8 +11496,7 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton best \"Comedy Open Mic Night\" in Hampshire Wednesday 4th November",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -12992,8 +12441,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13208,8 +12656,7 @@
    "going": 0,
    "minage": "18",
    "desc": "A night built for the emo, metalcore, nu metal, pop punk & alt crowd. Midwest Emo Night hits Suburbia Southampton, 10.30pm till late.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13968,8 +13415,7 @@
    "going": 0,
    "minage": null,
    "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14366,8 +13812,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -14564,32 +14009,6 @@
    "source": "songkick"
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42492040",
-   "artist": "Dominic Frisby on Tour! in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "going": 0,
-   "minage": null,
-   "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14612,6 +14031,31 @@
    "desc": "Back by popular demand 'Definitely, Oasis' returns to Southampton",
    "source": "skiddle",
    "_carriedSince": "2026-09-19T12:31:56.506Z"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42492040",
+   "artist": "Dominic Frisby on Tour! in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
+   "going": 0,
+   "minage": null,
+   "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14772,8 +14216,7 @@
    "going": 0,
    "minage": "18",
    "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -15291,8 +14734,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16665,8 +16107,7 @@
    "going": 0,
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16763,8 +16204,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Merry Axemas Horror Christmas takeover of Taking Back Thursdays! Emo/metalcore/nu metal/pop punk/alt. Fancy dress: Horror/Xmas. 10 Dec, Suburbia",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -17247,8 +16687,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17368,32 +16807,6 @@
    "source": "fatsoma"
   },
   {
-   "type": "comedy",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "sk-42532872",
-   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "price": 19,
-   "priceMax": 19,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "going": 0,
-   "minage": null,
-   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
-  },
-  {
    "type": "gig",
    "tags": [
     "karaoke"
@@ -17418,6 +16831,31 @@
    "desc": "Massaoke head to EngineRooms Southampton this December!",
    "source": "skiddle",
    "_carriedSince": "2026-09-19T12:31:56.506Z"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-42532872",
+   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "price": 19,
+   "priceMax": 19,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "going": 0,
+   "minage": null,
+   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17612,8 +17050,7 @@
    "going": 0,
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18659,8 +18096,7 @@
    "going": 0,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18941,8 +18377,7 @@
    "going": 0,
    "minage": null,
    "desc": "Max Fulham & Friends in Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18965,8 +18400,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20092,8 +19526,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20351,8 +19784,7 @@
    "going": 0,
    "minage": "16",
    "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20446,8 +19878,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Coldplay It Again, Oasis Here Now, and Stereoconics are coming to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21061,8 +20492,7 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21467,8 +20897,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Mosh Spice is the world's first metal tribute to the Spice Girls, a high energy mashup of pop anthems and headbanging metal attitude.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21752,8 +21181,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21801,8 +21229,7 @@
    "going": 0,
    "minage": null,
    "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22220,8 +21647,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-12T21:27:12.305Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
