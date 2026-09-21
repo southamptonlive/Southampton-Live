@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-21T12:31:51.092Z",
+ "generated": "2026-09-21T15:27:10.645Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 145,
+   "carried": 147,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 75
+   "events": 76
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 42
+   "events": 43
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 454
+   "events": 458
   },
   {
    "id": "mitc",
@@ -14952,7 +14952,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-21T12:31:51.092Z"
   },
   {
    "type": "club",
@@ -14996,6 +14997,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
    "infoUrl": "https://www.songkick.com/concerts/43269682-4am-kru-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425585",
+   "artist": "Dark Arts",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
+   "date": "2026-11-27",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425585-dark-arts-at-suburbia-southampton",
+   "infoUrl": "https://www.songkick.com/concerts/43425585-dark-arts-at-suburbia-southampton",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -15510,6 +15534,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43199916-ash-at-o2-guildhall",
    "infoUrl": "https://www.songkick.com/concerts/43199916-ash-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425645",
+   "artist": "The Family Battenberg",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -17797,6 +17844,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "sk-42793599",
+   "artist": "Thunderstruck",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-01-22",
+   "time": "19:00",
+   "price": 19,
+   "priceMax": 19,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/2/8/2348593_0e3cc3a5_thunderstruck_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Thunderstruck/42793599/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Thunderstruck/42793599/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Thunderstruck are heading to EngineRooms Southampton on Friday January 22nd 2027 for a high energy AC/DC tribute show!",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43261266",
@@ -18479,7 +18551,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Spanish Love Songs head to EngineRooms Southampton this Feb!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-21T12:31:51.092Z"
   },
   {
    "type": "gig",
@@ -19514,6 +19587,31 @@
    "source": "songkick"
   },
   {
+   "type": "theatre",
+   "tags": [
+    "disco"
+   ],
+   "hot": false,
+   "id": "sk-42793601",
+   "artist": "The Greatest MUSICALS Disco - Southampton",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2027-03-12",
+   "time": "18:00",
+   "price": 14,
+   "priceMax": 17,
+   "priceText": "£14–£17",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/0/2/2348595_27782453_The-Greatest-MUSICALS-Disco---Southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Greatest-MUSICALS-Disco---Southampton/42793601/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Greatest-MUSICALS-Disco---Southampton/42793601/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Expect music from Hamilton, Grease, Dirty Dancing, High School Musical, Wicked & Mamma Mia to The Greatest Showman, Frozen & Six.",
+   "source": "skiddle"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -20495,6 +20593,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43308850-al-murray-at-mayflower-theatre",
    "infoUrl": "https://www.songkick.com/concerts/43308850-al-murray-at-mayflower-theatre",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425472",
+   "artist": "Richard Thompson",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2027-04-28",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425472-richard-thompson-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43425472-richard-thompson-at-o2-guildhall",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -21806,6 +21927,29 @@
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
    "source": "skiddle",
    "_carriedSince": "2026-09-20T00:35:51.260Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425518",
+   "artist": "Ruts DC",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425518-ruts-dc-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43425518-ruts-dc-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
