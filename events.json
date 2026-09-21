@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-21T18:31:32.559Z",
+ "generated": "2026-09-21T21:28:19.050Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -174,12 +174,6 @@
    "address": "Southampton"
   },
   {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "address": "Civic Centre Road"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -244,6 +238,12 @@
    "name": "The Hobbit",
    "postcode": "SO14 0JZ",
    "address": "134 Bevois Valley Road, Southampton"
+  },
+  {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7DU",
+   "address": "Above Bar St"
   },
   {
    "id": "mast",
@@ -334,6 +334,12 @@
    "name": "GOALS - Millbrook - (Southampton)",
    "postcode": "SO15 0JW",
    "address": "Third Ave, Millbrook, Southampton SO15 0JW"
+  },
+  {
+   "id": "university-of-southampton-highfield-campus",
+   "name": "University of Southampton Highfield Campus",
+   "postcode": "SO17 1BJ",
+   "address": "University Rd, Southampton SO17 1BJ"
   },
   {
    "id": "medbar-southampton",
@@ -1201,6 +1207,32 @@
    "source": "mayflower"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-6e5493d5-f9f",
+   "artist": "FREE SIGN UP- Southampton Bollywood Freshers Icebreaker 2026-27 Signup - The Official Waitlist",
+   "venueId": "university-of-southampton-highfield-campus",
+   "venueName": "University of Southampton Highfield Campus",
+   "postcode": "SO17 1BJ",
+   "date": "2026-09-25",
+   "time": "00:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/free-sign-up-southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
+   "infoUrl": "https://www.fatsoma.com/e/free-sign-up-southampton-bollywood-freshers-icebreaker-2026-27-signup-the-official-waitlist",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [
     "indie",
@@ -1974,7 +2006,7 @@
    "priceMax": 19.8,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/55/18/33_Original.jpg?v=6",
+   "img": "https://i.ticketweb.com/i/00/13/55/18/33_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/fleetwood-bac-the-brook-tickets/14942693",
    "infoUrl": "https://www.the-brook.com/tm-event/fleetwood-bac/",
    "going": 0,
