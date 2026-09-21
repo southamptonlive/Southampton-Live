@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-21T15:27:10.645Z",
+ "generated": "2026-09-21T18:31:32.559Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 147,
+   "carried": 149,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 256
+   "events": 257
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 274
+   "events": 275
   }
  ],
  "venues": [
@@ -17865,7 +17865,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Thunderstruck are heading to EngineRooms Southampton on Friday January 22nd 2027 for a high energy AC/DC tribute show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-21T15:27:10.645Z"
   },
   {
    "type": "gig",
@@ -19609,7 +19610,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Expect music from Hamilton, Grease, Dirty Dancing, High School Musical, Wicked & Mamma Mia to The Greatest Showman, Frozen & Six.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-21T15:27:10.645Z"
   },
   {
    "type": "gig",
@@ -21579,6 +21581,31 @@
    "source": "songkick"
   },
   {
+   "type": "club",
+   "tags": [
+    "soul"
+   ],
+   "hot": false,
+   "id": "fat-a1304b53-ef1",
+   "artist": "Motown Day Party: Southampton ✨",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2027-07-24",
+   "time": "15:00",
+   "price": 12.5,
+   "priceMax": 22.5,
+   "priceText": "£12.50–£22.50",
+   "genre": "jazz",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -21903,6 +21930,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18Ql7AgLGhc7u0Yo1-",
+   "artist": "BRUCE FOXTON '50 years of The Jam' Tour",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/bruce-foxton-50-years-of-the-jam-tour-tickets-Z7CF6W?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/bruce-foxton-50-years-of-the-jam-tour-tickets-Z7CF6W?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
