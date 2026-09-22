@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-22T03:29:04.495Z",
+ "generated": "2026-09-22T06:34:01.265Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -1246,31 +1246,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "fat-5015d81f-ada",
-   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-09-25",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
-   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -8310,29 +8285,6 @@
    "source": "fatsoma"
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-87078af4-a36",
-   "artist": "🐫 Hump Wednesdays 🐫",
-   "venueId": "trilogy-southampton",
-   "venueName": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-21",
-   "time": "22:00",
-   "price": 5,
-   "priceMax": 6,
-   "priceText": "£5–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
-   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -14613,11 +14565,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/c/2/2324358_a9cf9b37_taking-back-thursdays-myspace-core_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-20T00:35:51.260Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14830,11 +14781,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_a9d28185_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 0,
+   "going": 3,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-21T12:31:51.092Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
