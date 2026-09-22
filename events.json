@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-22T06:34:01.265Z",
+ "generated": "2026-09-22T09:27:54.118Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 148,
+   "carried": 147,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 274
+   "events": 277
   }
  ],
  "venues": [
@@ -1246,6 +1246,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-5015d81f-ada",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-09-25",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -6564,6 +6589,29 @@
    "source": "mayflower"
   },
   {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-tanglespace-2026-10-13",
+   "artist": "TANGLESPACE",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-13",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/tanglespace-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/tanglespace-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -8285,6 +8333,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-87078af4-a36",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-10-21",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -9452,29 +9523,6 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-flotsam-2026-10-24",
-   "artist": "Flotsam",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-24",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -12411,6 +12459,29 @@
    "source": "thebrook"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AUZkfgGkexvNm6",
+   "artist": "Echo & the Bunnymen",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/474/053daaed-55c0-49fa-a013-77f7e568e474_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/echo-the-bunnymen-southampton-12-11-2026/event/36006535A2063B87",
+   "infoUrl": "https://www.ticketmaster.co.uk/echo-the-bunnymen-southampton-12-11-2026/event/36006535A2063B87",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -12958,8 +13029,7 @@
    "going": 1,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-15T06:36:19.487Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14568,7 +14638,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-22T06:34:01.265Z"
   },
   {
    "type": "gig",
@@ -14784,7 +14855,8 @@
    "going": 3,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-22T06:34:01.265Z"
   },
   {
    "type": "club",
@@ -20293,6 +20365,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "tm-LvZ18Qnl66dhbTe3O6R1N",
+   "artist": "Mr Punch (Marillion tribute)",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-04-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/mr-punch-marillion-tribute-tickets-Q3RX9J?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/mr-punch-marillion-tribute-tickets-Q3RX9J?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "br-deeper-purple-machine-head-tour-2027-2027-04-22",
@@ -21761,6 +21858,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18Ql78WhqZQwFiONpa",
+   "artist": "Dr Feelgood & Nine Below Zero",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-15",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/dr-feelgood-nine-below-zero-tickets-MD03R4?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/dr-feelgood-nine-below-zero-tickets-MD03R4?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
