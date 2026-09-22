@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-22T00:34:40.667Z",
+ "generated": "2026-09-22T03:29:04.495Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 76
+   "events": 75
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 458
+   "events": 456
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 257
+   "events": 252
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 275
+   "events": 274
   }
  ],
  "venues": [
@@ -172,6 +172,12 @@
    "name": "Circuit",
    "postcode": "SO14 7FN",
    "address": "Southampton"
+  },
+  {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "address": "Civic Centre Road"
   },
   {
    "id": "brook",
@@ -238,12 +244,6 @@
    "name": "The Hobbit",
    "postcode": "SO14 0JZ",
    "address": "134 Bevois Valley Road, Southampton"
-  },
-  {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7DU",
-   "address": "Above Bar St"
   },
   {
    "id": "mast",
@@ -13527,6 +13527,29 @@
    "source": "songkick"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43424022",
+   "artist": "Barefoot Bandit",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -13613,29 +13636,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43408558-bella-hull-at-papillon",
    "infoUrl": "https://www.songkick.com/concerts/43408558-bella-hull-at-papillon",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43424022",
-   "artist": "Barefoot Bandit",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43424022-barefoot-bandit-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
