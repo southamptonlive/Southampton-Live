@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-23T00:33:21.438Z",
+ "generated": "2026-09-23T03:29:11.367Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 44
+   "events": 43
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 458
+   "events": 461
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 255
+   "events": 254
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 295
+   "events": 294
   }
  ],
  "venues": [
@@ -11320,6 +11320,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "house",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-a48f4154-123",
+   "artist": "MIDWEEK MOTION🌊🥤",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-04",
+   "time": "22:30",
+   "price": 3,
+   "priceMax": 16.5,
+   "priceText": "£3–£16.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/midweek-motion",
+   "infoUrl": "https://www.fatsoma.com/e/midweek-motion",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14587,6 +14613,29 @@
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
    "source": "skiddle",
    "_carriedSince": "2026-09-22T06:34:01.265Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43428586",
+   "artist": "ĠENN",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-11-26",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43428586-genn-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43428586-genn-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -18719,6 +18768,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43261199",
+   "artist": "Ariel Posen",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-02-15",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43261199-ariel-posen-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43261199-ariel-posen-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-1AwZk39Gkdgro6t",
    "artist": "Shred Fest @ Engine Rooms",
    "venueId": "engine",
@@ -18737,29 +18809,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43261199",
-   "artist": "Ariel Posen",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-02-15",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43261199-ariel-posen-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43261199-ariel-posen-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "gig",
@@ -19422,7 +19471,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QIHPaBU2EHhr8qO8",
+   "id": "sg-43402401",
    "artist": "The Pineapple Thief",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -19433,13 +19482,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/ba4/6ab45818-4738-4ee0-9eb5-0bafbb966ba4_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/the-pineapple-thief-tickets-BSWX57?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-pineapple-thief-tickets-BSWX57?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43402401-pineapple-thief-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43402401-pineapple-thief-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
