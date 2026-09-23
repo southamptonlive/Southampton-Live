@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-22T21:26:29.999Z",
+ "generated": "2026-09-23T00:33:21.438Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 149,
+   "carried": 151,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 463
+   "events": 458
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 256
+   "events": 255
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 297
+   "events": 295
   }
  ],
  "venues": [
@@ -385,170 +385,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43108928",
-   "artist": "Cold",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-22",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43108928-cold-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43108928-cold-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qh8ZueVRV8Z0QrzA",
-   "artist": "HED PE / COLD",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-09-22",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/84a/569db348-0a4b-477d-a3a6-24210565484a_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/hed-pe-cold-tickets-GNB97R?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/hed-pe-cold-tickets-GNB97R?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-sports-team-2026-09-22",
-   "artist": "Sports Team",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-09-22",
-   "time": "19:30",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/61/09/93_Original.jpg?v=5",
-   "ticketUrl": "https://www.ticketweb.uk/event/sports-team-the-brook-tickets/15008523",
-   "infoUrl": "https://www.the-brook.com/tm-event/sports-team/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43274436",
-   "artist": "Divorce Attorney",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-22",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43274436-divorce-attorney-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43274436-divorce-attorney-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-1b41b987-b14",
-   "artist": "SO:CRAZY - EVERY TUESDAY - BACK FOR A NEW TERM- 22nd September 2026 - £1 DOUBLES ALL NIGHT.",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-09-22",
-   "time": "22:00",
-   "price": 7,
-   "priceMax": 7,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-22nd-september-2026-1-doubles-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-22nd-september-2026-1-doubles-all-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-0f0c7afa-4a3",
-   "artist": "💥Pounded Tuesday - £1 Drinks & Free Donuts! 🍩",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-09-22",
-   "time": "22:00",
-   "price": 1.5,
-   "priceMax": 3.5,
-   "priceText": "£1.50–£3.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesday-1-drinks-free-donuts",
-   "infoUrl": "https://www.fatsoma.com/e/pounded-tuesday-1-drinks-free-donuts",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42711103",
-   "artist": "SEMSU Presents: Spin It Back!",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-09-22",
-   "time": "22:30",
-   "price": 3.5,
-   "priceMax": 3.5,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/5/2/2333196_9aede9b3_semsu-presents-spin-it-back-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SEMSU-Presents-Spin-It-Back/42711103/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SEMSU-Presents-Spin-It-Back/42711103/",
-   "going": 2,
-   "minage": "18",
-   "desc": "We are proud to be taking over Suburbia to bring you the first SEMSU-run event of the year: Spin It Back!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-18T06:33:33.591Z"
-  },
   {
    "type": "club",
    "tags": [
@@ -17903,7 +17739,8 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 20th January 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-22T21:26:29.999Z"
   },
   {
    "type": "gig",
@@ -19276,7 +19113,8 @@
    "going": 0,
    "minage": null,
    "desc": "Iain Lee \"Imposter Syndrome\" - at The Attic in Southampton Saturday 27th February Matinee Show",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-22T21:26:29.999Z"
   },
   {
    "type": "gig",
@@ -19584,7 +19422,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43402401",
+   "id": "tm-LvZ18QIHPaBU2EHhr8qO8",
    "artist": "The Pineapple Thief",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -19595,13 +19433,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43402401-pineapple-thief-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43402401-pineapple-thief-at-1865",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/a/ba4/6ab45818-4738-4ee0-9eb5-0bafbb966ba4_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/the-pineapple-thief-tickets-BSWX57?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/the-pineapple-thief-tickets-BSWX57?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "songkick"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20403,7 +20241,8 @@
    "going": 0,
    "minage": null,
    "desc": "Tom Lawrinson \"Speak of the Devil\" at The Attic in Southampton Tuesday 13th April 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-22T21:26:29.999Z"
   },
   {
    "type": "gig",
