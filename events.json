@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-23T12:34:00.607Z",
+ "generated": "2026-09-23T15:29:27.712Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 75
+   "events": 76
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 25
+   "events": 23
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -18882,6 +18882,29 @@
   },
   {
    "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42801818",
+   "artist": "Green Haze & Nirvanah",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-02-19",
+   "time": "18:00",
+   "price": 10,
+   "priceMax": 10,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/2/6/2350407_5a93d05b_green-haze-nirvanah_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Green-Haze--Nirvanah/42801818/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Green-Haze--Nirvanah/42801818/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Green Haze return to EngineRooms this February with Nirvanah!",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
    "tags": [
     "tribute"
    ],
@@ -19517,20 +19540,20 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43144897",
+   "id": "sg-43145046",
    "artist": "Steve 'n' Seagulls",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2027-03-08",
-   "time": "19:30",
+   "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
    "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43144897-steve-n-seagulls-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43144897-steve-n-seagulls-at-brook",
+   "ticketUrl": "https://www.songkick.com/concerts/43145046-steve-n-seagulls-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43145046-steve-n-seagulls-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -20785,6 +20808,29 @@
    "desc": "The Big Indie Fest returns to EngineRooms Southampton once again!",
    "source": "skiddle",
    "_carriedSince": "2026-09-20T06:32:34.929Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43429990",
+   "artist": "Billy Nomates",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-05-01",
+   "time": "11:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43429990-billy-nomates-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43429990-billy-nomates-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
