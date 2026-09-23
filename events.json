@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-23T18:32:02.937Z",
+ "generated": "2026-09-23T21:28:00.443Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 254
+   "events": 255
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
-   "ok": false,
-   "carried": 118,
-   "error": "fetch failed"
+   "url": "https://www.ticketmaster.co.uk/",
+   "ok": true,
+   "events": 295
   }
  ],
  "venues": [
@@ -166,12 +166,6 @@
    "name": "The Loft",
    "postcode": "SO15 2EH",
    "address": "Bedford Place, Southampton"
-  },
-  {
-   "id": "the-horns-inn",
-   "name": "The Horns Inn",
-   "postcode": "SO16 0XA",
-   "address": "Romsey Road"
   },
   {
    "id": "circuit",
@@ -615,29 +609,6 @@
    "source": "fatsoma"
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-paul-merton-suki-webster-s-improv--2026-09-23",
-   "artist": "Paul Merton & Suki Webster's Improv Show",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-23",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/paul-merton-and-suki-websters-improv-show-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/paul-merton-and-suki-websters-improv-show-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -681,8 +652,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -1572,7 +1542,7 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-f5ff4878-4b5",
+   "id": "fat-44b387ca-416",
    "artist": "FINAL 100 TICKETS: R.U.M IN THE SUN SUNSET EDITION : HEADIE ONE PERFORMING LIVE",
    "venueId": "sobar",
    "venueName": "The Sobar",
@@ -2189,8 +2159,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -3246,8 +3215,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -3884,8 +3852,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -3977,8 +3944,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -4437,8 +4403,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -4578,8 +4543,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -4721,8 +4685,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -5084,8 +5047,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -5368,8 +5330,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -5461,8 +5422,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -5761,8 +5721,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -5808,8 +5767,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -6307,8 +6265,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -6685,8 +6642,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -6755,8 +6711,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -7072,8 +7027,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -7444,8 +7398,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -7514,8 +7467,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -8345,8 +8297,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -8698,8 +8649,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -8768,8 +8718,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -8792,8 +8741,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -8966,6 +8914,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-hasbian-2026-10-23",
+   "artist": "Hasbian",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-23",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -9497,8 +9468,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -9644,8 +9614,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -9783,8 +9752,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -10005,8 +9973,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -10052,8 +10019,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -10654,8 +10620,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -10678,8 +10643,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -11021,8 +10985,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -11091,8 +11054,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -11572,8 +11534,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -11598,8 +11559,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -11668,8 +11628,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -11979,8 +11938,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -12003,8 +11961,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -12306,8 +12263,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -12689,8 +12645,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -12928,8 +12883,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -12977,8 +12931,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -13355,8 +13308,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -13612,8 +13564,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -14071,8 +14022,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -14304,8 +14254,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -14353,8 +14302,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -14377,8 +14325,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -14424,8 +14371,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -14856,8 +14802,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -15305,8 +15250,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -15329,8 +15273,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -15470,8 +15413,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -15491,29 +15433,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43199916-ash-at-o2-guildhall",
    "infoUrl": "https://www.songkick.com/concerts/43199916-ash-at-o2-guildhall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43427733",
-   "artist": "Thistle",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-12-02",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43427733-thistle-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43427733-thistle-at-heartbreakers",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -15638,8 +15557,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -15902,8 +15820,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -15952,8 +15869,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -16091,8 +16007,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -16359,8 +16274,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -16600,8 +16514,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -16817,8 +16730,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -16989,8 +16901,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -17045,7 +16956,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-1AUZkfUGkeOxSRz",
+   "id": "sg-43430110",
    "artist": "Day Fever",
    "venueId": "guildhall",
    "venueName": "O2 Guildhall",
@@ -17056,14 +16967,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/2ce/4bcaf37f-d4e2-41b2-9041-0cdc6d3a42ce_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/day-fever-southampton-19-12-2026/event/36006536A08B3BF8",
-   "infoUrl": "https://www.ticketmaster.co.uk/day-fever-southampton-19-12-2026/event/36006536A08B3BF8",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43430110-day-fever-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43430110-day-fever-at-o2-guildhall",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -17086,8 +16996,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17209,8 +17118,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17235,8 +17143,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -17331,8 +17238,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17355,8 +17261,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17428,8 +17333,7 @@
    "going": 0,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-16T18:31:46.873Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17477,7 +17381,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Jamiroquai drummer Derrick McKenzie returns to the Horns Inn with another irresistible selection of sumptuous soulful house.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-23T18:32:02.937Z"
   },
   {
    "type": "club",
@@ -17650,8 +17555,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17789,8 +17693,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17838,8 +17741,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17885,8 +17787,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -18077,8 +17978,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18148,8 +18048,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18172,8 +18071,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18345,8 +18243,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18463,8 +18360,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18559,8 +18455,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -18820,8 +18715,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18846,8 +18740,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -18940,8 +18833,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19084,8 +18976,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19108,8 +18999,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19178,8 +19068,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19225,8 +19114,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19277,8 +19165,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19465,8 +19352,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19816,8 +19702,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -19840,8 +19725,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -20031,8 +19915,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -20080,8 +19963,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20342,8 +20224,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20435,8 +20316,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20506,8 +20386,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20601,8 +20480,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20649,8 +20527,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20721,8 +20598,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20791,8 +20667,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -20909,8 +20784,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20982,8 +20856,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "theatre",
@@ -21176,8 +21049,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21246,8 +21118,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21413,8 +21284,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21537,8 +21407,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21586,8 +21455,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21729,8 +21597,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21802,8 +21669,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "comedy",
@@ -21875,8 +21741,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -21970,8 +21835,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22017,8 +21881,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22064,8 +21927,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22111,8 +21973,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22135,8 +21996,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22161,8 +22021,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -22256,8 +22115,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22303,8 +22161,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22350,8 +22207,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22421,8 +22277,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22468,8 +22323,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -22538,8 +22392,7 @@
    "going": null,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
