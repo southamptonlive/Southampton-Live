@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T15:30:29.294Z",
+ "generated": "2026-09-24T18:32:16.706Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 154,
+   "carried": 155,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 253
+   "events": 254
   },
   {
    "id": "ticketmaster",
@@ -510,8 +510,8 @@
    "date": "2026-09-24",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 7,
-   "priceText": "£3.80–£7",
+   "priceMax": 8.3,
+   "priceText": "£3.80–£8.30",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-freshers-2026-southampton-s-best-student-night-1-shots-all-night-gala-event",
@@ -2505,6 +2505,31 @@
    "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays-freshers-full-moon-party",
    "going": null,
    "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-0c0bc1c1-5e6",
+   "artist": "Fiesta Miércoles | International Party 🍊",
+   "venueId": "orange-rooms-southampton",
+   "venueName": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "date": "2026-09-30",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 5.5,
+   "priceText": "£0–£5.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/fiesta-miércoles-international-party",
+   "infoUrl": "https://www.fatsoma.com/e/fiesta-miércoles-international-party",
+   "going": null,
+   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
@@ -14500,7 +14525,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Paharas Musica with Fat Tony & Ridney",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T15:30:29.294Z"
   },
   {
    "type": "gig",
