@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T06:34:34.566Z",
+ "generated": "2026-09-24T09:29:58.458Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 153,
+   "carried": 151,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 76
+   "events": 77
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 52
+   "events": 51
   },
   {
    "id": "skiddle:api",
@@ -5110,6 +5110,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "br-toby-lee-tour-rescheduled-2026-10-09",
+   "artist": "Toby Lee - Tour Rescheduled",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-09",
+   "time": "19:30",
+   "price": 24.75,
+   "priceMax": 24.75,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/60/02/93_Original.jpg?v=5",
+   "ticketUrl": "https://www.ticketweb.uk/event/toby-lee-tour-the-brook-tickets/14996793",
+   "infoUrl": "https://www.the-brook.com/tm-event/toby-lee-tour-rescheduled/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43249677",
    "artist": "BLOOD WIZARD",
    "venueId": "heartbreakers",
@@ -5151,29 +5174,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-17GOv0G62Uux8xa",
-   "artist": "Toby Lee - Tour Rescheduled",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-09",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/5a7/a998a888-2d9d-4013-b646-dd74baac45a7_SOURCE",
-   "ticketUrl": "https://www.ticketweb.uk/event/toby-lee-tour-the-brook-tickets/14996793?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/toby-lee-tour-the-brook-tickets/14996793?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -8671,29 +8671,6 @@
    "source": "mayflower"
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-hasbian-2026-10-23",
-   "artist": "Hasbian",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-23",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -11499,7 +11476,8 @@
    "going": 198,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T06:34:34.566Z"
   },
   {
    "type": "gig",
@@ -12091,24 +12069,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43427497",
+   "id": "sk-42798850",
    "artist": "Echo & The Bunnymen",
    "venueId": "engine",
-   "venueName": "Engine Rooms",
+   "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
    "date": "2026-11-12",
    "time": "19:00",
-   "price": null,
-   "priceMax": null,
+   "price": 40,
+   "priceMax": 40,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43427497-echo-and-the-bunnymen-at-enginerooms",
-   "infoUrl": "https://www.songkick.com/concerts/43427497-echo-and-the-bunnymen-at-enginerooms",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/e/b/2349548_d76e4c85_echo-the-bunnymen_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Echo--The-Bunnymen/42798850/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Echo--The-Bunnymen/42798850/",
+   "going": 13,
+   "minage": "14",
+   "desc": "Echo & The Bunnymen are heading to EngineRooms Southampton on Thursday November 12th!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -12242,7 +12220,7 @@
    "id": "sk-41634043",
    "artist": "The Vintage Explosion",
    "venueId": "engine",
-   "venueName": "Engine Rooms",
+   "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
    "date": "2026-11-13",
    "time": "19:00",
@@ -12251,13 +12229,12 @@
    "priceText": null,
    "genre": "jazz",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/a/d/2158142_98353856_The-Vintage-Explosion_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Engine-Rooms/The-Vintage-Explosion/41634043/",
-   "going": 88,
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/",
+   "going": 102,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-17T06:35:43.626Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14286,7 +14263,8 @@
    "going": 1,
    "minage": "14",
    "desc": "The Crawling are heading to Suburbia Southampton this November!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T06:34:34.566Z"
   },
   {
    "type": "gig",
@@ -17082,7 +17060,8 @@
    "going": 1,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T06:34:34.566Z"
   },
   {
    "type": "gig",
@@ -18296,11 +18275,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/a/2341316_92b4b1ba_marky-ramone-s-blitzkrieg_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
-   "going": 6,
+   "going": 9,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-17T06:35:43.626Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
