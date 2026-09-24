@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T03:29:20.102Z",
+ "generated": "2026-09-24T06:34:34.566Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 250
+   "events": 249
   },
   {
    "id": "ticketmaster",
@@ -3194,32 +3194,6 @@
    "source": "fatsoma"
   },
   {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-2d154583-7f4",
-   "artist": "Feel . Good . Friday @ Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-02",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 7,
-   "priceText": "£0–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -3896,6 +3870,75 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42893687",
+   "artist": "Bad Manners",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-10-03",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42893687-bad-manners-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/42893687-bad-manners-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43389871",
+   "artist": "Mandidextrous",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-03",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43389871-mandidextrous-at-enginerooms",
+   "infoUrl": "https://www.songkick.com/concerts/43389871-mandidextrous-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42908921",
+   "artist": "THE bEAT (UK)",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-10-03",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42908921-beat-uk-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/42908921-beat-uk-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "theatre",
@@ -11453,11 +11496,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/a/f/2335773_24f5c5aa_kings-of-the-rollers-holy-grail-uk-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/",
-   "going": 0,
+   "going": 198,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-24T00:35:47.331Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14241,11 +14283,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/6/1/2349933_8ec9c0b7_the-crawling_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Crawling/42799752/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Crawling/42799752/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "The Crawling are heading to Suburbia Southampton this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-22T15:28:21.307Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17038,11 +17079,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/d/b/2344607_1cc12c19_multi-genre-madness-boxing-day-wavz-x-sds_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-23T21:28:00.443Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
