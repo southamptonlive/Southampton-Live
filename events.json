@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T00:35:47.331Z",
+ "generated": "2026-09-24T03:29:20.102Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 152,
+   "carried": 153,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 455
+   "events": 459
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 254
+   "events": 250
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 294
+   "events": 293
   }
  ],
  "venues": [
@@ -11456,7 +11456,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T00:35:47.331Z"
   },
   {
    "type": "gig",
@@ -19251,24 +19252,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QnVnI5pGQU52Qe7C",
+   "id": "sg-43144897",
    "artist": "Steve 'n' Seagulls",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2027-03-08",
-   "time": "19:00",
+   "time": "19:30",
    "price": null,
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/0a4/e795491a-e9cd-48a6-8596-62a587aff0a4_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/steve-n-seagulls-tickets-G6MV0Z?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/steve-n-seagulls-tickets-G6MV0Z?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43144897-steve-n-seagulls-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43144897-steve-n-seagulls-at-brook",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -19298,8 +19299,8 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QxTv-6zzBZZzWywq",
-   "artist": "Henge",
+   "id": "sg-43269476",
+   "artist": "HENGE",
    "venueId": "the-1865",
    "venueName": "The 1865",
    "postcode": "SO14 3AR",
@@ -19309,13 +19310,36 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/0e8/0ad80bc9-0227-4af1-b43e-c54fac9f50e8_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/henge-tickets-65TK9R?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/henge-tickets-65TK9R?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43269476-henge-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43269476-henge-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43230961",
+   "artist": "The Howlers",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2027-03-11",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "theatre",
