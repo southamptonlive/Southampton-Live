@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T09:29:58.458Z",
+ "generated": "2026-09-24T12:34:33.492Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 151,
+   "carried": 154,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 51
+   "events": 52
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 249
+   "events": 252
   },
   {
    "id": "ticketmaster",
@@ -382,6 +382,12 @@
    "name": "Platform Tavern",
    "postcode": "SO14 2NY",
    "address": "Town Quay, Southampton SO14 2NY"
+  },
+  {
+   "id": "bitterne-royal-british-legion-club-ltd",
+   "name": "Bitterne Royal British Legion Club Ltd",
+   "postcode": "SO19 5JR",
+   "address": "237 Upper Deacon Rd, Southampton SO19 5JR"
   }
  ],
  "events": [
@@ -1296,22 +1302,22 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-a2179ec5-b69",
-   "artist": "R.U.M IN THE SUN SUNSET EDITION : HEADIE ONE PERFORMING LIVE",
+   "id": "fat-0ee7fbab-883",
+   "artist": "R.U.M IN THE SUN SUNSET EDITION : HEADIE ONE PERFORMING LIVE. - FINAL 50 TICKETS",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-09-26",
    "time": "16:00",
-   "price": 12.05,
-   "priceMax": 165,
-   "priceText": "£12.05–£165",
+   "price": 11,
+   "priceMax": 22,
+   "priceText": "£11–£22",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/r-u-m-in-the-sun-sunset-edition-headie-one-performing-live",
-   "infoUrl": "https://www.fatsoma.com/e/r-u-m-in-the-sun-sunset-edition-headie-one-performing-live",
+   "ticketUrl": "https://www.fatsoma.com/e/r-u-m-in-the-sun-sunset-edition-headie-one-performing-live-final-50-tickets",
+   "infoUrl": "https://www.fatsoma.com/e/r-u-m-in-the-sun-sunset-edition-headie-one-performing-live-final-50-tickets",
    "going": null,
-   "minage": null,
+   "minage": "18+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -3190,6 +3196,32 @@
    "infoUrl": "https://www.fatsoma.com/e/fuego-southampton-s-reggaeton-latin-night",
    "going": null,
    "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-2d154583-7f4",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-02",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -7055,6 +7087,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-003e0f98-61b",
+   "artist": "JESTEVIL",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-17",
+   "time": "15:00",
+   "price": 9,
+   "priceMax": 16.5,
+   "priceText": "£9–£16.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jestevil",
+   "infoUrl": "https://www.fatsoma.com/e/jestevil",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry"
    ],
@@ -8665,6 +8720,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-hasbian-2026-10-23",
+   "artist": "Hasbian",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-23",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -12086,7 +12164,8 @@
    "going": 13,
    "minage": "14",
    "desc": "Echo & The Bunnymen are heading to EngineRooms Southampton on Thursday November 12th!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T09:29:58.458Z"
   },
   {
    "type": "gig",
@@ -12234,7 +12313,8 @@
    "going": 102,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T09:29:58.458Z"
   },
   {
    "type": "gig",
@@ -15338,6 +15418,31 @@
   {
    "type": "club",
    "tags": [
+    "acoustic"
+   ],
+   "hot": false,
+   "id": "fat-cdd4e7c9-050",
+   "artist": "RBL Bitterne Music Night - Red Light Spies // Waldo Salt // Charlie Smith // D'Kenzion",
+   "venueId": "bitterne-royal-british-legion-club-ltd",
+   "venueName": "Bitterne Royal British Legion Club Ltd",
+   "postcode": "SO19 5JR",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/rbl-bitterne-music-night-red-light-spies-waldo-salt-charlie-smith-d-kenzion",
+   "infoUrl": "https://www.fatsoma.com/e/rbl-bitterne-music-night-red-light-spies-waldo-salt-charlie-smith-d-kenzion",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "xmas"
    ],
@@ -18278,7 +18383,8 @@
    "going": 9,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-24T09:29:58.458Z"
   },
   {
    "type": "gig",
