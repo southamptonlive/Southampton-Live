@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-24T12:34:33.492Z",
+ "generated": "2026-09-24T15:30:29.294Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 252
+   "events": 253
   },
   {
    "id": "ticketmaster",
@@ -166,6 +166,12 @@
    "name": "The Loft",
    "postcode": "SO15 2EH",
    "address": "Bedford Place, Southampton"
+  },
+  {
+   "id": "the-horns-inn",
+   "name": "The Horns Inn",
+   "postcode": "SO16 0XA",
+   "address": "Romsey Road"
   },
   {
    "id": "circuit",
@@ -378,6 +384,12 @@
    "address": "Vernon Walk, Southampton SO15 2EJ"
   },
   {
+   "id": "the-bugle-house",
+   "name": "The Bugle House",
+   "postcode": "SO14 2AL",
+   "address": "1A Bugle St, Southampton SO14 2AL"
+  },
+  {
    "id": "platform-tavern",
    "name": "Platform Tavern",
    "postcode": "SO14 2NY",
@@ -498,8 +510,8 @@
    "date": "2026-09-24",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 8.3,
-   "priceText": "£3.80–£8.30",
+   "priceMax": 7,
+   "priceText": "£3.80–£7",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-freshers-2026-southampton-s-best-student-night-1-shots-all-night-gala-event",
@@ -2268,8 +2280,8 @@
    "date": "2026-09-29",
    "time": "23:00",
    "price": 7,
-   "priceMax": 19.25,
-   "priceText": "£7–£19.25",
+   "priceMax": 20.35,
+   "priceText": "£7–£20.35",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/rep-your-flag-southampton-vs-solent-island-ting",
@@ -12670,6 +12682,29 @@
    "source": "songkick"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-18ce1bca-eef",
+   "artist": "DREAMS OF VALHALLA",
+   "venueId": "the-bugle-house",
+   "venueName": "The Bugle House",
+   "postcode": "SO14 2AL",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "price": 16.5,
+   "priceMax": 27.5,
+   "priceText": "£16.50–£27.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dreams-of-valhalla",
+   "infoUrl": "https://www.fatsoma.com/e/dreams-of-valhalla",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -13388,7 +13423,7 @@
    "priceMax": 13.2,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/04/77/24_Original.jpg?v=3",
+   "img": "https://i.ticketweb.com/i/00/13/04/77/24_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/the-barefoot-bandit-special-the-brook-tickets/14331694",
    "infoUrl": "https://www.the-brook.com/tm-event/the-barefoot-bandit-special-guests/",
    "going": 0,
@@ -14443,6 +14478,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": true,
+   "id": "sk-42734324",
+   "artist": "Paharas Musica with Fat Tony & Ridney",
+   "venueId": "the-horns-inn",
+   "venueName": "The Horns Inn",
+   "postcode": "SO16 0XA",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "price": 20,
+   "priceMax": 29.5,
+   "priceText": "£20–£29.50",
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/b/f/9/2341845_2d61f702_paharas-musica-with-fat-tony-ridney_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Paharas-Musica-with-Fat-Tony--Ridney/42734324/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Paharas-Musica-with-Fat-Tony--Ridney/42734324/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Paharas Musica with Fat Tony & Ridney",
+   "source": "skiddle"
   },
   {
    "type": "gig",
