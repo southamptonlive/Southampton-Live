@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-25T15:29:53.723Z",
+ "generated": "2026-09-25T18:30:27.621Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 489
+   "events": 490
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 51
+   "events": 50
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 253
+   "events": 254
   },
   {
    "id": "ticketmaster",
@@ -184,6 +184,12 @@
    "name": "Guildhall Square",
    "postcode": "SO14 7LP",
    "address": "Civic Centre Road"
+  },
+  {
+   "id": "cafe-parfait",
+   "name": "Cafe Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar Street"
   },
   {
    "id": "brook",
@@ -904,29 +910,6 @@
    "source": "songkick"
   },
   {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-max-fulham-2026-09-25",
-   "artist": "Max Fulham",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-25",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -1508,29 +1491,6 @@
    "source": "songkick"
   },
   {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-max-fulham-2026-09-26",
-   "artist": "Max Fulham",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-26",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -1594,6 +1554,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/write-a-note-celebration-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/write-a-note-celebration-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "comedy",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-max-fulham-2026-09-26",
+   "artist": "Max Fulham",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-09-26",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -1959,6 +1942,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-647506f1-ba8",
+   "artist": "SO:CRAZY - EVERY TUESDAY - BACK FOR A NEW TERM- 29th September 2026 - £1 DOUBLES ALL NIGHT.",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-09-29",
+   "time": "22:00",
+   "price": 7,
+   "priceMax": 7,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-29th-september-2026-1-doubles-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-29th-september-2026-1-doubles-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -16682,24 +16688,24 @@
     "r&b"
    ],
    "hot": false,
-   "id": "fat-2869b3f4-3e7",
-   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
+   "id": "sk-42722739",
+   "artist": "RnB Throwbacks: Over 30's day party with 90's & 00's RnB",
+   "venueId": "cafe-parfait",
+   "venueName": "Cafe Parfait",
    "postcode": "SO14 7DW",
    "date": "2026-12-12",
    "time": "16:00",
-   "price": 17.6,
-   "priceMax": 82.5,
-   "priceText": "£17.60–£82.50",
+   "price": 15,
+   "priceMax": 75,
+   "priceText": "£15–£75",
    "genre": "hiphop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "infoUrl": "https://www.fatsoma.com/e/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/2/e/2337415_cc632fa5_rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
+   "going": 0,
+   "minage": "30",
+   "desc": "Get ready for the ultimate Over 30s Day Party as we take over Cafe Parfait for an afternoon of huge 90s & 00s R&B Throwbacks!",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -22721,6 +22727,29 @@
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
    "source": "skiddle",
    "_carriedSince": "2026-09-20T00:35:51.260Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425518",
+   "artist": "Ruts DC",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425518-ruts-dc-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43425518-ruts-dc-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
