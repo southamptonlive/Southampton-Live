@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-26T15:28:02.230Z",
+ "generated": "2026-09-26T18:31:04.016Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 53
+   "events": 52
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 242
+   "events": 243
   },
   {
    "id": "ticketmaster",
@@ -873,6 +873,32 @@
   },
   {
    "type": "club",
+   "tags": [
+    "garage",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-43beea59-fa7",
+   "artist": "Get Proper x IO - Takeover",
+   "venueId": "planet-sounds",
+   "venueName": "Planet Sounds",
+   "postcode": "SO14 3FE",
+   "date": "2026-09-26",
+   "time": "22:00",
+   "price": 4,
+   "priceMax": 5,
+   "priceText": "£4–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/get-proper-x-io-takeover",
+   "infoUrl": "https://www.fatsoma.com/e/get-proper-x-io-takeover",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "sk-42723064",
@@ -943,52 +969,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-write-a-note-2026-09-26",
-   "artist": "Write a Note",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-26",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/write-a-note-celebration-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/write-a-note-celebration-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-max-fulham-2026-09-26",
-   "artist": "Max Fulham",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-09-26",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/max-fulham-more-ham-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "theatre",
@@ -3087,31 +3067,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-latinoland-freshers-360-edition",
    "infoUrl": "https://www.fatsoma.com/e/southampton-latinoland-freshers-360-edition",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-66fb03f3-0ce",
-   "artist": "Saturdays at Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-03",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 13.2,
-   "priceText": "£0–£13.20",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -8121,32 +8076,6 @@
    "_carriedSince": "2026-09-20T06:32:34.929Z"
   },
   {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-b8086c7b-581",
-   "artist": "Feel . Good . Friday @ Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-23",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 7,
-   "priceText": "£0–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -9467,6 +9396,29 @@
    "source": "mayflower"
   },
   {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-honouring-our-communities-black-st-2026-10-29",
+   "artist": "Honouring our Communities: Black Stories Screening",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-29",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/honouring-our-communities-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/honouring-our-communities-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
    "type": "club",
    "tags": [
     "r&b"
@@ -9762,31 +9714,6 @@
    "desc": "F*CK ME ITS HALLOWEEN RETURNS TO ENGINEROOMS THIS OCTOBER!",
    "source": "skiddle",
    "_carriedSince": "2026-09-20T06:32:34.929Z"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-eee5e124-e97",
-   "artist": "Halloween Friday 2026: BE AFRAID",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-30",
-   "time": "23:00",
-   "price": 5,
-   "priceMax": 9,
-   "priceText": "£5–£9",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/halloween-friday-2026-be-afraid",
-   "infoUrl": "https://www.fatsoma.com/e/halloween-friday-2026-be-afraid",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
