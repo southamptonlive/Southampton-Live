@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-26T03:28:19.541Z",
+ "generated": "2026-09-26T06:33:24.001Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 146,
+   "carried": 147,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -665,8 +665,8 @@
    "postcode": "SO17 3QF",
    "date": "2026-09-26",
    "time": "19:30",
-   "price": 19.8,
-   "priceMax": 19.8,
+   "price": 23.1,
+   "priceMax": 23.1,
    "priceText": null,
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/55/18/33_Original.jpg?v=9",
@@ -4930,6 +4930,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "br-the-gerry-cinna-man-experience-2026-10-10",
+   "artist": "The Gerry Cinna-Man Experience",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-10",
+   "time": "19:30",
+   "price": 20.35,
+   "priceMax": 20.35,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/36/63/33_Original.jpg?v=5",
+   "ticketUrl": "https://www.ticketweb.uk/event/the-gerry-cinna-man-experience-the-brook-tickets/14756193",
+   "infoUrl": "https://www.the-brook.com/tm-event/the-gerry-cinna-man-experience/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43200350",
@@ -4969,31 +4994,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42715837-troy-hawke-at-central-hall",
    "infoUrl": "https://www.songkick.com/concerts/42715837-troy-hawke-at-central-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sg-43086878",
-   "artist": ": THE GERRY CINNA-MAN EXPERIENCE",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-10",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43086878-gerry-cinnaman-experience-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43086878-gerry-cinnaman-experience-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -6424,7 +6424,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_eeaf0f3f_puzzle-jamback-mella-dee-cam-stockman-lili_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LiLi/42666273/",
-   "going": 0,
+   "going": 230,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
    "source": "skiddle"
@@ -16077,11 +16077,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/2/e/2337415_cc632fa5_rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/RnB-Throwbacks-Over-30s-day-party-with-90s--00s-RnB/42722739/",
-   "going": 0,
+   "going": 2,
    "minage": "30",
    "desc": "Get ready for the ultimate Over 30s Day Party as we take over Cafe Parfait for an afternoon of huge 90s & 00s R&B Throwbacks!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-25T18:30:27.621Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -18256,11 +18255,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/7/d/2348478_0e68ef00_spanish-love-songs_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Spanish-Love-Songs/42793353/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Spanish-Love-Songs/42793353/",
-   "going": 0,
+   "going": 9,
    "minage": "14",
    "desc": "Spanish Love Songs head to EngineRooms Southampton this Feb!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-21T12:31:51.092Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
