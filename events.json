@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-26T09:27:30.067Z",
+ "generated": "2026-09-26T12:32:17.479Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 143,
+   "carried": 147,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 484
+   "events": 485
   },
   {
    "id": "mitc",
@@ -3351,7 +3351,8 @@
    "going": 3,
    "minage": "14",
    "desc": "War Shepherd, Death Brigade, Nihilith & Shadow of Icarus bring melodic, blackened & prog metal to Suburbia Southampton for one heavy night.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T09:27:30.067Z"
   },
   {
    "type": "gig",
@@ -12722,29 +12723,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43339759",
-   "artist": "Forever Queen",
-   "venueId": "locomotive-engineers-club",
-   "venueName": "Locomotive Engineers Club",
-   "postcode": "SO50 9FJ",
-   "date": "2026-11-14",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43339759-forever-queen-at-locomotive-engineers-club",
-   "infoUrl": "https://www.songkick.com/concerts/43339759-forever-queen-at-locomotive-engineers-club",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43433358",
    "artist": "Hail the Sun",
    "venueId": "joiners",
@@ -12759,6 +12737,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
    "infoUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43339759",
+   "artist": "Forever Queen",
+   "venueId": "locomotive-engineers-club",
+   "venueName": "Locomotive Engineers Club",
+   "postcode": "SO50 9FJ",
+   "date": "2026-11-14",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43339759-forever-queen-at-locomotive-engineers-club",
+   "infoUrl": "https://www.songkick.com/concerts/43339759-forever-queen-at-locomotive-engineers-club",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -13766,29 +13767,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43237369",
-   "artist": "Neckbreakker",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
-   "infoUrl": "https://www.songkick.com/concerts/43237369-neckbreakker-at-o2-guildhall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-42742024",
    "artist": "Oh My God! It's The Church",
    "venueId": "brook",
@@ -13988,6 +13966,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43164022-definitely-oasis-at-joiners",
    "infoUrl": "https://www.songkick.com/concerts/43164022-definitely-oasis-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43433963",
+   "artist": "Kalopsia",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-11-21",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43433963-kalopsia-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43433963-kalopsia-at-heartbreakers",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -17257,7 +17258,8 @@
    "going": 38,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T09:27:30.067Z"
   },
   {
    "type": "club",
@@ -17949,7 +17951,8 @@
    "going": 4,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T09:27:30.067Z"
   },
   {
    "type": "gig",
@@ -19576,7 +19579,8 @@
    "going": 64,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T09:27:30.067Z"
   },
   {
    "type": "gig",
@@ -22362,6 +22366,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43435786",
+   "artist": "The Ruts",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-22",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43435786-ruts-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43435786-ruts-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
