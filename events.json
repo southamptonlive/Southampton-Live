@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-26T06:33:24.001Z",
+ "generated": "2026-09-26T09:27:30.067Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 147,
+   "carried": 143,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 483
+   "events": 484
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 49
+   "events": 54
   },
   {
    "id": "skiddle:api",
@@ -1480,8 +1480,8 @@
    "date": "2026-09-29",
    "time": "23:00",
    "price": 8.5,
-   "priceMax": 11,
-   "priceText": "£8.50–£11",
+   "priceMax": 13.2,
+   "priceText": "£8.50–£13.20",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/dnd-uos-oasis-back-2-school",
@@ -1963,6 +1963,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/tate-mcrae-vs-zara-larson-thursday",
    "infoUrl": "https://www.fatsoma.com/e/tate-mcrae-vs-zara-larson-thursday",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "indie"
+   ],
+   "hot": false,
+   "id": "fat-c70552d3-754",
+   "artist": "WTF IS INDIE? THE STROKES SPECIAL! 🎸",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-01",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-strokes-special",
+   "infoUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-strokes-special",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -2650,6 +2675,31 @@
   {
    "type": "club",
    "tags": [
+    "rock"
+   ],
+   "hot": false,
+   "id": "fat-bfb4e289-596",
+   "artist": "Classic Rock Day Party",
+   "venueId": "loft",
+   "venueName": "The Loft",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-03",
+   "time": "14:00",
+   "price": 12.38,
+   "priceMax": 16.5,
+   "priceText": "£12.38–£16.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/classic-rock-day-party",
+   "infoUrl": "https://www.fatsoma.com/e/classic-rock-day-party",
+   "going": null,
+   "minage": "25+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "reggae"
    ],
    "hot": false,
@@ -3298,11 +3348,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/2/d/2343984_a5e783ee_war-shepherd-live-at-suburbia-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
-   "going": 1,
+   "going": 3,
    "minage": "14",
    "desc": "War Shepherd, Death Brigade, Nihilith & Shadow of Icarus bring melodic, blackened & prog metal to Suburbia Southampton for one heavy night.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T06:32:16.060Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -6361,6 +6410,32 @@
    "_carriedSince": "2026-09-20T00:35:51.260Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-c472298f-6c7",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-16",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -6427,7 +6502,8 @@
    "going": 230,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T06:33:24.001Z"
   },
   {
    "type": "club",
@@ -8736,6 +8812,31 @@
    "source": "ticketmaster"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-950488d3-69e",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-25",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -8924,6 +9025,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-six-2026-10-27",
+   "artist": "SIX",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-27",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -9118,6 +9242,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-six-2026-10-28",
+   "artist": "SIX",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-28",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
   },
   {
    "type": "other",
@@ -9340,6 +9487,29 @@
    "desc": "Emo, metalcore, nu metal, pop punk & alt all night! Get weird with Clowning Around at Taking Back Thursdays. Fancy dress strongly encouraged!",
    "source": "skiddle",
    "_carriedSince": "2026-09-20T00:35:51.260Z"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-six-2026-10-29",
+   "artist": "SIX",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-29",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
   },
   {
    "type": "club",
@@ -9685,6 +9855,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-six-2026-10-30",
+   "artist": "SIX",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-30",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
   },
   {
    "type": "club",
@@ -10300,6 +10493,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-six-2026-10-31",
+   "artist": "SIX",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-31",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -16080,7 +16296,8 @@
    "going": 2,
    "minage": "30",
    "desc": "Get ready for the ultimate Over 30s Day Party as we take over Cafe Parfait for an afternoon of huge 90s & 00s R&B Throwbacks!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T06:33:24.001Z"
   },
   {
    "type": "club",
@@ -17022,7 +17239,7 @@
    "tags": [
     "trance"
    ],
-   "hot": false,
+   "hot": true,
    "id": "sk-42424548",
    "artist": "EngineRooms Presents: Paul Oakenfold & Seb Fontaine BOXING DAY",
    "venueId": "engine",
@@ -17031,17 +17248,16 @@
    "date": "2026-12-26",
    "time": "20:00",
    "price": 10,
-   "priceMax": 15,
-   "priceText": "£10–£15",
+   "priceMax": 17.5,
+   "priceText": "£10–£17.50",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/8/e/2264385_e0c1f874_enginerooms-southampton-secret-boxing-day-headliner_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
-   "going": 1,
+   "going": 38,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T06:32:16.060Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -17730,11 +17946,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/c/5/2336013_4905e026_prohibition-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
-   "going": 2,
+   "going": 4,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T06:32:16.060Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18258,7 +18473,8 @@
    "going": 9,
    "minage": "14",
    "desc": "Spanish Love Songs head to EngineRooms Southampton this Feb!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-26T06:33:24.001Z"
   },
   {
    "type": "gig",
@@ -19342,7 +19558,7 @@
   {
    "type": "gig",
    "tags": [],
-   "hot": true,
+   "hot": false,
    "id": "sk-42736679",
    "artist": "Movements",
    "venueId": "engine",
@@ -19357,11 +19573,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/1/6/2342714_60e82980_movements_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
-   "going": 49,
+   "going": 64,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-19T06:32:16.060Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
