@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-27T15:28:02.605Z",
+ "generated": "2026-09-27T18:31:05.244Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 72
+   "events": 70
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -186,10 +186,10 @@
    "address": "194 Above Bar Street"
   },
   {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "address": "Civic Centre Road"
+   "id": "secret-venue-southampton",
+   "name": "Secret Venue Southampton",
+   "postcode": "SO15 1GZ",
+   "address": "Secret Venue"
   },
   {
    "id": "brook",
@@ -252,6 +252,12 @@
    "address": "Aikman Lane, Totton"
   },
   {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7DU",
+   "address": "Above Bar St"
+  },
+  {
    "id": "working-men-s-club",
    "name": "Working Men's Club",
    "postcode": "SO50 9FD",
@@ -300,16 +306,16 @@
    "address": "Southampton"
   },
   {
-   "id": "caf-parfait",
-   "name": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar St, Southampton SO14 7DW"
-  },
-  {
    "id": "orange-rooms-southampton",
    "name": "Orange Rooms Southampton",
    "postcode": "SO15 2EJ",
    "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
+   "id": "caf-parfait",
+   "name": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar St, Southampton SO14 7DW"
   },
   {
    "id": "turtle-bay-southampton",
@@ -617,16 +623,16 @@
     "freshers"
    ],
    "hot": false,
-   "id": "fat-79536e14-299",
+   "id": "fat-c035fe95-a6b",
    "artist": "Fusion Nights - Southampton Freshers 2026",
    "venueId": "orange-rooms-southampton",
    "venueName": "Orange Rooms Southampton",
    "postcode": "SO15 2EJ",
    "date": "2026-09-28",
    "time": "23:00",
-   "price": 5,
-   "priceMax": 12.1,
-   "priceText": "£5–£12.10",
+   "price": 8,
+   "priceMax": 10,
+   "priceText": "£8–£10",
    "genre": "hiphop",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/fusion-nights-southampton-freshers-2026",
@@ -9652,6 +9658,32 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "rave",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-42489276",
+   "artist": "HALLOWEEN SECRET RAVE - Southampton",
+   "venueId": "secret-venue-southampton",
+   "venueName": "Secret Venue Southampton",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 20,
+   "priceText": "£5–£20",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/1/7/2281584_21349807_HALLOWEEN-SECRET-RAVE---Southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Secret-Venue-Southampton/HALLOWEEN-SECRET-RAVE---Southampton/42489276/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Secret-Venue-Southampton/HALLOWEEN-SECRET-RAVE---Southampton/42489276/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Halloween Secret Rave - 300+ Ravers - Insane DJ's - Fancy Dress - Insane Production",
+   "source": "skiddle"
   },
   {
    "type": "club",
