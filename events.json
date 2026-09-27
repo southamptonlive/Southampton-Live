@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-27T12:33:24.709Z",
+ "generated": "2026-09-27T15:28:02.605Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 139,
+   "carried": 141,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -5957,7 +5957,8 @@
    "going": 0,
    "minage": "14",
    "desc": "The Hot One Two bring their explosive live show to Suburbia Southampton! Expect huge riffs, high energy and an unforgettable night.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T12:33:24.709Z"
   },
   {
    "type": "gig",
@@ -16372,7 +16373,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Our annual Alternative Xmas Party is back! Blink Daze bring the nostalgic anthems to Suburbia Southampton.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T12:33:24.709Z"
   },
   {
    "type": "gig",
