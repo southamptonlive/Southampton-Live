@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-27T18:31:05.244Z",
+ "generated": "2026-09-27T21:27:36.004Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 141,
+   "carried": 142,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -564,6 +564,29 @@
    "infoUrl": "https://www.fatsoma.com/e/karaoke-give-away-win-urban-outfitters-gift-cards",
    "going": null,
    "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-eb487efb-aad",
+   "artist": "Oct Vibes",
+   "venueId": "medbar-southampton",
+   "venueName": "Medbar Southampton",
+   "postcode": "SO14 3DP",
+   "date": "2026-09-27",
+   "time": "22:30",
+   "price": 2,
+   "priceMax": 2,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/oct-vibes",
+   "infoUrl": "https://www.fatsoma.com/e/oct-vibes",
+   "going": null,
+   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
@@ -1548,29 +1571,6 @@
    "infoUrl": "https://www.fatsoma.com/e/late-night-brunch-book-via-website",
    "going": null,
    "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-eb487efb-aad",
-   "artist": "Oct Vibes",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": 2,
-   "priceMax": 2,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/oct-vibes",
-   "infoUrl": "https://www.fatsoma.com/e/oct-vibes",
-   "going": null,
-   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
@@ -9683,7 +9683,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Halloween Secret Rave - 300+ Ravers - Insane DJ's - Fancy Dress - Insane Production",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T18:31:05.244Z"
   },
   {
    "type": "club",
