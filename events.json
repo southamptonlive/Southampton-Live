@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-27T03:29:13.099Z",
+ "generated": "2026-09-27T06:34:00.746Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 106,
+   "carried": 141,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 73
+   "events": 72
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 229
+   "events": 228
   },
   {
    "id": "ticketmaster",
@@ -1175,7 +1175,8 @@
    "going": 0,
    "minage": null,
    "desc": "British Comedian of the year - Thursday 1st October at The Attic in Southampton",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -1417,7 +1418,8 @@
    "going": 0,
    "minage": null,
    "desc": "Stephen K Amos & Friends for a night of Stand up comedy in Southampton- Friday 2nd October",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -1442,7 +1444,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Chill out with some fresh indie vibes and discover your new favourite band",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -3219,7 +3222,8 @@
    "going": 0,
    "minage": null,
    "desc": "Comedy Improv, Southampton, Hampshire at The Attic - Wednesday 7th October",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -3410,7 +3414,8 @@
    "going": 0,
    "minage": null,
    "desc": "Joe Wells Stand up Comedy Tour \"Daddy Autism\" - Thursday 8th October at The Attic in Southampton",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -5458,7 +5463,8 @@
    "going": 0,
    "minage": null,
    "desc": "Milo Edwards: Catamaran tour stand up comedy in Southampton Friday 16th October",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -5702,7 +5708,8 @@
    "going": 0,
    "minage": "18",
    "desc": "WAVZ Audio presents DNB'S GOT TALENT, a brand new Drum & Bass talent competition coming to Suburbia Southampton this October.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -5727,7 +5734,8 @@
    "going": 0,
    "minage": "18",
    "desc": "One night. One stage. One winner. WAVZ Audio presents DNB'S GOT TALENT, a brand new Drum & Bass talent competition coming to Suburbia Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -7405,7 +7413,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -7815,7 +7824,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -7840,7 +7850,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -8825,7 +8836,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt all night! Get weird with Clowning Around at Taking Back Thursdays. Fancy dress strongly encouraged!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "theatre",
@@ -9684,7 +9696,8 @@
    "going": 0,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -10158,7 +10171,8 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton best \"Comedy Open Mic Night\" in Hampshire Wednesday 4th November",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -11198,7 +11212,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -12381,7 +12396,8 @@
    "going": 0,
    "minage": null,
    "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -12801,7 +12817,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -13093,7 +13110,8 @@
    "going": 0,
    "minage": null,
    "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -13231,7 +13249,8 @@
    "going": 0,
    "minage": "18",
    "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "club",
@@ -15335,7 +15354,8 @@
    "going": 0,
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -15432,7 +15452,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Merry Axemas Horror Christmas takeover of Taking Back Thursdays! Emo/metalcore/nu metal/pop punk/alt. Fancy dress: Horror/Xmas. 10 Dec, Suburbia",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -15961,7 +15982,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -16129,7 +16151,8 @@
    "going": 0,
    "minage": null,
    "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -16347,7 +16370,8 @@
    "going": 0,
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -17518,7 +17542,8 @@
    "going": 0,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -17799,7 +17824,8 @@
    "going": 0,
    "minage": null,
    "desc": "Max Fulham & Friends in Southampton",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -17822,7 +17848,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -18265,11 +18292,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/2/6/2350407_5a93d05b_green-haze-nirvanah_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Green-Haze--Nirvanah/42801818/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Green-Haze--Nirvanah/42801818/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "Green Haze return to EngineRooms this February with Nirvanah!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-23T15:29:27.712Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -19115,7 +19141,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -19396,7 +19423,8 @@
    "going": 0,
    "minage": "16",
    "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -19490,7 +19518,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Coldplay It Again, Oasis Here Now, and Stereoconics are coming to Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -20360,7 +20389,8 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -20790,7 +20820,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Mosh Spice is the world's first metal tribute to the Spice Girls, a high energy mashup of pop anthems and headbanging metal attitude.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -21074,7 +21105,8 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -21122,7 +21154,8 @@
    "going": 0,
    "minage": null,
    "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
@@ -21680,7 +21713,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-27T03:29:13.099Z"
   },
   {
    "type": "gig",
