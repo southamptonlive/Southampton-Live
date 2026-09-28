@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28T12:37:13.124Z",
+ "generated": "2026-09-28T15:33:09.166Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -12364,7 +12364,7 @@
    "priceMax": 6,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/02/24/14_Original.jpg?v=17",
+   "img": "https://i.ticketweb.com/i/00/13/02/24/14_Original.jpg?v=18",
    "ticketUrl": "https://www.ticketweb.uk/event/listening-room-live-the-brook-tickets/14306014",
    "infoUrl": "https://www.the-brook.com/tm-event/listening-room-live-sessions/",
    "going": 0,
@@ -17066,8 +17066,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Thunderstruck are heading to EngineRooms Southampton on Friday January 22nd 2027 for a high energy AC/DC tribute show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-21T15:27:10.645Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18625,7 +18624,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Frankie Stew & Harvey Gunn head to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T12:37:13.124Z"
   },
   {
    "type": "gig",
@@ -18997,8 +18997,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Expect music from Hamilton, Grease, Dirty Dancing, High School Musical, Wicked & Mamma Mia to The Greatest Showman, Frozen & Six.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-21T15:27:10.645Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20317,7 +20316,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T12:37:13.124Z"
   },
   {
    "type": "comedy",
