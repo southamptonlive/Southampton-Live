@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28T18:34:18.357Z",
+ "generated": "2026-09-28T21:28:59.430Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 37
+   "events": 38
   },
   {
    "id": "skiddle:The-Joiners",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 50
+   "events": 49
   },
   {
    "id": "skiddle:api",
@@ -483,29 +483,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-09-28",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-09-28",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -2220,6 +2197,31 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "sk-42811586",
+   "artist": "Future Focus: Kick-Ons After Party | KAYLENE SC@R Birthday Bash",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-03",
+   "time": "22:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/7/1/2353186_aa48a8f2_future-focus-kaylene-sc-rs-birthday-rave_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-Kick-Ons-After-Party--KAYLENE-SCR-Birthday-Bash/42811586/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-Kick-Ons-After-Party--KAYLENE-SCR-Birthday-Bash/42811586/",
+   "going": 0,
+   "minage": "18",
+   "desc": "FREE Kick-Ons After Party from the 360° Weekender the Future Focus Family Celebrating Kaylene Sc@r's Birthday Bash",
+   "source": "skiddle"
   },
   {
    "type": "club",
