@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28T00:38:13.920Z",
+ "generated": "2026-09-28T03:31:11.605Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 227
+   "events": 225
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 291
+   "events": 290
   }
  ],
  "venues": [
@@ -648,8 +648,8 @@
    "date": "2026-09-29",
    "time": "23:00",
    "price": 8.5,
-   "priceMax": 13.2,
-   "priceText": "£8.50–£13.20",
+   "priceMax": 15.13,
+   "priceText": "£8.50–£15.13",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/dnd-uos-oasis-back-2-school",
