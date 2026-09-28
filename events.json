@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28T06:38:32.354Z",
+ "generated": "2026-09-28T09:33:34.951Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 225
+   "events": 226
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 290
+   "events": 292
   }
  ],
  "venues": [
@@ -178,18 +178,6 @@
    "name": "Circuit",
    "postcode": "SO14 7FN",
    "address": "Southampton"
-  },
-  {
-   "id": "cafe-parfait",
-   "name": "Cafe Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar Street"
-  },
-  {
-   "id": "secret-venue-southampton",
-   "name": "Secret Venue Southampton",
-   "postcode": "SO15 1GZ",
-   "address": "Secret Venue"
   },
   {
    "id": "brook",
@@ -1575,7 +1563,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Woody Cook heads to Suburbia Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T06:38:32.354Z"
   },
   {
    "type": "club",
@@ -5768,7 +5757,8 @@
    "going": 3,
    "minage": "14",
    "desc": "The Hot One Two bring their explosive live show to Suburbia Southampton! Expect huge riffs, high energy and an unforgettable night.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T06:38:32.354Z"
   },
   {
    "type": "gig",
@@ -5987,6 +5977,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43433690",
+   "artist": "Guilt Trip",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-10-17",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43433690-guilt-trip-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43433690-guilt-trip-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43013623",
    "artist": "The Fierce and the Dead",
    "venueId": "hobbit",
@@ -6047,29 +6060,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43416093-jamback-at-circuit-southampton",
    "infoUrl": "https://www.songkick.com/concerts/43416093-jamback-at-circuit-southampton",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433690",
-   "artist": "Guilt Trip",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-17",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433690-guilt-trip-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43433690-guilt-trip-at-papillon",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -8441,6 +8431,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43436202",
+   "artist": "NX Panther",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43436202-nx-panther-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43436202-nx-panther-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43126887",
    "artist": "Elvis Returns",
    "venueId": "the-1865",
@@ -8478,29 +8491,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
    "infoUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43436202",
-   "artist": "NX Panther",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-29",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43436202-nx-panther-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43436202-nx-panther-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -8966,6 +8956,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/urban-room-fridays-upstairs",
    "infoUrl": "https://www.fatsoma.com/e/urban-room-fridays-upstairs",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-7e6a6412-b2d",
+   "artist": "Freaky Friday – 30th October",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-30",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 6,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/freaky-friday-30th-october",
+   "infoUrl": "https://www.fatsoma.com/e/freaky-friday-30th-october",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -16210,7 +16225,8 @@
    "going": 3,
    "minage": "14",
    "desc": "Our annual Alternative Xmas Party is back! Blink Daze bring the nostalgic anthems to Suburbia Southampton.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T06:38:32.354Z"
   },
   {
    "type": "gig",
@@ -17524,6 +17540,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18Ql47ZpbRBF3ZHV0H",
+   "artist": "Anthony Gomes",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-02-03",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/c7c/a5850082-2957-4070-b09b-e17a97333c7c_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/anthony-gomes-tickets-37SY5B?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/anthony-gomes-tickets-37SY5B?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20303,6 +20342,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AUZkftGkeV2J27",
+   "artist": "Palace",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2027-05-12",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/b3d/efbf1e8c-4fa1-4f06-90b7-1f4ddeb62b3d_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/palace-southampton-12-05-2027/event/36006529B43E63C4",
+   "infoUrl": "https://www.ticketmaster.co.uk/palace-southampton-12-05-2027/event/36006529B43E63C4",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
