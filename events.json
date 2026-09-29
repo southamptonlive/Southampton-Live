@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-28T21:28:59.430Z",
+ "generated": "2026-09-29T00:37:02.520Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 142,
+   "carried": 143,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -294,12 +294,6 @@
    "address": "Southampton"
   },
   {
-   "id": "orange-rooms-southampton",
-   "name": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
    "id": "caf-parfait",
    "name": "Café Parfait",
    "postcode": "SO14 7DW",
@@ -406,84 +400,15 @@
    "name": "Bitterne Royal British Legion Club Ltd",
    "postcode": "SO19 5JR",
    "address": "237 Upper Deacon Rd, Southampton SO19 5JR"
+  },
+  {
+   "id": "orange-rooms-southampton",
+   "name": "Orange Rooms Southampton",
+   "postcode": "SO15 2EJ",
+   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43322081",
-   "artist": "Opal Mag",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-09-28",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43322081-opal-mag-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43322081-opal-mag-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "grime",
-    "r&b",
-    "freshers"
-   ],
-   "hot": false,
-   "id": "fat-c035fe95-a6b",
-   "artist": "Fusion Nights - Southampton Freshers 2026",
-   "venueId": "orange-rooms-southampton",
-   "venueName": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "date": "2026-09-28",
-   "time": "23:00",
-   "price": 8,
-   "priceMax": 10,
-   "priceText": "£8–£10",
-   "genre": "hiphop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/fusion-nights-southampton-freshers-2026",
-   "infoUrl": "https://www.fatsoma.com/e/fusion-nights-southampton-freshers-2026",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "freshers"
-   ],
-   "hot": false,
-   "id": "fat-a028e959-fa7",
-   "artist": "BOLLYWOOD x DESI FRESHERS ICEBREAKER - SOUTHAMPTON | CRAZY BEATS TAKEOVER",
-   "venueId": "orange-rooms-southampton",
-   "venueName": "Orange Rooms Southampton",
-   "postcode": "SO15 2EJ",
-   "date": "2026-09-28",
-   "time": "23:00",
-   "price": 5,
-   "priceMax": 6,
-   "priceText": "£5–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bollywood-x-desi-freshers-icebreaker-southampton-crazy-beats-takeover",
-   "infoUrl": "https://www.fatsoma.com/e/bollywood-x-desi-freshers-icebreaker-southampton-crazy-beats-takeover",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
   {
    "type": "gig",
    "tags": [],
@@ -2221,7 +2146,8 @@
    "going": 0,
    "minage": "18",
    "desc": "FREE Kick-Ons After Party from the 360° Weekender the Future Focus Family Celebrating Kaylene Sc@r's Birthday Bash",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-28T21:28:59.430Z"
   },
   {
    "type": "club",
@@ -10231,29 +10157,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43344350",
-   "artist": "Bleary Eyed",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-11-05",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43344350-bleary-eyed-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43344350-bleary-eyed-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43102678",
    "artist": "Conor McLain",
    "venueId": "papillon",
@@ -17787,6 +17690,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43438249",
+   "artist": "Z Machine",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-02-07",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43438249-z-machine-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43438249-z-machine-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43437075",
    "artist": "Anna Erhard",
    "venueId": "papillon",
@@ -21560,7 +21486,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QtkkokPcrSI9JYcj",
+   "id": "sg-43438214",
    "artist": "Just Radiohead",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -21571,13 +21497,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/just-radiohead-tickets-W0PXC8?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/just-radiohead-tickets-W0PXC8?ref=ticketmaster",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43438214-just-radiohead-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43438214-just-radiohead-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "club",
