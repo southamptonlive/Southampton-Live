@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-29T03:31:30.824Z",
+ "generated": "2026-09-29T06:36:10.809Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 143,
+   "carried": 141,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -13627,8 +13627,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-22T06:34:01.265Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13885,14 +13884,13 @@
    "priceMax": 10,
    "priceText": "£5–£10",
    "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_a9d28185_full-stack-presents-dark-arts_1024.jpg",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_0426c656_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 3,
+   "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-22T06:34:01.265Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
