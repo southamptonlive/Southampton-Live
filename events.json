@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-29T15:33:40.822Z",
+ "generated": "2026-09-29T18:35:05.833Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 143,
+   "carried": 146,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 72
+   "events": 73
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 246
+   "events": 247
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 294
+   "events": 295
   }
  ],
  "venues": [
@@ -7875,7 +7875,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Heavy Jams: Halloween Horror... A Black/death metal open jam night at Suburbia.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-29T15:33:40.822Z"
   },
   {
    "type": "gig",
@@ -8325,6 +8326,32 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
    "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-9783c68d-f2c",
+   "artist": "SWITCH UP GHOSTED",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-28",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/switch-up-ghosted",
+   "infoUrl": "https://www.fatsoma.com/e/switch-up-ghosted",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -14762,7 +14789,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Heavy Jams: A full play through of Linkin Park's Hybrid Theory at Suburbia.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-29T15:33:40.822Z"
   },
   {
    "type": "gig",
@@ -16940,7 +16968,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Heavy Jams: Merry Metal Xmas. A Christmas heavy metal open jam session at Suburbia",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-29T15:33:40.822Z"
   },
   {
    "type": "gig",
@@ -20397,6 +20426,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sk-42804082",
+   "artist": "Dinosaur Pile Up",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-04-15",
+   "time": "19:00",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/a/7/a/2351385_05bfdc61_dinosaur-pile-up_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Dinosaur Pile Up hit EngineRooms Southampton this April!",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43331863",
    "artist": "Vicky Jackson as PINK",
    "venueId": "the-1865",
@@ -21550,6 +21602,29 @@
    "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/crazy-diamond-pink-floyd-tribute-tickets-T9QDK0?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/crazy-diamond-pink-floyd-tribute-tickets-T9QDK0?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QLIlER33v8v16Rlg",
+   "artist": "Know Your Enemy + Queens of the Klone Age",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-06-18",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/know-your-enemy-queens-of-the-klone-age-tickets-2HKM9Y?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/know-your-enemy-queens-of-the-klone-age-tickets-2HKM9Y?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
