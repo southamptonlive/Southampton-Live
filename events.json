@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-30T06:36:53.372Z",
+ "generated": "2026-09-30T09:32:21.723Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 486
+   "events": 487
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 47
+   "events": 48
   },
   {
    "id": "skiddle:api",
@@ -5871,6 +5871,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-bbam-festival-2026-10-17",
+   "artist": "BBAM Festival",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-10-17",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/bbam-festival-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/bbam-festival-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -21146,7 +21169,8 @@
    "going": 1,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-09-30T06:36:53.372Z"
   },
   {
    "type": "comedy",
