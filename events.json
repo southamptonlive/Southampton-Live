@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-09-30T09:32:21.723Z",
+ "generated": "2026-09-30T12:41:02.492Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -37,7 +37,7 @@
    "label": "Skiddle · The 1865",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-1865/",
    "ok": true,
-   "events": 1
+   "events": 2
   },
   {
    "id": "skiddle:Papillon",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 256
+   "events": 257
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 294
+   "events": 295
   }
  ],
  "venues": [
@@ -2675,6 +2675,29 @@
    "infoUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
    "going": null,
    "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-d59f0e6f-520",
+   "artist": "SO:CRAZY - EVERY TUESDAY - BACK FOR A NEW TERM- 6th October 2026 - £1 DOUBLES ALL NIGHT.",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-06",
+   "time": "22:00",
+   "price": 7,
+   "priceMax": 7,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-6th-october-2026-1-doubles-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-6th-october-2026-1-doubles-all-night",
+   "going": null,
+   "minage": "18+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -16360,6 +16383,31 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-42821738",
+   "artist": "Popkids Southampton - Christmas Wonderland",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-13",
+   "time": "12:00",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/f/2355300_52c614e3_popkids-southampton-christmas-wonderland_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Popkids-Southampton---Christmas-Wonderland/42821738/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Popkids-Southampton---Christmas-Wonderland/42821738/",
+   "going": 0,
+   "minage": null,
+   "desc": "Get ready for a magical 90 minute Christmas spectacular, packed to the maximum with festive fun, energetic entertainment, music, games, dancing, speci",
+   "source": "skiddle"
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43328381",
@@ -16380,31 +16428,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "fat-2bd6286a-4eb",
-   "artist": "Popkids Southampton - Christmas Wonderland",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-12-13",
-   "time": "12:00",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/popkids-southampton-christmas-wonderland",
-   "infoUrl": "https://www.fatsoma.com/e/popkids-southampton-christmas-wonderland",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -22657,6 +22680,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QlSXo4B8yvnR0C0d",
+   "artist": "RUTS DC PRESENT THE RUTS",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/ruts-dc-present-the-ruts-tickets-JPQ5MR?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/ruts-dc-present-the-ruts-tickets-JPQ5MR?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
