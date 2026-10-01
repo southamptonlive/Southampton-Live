@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-01T09:33:17.200Z",
+ "generated": "2026-10-01T12:38:28.147Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 147,
+   "carried": 150,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 251
+   "events": 252
   },
   {
    "id": "ticketmaster",
@@ -1034,14 +1034,40 @@
    "date": "2026-10-02",
    "time": "23:00",
    "price": 6,
-   "priceMax": 9.99,
-   "priceText": "£6–£9.99",
+   "priceMax": 8,
+   "priceText": "£6–£8",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/fuego-southampton-s-reggaeton-latin-night",
    "infoUrl": "https://www.fatsoma.com/e/fuego-southampton-s-reggaeton-latin-night",
    "going": null,
    "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-2d154583-7f4",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-10-02",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -1371,8 +1397,8 @@
    "date": "2026-10-03",
    "time": "17:00",
    "price": 16.5,
-   "priceMax": 110,
-   "priceText": "£16.50–£110",
+   "priceMax": 165,
+   "priceText": "£16.50–£165",
    "genre": "hiphop",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/u-me-rnb-viberoom-official-live",
@@ -8462,6 +8488,32 @@
   {
    "type": "club",
    "tags": [
+    "rave",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-4ed847a9-937",
+   "artist": "The Horror Rave",
+   "venueId": "hobbit",
+   "venueName": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-30",
+   "time": "17:00",
+   "price": 3,
+   "priceMax": 8,
+   "priceText": "£3–£8",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-horror-rave",
+   "infoUrl": "https://www.fatsoma.com/e/the-horror-rave",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "r&b"
    ],
    "hot": false,
@@ -11298,7 +11350,8 @@
    "going": 38,
    "minage": "14",
    "desc": "Echo & The Bunnymen are heading to EngineRooms Southampton on Thursday November 12th!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-01T09:33:17.200Z"
   },
   {
    "type": "gig",
@@ -11494,7 +11547,8 @@
    "going": 106,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-01T09:33:17.200Z"
   },
   {
    "type": "gig",
@@ -18453,7 +18507,8 @@
    "going": 9,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-01T09:33:17.200Z"
   },
   {
    "type": "gig",
