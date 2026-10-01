@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-01T03:32:10.250Z",
+ "generated": "2026-10-01T06:38:33.181Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 150,
+   "carried": 147,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 487
+   "events": 489
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 251
+   "events": 250
   },
   {
    "id": "ticketmaster",
@@ -7561,11 +7561,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/f/c/2353601_581bc357_heavy-jams-halloween-horror_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Halloween-Horror/42814388/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Halloween-Horror/42814388/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "Heavy Jams: Halloween Horror... A Black/death metal open jam night at Suburbia.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-29T15:33:40.822Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10545,11 +10544,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/a/f/2335773_24f5c5aa_kings-of-the-rollers-holy-grail-uk-tour-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/",
-   "going": 198,
+   "going": 234,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-24T06:34:34.566Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13870,8 +13868,7 @@
    "going": 1,
    "minage": "14",
    "desc": "The Crawling are heading to Suburbia Southampton this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-24T06:34:34.566Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -15370,17 +15367,16 @@
    "date": "2026-12-05",
    "time": "23:00",
    "price": 12,
-   "priceMax": 19,
-   "priceText": "£12–£19",
+   "priceMax": 15,
+   "priceText": "£12–£15",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/a/7/2355877_823b2694_basslayerz-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Basslayerz--Southampton/42823950/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Basslayerz--Southampton/42823950/",
-   "going": 0,
+   "going": 7,
    "minage": "18",
    "desc": "Basslayerz return to Southampton this December for a high intensity headline show!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-30T18:33:14.394Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -17126,8 +17122,7 @@
    "going": 1,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-24T06:34:34.566Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -22701,6 +22696,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43390499",
+   "artist": "Ed Force One",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-11-27",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43390499-ed-force-one-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43390499-ed-force-one-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QtZWhroecMTUqUPi",
    "artist": "Ed Force One + Priest Unleashed",
    "venueId": "the-1865",
@@ -22738,6 +22756,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42858285-mike-bubbins-at-central-hall",
    "infoUrl": "https://www.songkick.com/concerts/42858285-mike-bubbins-at-central-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43442987",
+   "artist": "Tom Allen",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-11-28",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43442987-tom-allen-at-mayflower-theatre",
+   "infoUrl": "https://www.songkick.com/concerts/43442987-tom-allen-at-mayflower-theatre",
    "going": 0,
    "minage": null,
    "desc": null,
