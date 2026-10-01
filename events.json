@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-01T00:40:34.855Z",
+ "generated": "2026-10-01T03:32:10.250Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 485
+   "events": 487
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 255
+   "events": 251
   },
   {
    "id": "ticketmaster",
@@ -11184,6 +11184,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42973732",
+   "artist": "Maisie Adam",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-11-11",
+   "time": "19:45",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42973732-maisie-adam-at-mast-mayflower-studios",
+   "infoUrl": "https://www.songkick.com/concerts/42973732-maisie-adam-at-mast-mayflower-studios",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
    "type": "other",
    "tags": [
     "free entry",
@@ -11233,6 +11256,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43433783",
+   "artist": "Petrol Girls",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-11-11",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
