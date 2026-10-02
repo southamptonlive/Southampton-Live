@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T12:37:17.823Z",
+ "generated": "2026-10-02T15:33:39.600Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 150,
+   "carried": 151,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 484
+   "events": 486
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 271
+   "events": 272
   },
   {
    "id": "ticketmaster",
@@ -572,11 +572,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-10-02",
    "time": "19:30",
-   "price": 22,
-   "priceMax": 22,
+   "price": 27.5,
+   "priceMax": 27.5,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/89/77/34_Original.jpg?v=11",
+   "img": "https://i.ticketweb.com/i/00/12/89/77/34_Original.jpg?v=12",
    "ticketUrl": "https://www.ticketweb.uk/event/wall-of-floyd-the-brook-tickets/14180644",
    "infoUrl": "https://www.the-brook.com/tm-event/wall-of-floyd/",
    "going": 0,
@@ -3217,32 +3217,6 @@
   {
    "type": "club",
    "tags": [
-    "drum & bass",
-    "jungle"
-   ],
-   "hot": false,
-   "id": "fat-234abd14-d85",
-   "artist": "Codename: Amen presents VXRGO",
-   "venueId": "suburbia",
-   "venueName": "Suburbia",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-09",
-   "time": "22:30",
-   "price": 7,
-   "priceMax": 8.5,
-   "priceText": "£7–£8.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/codename-amen-presents-vxrgo",
-   "infoUrl": "https://www.fatsoma.com/e/codename-amen-presents-vxrgo",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
     "free entry",
     "house"
    ],
@@ -5055,7 +5029,7 @@
    ],
    "hot": false,
    "id": "fat-82045001-af9",
-   "artist": "CLUB KOKO - AFRO CARIBBEAN NIGHT",
+   "artist": "CLUB KOKO LAUNCH PARTY",
    "venueId": "crib-cocktails-shuffleboard",
    "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
    "postcode": "SO15 2EJ",
@@ -5066,8 +5040,8 @@
    "priceText": "£0–£4",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/club-koko-afro-caribbean-night",
-   "infoUrl": "https://www.fatsoma.com/e/club-koko-afro-caribbean-night",
+   "ticketUrl": "https://www.fatsoma.com/e/club-koko-launch-party",
+   "infoUrl": "https://www.fatsoma.com/e/club-koko-launch-party",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -5504,6 +5478,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/saturday-sessions",
    "infoUrl": "https://www.fatsoma.com/e/saturday-sessions",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-2c9facd5-8fb",
+   "artist": "Island After Dark",
+   "venueId": "crib-cocktails-shuffleboard",
+   "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "date": "2026-10-17",
+   "time": "21:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/island-after-dark",
+   "infoUrl": "https://www.fatsoma.com/e/island-after-dark",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -8344,6 +8343,31 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
    "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-3064c580-ab2",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-10-28",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -21505,7 +21529,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-16gZk4vPwZAukv68",
+   "id": "sg-43446605",
    "artist": "Bleech 9:3",
    "venueId": "the-1865",
    "venueName": "The 1865",
@@ -21516,19 +21540,19 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/0b8/3acce32e-aad6-4e5b-9670-a2cba2b4b0b8_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/bleech-93-southampton-09-05-2027/event/35006541972C506F",
-   "infoUrl": "https://www.ticketmaster.co.uk/bleech-93-southampton-09-05-2027/event/35006541972C506F",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43446605-bleech-93-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43446605-bleech-93-at-1865",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-1AUZkftGkeV2J27",
+   "id": "sg-43446373",
    "artist": "Palace",
    "venueId": "guildhall",
    "venueName": "O2 Guildhall",
@@ -21539,13 +21563,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/b3d/efbf1e8c-4fa1-4f06-90b7-1f4ddeb62b3d_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/palace-southampton-12-05-2027/event/36006529B43E63C4",
-   "infoUrl": "https://www.ticketmaster.co.uk/palace-southampton-12-05-2027/event/36006529B43E63C4",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43446373-palace-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43446373-palace-at-o2-guildhall",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -21807,7 +21831,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Get ready to vibe with smooth Sade hits live in Southampton-an unforgettable night of soul and chill!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T12:37:17.823Z"
   },
   {
    "type": "gig",
