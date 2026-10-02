@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T03:31:47.343Z",
+ "generated": "2026-10-02T06:36:51.758Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 149,
+   "carried": 148,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -1457,11 +1457,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/7/1/2353186_aa48a8f2_future-focus-kaylene-sc-rs-birthday-rave_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-Kick-Ons-After-Party--KAYLENE-SCR-Birthday-Bash/42811586/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-Kick-Ons-After-Party--KAYLENE-SCR-Birthday-Bash/42811586/",
-   "going": 0,
+   "going": 2,
    "minage": "18",
    "desc": "FREE Kick-Ons After Party from the 360° Weekender the Future Focus Family Celebrating Kaylene Sc@r's Birthday Bash",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-28T21:28:59.430Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -14357,7 +14356,7 @@
   {
    "type": "gig",
    "tags": [],
-   "hot": true,
+   "hot": false,
    "id": "sk-42734324",
    "artist": "Paharas Musica with Fat Tony & Ridney",
    "venueId": "the-horns-inn",
@@ -14372,11 +14371,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/f/9/2341845_2d61f702_paharas-musica-with-fat-tony-ridney_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Paharas-Musica-with-Fat-Tony--Ridney/42734324/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Paharas-Musica-with-Fat-Tony--Ridney/42734324/",
-   "going": 37,
+   "going": 59,
    "minage": "18",
    "desc": "Paharas Musica with Fat Tony & Ridney",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-25T06:34:56.921Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
