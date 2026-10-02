@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T00:38:22.508Z",
+ "generated": "2026-10-02T03:31:47.343Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 39
+   "events": 38
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 274
+   "events": 270
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 296
+   "events": 295
   }
  ],
  "venues": [
@@ -3410,7 +3410,7 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-17uOv0G6Gw0r32m",
+   "id": "sg-43276288",
    "artist": "Day Fever",
    "venueId": "guildhall",
    "venueName": "O2 Guildhall",
@@ -3421,13 +3421,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/2ce/4bcaf37f-d4e2-41b2-9041-0cdc6d3a42ce_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/day-fever-southampton-10-10-2026/event/360064CCA47923EE",
-   "infoUrl": "https://www.ticketmaster.co.uk/day-fever-southampton-10-10-2026/event/360064CCA47923EE",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43276288-day-fever-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43276288-day-fever-at-o2-guildhall",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -3806,6 +3806,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43305046-shy-fx-at-enginerooms",
    "infoUrl": "https://www.songkick.com/concerts/43305046-shy-fx-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43203303",
+   "artist": "Marvin Humes",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-10",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43203303-marvin-humes-at-enginerooms",
+   "infoUrl": "https://www.songkick.com/concerts/43203303-marvin-humes-at-enginerooms",
    "going": 0,
    "minage": null,
    "desc": null,
