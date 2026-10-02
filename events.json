@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T06:36:51.758Z",
+ "generated": "2026-10-02T09:33:09.705Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 74
+   "events": 75
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 485
+   "events": 484
   },
   {
    "id": "mitc",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 295
+   "events": 296
   }
  ],
  "venues": [
@@ -494,29 +494,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43168318",
-   "artist": "Gianmarco Soresi",
-   "venueId": "centralhall",
-   "venueName": "Central Hall",
-   "postcode": "SO14 1NF",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
-   "infoUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43367749",
    "artist": "Charlie Smith",
    "venueId": "loft",
@@ -606,6 +583,29 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43168318",
+   "artist": "Gianmarco Soresi",
+   "venueId": "centralhall",
+   "venueName": "Central Hall",
+   "postcode": "SO14 1NF",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
+   "infoUrl": "https://www.songkick.com/concerts/43168318-gianmarco-soresi-at-central-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -1460,7 +1460,8 @@
    "going": 2,
    "minage": "18",
    "desc": "FREE Kick-Ons After Party from the 360° Weekender the Future Focus Family Celebrating Kaylene Sc@r's Birthday Bash",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T06:36:51.758Z"
   },
   {
    "type": "club",
@@ -8036,11 +8037,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/0/d/2357129_f57de434_juvy-under-18s-halloween-tour-tues-27-october-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Trilogy-Southampton/JUVY-Under-18s---Halloween-Tour---Tues-27-October---SOUTHAMPTON/42827925/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Trilogy-Southampton/JUVY-Under-18s---Halloween-Tour---Tues-27-October---SOUTHAMPTON/42827925/",
-   "going": 0,
+   "going": 248,
    "minage": "14",
    "desc": "TICKETS WILL SELL OUT QUICK, PLEASE PURCHASE ASAP",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-01T18:36:14.951Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -8205,6 +8205,29 @@
    "minage": null,
    "desc": null,
    "source": "mayflower"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42581812",
+   "artist": "Chali 2na & A-Skillz Live Band",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/f/2/2301684_0f9c38f4_chali-2na-a-skillz-live-band_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
+   "going": 14,
+   "minage": "14",
+   "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -12212,8 +12235,7 @@
    "going": 1,
    "minage": "14",
    "desc": "TuffAF Promotions presents Compounds live at Suburbia with Exhilaro , Averted and Vinaya. Saturday 14th November, 6 - 10PM.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-25T09:30:12.744Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14374,7 +14396,8 @@
    "going": 59,
    "minage": "18",
    "desc": "Paharas Musica with Fat Tony & Ridney",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T06:36:51.758Z"
   },
   {
    "type": "gig",
@@ -17728,29 +17751,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43021301",
-   "artist": "Elo Again",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-01-08",
-   "time": "21:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43021301-elo-again-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43021301-elo-again-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "gig",
@@ -21502,6 +21502,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-16gZk4vPwZAukv68",
+   "artist": "Bleech 9:3",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-05-09",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/0b8/3acce32e-aad6-4e5b-9670-a2cba2b4b0b8_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/bleech-93-southampton-09-05-2027/event/35006541972C506F",
+   "infoUrl": "https://www.ticketmaster.co.uk/bleech-93-southampton-09-05-2027/event/35006541972C506F",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-1AUZkftGkeV2J27",
    "artist": "Palace",
    "venueId": "guildhall",
@@ -22848,29 +22871,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43438821",
-   "artist": "Elo Again",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-10-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43438821-elo-again-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43438821-elo-again-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "tm-LvZ18Ql7AgLGhc7u0Yo1-",
    "artist": "BRUCE FOXTON '50 years of The Jam' Tour",
    "venueId": "the-1865",
@@ -22889,6 +22889,29 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43021301",
+   "artist": "Elo Again",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-10-16",
+   "time": "20:15",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43021301-elo-again-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43021301-elo-again-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
