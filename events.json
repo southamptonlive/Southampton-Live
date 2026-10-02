@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T09:33:09.705Z",
+ "generated": "2026-10-02T12:37:17.823Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 148,
+   "carried": 150,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 75
+   "events": 76
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 270
+   "events": 271
   },
   {
    "id": "ticketmaster",
@@ -7980,8 +7980,8 @@
    "date": "2026-10-26",
    "time": "22:30",
    "price": 6,
-   "priceMax": 7,
-   "priceText": "£6–£7",
+   "priceMax": 8,
+   "priceText": "£6–£8",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-asoc-halloween-house-party",
@@ -8040,7 +8040,8 @@
    "going": 248,
    "minage": "14",
    "desc": "TICKETS WILL SELL OUT QUICK, PLEASE PURCHASE ASAP",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T09:33:09.705Z"
   },
   {
    "type": "club",
@@ -8227,7 +8228,8 @@
    "going": 14,
    "minage": "14",
    "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T09:33:09.705Z"
   },
   {
    "type": "gig",
@@ -8342,31 +8344,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
    "infoUrl": "https://www.fatsoma.com/e/karaoke-dj-from-8pm",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-3064c580-ab2",
-   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-10-28",
-   "time": "21:00",
-   "price": 1.5,
-   "priceMax": 6,
-   "priceText": "£1.50–£6",
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
-   "infoUrl": "https://www.fatsoma.com/e/bar150-win-a-100-bar-tab-every-wednesday",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -9995,6 +9972,31 @@
    "minage": null,
    "desc": null,
    "source": "mayflower"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-0f55d5d1-152",
+   "artist": "Cabaret Du Chaos - A Halloween Burlesque & Cabaret Spectacular",
+   "venueId": "guildhall-square",
+   "venueName": "Guildhall Square",
+   "postcode": "SO14 7FP",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "price": 30.25,
+   "priceMax": 44,
+   "priceText": "£30.25–£44",
+   "genre": "other",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/cabaret-du-chaos-a-halloween-burlesque-cabaret-spectacular",
+   "infoUrl": "https://www.fatsoma.com/e/cabaret-du-chaos-a-halloween-burlesque-cabaret-spectacular",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -12235,7 +12237,8 @@
    "going": 1,
    "minage": "14",
    "desc": "TuffAF Promotions presents Compounds live at Suburbia with Exhilaro , Averted and Vinaya. Saturday 14th November, 6 - 10PM.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-02T09:33:09.705Z"
   },
   {
    "type": "gig",
@@ -21780,6 +21783,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "soul"
+   ],
+   "hot": false,
+   "id": "sk-42828624",
+   "artist": "A Night of Sade in Southampton",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-05-28",
+   "time": "19:00",
+   "price": 21,
+   "priceMax": 23,
+   "priceText": "£21–£23",
+   "genre": "jazz",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/2/0/2357497_753729dc_a-night-of-sade-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/A-Night-of-Sade-in-Southampton/42828624/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/A-Night-of-Sade-in-Southampton/42828624/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Get ready to vibe with smooth Sade hits live in Southampton-an unforgettable night of soul and chill!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
