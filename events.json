@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T15:33:39.600Z",
+ "generated": "2026-10-02T18:35:00.133Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -3213,6 +3213,32 @@
    "desc": "Code Name: Amen lands at Suburbia with a heavyweight line-up of jungle, drum & bass and 160. Pure underground energy from start to finish.",
    "source": "skiddle",
    "_carriedSince": "2026-09-27T09:28:13.887Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drum & bass",
+    "jungle"
+   ],
+   "hot": false,
+   "id": "fat-234abd14-d85",
+   "artist": "Codename: Amen presents VXRGO",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-09",
+   "time": "22:30",
+   "price": 7,
+   "priceMax": 8.5,
+   "priceText": "£7–£8.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/codename-amen-presents-vxrgo",
+   "infoUrl": "https://www.fatsoma.com/e/codename-amen-presents-vxrgo",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
