@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-02T18:35:00.133Z",
+ "generated": "2026-10-02T21:30:20.084Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 44
+   "events": 42
   },
   {
    "id": "skiddle:api",
@@ -330,6 +330,12 @@
    "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
+   "id": "crib-cocktails-shuffleboard",
+   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
    "id": "trilogy-nightclub",
    "name": "Trilogy nightclub",
    "postcode": "SO15 2AD",
@@ -382,12 +388,6 @@
    "name": "The Edge & The Box Bar",
    "postcode": "SO14 0BH",
    "address": "Compton Walk, Southampton SO14 0BH"
-  },
-  {
-   "id": "crib-cocktails-shuffleboard",
-   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
-   "postcode": "SO15 2EJ",
-   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "mile-high-southampton",
@@ -512,29 +512,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-83ba9be2-f2b",
-   "artist": "Late Night Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/late-night-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/late-night-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -902,52 +879,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-02",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-02",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-jeeves-takes-charge-2026-10-02",
-   "artist": "Jeeves Takes Charge",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-02",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/jeeves-takes-charge-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/jeeves-takes-charge-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "club",
@@ -1380,8 +1311,8 @@
    "date": "2026-10-03",
    "time": "21:00",
    "price": 6,
-   "priceMax": 13.2,
-   "priceText": "£6–£13.20",
+   "priceMax": 11,
+   "priceText": "£6–£11",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/la-casa-loca-x-mile-high",
@@ -7095,6 +7026,31 @@
    "infoUrl": "https://www.fatsoma.com/e/friday-midnight-maddness",
    "going": null,
    "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-03606cec-5a6",
+   "artist": "Bollywood x DESI HALLOWEEN Night 2026 | Bollywood Night Southampton",
+   "venueId": "crib-cocktails-shuffleboard",
+   "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "date": "2026-10-23",
+   "time": "22:00",
+   "price": 4.99,
+   "priceMax": 10.99,
+   "priceText": "£4.99–£10.99",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bollywood-x-desi-halloween-night-2026-bollywood-night-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/bollywood-x-desi-halloween-night-2026-bollywood-night-southampton",
+   "going": null,
+   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
