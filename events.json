@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-03T06:38:48.694Z",
+ "generated": "2026-10-03T09:30:52.433Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 144,
+   "carried": 142,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -294,16 +294,10 @@
    "address": "Southampton"
   },
   {
-   "id": "turtle-bay-southampton",
-   "name": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
+   "id": "crib-cocktails-shuffleboard",
+   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "funky-flamingo-southampton-lounge-roof-garden",
@@ -312,16 +306,10 @@
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "crib-cocktails-shuffleboard",
-   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
-   "postcode": "SO15 2EJ",
-   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+   "id": "turtle-bay-southampton",
+   "name": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "address": "1 Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "trilogy-nightclub",
@@ -334,6 +322,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -727,7 +727,7 @@
    "priceMax": 16.5,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/46/84/13_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/13/46/84/13_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/hairforce-5-the-brook-tickets/14869743",
    "infoUrl": "https://www.the-brook.com/tm-event/hairforce-5-2/",
    "going": 0,
@@ -1215,11 +1215,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/7/2/d/2343984_a5e783ee_war-shepherd-live-at-suburbia-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/War-Shepherd-Live-at-Suburbia--Support/42743423/",
-   "going": 3,
+   "going": 9,
    "minage": "14",
    "desc": "War Shepherd, Death Brigade, Nihilith & Shadow of Icarus bring melodic, blackened & prog metal to Suburbia Southampton for one heavy night.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-26T09:27:30.067Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -3986,6 +3985,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "br-hayseed-dixie-25th-anniversary-tour-2026-10-15",
+   "artist": "Hayseed Dixie - 25th Anniversary Tour",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-15",
+   "time": "19:30",
+   "price": 28.6,
+   "priceMax": 28.6,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/38/24/43_Original.jpg?v=8",
+   "ticketUrl": "https://www.ticketweb.uk/event/hayseed-dixie-25th-the-brook-tickets/14777493",
+   "infoUrl": "https://www.the-brook.com/tm-event/hayseed-dixie/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43293215",
    "artist": "Lady Leshurr",
    "venueId": "papillon",
@@ -4027,29 +4049,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qn0GIO5V98-LQxNs",
-   "artist": "Hayseed Dixie - 25th Anniversary Tour",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-15",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/8b8/27f05e9c-a9e0-4bdb-b0df-733e6bc0e8b8_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/hayseed-dixie-25th-anniversary-tour-tickets-92W581?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/hayseed-dixie-25th-anniversary-tour-tickets-92W581?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "club",
@@ -4710,7 +4709,8 @@
    "going": 276,
    "minage": "18",
    "desc": "We return to Circuit in Southampton for another huge show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-03T06:38:48.694Z"
   },
   {
    "type": "club",
@@ -7513,7 +7513,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -17005,7 +17005,7 @@
    "tags": [
     "trance"
    ],
-   "hot": true,
+   "hot": false,
    "id": "sk-42424548",
    "artist": "EngineRooms Presents: Paul Oakenfold & Seb Fontaine BOXING DAY",
    "venueId": "engine",
@@ -17020,11 +17020,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/8/e/2264385_e0c1f874_enginerooms-southampton-secret-boxing-day-headliner_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
-   "going": 38,
+   "going": 49,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-26T09:27:30.067Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -17758,11 +17757,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/c/5/2336013_4905e026_prohibition-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
-   "going": 4,
+   "going": 5,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-26T09:27:30.067Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18378,7 +18376,8 @@
    "going": 15,
    "minage": "14",
    "desc": "Spanish Love Songs head to EngineRooms Southampton this Feb!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-03T06:38:48.694Z"
   },
   {
    "type": "gig",
@@ -19547,11 +19546,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/1/6/2342714_60e82980_movements_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
-   "going": 64,
+   "going": 69,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-26T09:27:30.067Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
