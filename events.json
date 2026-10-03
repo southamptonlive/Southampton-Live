@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-03T15:07:41.646Z",
+ "generated": "2026-10-03T18:42:50.536Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 42
+   "events": 39
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 264
+   "events": 263
   },
   {
    "id": "ticketmaster",
@@ -406,12 +406,6 @@
    "name": "Café Parfait",
    "postcode": "SO14 7DW",
    "address": "194 Above Bar St, Southampton SO14 7DW"
-  },
-  {
-   "id": "loft",
-   "name": "The Loft",
-   "postcode": "SO15 2EH",
-   "address": "Bedford Place, Southampton"
   }
  ],
  "events": [
@@ -438,31 +432,6 @@
    "infoUrl": "https://www.fatsoma.com/e/latino-land-southampton-freshers-360-edition",
    "going": null,
    "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "rock"
-   ],
-   "hot": false,
-   "id": "fat-bfb4e289-596",
-   "artist": "Classic Rock Day Party",
-   "venueId": "loft",
-   "venueName": "The Loft",
-   "postcode": "SO15 2EH",
-   "date": "2026-10-03",
-   "time": "14:00",
-   "price": 12.38,
-   "priceMax": 16.5,
-   "priceText": "£12.38–£16.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/classic-rock-day-party",
-   "infoUrl": "https://www.fatsoma.com/e/classic-rock-day-party",
-   "going": null,
-   "minage": "25+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -1080,52 +1049,6 @@
    "type": "theatre",
    "tags": [],
    "hot": false,
-   "id": "mayf-the-art-of-conversation-2026-10-03",
-   "artist": "The Art Of Conversation",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-03",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-art-of-conversation-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-art-of-conversation-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-03",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-03",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
    "id": "mayf-jeeves-takes-charge-2026-10-03",
    "artist": "Jeeves Takes Charge",
    "venueId": "mast",
@@ -1457,29 +1380,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-04",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-04",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
   },
   {
    "type": "gig",
@@ -7491,7 +7391,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
