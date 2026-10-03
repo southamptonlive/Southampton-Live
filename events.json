@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-03T00:36:54.985Z",
+ "generated": "2026-10-03T03:37:19.487Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 76
+   "events": 75
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 270
+   "events": 265
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 296
+   "events": 293
   }
  ],
  "venues": [
@@ -328,6 +328,12 @@
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
    "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -717,8 +723,8 @@
    "postcode": "SO17 3QF",
    "date": "2026-10-03",
    "time": "19:30",
-   "price": 13.2,
-   "priceMax": 13.2,
+   "price": 16.5,
+   "priceMax": 16.5,
    "priceText": null,
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/46/84/13_Original.jpg?v=7",
@@ -8865,11 +8871,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/c/9/2348339_ae839865_nightmare-in-the-square_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
-   "going": 0,
+   "going": 17,
    "minage": "18",
    "desc": "High Tide and Riddle team up for their biggest show to date 'Nightmare On The Square', with a huge purpose-built 2,000 capacity marquee.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-30T18:33:14.394Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -15964,6 +15969,29 @@
    "_carriedSince": "2026-09-26T06:33:24.001Z"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-f9d1945e-9a3",
+   "artist": "Jimmy Herrity. 12/12/26 - St Denys Church, Southampton.",
+   "venueId": "st-denys-parish-church",
+   "venueName": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "date": "2026-12-12",
+   "time": "18:30",
+   "price": 13.2,
+   "priceMax": 16.5,
+   "priceText": "£13.20–£16.50",
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jimmy-herrity-12-12-26-st-denys-church-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/jimmy-herrity-12-12-26-st-denys-church-southampton",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [
     "indie",
@@ -19220,11 +19248,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/0/e/2352389_98fd0fdb_frankie-stew-harvey-gunn_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Frankie-Stew--Harvey-Gunn/42807838/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Frankie-Stew--Harvey-Gunn/42807838/",
-   "going": 0,
+   "going": 5,
    "minage": "14",
    "desc": "Frankie Stew & Harvey Gunn head to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-28T12:37:13.124Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20370,11 +20397,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/7/a/2351385_05bfdc61_dinosaur-pile-up_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
-   "going": 0,
+   "going": 6,
    "minage": "14",
    "desc": "Dinosaur Pile Up hit EngineRooms Southampton this April!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-29T18:35:05.833Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
