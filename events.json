@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-04T18:40:10.765Z",
+ "generated": "2026-10-04T23:59:10.934Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 138,
+   "carried": 139,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 72
+   "events": 71
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 37
+   "events": 36
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 472
+   "events": 468
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 251
+   "events": 255
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 289
+   "events": 288
   }
  ],
  "venues": [
@@ -198,12 +198,6 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "turnersims",
-   "name": "Turner Sims",
-   "postcode": "SO17 1BJ",
-   "address": "University of Southampton"
-  },
-  {
    "id": "vinilo-record-store",
    "name": "Vinilo Record Store",
    "postcode": "SO14 3BL",
@@ -244,6 +238,12 @@
    "name": "Hanger Farm Arts Centre",
    "postcode": "SO40 8FT",
    "address": "Aikman Lane, Totton"
+  },
+  {
+   "id": "turnersims",
+   "name": "Turner Sims",
+   "postcode": "SO17 1BJ",
+   "address": "University of Southampton"
   },
   {
    "id": "guildhall-square",
@@ -458,98 +458,6 @@
   },
   {
    "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43409586",
-   "artist": "War Shepherd",
-   "venueId": "suburbia",
-   "venueName": "Suburbia",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-04",
-   "time": "18:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43409586-war-shepherd-at-suburbia",
-   "infoUrl": "https://www.songkick.com/concerts/43409586-war-shepherd-at-suburbia",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-e47c49ce-65d",
-   "artist": "Latin Fiesta: S.B.K Sundays",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-04",
-   "time": "18:00",
-   "price": 5,
-   "priceMax": 11,
-   "priceText": "£5–£11",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "infoUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43008478",
-   "artist": "MARQUEE SQUARE HEROES",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-04",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43008478-marquee-square-heroes-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43008478-marquee-square-heroes-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-6f29cb35-9af",
-   "artist": "Deadletter and Betrayed By Life Presents: is this ok + support",
-   "venueId": "hobbit",
-   "venueName": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-04",
-   "time": "19:00",
-   "price": 8,
-   "priceMax": 8,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/deadletter-and-betrayed-by-life-presents-is-this-ok-support",
-   "infoUrl": "https://www.fatsoma.com/e/deadletter-and-betrayed-by-life-presents-is-this-ok-support",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "gig",
    "tags": [
     "tribute"
    ],
@@ -618,29 +526,6 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43383175",
-   "artist": "Boothby Graffoe",
-   "venueId": "turnersims",
-   "venueName": "Turner Sims",
-   "postcode": "SO17 1BJ",
-   "date": "2026-10-04",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43383175-boothby-graffoe-at-turner-sims-concert-hall-university-of-southampton",
-   "infoUrl": "https://www.songkick.com/concerts/43383175-boothby-graffoe-at-turner-sims-concert-hall-university-of-southampton",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "club",
@@ -717,29 +602,6 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43432947",
-   "artist": "High Fade",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-04",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43432947-high-fade-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43432947-high-fade-at-papillon",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "gig",
@@ -6747,7 +6609,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -9219,6 +9081,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4d7ee54c-725",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-04",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "house",
     "r&b"
@@ -10433,6 +10318,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-ffa15c92-0fa",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-11",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -11547,6 +11455,29 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/switch-up",
    "infoUrl": "https://www.fatsoma.com/e/switch-up",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-2e445134-b9b",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-18",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -13025,6 +12956,29 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-c0e8f55d-929",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14123,6 +14077,29 @@
    "source": "songkick"
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-0281d5f3-1f1",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-12-02",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14902,6 +14879,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-47452271-680",
+   "artist": "🐫 Hump Wednesdays 🐫",
+   "venueId": "trilogy-southampton",
+   "venueName": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "date": "2026-12-09",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 6,
+   "priceText": "£5–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "infoUrl": "https://www.fatsoma.com/e/hump-wednesdays",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "other",
@@ -16396,7 +16396,8 @@
    "going": 0,
    "minage": "18",
    "desc": "Jamiroquai drummer Derrick McKenzie returns to the Horns Inn with another irresistible selection of sumptuous soulful house.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-04T18:40:10.765Z"
   },
   {
    "type": "club",
