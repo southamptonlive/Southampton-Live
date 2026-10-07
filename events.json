@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-07T06:01:33.037Z",
+ "generated": "2026-10-07T13:25:31.129Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 139,
+   "carried": 137,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 261
+   "events": 263
   },
   {
    "id": "ticketmaster",
@@ -180,6 +180,12 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
+   "id": "cafe-parfait",
+   "name": "Cafe Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar Street"
+  },
+  {
    "id": "guildhall-square-uk",
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
@@ -190,12 +196,6 @@
    "name": "Guildhall Square",
    "postcode": "SO14 7LP",
    "address": "Civic Centre Road"
-  },
-  {
-   "id": "cafe-parfait",
-   "name": "Cafe Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar Street"
   },
   {
    "id": "brook",
@@ -504,11 +504,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-10-07",
    "time": "19:30",
-   "price": 27.5,
-   "priceMax": 27.5,
+   "price": 33,
+   "priceMax": 33,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/33/44/53_Original.jpg?v=5",
+   "img": "https://i.ticketweb.com/i/00/13/33/44/53_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/nubiyan-twist-the-brook-tickets/14720993",
    "infoUrl": "https://www.the-brook.com/tm-event/nubiyan-twist/",
    "going": 0,
@@ -760,31 +760,6 @@
   },
   {
    "type": "gig",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "tm-LvZ18QLI-6233v8v16mIz",
-   "artist": "Tenacious G vs Wheezed - Weezer tribute",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-08",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/tenacious-g-vs-wheezed-weezer-tribute-tickets-DFHZKS?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/tenacious-g-vs-wheezed-weezer-tribute-tickets-DFHZKS?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43202040",
@@ -897,31 +872,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
    "infoUrl": "https://www.fatsoma.com/e/pop-off-thursdays-free-entry-shot",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "indie"
-   ],
-   "hot": false,
-   "id": "fat-27360701-ae4",
-   "artist": "WTF IS INDIE? THE 1975 SPECIAL! 👔",
-   "venueId": "clowns-wine-bar-and-jesters-nightclub",
-   "venueName": "Clowns Wine Bar and Jesters Nightclub",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-08",
-   "time": "22:00",
-   "price": 5,
-   "priceMax": 5,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-1975-special",
-   "infoUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-1975-special",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -1686,8 +1636,8 @@
    "postcode": "SO17 3QF",
    "date": "2026-10-10",
    "time": "19:30",
-   "price": 20.35,
-   "priceMax": 20.35,
+   "price": 13.2,
+   "priceMax": 13.2,
    "priceText": null,
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/36/63/33_Original.jpg?v=7",
@@ -5719,7 +5669,8 @@
    "going": 8,
    "minage": "18",
    "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "club",
@@ -7084,32 +7035,6 @@
   {
    "type": "club",
    "tags": [
-    "rave",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-4ed847a9-937",
-   "artist": "The Horror Rave",
-   "venueId": "hobbit",
-   "venueName": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-30",
-   "time": "17:00",
-   "price": 3,
-   "priceMax": 8,
-   "priceText": "£3–£8",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/the-horror-rave",
-   "infoUrl": "https://www.fatsoma.com/e/the-horror-rave",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [
     "r&b"
    ],
    "hot": false,
@@ -7526,6 +7451,33 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "house",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-0be38d99-5ac",
+   "artist": "THE MAD HOUSE HALLOWEEN EVENT",
+   "venueId": "crib-cocktails-shuffleboard",
+   "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "date": "2026-10-31",
+   "time": "10:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-mad-house-halloween-event",
+   "infoUrl": "https://www.fatsoma.com/e/the-mad-house-halloween-event",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
     "rave",
     "halloween"
    ],
@@ -7547,7 +7499,8 @@
    "going": 8,
    "minage": null,
    "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "club",
@@ -8108,8 +8061,8 @@
    "date": "2026-10-31",
    "time": "22:30",
    "price": 7,
-   "priceMax": 16.5,
-   "priceText": "£7–£16.50",
+   "priceMax": 18.7,
+   "priceText": "£7–£18.70",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/halloween-sat-31st-oct-2026-the-possession",
@@ -10880,7 +10833,8 @@
    "going": 3,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "gig",
@@ -12854,7 +12808,8 @@
    "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "gig",
@@ -13144,7 +13099,8 @@
    "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "club",
@@ -13853,6 +13809,32 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-a9702949-25f",
+   "artist": "Advent Up",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-02",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/advent-up",
+   "infoUrl": "https://www.fatsoma.com/e/advent-up",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -15254,14 +15236,13 @@
    "priceMax": 5,
    "priceText": null,
    "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/f/2355300_52c614e3_popkids-southampton-christmas-wonderland_1024.jpg",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/f/2355300_c55d4c97_popkids-southampton-christmas-wonderland_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Popkids-Southampton---Christmas-Wonderland/42821738/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Popkids-Southampton---Christmas-Wonderland/42821738/",
    "going": 0,
    "minage": null,
    "desc": "Get ready for a magical 90 minute Christmas spectacular, packed to the maximum with festive fun, energetic entertainment, music, games, dancing, speci",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-30T12:41:02.492Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16248,7 +16229,8 @@
    "going": 1,
    "minage": null,
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
    "type": "club",
@@ -17136,24 +17118,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-martyn-joseph-2027-01-31",
+   "id": "sg-43364825",
    "artist": "Martyn Joseph",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2027-01-31",
-   "time": "19:30",
-   "price": 26.4,
-   "priceMax": 26.4,
+   "time": "18:30",
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "acoustic",
-   "img": "https://i.ticketweb.com/i/00/13/62/66/53_Original.jpg?v=6",
-   "ticketUrl": "https://www.ticketweb.uk/event/martyn-joseph-the-brook-tickets/15029203",
-   "infoUrl": "https://www.the-brook.com/tm-event/martyn-joseph-intimate-layout/",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43364825-martyn-joseph-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43364825-martyn-joseph-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "thebrook"
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -17582,6 +17564,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "br-bifr-st-the-final-farewell-2027-02-12",
+   "artist": "BIFRÖST — THE FINAL FAREWELL",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/07/78/34_Original.jpg?v=6",
+   "ticketUrl": "https://www.ticketweb.uk/event/bifrst-the-final-farewell-the-brook-tickets/14364744",
+   "infoUrl": "https://www.the-brook.com/tm-event/bifrost-the-final-farewell/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43452518",
    "artist": "Bifröst",
    "venueId": "brook",
@@ -17600,29 +17605,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QiKTjdqPkLZcnoxL",
-   "artist": "BIFRÖST — THE FINAL FAREWELL",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-02-12",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/bifrost-the-final-farewell-tickets-NTG2QC?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/bifrost-the-final-farewell-tickets-NTG2QC?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -20207,11 +20189,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/7/3/2352516_194b891d_man-woman-chainsaw_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ManWomanChainsaw/42808772/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ManWomanChainsaw/42808772/",
-   "going": 1,
+   "going": 0,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-30T06:36:53.372Z"
+   "source": "skiddle"
   },
   {
    "type": "comedy",
