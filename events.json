@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-07T13:25:31.129Z",
+ "generated": "2026-10-07T20:39:45.426Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 137,
+   "carried": 138,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 470
+   "events": 471
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 38
+   "events": 37
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 263
+   "events": 276
   },
   {
    "id": "ticketmaster",
@@ -180,16 +180,16 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "cafe-parfait",
-   "name": "Cafe Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar Street"
-  },
-  {
    "id": "guildhall-square-uk",
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
    "address": "Guildhall Square"
+  },
+  {
+   "id": "cafe-parfait",
+   "name": "Cafe Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar Street"
   },
   {
    "id": "guildhall-square",
@@ -508,7 +508,7 @@
    "priceMax": 33,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/33/44/53_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/13/33/44/53_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/nubiyan-twist-the-brook-tickets/14720993",
    "infoUrl": "https://www.the-brook.com/tm-event/nubiyan-twist/",
    "going": 0,
@@ -687,29 +687,6 @@
    "source": "songkick"
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-07",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-07",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -734,29 +711,6 @@
    "desc": "Joe Wells Stand up Comedy Tour \"Daddy Autism\" - Thursday 8th October at The Attic in Southampton",
    "source": "skiddle",
    "_carriedSince": "2026-10-04T05:55:08.607Z"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-a97a155a-49c",
-   "artist": "20s & 30s Singles Night at Turtle Bay Southampton| Love at First Sign",
-   "venueId": "turtle-bay-southampton",
-   "venueName": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "date": "2026-10-08",
-   "time": "19:00",
-   "price": 13.75,
-   "priceMax": 48.4,
-   "priceText": "£13.75–£48.40",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/20s-30s-singles-night-at-turtle-bay-southampton-love-at-first-sign",
-   "infoUrl": "https://www.fatsoma.com/e/20s-30s-singles-night-at-turtle-bay-southampton-love-at-first-sign",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -878,6 +832,31 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "indie"
+   ],
+   "hot": false,
+   "id": "fat-27360701-ae4",
+   "artist": "WTF IS INDIE? THE 1975 SPECIAL! 👔",
+   "venueId": "clowns-wine-bar-and-jesters-nightclub",
+   "venueName": "Clowns Wine Bar and Jesters Nightclub",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-08",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 5,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-1975-special",
+   "infoUrl": "https://www.fatsoma.com/e/wtf-is-indie-the-1975-special",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -904,29 +883,6 @@
    "type": "theatre",
    "tags": [],
    "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-08",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-08",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
    "id": "mayf-business-networking-event-2026-10-08",
    "artist": "Business Networking Event",
    "venueId": "mayflower",
@@ -941,6 +897,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/business-networking-event-oct-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/business-networking-event-oct-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-moulin-rouge-the-musical-2026-10-08",
+   "artist": "Moulin Rouge! The Musical",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-08",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -2235,6 +2214,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-9b8d7490-c02",
+   "artist": "SO:CRAZY - EVERY TUESDAY - BACK FOR A NEW TERM- 13th October 2026 - £1 DOUBLES ALL NIGHT.",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-13",
+   "time": "22:00",
+   "price": 7,
+   "priceMax": 7,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-13th-october-2026-1-doubles-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-back-for-a-new-term-13th-october-2026-1-doubles-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -6668,6 +6670,31 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-88d0c7a5-ad9",
+   "artist": "Bollynights Southampton - THE CRYPT - BOLLYWOOD HALLOWEEN",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-28",
+   "time": "23:00",
+   "price": 7,
+   "priceMax": 13.99,
+   "priceText": "£7–£13.99",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bollynights-southampton-the-crypt-bollywood-halloween",
+   "infoUrl": "https://www.fatsoma.com/e/bollynights-southampton-the-crypt-bollywood-halloween",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -7031,6 +7058,32 @@
    "minage": null,
    "desc": null,
    "source": "mayflower"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "rave",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-4ed847a9-937",
+   "artist": "The Horror Rave",
+   "venueId": "hobbit",
+   "venueName": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-30",
+   "time": "17:00",
+   "price": 3,
+   "priceMax": 8,
+   "priceText": "£3–£8",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/the-horror-rave",
+   "infoUrl": "https://www.fatsoma.com/e/the-horror-rave",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -8030,9 +8083,9 @@
    "hot": false,
    "id": "fat-205b378a-f1a",
    "artist": "Apocalypse Southampton - 🎃 Halloween 🎃 - Metal // Emo // Alternative",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
    "date": "2026-10-31",
    "time": "22:30",
    "price": 5,
@@ -9218,6 +9271,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-9001b82b-cad",
+   "artist": "BOLLYWOOD DIWALI NIGHT",
+   "venueId": "crib-cocktails-shuffleboard",
+   "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "price": 4,
+   "priceMax": 9.5,
+   "priceText": "£4–£9.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bollywood-diwali-night",
+   "infoUrl": "https://www.fatsoma.com/e/bollywood-diwali-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "hip hop",
     "r&b"
@@ -9267,6 +9343,32 @@
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
    "source": "skiddle",
    "_carriedSince": "2026-10-01T06:38:33.181Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-d63438e2-d82",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-06",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -9577,6 +9679,31 @@
    "_carriedSince": "2026-10-05T05:42:23.666Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-ed44f16b-4f2",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-07",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -9714,6 +9841,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-3aa0aa65-6ad",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-08",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -10481,6 +10633,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-0183973b-0b3",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-13",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -10837,6 +11015,31 @@
    "_carriedSince": "2026-10-07T06:01:33.037Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-ef7c535a-7c5",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-14",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -10952,6 +11155,31 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-d8c3a9fe-1e0",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-15",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -11744,6 +11972,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-5e2d4ec9-961",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -12173,6 +12427,31 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-d22ee22c-84c",
+   "artist": "Saturdays at Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-21",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/saturdays-at-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -12450,6 +12729,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-efbe01f9-d75",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-22",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -13127,6 +13431,32 @@
    "_carriedSince": "2026-10-05T05:42:23.666Z"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-54dbd5a3-4d8",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-27",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -13646,6 +13976,31 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-5482bb4a-b7d",
+   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-29",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -15242,7 +15597,8 @@
    "going": 0,
    "minage": null,
    "desc": "Get ready for a magical 90 minute Christmas spectacular, packed to the maximum with festive fun, energetic entertainment, music, games, dancing, speci",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T13:25:31.129Z"
   },
   {
    "type": "gig",
@@ -20192,7 +20548,8 @@
    "going": 0,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-07T13:25:31.129Z"
   },
   {
    "type": "comedy",
@@ -21617,6 +21974,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43454253",
+   "artist": "Matt Bragg",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-10-09",
+   "time": "20:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43454253-matt-bragg-at-mast-mayflower-studios",
+   "infoUrl": "https://www.songkick.com/concerts/43454253-matt-bragg-at-mast-mayflower-studios",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43420402",
    "artist": "Nine Below Zero",
    "venueId": "the-1865",
@@ -21796,8 +22176,7 @@
    "going": 0,
    "minage": "18",
    "desc": "This tour is about taking the music that exploded out of a movement and bringing it onto a stage in 2027 with all its urgency and relevance intact.",
-   "source": "skiddle",
-   "_carriedSince": "2026-09-30T15:34:23.488Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
