@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-08T10:37:02.618Z",
+ "generated": "2026-10-08T18:52:19.260Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 130,
+   "carried": 138,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 72
+   "events": 73
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 467
+   "events": 468
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 37
+   "events": 36
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 273
+   "events": 276
   },
   {
    "id": "ticketmaster",
@@ -180,16 +180,16 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "guildhall-square-uk",
-   "name": "Guildhall Square, UK",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Square"
-  },
-  {
    "id": "cafe-parfait",
    "name": "Cafe Parfait",
    "postcode": "SO14 7DW",
    "address": "194 Above Bar Street"
+  },
+  {
+   "id": "guildhall-square-uk",
+   "name": "Guildhall Square, UK",
+   "postcode": "SO14 7FP",
+   "address": "Guildhall Square"
   },
   {
    "id": "guildhall-square",
@@ -609,52 +609,6 @@
    "source": "songkick"
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-08",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-08",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-a-small-enclosed-room-with-alfie-m-2026-10-08",
-   "artist": "A Small Enclosed Room with Alfie Murphy",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-08",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-a-small-enclosed-room-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-a-small-enclosed-room-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower"
-  },
-  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -674,6 +628,29 @@
    "img": null,
    "ticketUrl": "https://www.mayflower.org.uk/whats-on/stitches-comedy-club-oct-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/stitches-comedy-club-oct-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower"
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-moulin-rouge-the-musical-2026-10-08",
+   "artist": "Moulin Rouge! The Musical",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-08",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -902,7 +879,7 @@
    ],
    "hot": false,
    "id": "fat-f659f8a4-e91",
-   "artist": "JUNGLE SOUTHSIDE- HOUSE EVENT",
+   "artist": "JUNGLE HOUSE LAUNCH EVENT",
    "venueId": "crib-cocktails-shuffleboard",
    "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
    "postcode": "SO15 2EJ",
@@ -913,8 +890,8 @@
    "priceText": "Free",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/jungle-southside-house-event",
-   "infoUrl": "https://www.fatsoma.com/e/jungle-southside-house-event",
+   "ticketUrl": "https://www.fatsoma.com/e/jungle-house-launch-event",
+   "infoUrl": "https://www.fatsoma.com/e/jungle-house-launch-event",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3150,6 +3127,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43130946",
+   "artist": "Republica",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-17",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43130946-republica-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43130946-republica-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-1AUZkfPGkdcDyMx",
    "artist": "The Quireboys (Live)",
    "venueId": "engine",
@@ -3191,29 +3191,6 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43130946",
-   "artist": "Republica",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-17",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43130946-republica-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43130946-republica-at-brook",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
   },
   {
    "type": "gig",
@@ -5645,7 +5622,8 @@
    "going": 2,
    "minage": "14",
    "desc": "Heavy Jams: Halloween Horror... A Black/death metal open jam night at Suburbia.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "club",
@@ -9095,7 +9073,8 @@
    "going": 273,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "club",
@@ -9969,7 +9948,8 @@
    "going": 49,
    "minage": "14",
    "desc": "Echo & The Bunnymen are heading to EngineRooms Southampton on Thursday November 12th!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -10190,7 +10170,8 @@
    "going": 108,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -12763,7 +12744,8 @@
    "going": 1,
    "minage": "14",
    "desc": "The Crawling are heading to Suburbia Southampton this November!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -14443,7 +14425,8 @@
    "going": 38,
    "minage": "18",
    "desc": "Basslayerz return to Southampton this December for a high intensity headline show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -14769,6 +14752,31 @@
   },
   {
    "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-2a1e064e-761",
+   "artist": "JINGLE UP",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-09",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jingle-up",
+   "infoUrl": "https://www.fatsoma.com/e/jingle-up",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-47452271-680",
@@ -14880,6 +14888,33 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-snow-party-southampton-s-best-student-night-1-corky-s-all-night-gala-event",
    "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-snow-party-southampton-s-best-student-night-1-corky-s-all-night-gala-event",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "rave",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-036a6f14-20f",
+   "artist": "SNOW RAVE",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-10",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 2,
+   "priceText": "£0–£2",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/snow-rave",
+   "infoUrl": "https://www.fatsoma.com/e/snow-rave",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -15586,6 +15621,32 @@
    "source": "fatsoma"
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-ed956490-7ff",
+   "artist": "CANDY CANE LANE",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-17",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 2,
+   "priceText": "£0–£2",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/candy-cane-lane",
+   "infoUrl": "https://www.fatsoma.com/e/candy-cane-lane",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -15878,6 +15939,32 @@
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
    "source": "skiddle",
    "_carriedSince": "2026-10-04T05:55:08.607Z"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "tribute",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-43008039",
+   "artist": "Madchester Experience",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": 10,
+   "priceMax": 35,
+   "priceText": "£10–£35",
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/1/2445906_03a48955_madchester-experience_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
+   "going": 0,
+   "minage": "14",
+   "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16235,7 +16322,8 @@
    "going": 1,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -17640,7 +17728,8 @@
    "going": 13,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -17692,8 +17781,8 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-bifr-st-the-final-farewell-2027-02-12",
-   "artist": "BIFRÖST — THE FINAL FAREWELL",
+   "id": "br-bifr-ouml-st-mdash-the-final-farewell-2027-02-12",
+   "artist": "BIFR&Ouml;ST &mdash; THE FINAL FAREWELL",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
@@ -17733,6 +17822,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AwZk4kGkdu_YO_",
+   "artist": "BifrãST Â the Final Farewell",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/bifrst-the-final-farewell-the-brook-tickets/14364744?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/bifrst-the-final-farewell-the-brook-tickets/14364744?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -17922,6 +18034,29 @@
    "minage": null,
    "desc": null,
    "source": "thebrook"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43455254",
+   "artist": "Beans on Toast",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2027-02-13",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43455254-beans-on-toast-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43455254-beans-on-toast-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -18927,7 +19062,8 @@
    "going": 19,
    "minage": "14",
    "desc": "PEELING FLESH, SNUFFED ON SIGHT, CORPSE PILE, GIRL OF GLASS HIT ENGINEROOMS SOUTHAMPTON THIS MARCH!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "gig",
@@ -20342,7 +20478,8 @@
    "going": 7,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-08T10:37:02.618Z"
   },
   {
    "type": "comedy",
