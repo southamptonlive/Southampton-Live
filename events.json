@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-09T10:35:34.955Z",
+ "generated": "2026-10-09T18:22:52.221Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 134,
+   "carried": 137,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 468
+   "events": 469
   },
   {
    "id": "mitc",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 282
+   "events": 281
   }
  ],
  "venues": [
@@ -162,12 +162,6 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "the-horns-inn",
-   "name": "The Horns Inn",
-   "postcode": "SO16 0XA",
-   "address": "Romsey Road"
-  },
-  {
    "id": "circuit",
    "name": "Circuit",
    "postcode": "SO14 7FN",
@@ -180,12 +174,6 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "cafe-parfait",
-   "name": "Cafe Parfait",
-   "postcode": "SO14 7DW",
-   "address": "194 Above Bar Street"
-  },
-  {
    "id": "guildhall-square-uk",
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
@@ -196,6 +184,12 @@
    "name": "Guildhall Square",
    "postcode": "SO14 7LP",
    "address": "Civic Centre Road"
+  },
+  {
+   "id": "cafe-parfait",
+   "name": "Cafe Parfait",
+   "postcode": "SO14 7DW",
+   "address": "194 Above Bar Street"
   },
   {
    "id": "brook",
@@ -306,16 +300,10 @@
    "address": "Southampton"
   },
   {
-   "id": "turtle-bay-southampton",
-   "name": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
+   "id": "crib-cocktails-shuffleboard",
+   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "funky-flamingo-southampton-lounge-roof-garden",
@@ -324,16 +312,10 @@
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "crib-cocktails-shuffleboard",
-   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
-   "postcode": "SO15 2EJ",
-   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+   "id": "turtle-bay-southampton",
+   "name": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "address": "1 Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "trilogy-nightclub",
@@ -346,6 +328,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -890,31 +884,6 @@
   },
   {
    "type": "gig",
-   "tags": [
-    "ska"
-   ],
-   "hot": false,
-   "id": "tm-LvZ18Q9IlA8z0m8ZwB0dA",
-   "artist": "Death of Guitar Pop - Southampton Big Ska Extravaganza",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-10",
-   "time": "14:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://s1.ticketm.net/dam/a/7c6/f09c9cf6-6b90-49d7-bc04-24bd090917c6_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/death-of-guitar-pop-southampton-big-ska-extravaganza-tickets-8PH4LF?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/death-of-guitar-pop-southampton-big-ska-extravaganza-tickets-8PH4LF?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43276288",
@@ -954,6 +923,31 @@
    "img": "https://s1.ticketm.net/dam/a/2ce/4bcaf37f-d4e2-41b2-9041-0cdc6d3a42ce_SOURCE",
    "ticketUrl": "https://www.universe.com/events/day-fever-southampton-tickets-VMF8CL?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/day-fever-southampton-tickets-VMF8CL?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "ska"
+   ],
+   "hot": false,
+   "id": "tm-LvZ18Q9IlA8z0m8ZwB0dA",
+   "artist": "Death of Guitar Pop - Southampton Big Ska Extravaganza",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-10",
+   "time": "15:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "punk",
+   "img": "https://s1.ticketm.net/dam/a/7c6/f09c9cf6-6b90-49d7-bc04-24bd090917c6_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/death-of-guitar-pop-southampton-big-ska-extravaganza-tickets-8PH4LF?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/death-of-guitar-pop-southampton-big-ska-extravaganza-tickets-8PH4LF?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
@@ -1044,8 +1038,8 @@
    "postcode": "SO15 1GG",
    "date": "2026-10-10",
    "time": "19:00",
-   "price": 36.4,
-   "priceMax": 36.4,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "electronic",
    "img": null,
@@ -5710,7 +5704,8 @@
    "going": 296,
    "minage": "14",
    "desc": "TICKETS WILL SELL OUT QUICK, PLEASE PURCHASE ASAP",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-09T10:35:34.955Z"
   },
   {
    "type": "club",
@@ -5737,29 +5732,6 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QNAlYAFgMZZz0jcV",
-   "artist": "Boxxed Off",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-27",
-   "time": "18:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/boxxed-off-tickets-5RSN1F?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/boxxed-off-tickets-5RSN1F?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
   },
   {
    "type": "gig",
@@ -5948,7 +5920,8 @@
    "going": 27,
    "minage": "14",
    "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-09T10:35:34.955Z"
   },
   {
    "type": "gig",
@@ -8370,9 +8343,9 @@
    "hot": false,
    "id": "fat-a48f4154-123",
    "artist": "MIDWEEK MOTION🌊🥤",
-   "venueId": "trilogy-southampton",
-   "venueName": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
    "date": "2026-11-04",
    "time": "22:30",
    "price": 3,
@@ -10395,7 +10368,8 @@
    "going": 1,
    "minage": "14",
    "desc": "TuffAF Promotions presents Compounds live at Suburbia with Exhilaro , Averted and Vinaya. Saturday 14th November, 6 - 10PM.",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-09T10:35:34.955Z"
   },
   {
    "type": "gig",
@@ -18085,6 +18059,29 @@
    "desc": "Green Haze return to EngineRooms this February with Nirvanah!",
    "source": "skiddle",
    "_carriedSince": "2026-10-05T05:42:23.666Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43457980",
+   "artist": "Abi Clarke",
+   "venueId": "attic",
+   "venueName": "The Attic",
+   "postcode": "SO40 9HQ",
+   "date": "2027-02-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
