@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-11T05:48:37.558Z",
+ "generated": "2026-10-11T12:52:08.070Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 132,
+   "carried": 108,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -180,12 +180,6 @@
    "address": "Guildhall Square"
   },
   {
-   "id": "xoxo",
-   "name": "XOXO",
-   "postcode": "SO14 3DS",
-   "address": "31-32 Oxford Street"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
@@ -300,16 +294,10 @@
    "address": "Southampton"
   },
   {
-   "id": "turtle-bay-southampton",
-   "name": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
+   "id": "crib-cocktails-shuffleboard",
+   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
    "id": "funky-flamingo-southampton-lounge-roof-garden",
@@ -318,16 +306,10 @@
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "crib-cocktails-shuffleboard",
-   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
-   "postcode": "SO15 2EJ",
-   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+   "id": "turtle-bay-southampton",
+   "name": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "address": "1 Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "trilogy-nightclub",
@@ -340,6 +322,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -1441,8 +1435,7 @@
    "going": 0,
    "minage": null,
    "desc": "Milo Edwards: Catamaran tour stand up comedy in Southampton Friday 16th October",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -2921,24 +2914,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-42954596",
+   "id": "br-wishbone-ash-2026-10-21",
    "artist": "Wishbone Ash",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-10-21",
    "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "price": 30.8,
+   "priceMax": 30.8,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42954596-wishbone-ash-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/42954596-wishbone-ash-at-brook",
+   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=7",
+   "ticketUrl": "https://www.ticketweb.uk/event/wishbone-ash-the-brook-tickets/14736603",
+   "infoUrl": "https://www.the-brook.com/tm-event/wishbone-ash/",
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "songkick"
+   "source": "thebrook"
   },
   {
    "type": "other",
@@ -3653,8 +3646,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -4139,33 +4131,6 @@
   {
    "type": "club",
    "tags": [
-    "house",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "sk-42726886",
-   "artist": "A Mala Casa Halloween",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "price": 14,
-   "priceMax": 14,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/4/7/2339186_d0d04246_a-mala-casa-halloween_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
-   "going": 0,
-   "minage": "18",
-   "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
-  },
-  {
-   "type": "club",
-   "tags": [
     "halloween"
    ],
    "hot": false,
@@ -4188,6 +4153,32 @@
    "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
    "source": "skiddle",
    "_carriedSince": "2026-10-07T06:01:33.037Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "house",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-42726886",
+   "artist": "A Mala Casa Halloween",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "price": 14,
+   "priceMax": 14,
+   "priceText": null,
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/4/7/2339186_d0d04246_a-mala-casa-halloween_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/A-Mala-Casa-Halloween/42726886/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -5266,6 +5257,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43421575",
+   "artist": "EST Gee",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43436202",
    "artist": "NX Panther",
    "venueId": "brook",
@@ -5303,29 +5317,6 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43126887-elvis-returns-at-1865",
    "infoUrl": "https://www.songkick.com/concerts/43126887-elvis-returns-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43421575",
-   "artist": "EST Gee",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-29",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
-   "infoUrl": "https://www.songkick.com/concerts/43421575-est-gee-at-brook",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -6611,7 +6602,8 @@
    "going": 1,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-11T05:48:37.558Z"
   },
   {
    "type": "club",
@@ -7275,8 +7267,7 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton best \"Comedy Open Mic Night\" in Hampshire Wednesday 4th November",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -8706,8 +8697,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -9522,7 +9512,8 @@
    "going": 0,
    "minage": "18",
    "desc": "The forces of OffTheMap & HausRecordings bring you a night at XOXO full of amazing local djs and energy like no other this November 14th!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-11T05:48:37.558Z"
   },
   {
    "type": "club",
@@ -10188,8 +10179,7 @@
    "going": 0,
    "minage": null,
    "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -10634,8 +10624,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -10885,8 +10874,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Bed By 10: The Ultimate 30+ Clubbing Experience!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T12:23:31.550Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -11172,8 +11160,7 @@
    "going": 0,
    "minage": "18",
    "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -13837,8 +13824,7 @@
    "going": 0,
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -13962,8 +13948,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Merry Axemas Horror Christmas takeover of Taking Back Thursdays! Emo/metalcore/nu metal/pop punk/alt. Fancy dress: Horror/Xmas. 10 Dec, Suburbia",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14516,8 +14501,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14686,32 +14670,6 @@
    "source": "songkick"
   },
   {
-   "type": "comedy",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "sk-42532872",
-   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "price": 19,
-   "priceMax": 19,
-   "priceText": null,
-   "genre": "other",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "going": 0,
-   "minage": null,
-   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
-  },
-  {
    "type": "gig",
    "tags": [
     "karaoke"
@@ -14736,6 +14694,31 @@
    "desc": "Massaoke head to EngineRooms Southampton this December!",
    "source": "skiddle",
    "_carriedSince": "2026-10-05T05:42:23.666Z"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-42532872",
+   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "price": 19,
+   "priceMax": 19,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "going": 0,
+   "minage": null,
+   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -14933,32 +14916,6 @@
   {
    "type": "gig",
    "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sk-42414993",
-   "artist": "Nightwish Tribute band Night-ish in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "going": 0,
-   "minage": null,
-   "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
-  },
-  {
-   "type": "gig",
-   "tags": [
     "tribute",
     "xmas"
    ],
@@ -14982,6 +14939,31 @@
    "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
    "source": "skiddle",
    "_carriedSince": "2026-10-08T18:52:19.260Z"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "sk-42414993",
+   "artist": "Nightwish Tribute band Night-ish in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "punk",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
+   "going": 0,
+   "minage": null,
+   "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16298,7 +16280,8 @@
    "going": 2,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-11T05:48:37.558Z"
   },
   {
    "type": "gig",
@@ -16625,8 +16608,7 @@
    "going": 0,
    "minage": null,
    "desc": "Max Fulham & Friends in Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -16649,8 +16631,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18290,8 +18271,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18572,8 +18552,7 @@
    "going": 0,
    "minage": "16",
    "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -18667,8 +18646,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Coldplay It Again, Oasis Here Now, and Stereoconics are coming to Southampton!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -19609,8 +19587,7 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -19961,11 +19938,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/2/0/2357497_753729dc_a-night-of-sade-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/A-Night-of-Sade-in-Southampton/42828624/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/A-Night-of-Sade-in-Southampton/42828624/",
-   "going": 1,
+   "going": 0,
    "minage": "14",
    "desc": "Get ready to vibe with smooth Sade hits live in Southampton-an unforgettable night of soul and chill!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20158,8 +20134,7 @@
    "going": 0,
    "minage": "18",
    "desc": "Mosh Spice is the world's first metal tribute to the Spice Girls, a high energy mashup of pop anthems and headbanging metal attitude.",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20489,8 +20464,7 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -20561,8 +20535,7 @@
    "going": 0,
    "minage": null,
    "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -21235,8 +21208,7 @@
    "going": 0,
    "minage": "14",
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-04T05:55:08.607Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
