@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-14T00:20:04.450Z",
+ "generated": "2026-10-14T08:44:57.536Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 129,
+   "carried": 126,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 455
+   "events": 457
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 268
+   "events": 265
   },
   {
    "id": "ticketmaster",
@@ -1231,6 +1231,29 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4ebbbe74-3b6",
+   "artist": "Bottomless Drinks £20pp | FRIDAY 16th OCTOBER | Time Slot: 8pm - 9:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-16th-october-time-slot-8pm-9-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-16th-october-time-slot-8pm-9-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "house",
@@ -1305,29 +1328,6 @@
    "infoUrl": "https://www.fatsoma.com/e/urban-room-fridays-upstairs",
    "going": null,
    "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-d492c37a-ea2",
-   "artist": "Bottomless Drinks £20pp | FRIDAY 16th OCTOBER | Time Slot: 10pm - 11:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-16",
-   "time": "22:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-16th-october-time-slot-10pm-11-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-16th-october-time-slot-10pm-11-30pm",
-   "going": null,
-   "minage": null,
    "desc": null,
    "source": "fatsoma"
   },
@@ -3779,32 +3779,6 @@
   {
    "type": "club",
    "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "sk-42708004",
-   "artist": "Mala Casa - Halloween at Suburbia Southampton",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "price": 8,
-   "priceMax": 17,
-   "priceText": "£8–£17",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/e/f/2332807_be1e2227_mala-casa-halloween-at-suburbia-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
-   "going": 8,
-   "minage": "18",
-   "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
-  },
-  {
-   "type": "club",
-   "tags": [
     "house",
     "halloween"
    ],
@@ -3828,6 +3802,31 @@
    "desc": "Mala Casa return to Suburbia with a massive line-up of local talent and House beats to keep you moving.",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-42708004",
+   "artist": "Mala Casa - Halloween at Suburbia Southampton",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "price": 6,
+   "priceMax": 20,
+   "priceText": "£6–£20",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/e/f/2332807_be1e2227_mala-casa-halloween-at-suburbia-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
+   "going": 8,
+   "minage": "18",
+   "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -4499,8 +4498,8 @@
    "date": "2026-10-27",
    "time": "23:00",
    "price": 7.5,
-   "priceMax": 11,
-   "priceText": "£7.50–£11",
+   "priceMax": 13.2,
+   "priceText": "£7.50–£13.20",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/dnd-x-oasis-bashoween",
@@ -5754,11 +5753,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/6/9/2335390_36063856_Raver-Tots-Halloween-Party-Southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
-   "going": 8,
+   "going": 0,
    "minage": null,
    "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -8984,6 +8982,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43186032",
+   "artist": "Beardyman",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43328835",
    "artist": "Arthur Smith",
    "venueId": "attic",
@@ -9173,6 +9194,29 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43106923",
+   "artist": "The Allergies",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-13",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43106923-allergies-at-brook",
+   "infoUrl": "https://www.songkick.com/concerts/43106923-allergies-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
   },
   {
    "type": "gig",
@@ -9525,11 +9569,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/8/2291425_fe100362_swiftogeddon-20-years-of-taylor-special_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
-   "going": 3,
+   "going": 4,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -9672,31 +9715,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-d8c3a9fe-1e0",
-   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-11-15",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma"
   },
   {
    "type": "gig",
@@ -10073,6 +10091,29 @@
    "minage": null,
    "desc": null,
    "source": "songkick"
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-ed909997-7b2",
+   "artist": "😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy-nightclub",
+   "venueName": "Trilogy nightclub",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 6,
+   "priceText": "£3.80–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
   },
   {
    "type": "club",
@@ -10462,6 +10503,32 @@
    "infoUrl": "https://www.fatsoma.com/e/kaleidoscope-trance-and-techno",
    "going": null,
    "minage": null,
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house"
+   ],
+   "hot": false,
+   "id": "fat-5e2d4ec9-961",
+   "artist": "Feel . Good . Friday @ Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-20",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/feel-good-friday-cafe-parfait",
+   "going": null,
+   "minage": "18+",
    "desc": null,
    "source": "fatsoma"
   },
@@ -11580,8 +11647,7 @@
    "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -11847,8 +11913,7 @@
    "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -12249,6 +12314,32 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
    "infoUrl": "https://www.fatsoma.com/e/afro-kulture-urban-room",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-62e00d57-bd1",
+   "artist": "Patron El Alto x Cafe Parfait",
+   "venueId": "caf-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2026-11-28",
+   "time": "23:00",
+   "price": 0,
+   "priceMax": 13.2,
+   "priceText": "£0–£13.20",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/patron-el-alto-x-cafe-parfait",
+   "infoUrl": "https://www.fatsoma.com/e/patron-el-alto-x-cafe-parfait",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -14506,31 +14597,6 @@
   },
   {
    "type": "gig",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "tm-LvZ18QizZzwjfQXtFNN9d",
-   "artist": "Christmas Revival Event",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/christmas-revival-event-tickets-D3H75S?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/christmas-revival-event-tickets-D3H75S?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster"
-  },
-  {
-   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "tm-LvZ18QnmUwpwaGZ3oj4-N",
@@ -14572,6 +14638,29 @@
    "img": "https://s1.ticketm.net/dam/a/912/d59514f3-bbc7-4d37-9349-ab0e73aed912_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/step-into-christmas-southampton-18-12-2026/event/3600643AB51347C2",
    "infoUrl": "https://www.ticketmaster.co.uk/step-into-christmas-southampton-18-12-2026/event/3600643AB51347C2",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QizZzwjfQXtFNN9d",
+   "artist": "Boogie Wonderland",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-18",
+   "time": "20:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/boogie-wonderland-tickets-D3H75S?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/boogie-wonderland-tickets-D3H75S?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
@@ -14720,11 +14809,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/1/2445906_03a48955_madchester-experience_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-08T18:52:19.260Z"
+   "source": "skiddle"
   },
   {
    "type": "gig",
@@ -15181,8 +15269,7 @@
    "going": 1,
    "minage": null,
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-07T06:01:33.037Z"
+   "source": "skiddle"
   },
   {
    "type": "club",
@@ -15453,29 +15540,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43269296",
-   "artist": "Diva Purple",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2027-01-15",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43269296-diva-purple-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43269296-diva-purple-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43136642",
    "artist": "Oye Santana",
    "venueId": "brook",
@@ -15490,6 +15554,29 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43136642-oye-santana-at-brook",
    "infoUrl": "https://www.songkick.com/concerts/43136642-oye-santana-at-brook",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43269296",
+   "artist": "Diva Purple",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-01-15",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43269296-diva-purple-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43269296-diva-purple-at-1865",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -15659,7 +15746,8 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 20th January 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-14T00:20:04.450Z"
   },
   {
    "type": "gig",
@@ -17400,7 +17488,8 @@
    "going": 0,
    "minage": null,
    "desc": "Iain Lee \"Imposter Syndrome\" - at The Attic in Southampton Saturday 27th February Matinee Show",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-14T00:20:04.450Z"
   },
   {
    "type": "gig",
@@ -18713,7 +18802,8 @@
    "going": 0,
    "minage": null,
    "desc": "Tom Lawrinson \"Speak of the Devil\" at The Attic in Southampton Tuesday 13th April 2027",
-   "source": "skiddle"
+   "source": "skiddle",
+   "_carriedSince": "2026-10-14T00:20:04.450Z"
   },
   {
    "type": "gig",
