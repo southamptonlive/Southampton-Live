@@ -1,4 +1,4 @@
-# Soton Live — scheduled listings refresh + deploy to SiteGround
+# Southampton.Live — scheduled listings refresh + deploy to SiteGround
 #
 # Place at .github/workflows/refresh-listings.yml in a repo containing
 # index.html, events.json, build-events.mjs, classify-events.mjs,
@@ -15,9 +15,10 @@
 #   FTP_PASSWORD  its password
 # Optional secrets:
 #   TM_API_KEY         free at developer.ticketmaster.com — adds TM listings
-#   ANTHROPIC_API_KEY  enables the AI genre-classification pass
+#   ANTHROPIC_API_KEY  enables the AI genre-classification pass (34-genre vocabulary; never guesses)
+#   SKIDDLE_API_KEY    official Skiddle API — licensed images/genres/affiliate
 
-name: Refresh Soton Live listings
+name: Refresh Southampton.Live listings
 
 on:
   schedule:
@@ -46,6 +47,7 @@ jobs:
       - name: Rebuild events.json from live sources
         env:
           TM_API_KEY: ${{ secrets.TM_API_KEY }}
+          SKIDDLE_API_KEY: ${{ secrets.SKIDDLE_API_KEY }}
         run: node build-events.mjs
 
       - name: Classify unknown artists (Claude — optional)
@@ -55,7 +57,7 @@ jobs:
 
       - name: Commit refreshed listings (if changed)
         run: |
-          git config user.name  'sotonlive-bot'
+          git config user.name  'southamptonlive-bot'
           git config user.email 'actions@users.noreply.github.com'
           git add events.json genre-overrides.json index.html
           git diff --cached --quiet || git commit -m "listings: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
@@ -74,7 +76,7 @@ jobs:
           mkdir -p dist
           cp index.html events.json logo.png dist/
           # ship any extra static pages if present (privacy, about…)
-          for f in privacy.html terms.html about.html; do [ -f "$f" ] && cp "$f" dist/; done
+          for f in privacy.html terms.html about.html share-card.png icon-512.png; do [ -f "$f" ] && cp "$f" dist/; done
           ls -la dist/
 
       - name: Deploy to SiteGround (FTPS)
@@ -86,11 +88,13 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
-          timeout: 60000
+          timeout: 120000
           local-dir: ./dist/
           server-dir: ./
 
       - name: Deploy retry (only if first attempt failed)
+        id: deploy2
+        continue-on-error: true
         if: steps.deploy1.outcome == 'failure'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
@@ -98,6 +102,21 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
-          timeout: 60000
+          timeout: 120000
+          local-dir: ./dist/
+          server-dir: ./
+
+      - name: Deploy final attempt (after a cool-off)
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        run: sleep 90
+      - name: Deploy third attempt
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          timeout: 120000
           local-dir: ./dist/
           server-dir: ./
