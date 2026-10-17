@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T10:46:05.448Z",
+ "generated": "2026-10-17T15:36:41.381Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 238
+   "events": 236
   },
   {
    "id": "ticketmaster",
@@ -160,6 +160,12 @@
    "name": "The Attic",
    "postcode": "SO40 9HQ",
    "address": "Totton, Southampton"
+  },
+  {
+   "id": "the-horns-inn",
+   "name": "The Horns Inn",
+   "postcode": "SO16 0XA",
+   "address": "Romsey Road"
   },
   {
    "id": "circuit",
@@ -438,32 +444,6 @@
     "indie"
    ],
    "_carriedSince": "2026-10-17T10:09:12.742Z"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-f0d84fd2-27c",
-   "artist": "Bangers & Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-17",
-   "time": "14:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/bangers-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
   },
   {
    "type": "club",
@@ -1052,7 +1032,7 @@
    "priceMax": 33,
    "priceText": null,
    "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/13/31/55/73_Original.jpg?v=10",
+   "img": "https://i.ticketweb.com/i/00/13/31/55/73_Original.jpg?v=11",
    "ticketUrl": "https://www.ticketweb.uk/event/the-long-ryders-papillon-papillon-tickets/14698353",
    "infoUrl": "https://www.the-brook.com/tm-event/the-long-ryders-papillon/",
    "going": 0,
@@ -1927,8 +1907,8 @@
    "date": "2026-10-22",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-let-s-get-trollied-win-a-weeks-free-shopping-southampton-s-best-student-night-1-shots-all-night",
@@ -4547,26 +4527,25 @@
    ],
    "hot": false,
    "id": "fat-353380d7-59e",
-   "artist": "Independence Day! HALLOWEEN SPECIAL",
+   "artist": "CLUB KOKO: HALLOWEEN SPECIAL JERSEY PARTY",
    "venueId": "crib-cocktails-shuffleboard",
    "venueName": "CRIB | COCKTAILS | SHUFFLEBOARD |",
    "postcode": "SO15 2EJ",
    "date": "2026-10-30",
    "time": "00:00",
    "price": 3,
-   "priceMax": 5,
-   "priceText": "£3–£5",
-   "genre": "electronic",
+   "priceMax": 6,
+   "priceText": "£3–£6",
+   "genre": "dance",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/independence-day-halloween-special",
-   "infoUrl": "https://www.fatsoma.com/e/independence-day-halloween-special",
+   "ticketUrl": "https://www.fatsoma.com/e/club-koko-halloween-special-jersey-party",
+   "infoUrl": "https://www.fatsoma.com/e/club-koko-halloween-special-jersey-party",
    "going": null,
    "minage": null,
    "desc": null,
    "source": "fatsoma",
-   "genreGuess": true,
    "genres": [
-    "electronic"
+    "dance"
    ]
   },
   {
@@ -9117,33 +9096,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-90aac761-141",
-   "artist": "Latin Fiesta: S.B.K Sundays",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-15",
-   "time": "18:00",
-   "price": 5,
-   "priceMax": 11,
-   "priceText": "£5–£11",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "infoUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin",
-    "dance"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -9204,7 +9156,7 @@
    ],
    "hot": false,
    "id": "tm-G5vHZ_eSZdS_P",
-   "artist": "Jools Holland and His Rhythm & Blues Orchestra",
+   "artist": "Jools Holland and His Rhythm and Blues Orchestra",
    "venueId": "mayflower",
    "venueName": "Mayflower Theatre",
    "postcode": "SO15 1GE",
@@ -9215,8 +9167,8 @@
    "priceText": null,
    "genre": "blues",
    "img": "https://s1.ticketm.net/dam/a/019/6294c73d-9b27-4b20-93d3-f92b3cbd8019_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-blues-southampton-15-11-2026/event/1F00642CC00F3665",
-   "infoUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-blues-southampton-15-11-2026/event/1F00642CC00F3665",
+   "ticketUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-and-southampton-15-11-2026/event/1F00642CC00F3665",
+   "infoUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-and-southampton-15-11-2026/event/1F00642CC00F3665",
    "going": null,
    "minage": null,
    "desc": null,
@@ -12759,33 +12711,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-7c070c15-cfb",
-   "artist": "Latin Fiesta: S.B.K Sundays",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-12-06",
-   "time": "18:00",
-   "price": 5,
-   "priceMax": 11,
-   "priceText": "£5–£11",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "infoUrl": "https://www.fatsoma.com/e/latin-fiesta-s-b-k-sundays",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin",
-    "dance"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -14752,6 +14677,34 @@
    "genres": [
     "latin",
     "dance"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "house"
+   ],
+   "hot": false,
+   "id": "sk-42734325",
+   "artist": "Derrick McKenzie (Jamiroquai), Ridney & Doctor Feelgood",
+   "venueId": "the-horns-inn",
+   "venueName": "The Horns Inn",
+   "postcode": "SO16 0XA",
+   "date": "2026-12-27",
+   "time": "19:00",
+   "price": 10,
+   "priceMax": 15,
+   "priceText": "£10–£15",
+   "genre": "house",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/9/f/2341846_d1ec3de6_paharas-musica-with-derrick-mckenzie-jamiroquai-ridney_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Jamiroquai drummer Derrick McKenzie returns to the Horns Inn with another irresistible selection of sumptuous soulful house.",
+   "source": "skiddle",
+   "genres": [
+    "house"
    ]
   },
   {
