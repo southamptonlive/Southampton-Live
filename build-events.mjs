@@ -283,6 +283,15 @@ const GENRE_RULES_V2 = [
 ];
 const NON_MUSIC = new Set(['comedy', 'theatre', 'other']);
 function classifyGenresV2(e) {
+  if (e.venueGenres && e.venueGenres.length) {
+    // the venue told us what this is — that beats any keyword
+    e.genres = e.venueGenres.filter((g) => GENRE_KEYS.has(g)).slice(0, 3);
+    e.genre = e.genres[0];
+    delete e.genreGuess;
+    delete e.venueGenres;
+    return;
+  }
+  delete e.venueGenres;
   const hay = `${e.artist} ${e.desc || ''} ${(e.tags || []).join(' ')}`;
   let found = [];
   for (const [g, re] of GENRE_RULES_V2) if (re.test(hay)) found.push(g);
@@ -673,8 +682,53 @@ async function musicInTheCity() {
 
 /* ---------- source: Mayflower Theatre + MAST (their own what's-on) ---------- */
 const MAYF_URL = 'https://www.mayflower.org.uk/whats-on/';
+// The venue publishes its own categories (comedy / musical / play / opera /
+// dance / music-concerts / …) via the what's-on filter. That is real venue
+// data, so it decides type + genre — never a keyword guess. Also walks every
+// page: page 1 alone covers only the next few weeks.
+const MAYF_CATS = {
+  comedy: { type: 'comedy', genres: ['comedy'] },
+  musical: { type: 'theatre', genres: ['theatre'] },
+  drama: { type: 'theatre', genres: ['theatre'] },
+  play: { type: 'theatre', genres: ['theatre'] },
+  opera: { type: 'theatre', genres: ['theatre'] },
+  dance: { type: 'theatre', genres: ['theatre'] },
+  'family-fun': { type: 'theatre', genres: ['theatre'] },
+  'music-concerts': { type: 'gig', genres: null }, // genre from the name/knowledge layer
+  conversation: { type: 'other', genres: ['other'] },
+  'spoken-word': { type: 'other', genres: ['other'] },
+  film: { type: 'other', genres: ['other'] },
+};
+const MAYF_CAT_PRIORITY = ['comedy', 'musical', 'opera', 'dance', 'drama', 'play', 'family-fun', 'music-concerts', 'conversation', 'spoken-word', 'film'];
+const mayfSlugs = (html) => [...html.matchAll(/class="c-event-card__permalink"\s+href="[^"]*\/whats-on\/([^/"]+)\/?"/g)].map((m) => m[1]);
+async function mayflowerPages(base, max = 12) {
+  const pages = [];
+  for (let p = 1; p <= max; p++) {
+    const url = p === 1 ? base : base.replace('/whats-on/', `/whats-on/page/${p}/`);
+    let html;
+    try { html = await fetchText(url, 1); } catch (e) { break; }
+    const slugs = mayfSlugs(html);
+    if (!slugs.length) break;
+    pages.push(html);
+    if (slugs.length < 18) break; // last page
+    await sleep(800);
+  }
+  return pages;
+}
 async function mayflower() {
-  const html = await fetchText(MAYF_URL);
+  const pages = await mayflowerPages(MAYF_URL);
+  if (!pages.length) throw new Error('no pages fetched');
+  const html = pages.join('\n');
+  // category map from the venue's own filter
+  const catOf = new Map();
+  for (const cat of Object.keys(MAYF_CATS)) {
+    try {
+      for (const ph of await mayflowerPages(MAYF_URL + '?genre%5B%5D=' + cat, 6)) {
+        for (const slug of mayfSlugs(ph)) (catOf.get(slug) || catOf.set(slug, new Set()).get(slug)).add(cat);
+      }
+    } catch (e) { /* filter unavailable: fall back to keyword typing for this cat */ }
+    await sleep(800);
+  }
   const MONTHS = { january:1, february:2, march:3, april:4, may:5, june:6, july:7, august:8, september:9, october:10, november:11, december:12 };
   const iso = (d, m, y) => `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
   const cards = html.split(/class="c-event-card c-event-card--/).slice(1);
@@ -716,8 +770,18 @@ async function mayflower() {
       seen.add(id);
       const inferred = inferType(name, '', 'LIVE');
       const musicky = /\b(live|band|tour|orchestra|tribute|sings?|singing|in concert|music|symphonic|acoustic|strictly)\b/i.test(name);
+      const slug = (link[1].match(/\/whats-on\/([^/"]+)/) || [])[1];
+      const cats = catOf.get(slug);
+      // A show can carry several venue categories ("comedy" + "musical" for
+      // Operation Mincemeat). A staged show is theatre first; comedy rides along.
+      const ordered = cats ? MAYF_CAT_PRIORITY.filter((c) => cats.has(c)) : [];
+      const staged = ordered.some((c) => MAYF_CATS[c].type === 'theatre');
+      const venueType = !ordered.length ? null : staged ? 'theatre' : MAYF_CATS[ordered[0]].type;
+      const venueGenres = !ordered.length ? null
+        : [...new Set([...(staged ? ['theatre'] : []), ...ordered.flatMap((c) => MAYF_CATS[c].genres || [])])];
       events.push({
-        type: inferred !== 'gig' ? inferred : (musicky ? 'gig' : 'theatre'),
+        type: venueType || (inferred !== 'gig' ? inferred : (musicky ? 'gig' : 'theatre')),
+        venueGenres: venueGenres && venueGenres.length ? venueGenres : null,
         tags: inferTags(name, '', null),
         hot: false,
         id,
@@ -1079,9 +1143,13 @@ async function main() {
       if (!best.infoUrl && other.infoUrl) best.infoUrl = other.infoUrl;
       if (!best.ticketUrl && other.ticketUrl) best.ticketUrl = other.ticketUrl;
       if (!best.minage && other.minage) best.minage = other.minage;
-      // union genres; the winner's primary stays primary
-      best.genres = [...new Set([...(best.genres || []), ...(other.genres || [])])].slice(0, 3);
-      best.genre = best.genres[0] || best.genre;
+      // genres: a guess never pollutes a known answer. Known + known = union
+      // (winner's primary stays primary); guess + known = the known one.
+      if (!other.genreGuess) {
+        best.genres = best.genreGuess ? [...(other.genres || [])] : [...new Set([...(best.genres || []), ...(other.genres || [])])].slice(0, 3);
+        best.genre = best.genres[0] || best.genre;
+        if (best.genres.length) delete best.genreGuess;
+      }
     }
     const { _venue, cancelled, ...ev } = best;
     out.push(ev);
