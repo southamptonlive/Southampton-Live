@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T19:24:14.944Z",
+ "generated": "2026-10-17T20:38:48.791Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 236
+   "events": 235
   },
   {
    "id": "ticketmaster",
@@ -180,16 +180,16 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "mail-room-cocktail-bar-and-restaurant",
-   "name": "Mail Room Cocktail Bar And Restaurant",
-   "postcode": "SO14 3DP",
-   "address": "Oxford Street"
-  },
-  {
    "id": "guildhall-square-uk",
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
    "address": "Guildhall Square"
+  },
+  {
+   "id": "mail-room-cocktail-bar-and-restaurant",
+   "name": "Mail Room Cocktail Bar And Restaurant",
+   "postcode": "SO14 3DP",
+   "address": "Oxford Street"
   },
   {
    "id": "guildhall-square",
@@ -669,32 +669,6 @@
    "source": "fatsoma",
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-d2192420-2e2",
-   "artist": "Bottomless Drinks £20pp | SATURDAY 17TH OCTOBER | Time Slot: 8pm - 9:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-17",
-   "time": "20:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "funk",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-17th-october-time-slot-8pm-9-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-17th-october-time-slot-8pm-9-30pm",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "funk"
    ]
   },
   {
