@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T10:07:23.816Z",
+ "generated": "2026-10-17T10:09:12.742Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -429,7 +429,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/9/3/2323023_eeaf0f3f_puzzle-jamback-mella-dee-cam-stockman-lili_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LILI/42666273/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Circuit-Southampton/Puzzle-Jamback-Mella-Dee-Cam-Stockman--LILI/42666273/",
-   "going": 495,
+   "going": 506,
    "minage": "18",
    "desc": "We return to Circuit in Southampton next Saturday, for another huge show with some massive house hold names.",
    "source": "skiddle",
@@ -534,7 +534,7 @@
    "price": 30,
    "priceMax": 30,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/0/4/2305145_7a43f95f_the-quireboys_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Quireboys/42596016/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Quireboys/42596016/",
@@ -544,7 +544,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -589,7 +589,7 @@
    "price": 38.5,
    "priceMax": 38.5,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/13/41/87/73_Original.jpg?v=8",
    "ticketUrl": "https://www.ticketweb.uk/event/republica-30-years-the-brook-tickets/14819073",
    "infoUrl": "https://www.the-brook.com/tm-event/republica-30-years-of-ready-to-go/",
@@ -597,9 +597,9 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock",
+    "electronic"
    ]
   },
   {
@@ -806,7 +806,7 @@
    "price": 10,
    "priceMax": 55,
    "priceText": "£10–£55",
-   "genre": "electronic",
+   "genre": "house",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/9/2/2320615_f14e7182_at-events-presents-darius-syrossian-philip-george-louden_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/AT-Events-Presents-Darius-Syrossian-Philip-George--Louden/42650544/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/AT-Events-Presents-Darius-Syrossian-Philip-George--Louden/42650544/",
@@ -815,10 +815,8 @@
    "desc": "We take over EngineRooms in Southampton for a huge night with Darius Syrossian, Philip George & Louden.",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T02:37:43.878Z",
-   "genreGuess": true,
    "genres": [
-    "electronic",
-    "indie"
+    "house"
    ]
   },
   {
@@ -864,7 +862,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43255977-cancer-bats-at-joiners",
    "infoUrl": "https://www.songkick.com/concerts/43255977-cancer-bats-at-joiners",
@@ -872,9 +870,9 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk",
+    "metal"
    ]
   },
   {
@@ -1007,7 +1005,6 @@
    "desc": "The Hoosiers head to EngineRooms Southampton this October!",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -1026,7 +1023,7 @@
    "price": 30.25,
    "priceMax": 30.25,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/13/31/55/73_Original.jpg?v=10",
    "ticketUrl": "https://www.ticketweb.uk/event/the-long-ryders-papillon-papillon-tickets/14698353",
    "infoUrl": "https://www.the-brook.com/tm-event/the-long-ryders-papillon/",
@@ -1034,9 +1031,9 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock",
+    "country"
    ]
   },
   {
@@ -1053,7 +1050,7 @@
    "price": 41.25,
    "priceMax": 41.25,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/12/85/38/04_Original.jpg?v=8",
    "ticketUrl": "https://www.ticketweb.uk/event/crash-test-dummies-the-brook-tickets/14130494",
    "infoUrl": "https://www.the-brook.com/tm-event/crash-test-dummies/",
@@ -1061,9 +1058,8 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -1329,7 +1325,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://s1.ticketm.net/dam/a/47e/602bf020-a665-4c6c-9d3c-f0948088a47e_SOURCE",
    "ticketUrl": "https://www.universe.com/events/the-exploited-postponed-tickets-KMJ6YB?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/the-exploited-postponed-tickets-KMJ6YB?ref=ticketmaster",
@@ -1337,9 +1333,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -1490,7 +1485,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "jazz",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42984457-martin-taylor-at-concorde-club",
    "infoUrl": "https://www.songkick.com/concerts/42984457-martin-taylor-at-concorde-club",
@@ -1498,9 +1493,8 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "jazz"
    ]
   },
   {
@@ -1544,7 +1538,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43302421-damien-okane-and-ron-block-at-hangar-farm-arts-centre",
    "infoUrl": "https://www.songkick.com/concerts/43302421-damien-okane-and-ron-block-at-hangar-farm-arts-centre",
@@ -1552,9 +1546,8 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic"
    ]
   },
   {
@@ -1598,7 +1591,7 @@
    "price": 30.8,
    "priceMax": 30.8,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/wishbone-ash-the-brook-tickets/14736603",
    "infoUrl": "https://www.the-brook.com/tm-event/wishbone-ash/",
@@ -1606,9 +1599,8 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -1808,8 +1800,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "punk",
-    "rock"
+    "punk"
    ]
   },
   {
@@ -1828,7 +1819,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "folk-acoustic",
+   "genre": "electronic",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/alabama-3-acoustic-tickets-ZRTMK2?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/alabama-3-acoustic-tickets-ZRTMK2?ref=ticketmaster",
@@ -1837,8 +1828,9 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "folk-acoustic",
-    "indie"
+    "electronic",
+    "country",
+    "blues"
    ]
   },
   {
@@ -1855,7 +1847,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43208831-thea-gilmore-at-papillon",
    "infoUrl": "https://www.songkick.com/concerts/43208831-thea-gilmore-at-papillon",
@@ -1863,9 +1855,8 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic"
    ]
   },
   {
@@ -2086,7 +2077,8 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "drill"
+    "drill",
+    "hip-hop"
    ]
   },
   {
@@ -2157,7 +2149,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "hip-hop",
    "img": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/huey-morgan-the-fun-lovin-criminal-2026-autumn-tour-tickets-ZX62SG?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/huey-morgan-the-fun-lovin-criminal-2026-autumn-tour-tickets-ZX62SG?ref=ticketmaster",
@@ -2165,9 +2157,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "hip-hop",
+    "funk"
    ]
   },
   {
@@ -2238,7 +2230,7 @@
    "price": 24.75,
    "priceMax": 24.75,
    "priceText": null,
-   "genre": "indie",
+   "genre": "funk",
    "img": "https://i.ticketweb.com/i/00/13/36/84/73_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403",
    "infoUrl": "https://www.the-brook.com/tm-event/smoove-turrell-the-singles-tour/",
@@ -2246,9 +2238,9 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "funk",
+    "soul"
    ]
   },
   {
@@ -2821,7 +2813,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/ian-prowse-amsterdam-the-brook-tickets/14136584",
    "infoUrl": "https://www.the-brook.com/tm-event/ian-prowse-amsterdam/",
@@ -2829,9 +2821,9 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic",
+    "rock"
    ]
   },
   {
@@ -3019,7 +3011,7 @@
    "price": 9,
    "priceMax": 17,
    "priceText": "£9–£17",
-   "genre": "electronic",
+   "genre": "dnb",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/3/8/2301220_b060f2a3_born-on-road-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
@@ -3028,9 +3020,9 @@
    "desc": "Born on Road are coming to Engine Rooms this September!",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
-   "genreGuess": true,
    "genres": [
-    "electronic"
+    "dnb",
+    "jungle"
    ]
   },
   {
@@ -3614,7 +3606,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/a/ab9/f2d1f272-1a5f-4050-8a61-2cb9b492fab9_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/deaf-havana-southampton-27-10-2026/event/360064C3AC5F8DFA",
    "infoUrl": "https://www.ticketmaster.co.uk/deaf-havana-southampton-27-10-2026/event/360064C3AC5F8DFA",
@@ -3622,9 +3614,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock",
+    "emo-alt"
    ]
   },
   {
@@ -3779,7 +3771,7 @@
    "price": 20,
    "priceMax": 20,
    "priceText": null,
-   "genre": "indie",
+   "genre": "hip-hop",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/f/2/2301684_0f9c38f4_chali-2na-a-skillz-live-band_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
@@ -3788,9 +3780,9 @@
    "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
    "source": "skiddle",
    "_carriedSince": "2026-10-17T04:27:49.894Z",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "hip-hop",
+    "funk"
    ]
   },
   {
@@ -3807,7 +3799,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
    "infoUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
@@ -3815,9 +3807,8 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -3861,7 +3852,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/a/a2f/4c254a3e-6dc3-45f9-98d7-36a110390a2f_SOURCE",
    "ticketUrl": "https://www.universe.com/events/la-guns-tickets-GY1TBD?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/la-guns-tickets-GY1TBD?ref=ticketmaster",
@@ -3869,9 +3860,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -4200,7 +4190,7 @@
    "price": 30.8,
    "priceMax": 30.8,
    "priceText": null,
-   "genre": "indie",
+   "genre": "hip-hop",
    "img": "https://i.ticketweb.com/i/00/12/98/14/04_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/est-gee-bigger-than-the-the-brook-tickets/14266124",
    "infoUrl": "https://www.the-brook.com/tm-event/est-gee-bigger-than-the-devil-tour/",
@@ -4208,9 +4198,8 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "hip-hop"
    ]
   },
   {
@@ -5224,7 +5213,7 @@
    "price": 11,
    "priceMax": 44,
    "priceText": "£11–£44",
-   "genre": "electronic",
+   "genre": "house",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
    "infoUrl": "https://www.fatsoma.com/e/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
@@ -5233,8 +5222,7 @@
    "desc": null,
    "source": "fatsoma",
    "genres": [
-    "electronic",
-    "indie"
+    "house"
    ]
   },
   {
@@ -5293,9 +5281,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "trance",
-    "dance",
-    "indie"
+    "trance"
    ]
   },
   {
@@ -5366,7 +5352,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/mad-dog-mcrea-dusk-till-dawn-tour-tickets-06YM9Q?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/mad-dog-mcrea-dusk-till-dawn-tour-tickets-06YM9Q?ref=ticketmaster",
@@ -5374,9 +5360,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic"
    ]
   },
   {
@@ -7376,7 +7361,7 @@
    "price": 29.5,
    "priceMax": 29.5,
    "priceText": null,
-   "genre": "jazz",
+   "genre": "ska",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/f/7/2119680_12ebf546_the-dualers_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
@@ -7386,7 +7371,8 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "jazz"
+    "ska",
+    "reggae"
    ]
   },
   {
@@ -7403,7 +7389,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://s1.ticketm.net/dam/a/4b5/c70f88eb-244e-4496-a123-45b3deeaf4b5_SOURCE",
    "ticketUrl": "https://www.universe.com/events/london-calling-play-the-clash-should-i-stay-or-should-i-go-tour-tickets-N231M0?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/london-calling-play-the-clash-should-i-stay-or-should-i-go-tour-tickets-N231M0?ref=ticketmaster",
@@ -7411,9 +7397,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -7430,7 +7415,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/dirty-dc-special-bon-scott-brian-johnson-show-tickets-M3L0GF?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/dirty-dc-special-bon-scott-brian-johnson-show-tickets-M3L0GF?ref=ticketmaster",
@@ -7438,9 +7423,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -7896,7 +7880,7 @@
    "price": 18,
    "priceMax": 18,
    "priceText": null,
-   "genre": "other",
+   "genre": "comedy",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/9/2316691_b9fd4244_andrew-lawrence-so-right-it-s-wrong-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Andrew-Lawrence-So-right-its-wrong/42639198/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Andrew-Lawrence-So-right-its-wrong/42639198/",
@@ -7906,7 +7890,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "other"
+    "comedy"
    ]
   },
   {
@@ -7950,7 +7934,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/soil-finger-eleven-adema-tickets-9JPZDR?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/soil-finger-eleven-adema-tickets-9JPZDR?ref=ticketmaster",
@@ -7958,9 +7942,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -8087,7 +8070,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
    "infoUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
@@ -8095,9 +8078,8 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -8480,7 +8462,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "funk",
    "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.ticketweb.uk/event/the-allergies-beneath-the-brook-tickets/14789313?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/the-allergies-beneath-the-brook-tickets/14789313?REFERRAL_ID=tmfeed",
@@ -8488,9 +8470,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "funk",
+    "hip-hop"
    ]
   },
   {
@@ -9459,8 +9441,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "comedy",
-    "indie"
+    "comedy"
    ]
   },
   {
@@ -9697,7 +9678,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://s1.ticketm.net/dam/a/d59/3cdede7b-ecdb-4ba4-a162-7df28328bd59_SOURCE",
    "ticketUrl": "https://www.universe.com/events/the-undertones-50th-anniversary-show-special-guest-ruts-dc-tickets-P10Y7D?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/the-undertones-50th-anniversary-show-special-guest-ruts-dc-tickets-P10Y7D?ref=ticketmaster",
@@ -9705,9 +9686,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -9818,8 +9798,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "comedy",
-    "indie"
+    "comedy"
    ]
   },
   {
@@ -10129,7 +10108,7 @@
    "price": 18,
    "priceMax": 18,
    "priceText": null,
-   "genre": "punk",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/a/2/2273633_b73f995d_wormrot-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Wormrot--Support/42463502/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Wormrot--Support/42463502/",
@@ -10139,7 +10118,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "punk"
+    "metal"
    ]
   },
   {
@@ -10165,7 +10144,6 @@
    "desc": "Back by popular demand 'Definitely, Oasis' returns to Southampton",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -10816,7 +10794,7 @@
    "price": 26.5,
    "priceMax": 26.5,
    "priceText": null,
-   "genre": "punk",
+   "genre": "rock",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/f/f/2259418_a46036d7_uncle-acid-the-deadbeats-with-the-wytches_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Uncle-Acid--The-Deadbeats-with-The-Wytches/42405260/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Uncle-Acid--The-Deadbeats-with-The-Wytches/42405260/",
@@ -10826,7 +10804,8 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "punk"
+    "rock",
+    "metal"
    ]
   },
   {
@@ -11187,7 +11166,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -11436,7 +11414,7 @@
    "price": 10,
    "priceMax": 25,
    "priceText": "£10–£25",
-   "genre": "electronic",
+   "genre": "jungle",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/7/e/2284149_33e5d869_whe-presents-4am-kru-support_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Presents-4am-Kru--Support/42502156/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/WHE-Presents-4am-Kru--Support/42502156/",
@@ -11445,10 +11423,9 @@
    "desc": "4am Kru return to EngineRooms this November!",
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
-   "genreGuess": true,
    "genres": [
-    "electronic",
-    "indie"
+    "jungle",
+    "dnb"
    ]
   },
   {
@@ -11549,7 +11526,7 @@
    "price": 10,
    "priceMax": 10,
    "priceText": null,
-   "genre": "punk",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/e/b/2181659_a19e0b40_moretallica-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Moretallica--Southampton/41917438/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Moretallica--Southampton/41917438/",
@@ -11559,7 +11536,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T02:37:43.878Z",
    "genres": [
-    "punk"
+    "metal"
    ]
   },
   {
@@ -11919,9 +11896,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "indie",
+    "electronic"
    ]
   },
   {
@@ -11938,7 +11915,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/a/782/dd73d6d8-1c56-458c-9099-d052a0e3f782_SOURCE",
    "ticketUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
@@ -11946,9 +11923,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -12574,7 +12550,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "jazz",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/colosseum-soft-machine-tickets-VW68Y2?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/colosseum-soft-machine-tickets-VW68Y2?ref=ticketmaster",
@@ -12582,9 +12558,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "jazz",
+    "rock"
    ]
   },
   {
@@ -12658,7 +12634,7 @@
    "price": 12,
    "priceMax": 15,
    "priceText": "£12–£15",
-   "genre": "electronic",
+   "genre": "dnb",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/a/7/2355877_823b2694_basslayerz-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Basslayerz--Southampton/42823950/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Basslayerz--Southampton/42823950/",
@@ -12668,7 +12644,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-16T04:33:45.564Z",
    "genres": [
-    "electronic"
+    "dnb"
    ]
   },
   {
@@ -13974,7 +13950,7 @@
    "price": 19,
    "priceMax": 19,
    "priceText": null,
-   "genre": "other",
+   "genre": "comedy",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
@@ -13984,7 +13960,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "other"
+    "comedy"
    ]
   },
   {
@@ -14030,7 +14006,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/foo-forgers-with-special-guests-foo-farmers-tickets-GPSWQ3?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/foo-forgers-with-special-guests-foo-farmers-tickets-GPSWQ3?ref=ticketmaster",
@@ -14038,9 +14014,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -14285,7 +14260,7 @@
    "price": 15,
    "priceMax": 15,
    "priceText": null,
-   "genre": "punk",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
@@ -14295,7 +14270,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "punk"
+    "metal"
    ]
   },
   {
@@ -14661,8 +14636,7 @@
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
    "source": "skiddle",
    "genres": [
-    "trance",
-    "indie"
+    "trance"
    ]
   },
   {
@@ -15131,7 +15105,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/coda-a-tribute-to-led-zeppelin-tickets-MGZJNY?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/coda-a-tribute-to-led-zeppelin-tickets-MGZJNY?ref=ticketmaster",
@@ -15139,8 +15113,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
+    "rock",
     "indie"
    ]
   },
@@ -15299,7 +15273,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43290585-chuck-ragan-at-papillon",
    "infoUrl": "https://www.songkick.com/concerts/43290585-chuck-ragan-at-papillon",
@@ -15307,9 +15281,9 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic",
+    "punk"
    ]
   },
   {
@@ -15334,7 +15308,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -15407,7 +15380,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/a/66c/39116707-dbcb-41e5-b6c9-9f1247ae666c_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/massive-wagons-terrorvision-southampton-28-01-2027/event/360064D27B3117CF",
    "infoUrl": "https://www.ticketmaster.co.uk/massive-wagons-terrorvision-southampton-28-01-2027/event/360064D27B3117CF",
@@ -15415,9 +15388,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -15793,7 +15765,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/tool-shed-a-tribute-to-tool-tickets-KLZN9Y?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/tool-shed-a-tribute-to-tool-tickets-KLZN9Y?ref=ticketmaster",
@@ -15801,9 +15773,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -15877,7 +15848,7 @@
    "price": 16.5,
    "priceMax": 16.5,
    "priceText": null,
-   "genre": "other",
+   "genre": "comedy",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/c/6/2283554_6dccf27f_max-fulham-friends-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Max-Fulham--Friends-in-Southampton/42498034/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Max-Fulham--Friends-in-Southampton/42498034/",
@@ -15887,7 +15858,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "other"
+    "comedy"
    ]
   },
   {
@@ -15986,7 +15957,7 @@
    "price": 32,
    "priceMax": 37,
    "priceText": "£32–£37",
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/a/2341316_92b4b1ba_marky-ramone-s-blitzkrieg_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Marky-Ramones-Blitzkrieg/42732508/",
@@ -15995,9 +15966,8 @@
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
    "source": "skiddle",
    "_carriedSince": "2026-10-16T04:33:45.564Z",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -16263,7 +16233,7 @@
    "price": 33,
    "priceMax": 33,
    "priceText": null,
-   "genre": "punk",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/a/0/2258413_d438b114_shred-fest_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shred-Fest/42400774/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Shred-Fest/42400774/",
@@ -16273,7 +16243,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "punk"
+    "metal"
    ]
   },
   {
@@ -16317,7 +16287,7 @@
    "price": 20,
    "priceMax": 20,
    "priceText": null,
-   "genre": "punk",
+   "genre": "emo-alt",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/f/8/2282321_349726d6_as-everything-unfolds_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
@@ -16327,7 +16297,8 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "punk"
+    "emo-alt",
+    "metal"
    ]
   },
   {
@@ -16600,7 +16571,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -16647,7 +16617,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/a/b9b/084c0dca-0b1e-4d9d-8e3a-fad47f623b9b_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/saxon-gods-of-thunder-southampton-25-02-2027/event/360064D1A38F5627",
    "infoUrl": "https://www.ticketmaster.co.uk/saxon-gods-of-thunder-southampton-25-02-2027/event/360064D1A38F5627",
@@ -16655,9 +16625,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -16761,7 +16730,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "country",
    "img": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/johnny-cash-roadshow-still-walking-the-line-at-95-tickets-4WD9XF?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/johnny-cash-roadshow-still-walking-the-line-at-95-tickets-4WD9XF?ref=ticketmaster",
@@ -16769,9 +16738,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "country"
    ]
   },
   {
@@ -17450,7 +17418,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -17635,7 +17602,7 @@
    "price": 30.25,
    "priceMax": 30.25,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://i.ticketweb.com/i/00/13/00/35/14_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024",
    "infoUrl": "https://www.the-brook.com/tm-event/alcest/",
@@ -17643,9 +17610,8 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -17907,7 +17873,7 @@
    "price": 12,
    "priceMax": 12,
    "priceText": null,
-   "genre": "other",
+   "genre": "comedy",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/6/5/2314309_a235439e_200-badgers-badgers-vs-hedgehogs-with-matt-hobs_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/200-Badgers-Badgers-vs-Hedgehogs-with-Matt-Hobs/42624052/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/200-Badgers-Badgers-vs-Hedgehogs-with-Matt-Hobs/42624052/",
@@ -17917,7 +17883,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "other"
+    "comedy"
    ]
   },
   {
@@ -18756,7 +18722,7 @@
    "price": 19.25,
    "priceMax": 19.25,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/13/03/35/14_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/deeper-purple-machine-head-the-brook-tickets/14317704",
    "infoUrl": "https://www.the-brook.com/tm-event/deeper-purple-machine-head-tour-2027/",
@@ -18764,9 +18730,8 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -18921,7 +18886,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "folk-acoustic",
    "img": "https://s1.ticketm.net/dam/a/252/530c4467-86b3-4a04-a079-34ab07419252_SOURCE",
    "ticketUrl": "https://www.ticketmaster.co.uk/richard-thompson-hippies-thugs-and-heroes-southampton-28-04-2027/event/360064FC87E51E17",
    "infoUrl": "https://www.ticketmaster.co.uk/richard-thompson-hippies-thugs-and-heroes-southampton-28-04-2027/event/360064FC87E51E17",
@@ -18929,9 +18894,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "folk-acoustic",
+    "rock"
    ]
   },
   {
@@ -19143,7 +19108,7 @@
    "price": 17.5,
    "priceMax": 17.5,
    "priceText": null,
-   "genre": "other",
+   "genre": "comedy",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/e/b/2327993_a2d37b70_a-night-with-frank-sanazi-sol-bernstein-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Night-with-Frank-Sanazi--Sol-Bernstein-in-Southampton/42681120/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Night-with-Frank-Sanazi--Sol-Bernstein-in-Southampton/42681120/",
@@ -19153,7 +19118,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "other"
+    "comedy"
    ]
   },
   {
@@ -19416,7 +19381,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/john-lydon-i-could-be-wrong-i-could-be-right-tickets-JNM81F?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/john-lydon-i-could-be-wrong-i-could-be-right-tickets-JNM81F?ref=ticketmaster",
@@ -19424,9 +19389,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk"
    ]
   },
   {
@@ -19805,7 +19769,7 @@
    "price": 20,
    "priceMax": 20,
    "priceText": null,
-   "genre": "punk",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/5/4/2323255_42802362_Mosh-Spice--Spice-Girls-Metal-Tribute---The-Joiners--Southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Mosh-Spice-Spice-Girls-Metal-Tribute--The-Joiners-Southampton/42666691/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/Mosh-Spice-Spice-Girls-Metal-Tribute--The-Joiners-Southampton/42666691/",
@@ -19815,7 +19779,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
-    "punk"
+    "metal"
    ]
   },
   {
@@ -19840,9 +19804,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "indie",
+    "folk-acoustic"
    ]
   },
   {
@@ -20409,7 +20373,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/c/e7c/86478562-7218-4e8f-b9d4-8080fe168e7c_105581_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/type-of-negative-pantera-a-d-tickets-1JY352?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/type-of-negative-pantera-a-d-tickets-1JY352?ref=ticketmaster",
@@ -20417,9 +20381,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
@@ -20463,7 +20426,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "rock",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.ticketweb.uk/event/curved-air-farewell-tour-2026-the-brook-tickets/14105414?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/curved-air-farewell-tour-2026-the-brook-tickets/14105414?REFERRAL_ID=tmfeed",
@@ -20471,9 +20434,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "rock"
    ]
   },
   {
@@ -20490,7 +20452,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "country",
    "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/johnny-cash-roadshow-tickets-215MSW?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/johnny-cash-roadshow-tickets-215MSW?ref=ticketmaster",
@@ -20498,9 +20460,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "country"
    ]
   },
   {
@@ -20737,7 +20698,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "blues",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/dr-feelgood-nine-below-zero-tickets-MD03R4?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/dr-feelgood-nine-below-zero-tickets-MD03R4?ref=ticketmaster",
@@ -20745,9 +20706,9 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "blues",
+    "rock"
    ]
   },
   {
@@ -20764,7 +20725,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/bruce-foxton-50-years-of-the-jam-tour-tickets-Z7CF6W?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/bruce-foxton-50-years-of-the-jam-tour-tickets-Z7CF6W?ref=ticketmaster",
@@ -20772,8 +20733,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
+    "punk",
     "indie"
    ]
   },
@@ -20846,7 +20807,7 @@
    "price": 27.5,
    "priceMax": 27.5,
    "priceText": null,
-   "genre": "indie",
+   "genre": "punk",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/e/b/2355463_56988769_ruts-dc-prestents-the-ruts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Ruts-DC-Prestents-The-Ruts/42822139/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Ruts-DC-Prestents-The-Ruts/42822139/",
@@ -20855,9 +20816,9 @@
    "desc": "This tour is about taking the music that exploded out of a movement and bringing it onto a stage in 2027 with all its urgency and relevance intact.",
    "source": "skiddle",
    "_carriedSince": "2026-10-14T23:56:30.575Z",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "punk",
+    "reggae"
    ]
   },
   {
@@ -20882,7 +20843,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
     "indie"
    ]
@@ -20928,7 +20888,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "indie",
+   "genre": "metal",
    "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.universe.com/events/ed-force-one-priest-unleashed-tickets-ZC7HX4?ref=ticketmaster",
    "infoUrl": "https://www.universe.com/events/ed-force-one-priest-unleashed-tickets-ZC7HX4?ref=ticketmaster",
@@ -20936,9 +20896,8 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
    "genres": [
-    "indie"
+    "metal"
    ]
   },
   {
