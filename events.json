@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T15:36:41.381Z",
+ "generated": "2026-10-17T16:50:04.789Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 132,
+   "carried": 133,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -4816,8 +4816,8 @@
    "date": "2026-10-30",
    "time": "21:00",
    "price": 0,
-   "priceMax": 4,
-   "priceText": "£0–£4",
+   "priceMax": 5,
+   "priceText": "£0–£5",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/case-file-16-friday-night",
@@ -5558,8 +5558,8 @@
    "date": "2026-10-31",
    "time": "21:00",
    "price": 5,
-   "priceMax": 7,
-   "priceText": "£5–£7",
+   "priceMax": 9,
+   "priceText": "£5–£9",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/case-file-16-halloween",
@@ -14705,7 +14705,8 @@
    "source": "skiddle",
    "genres": [
     "house"
-   ]
+   ],
+   "_carriedSince": "2026-10-17T15:36:41.381Z"
   },
   {
    "type": "club",
