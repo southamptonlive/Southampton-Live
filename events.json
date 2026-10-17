@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T19:06:06.302Z",
+ "generated": "2026-10-17T19:24:14.944Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 133,
+   "carried": 134,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -642,7 +642,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-17T19:06:06.302Z"
   },
   {
    "type": "club",
