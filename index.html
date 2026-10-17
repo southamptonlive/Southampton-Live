@@ -545,7 +545,8 @@ function normGenres(input){
   }
   return out.length ? out : ["other"];
 }
-const evGenres = ev => (ev.genres && ev.genres.length ? ev.genres : normGenres(ev.genre));
+const evGenres = ev => ev.genreGuess ? [] : (ev.genres && ev.genres.length ? ev.genres : (ev.genre ? normGenres(ev.genre) : []));
+const NEUTRAL_GENRE = { label:"", color:"#8a8aa3", icon:"music" }; // artwork for events with no known genre
 
 const VENUES = [
   { id:"joiners",      name:"The Joiners",         address:"141 St Mary Street",      postcode:"SO14 1NZ", capacity:200, vibe:"Grassroots indie legend",  g:["#FF0000","#FF7A00"], icon:"guitar", access:["stepfree","loop"] },
@@ -737,7 +738,7 @@ function posterFont(name, hero){
 function posterHTML(ev, opts = {}){
   const hero = !!opts.hero;
   const g = ev.g || PALETTES[0];
-  const gen = GENRES[ev.genre] || GENRES.indie;
+  const gen = GENRES[evGenres(ev)[0]] || NEUTRAL_GENRE;
   const tone = ev.date === TODAY ? "solid-amber sticker" : "";
   const img = ev.img ? `<img class="userimg" src="${esc(ev.img)}" alt="" loading="lazy" onerror="this.closest('.poster').classList.remove('hasart'); this.remove()">` : "";
   const badges = `
@@ -1270,7 +1271,7 @@ function renderCommunity(){
 
 /* ---------- render: wallet / saved ---------- */
 function ticketRow(ev){
-  const gen = GENRES[ev.genre] || GENRES.other;
+  const gen = GENRES[evGenres(ev)[0]] || NEUTRAL_GENRE;
   return `
   <article class="ticket flex items-stretch cursor-pointer" onclick="openEvent('${ev.id}')">
     <div class="w-2 shrink-0" style="background:linear-gradient(180deg,${gen.color},${(ev.g || PALETTES[0])[1]})"></div>
@@ -1675,7 +1676,8 @@ function openEvent(id, soft){
   modalEventId = id;
   if (!soft) setHash("#/e/" + id);
   const v = venueOf(ev);
-  const gen = GENRES[ev.genre] || GENRES.other;
+  const genrePills = evGenres(ev).map(k => GENRES[k]).filter(Boolean)
+    .map(g => `<span class="gtag" style="--c:${g.color}"><span class="gd"></span>${g.label}</span>`).join("");
   const paid = !isFree(ev);
   const lineup = (ev.lineup || []).length
     ? `<div class="flex flex-wrap gap-1.5">${ev.lineup.map(x => `<span class="badge !bg-ink-800 !border-ink-600 !text-[#d6d6e8]">+ ${esc(x)}</span>`).join("")}</div>`
@@ -1693,7 +1695,7 @@ function openEvent(id, soft){
       <div>
         <h2 class="font-disp text-[24px] leading-tight">${esc(ev.artist)}</h2>
         <div class="mt-2 flex flex-wrap items-center gap-1.5">
-          <span class="gtag" style="--c:${gen.color}"><span class="gd"></span>${gen.label}</span>
+          ${genrePills}
           <span class="badge"><i data-lucide="clock" class="w-4 h-4"></i>Doors ${esc(ev.time)}</span>
           ${priceLabel(ev) ? `<span class="badge ${isFree(ev) ? "solid-mint" : ""}">${esc(priceLabel(ev))}</span>` : ""}
           ${ev.age ? `<span class="badge"><i data-lucide="shield-check" class="w-4 h-4"></i>${esc(ev.age)}</span>` : ""}
@@ -2521,8 +2523,11 @@ function feedEvent(e){
     price: e.price == null ? null : +e.price,
     priceMax: e.priceMax == null ? null : +e.priceMax,
     priceText: e.priceText || null,
-    genres: normGenres(e.genres || e.genre),
-    genre: normGenres(e.genres || e.genre)[0],
+    // genreGuess = the robot could only place this by fallback. Unknown = show
+    // nothing: no pill, no filter count, neutral artwork. Never an invented genre.
+    genreGuess: !!e.genreGuess,
+    genres: e.genreGuess ? [] : normGenres(e.genres || e.genre),
+    genre: e.genreGuess ? null : normGenres(e.genres || e.genre)[0],
     type: TYPES[e.type] ? e.type : "gig",
     tags: Array.isArray(e.tags) ? e.tags.slice(0, 4) : [],
     hot: !!e.hot,
