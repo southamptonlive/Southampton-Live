@@ -1,4 +1,4 @@
-# SO:LIVE — Southampton's gig guide (SO14–SO53)
+# Southampton.Live — Southampton's gig guide (southampton.live)
 
 A single-file, mobile-first gig guide for Southampton with **real listings**
 aggregated from public venue pages and ticket outlets.
@@ -10,14 +10,16 @@ aggregated from public venue pages and ticket outlets.
 | `index.html` | The whole app. Compiled Tailwind inlined, no build step, no framework. |
 | `events.json` | The listings feed the app loads. Regenerate any time. |
 | `build-events.mjs` | Zero-dependency Node scraper/aggregator that writes `events.json`. |
-| `refresh-listings.yml` | GitHub Actions workflow: rebuilds the feed every 3 h and deploys to Pages. |
+| `.github/workflows/refresh-listings.yml` | GitHub Actions workflow: rebuilds the feed every 3 h and deploys to SiteGround over FTPS. |
+| `classify-events.mjs` + `genre-overrides.json` | Artist-level genre knowledge layer (34-genre vocabulary; never guesses). |
+| `privacy.html`, `terms.html`, `about.html` | Legal and about pages, shipped with every deploy. |
 
 ## How the data works
 
 ```
 venue sites + ticket outlets ──► build-events.mjs ──► events.json ──► index.html
         (scrape/parse)            (normalise, dedupe,     (static      (fetches on load
-                                   SO14–SO53 filter)       file)        + every 15 min)
+                                   district allow-list)    file)        + every 15 min)
 ```
 
 `node build-events.mjs` fetches, in order, with polite pacing and retries:
@@ -31,8 +33,14 @@ venue sites + ticket outlets ──► build-events.mjs ──► events.json �
 
 Each event is normalised to one shape (artist, venue, postcode, date, doors
 time, price, genre, poster image, ticket link, description, min-age, source),
-deduplicated across sources, filtered to **future events in SO14–SO53 only**,
-and date-sorted. Venue name variants ("EngineRooms", "The Engine Rooms"…)
+deduplicated across sources, filtered to **future events in Greater Southampton only** (explicit district allow-list),
+
+Events also carry `genres[]` (up to 3 keys from the app's 34-genre vocabulary;
+the first is the primary and drives the card colour) and `genreGuess: true`
+when the robot could only place an event by fallback — the honest flag the
+knowledge layer uses to know what it still owes an answer for.
+
+Venue name variants ("EngineRooms", "The Engine Rooms"…)
 are merged into canonical venues.
 
 The app contains **no demo or placeholder content** — every event shown is a
@@ -54,10 +62,12 @@ node build-events.mjs        # writes a fresh events.json (Node 18+)
 python3 -m http.server 8000  # any static server; then open http://localhost:8000
 ```
 
-Deploy: push all four files to a GitHub repo, move `refresh-listings.yml` to
-`.github/workflows/`, enable Pages → the site self-refreshes every 3 hours.
-Any other static host works too — just re-run the builder on a schedule
-(cron, systemd timer, Cloudflare Worker cron, …).
+Deploy: the workflow in `.github/workflows/` rebuilds the feed every 3 hours
+(and on every push to `main`), commits the refreshed listings, and deploys
+`dist/` to SiteGround over FTPS (secrets: `FTP_SERVER`, `FTP_USERNAME`,
+`FTP_PASSWORD`; optional `TM_API_KEY`, `SKIDDLE_API_KEY`, `ANTHROPIC_API_KEY`).
+A failed deploy leaves the last good build in place — the site fails stale,
+never broken — and the next scheduled run self-heals it.
 
 ## The guide pattern
 
@@ -80,9 +90,11 @@ Share action.
 The guide keeps the *facts* (artist, venue, postcode, date, time, price,
 ticket link) — facts are not copyright-protected. It does not display images
 or promoter descriptions from sources without a licence or written permission:
-Songkick and Fatsoma media is stripped at build time; Music in the City images are shown with the organisers''s written permission (granted 3 Sept 2026) (the app renders its own
-generated poster art instead), pending permission requests. The scraper
-identifies itself honestly as `SotonLive/1.0 (+https://southampton.live)`, is
+Songkick and Fatsoma media is stripped at build time (the app renders its own
+generated poster art instead); Music in the City images are shown with the
+organisers' written permission (granted 3 Sept 2026); Ticketmaster media comes
+via its licensed API. The scraper
+identifies itself honestly as `SouthamptonLive/1.0 (+https://southampton.live; hello@southampton.live)`, is
 paced politely, and never evades blocks — a source that blocks the bot is
 declining, and carry-forward preserves previously published facts instead.
 Every listing credits and links its source. Rights-holders can have content
@@ -103,7 +115,7 @@ preferring records with ticket links and artwork) merges overlaps, and the
 venue canon normalises name variants. This took the guide from 160 events at
 11 venues to ~554 events at 38 venues — including The 1865 (2 → 115),
 Heartbreakers (1 → 48), The Joiners (4 → 37), plus O2 Guildhall, Mayflower
-Theatre, Turner Sims and the wider SO14–SO53 patch. **Fatsoma** — the student/promoter club-night outlet — is pulled from its
+Theatre, Turner Sims and the wider Greater Southampton patch. **Fatsoma** — the student/promoter club-night outlet — is pulled from its
 public JSON:API: ~270 in-patch events
 gated by the postcode inside each venue's address, with fee-inclusive prices
 (the only source that includes fees), category-driven typing, posters and
@@ -157,9 +169,11 @@ a knowledge layer: `genre-overrides.json`, a cache of artist-level corrections
 (lowercase name-substring → genre and optionally type) that `build-events.mjs`
 applies after every scrape. It ships seeded from an AI review of the full
 current listings. For future artists the cache doesn't know,
-`classify-events.mjs` runs after the build in CI: it finds events that matched
-no genre keyword, asks Claude (claude-haiku-4-5) to classify them from artist
-knowledge, appends the answers to the cache, and patches events.json plus the
+`classify-events.mjs` runs after the build in CI: it finds events the builder
+flagged `genreGuess`, asks Claude (claude-haiku-4-5) to classify them from
+artist knowledge using the same 34-genre vocabulary as the app — with an
+explicit instruction to omit any artist it does not actually know, never to
+guess — appends the answers to the cache, and patches events.json plus the
 bundled snapshot in the same run. Set `ANTHROPIC_API_KEY` in the repo secrets
 to enable it; without the key the step is a clean no-op and the seeded cache
 still applies. Each artist is classified once, ever — the cache is committed.
@@ -234,5 +248,9 @@ the full filter set (date, district, venue, sound) lives in a bottom sheet.
 
 ## User data
 
-RSVPs, saved gigs, submitted events and scene-board posts live in the
-visitor's own `localStorage` only. Nothing is sent anywhere.
+Reading the guide needs no account. Accounts (18+, magic-link sign-in, no
+passwords) live in Supabase (London region) behind row-level security and
+power the scene board, gig submissions (human-moderated), follows and saves.
+We collect the bare minimum — email, a permanent display name, and optionally
+the first part of a postcode — and publish only k≥10 anonymised statistics.
+Full detail: `privacy.html` and the "Our data promise" section of `about.html`.

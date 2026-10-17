@@ -1,216 +1,775 @@
 {
-  "note": "AI knowledge layer: artist-level corrections applied after scraping, because ticket outlets expose no genre data. Keys are lowercase substrings matched against the event name. Seeded by AI review of the full listings on 2026-08-31; classify-events.mjs extends this cache for new unknown artists.",
+  "note": "AI knowledge layer: artist-level corrections applied after scraping, because ticket outlets expose no genre data. Keys are lowercase substrings matched against the event name; genres use the app's 34-key vocabulary (up to 3, most specific first). Re-seeded 2026-10-17 for the 34-genre system; classify-events.mjs extends this cache for new unknown artists and is told never to guess.",
   "overrides": [
     {
       "match": "krs-one",
-      "genre": "hiphop"
+      "genres": [
+        "hip-hop"
+      ]
     },
     {
       "match": "stereo mcs",
-      "genre": "hiphop"
+      "genres": [
+        "hip-hop",
+        "electronic"
+      ]
     },
     {
       "match": "michael mathers",
-      "genre": "hiphop"
+      "genres": [
+        "hip-hop"
+      ]
     },
     {
       "match": "eminem experience",
-      "genre": "hiphop"
+      "genres": [
+        "hip-hop"
+      ]
+    },
+    {
+      "match": "chali 2na",
+      "genres": [
+        "hip-hop",
+        "funk"
+      ]
+    },
+    {
+      "match": "est gee",
+      "genres": [
+        "hip-hop"
+      ]
+    },
+    {
+      "match": "pete & bas",
+      "genres": [
+        "drill",
+        "hip-hop"
+      ]
+    },
+    {
+      "match": "huey morgan",
+      "genres": [
+        "hip-hop",
+        "funk"
+      ]
     },
     {
       "match": "quireboys",
-      "genre": "indie"
+      "genres": [
+        "rock"
+      ]
     },
     {
       "match": "independent band night",
-      "genre": "indie"
+      "genres": [
+        "indie"
+      ]
     },
     {
-      "match": "soulfly",
-      "genre": "punk"
+      "match": "ruled by raptors",
+      "genres": [
+        "indie"
+      ]
     },
     {
-      "match": "genitorturers",
-      "genre": "punk"
+      "match": "the hoosiers",
+      "genres": [
+        "indie"
+      ]
     },
     {
-      "match": "as everything unfolds",
-      "genre": "punk"
+      "match": "embrace",
+      "genres": [
+        "indie"
+      ]
     },
     {
-      "match": "moretallica",
-      "genre": "punk"
+      "match": "terrorvision",
+      "genres": [
+        "rock"
+      ]
     },
     {
-      "match": "mosh spice",
-      "genre": "punk"
+      "match": "massive wagons",
+      "genres": [
+        "rock"
+      ]
     },
     {
-      "match": "nightwish",
-      "genre": "punk"
+      "match": "l.a. guns",
+      "genres": [
+        "rock"
+      ]
     },
     {
-      "match": "shred fest",
-      "genre": "punk"
+      "match": "la guns",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "wishbone ash",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "crash test dummies",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "the long ryders",
+      "genres": [
+        "rock",
+        "country"
+      ]
+    },
+    {
+      "match": "republica",
+      "genres": [
+        "rock",
+        "electronic"
+      ]
+    },
+    {
+      "match": "jesus jones",
+      "genres": [
+        "indie",
+        "electronic"
+      ]
+    },
+    {
+      "match": "curved air",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "deeper purple",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "dirty dc",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "foo forgers",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "coda - a tribute to led zeppelin",
+      "genres": [
+        "rock"
+      ]
+    },
+    {
+      "match": "kings of lyon",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "definitely oasis",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "the editors",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "editors",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "steve cradock",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "chris difford",
+      "genres": [
+        "indie",
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "bruce foxton",
+      "genres": [
+        "punk",
+        "indie"
+      ]
+    },
+    {
+      "match": "clint boon",
+      "genres": [
+        "indie"
+      ]
+    },
+    {
+      "match": "weird nightmare",
+      "genres": [
+        "rock"
+      ]
     },
     {
       "match": "uncle acid",
-      "genre": "punk"
+      "genres": [
+        "rock",
+        "metal"
+      ]
+    },
+    {
+      "match": "dr feelgood",
+      "genres": [
+        "blues",
+        "rock"
+      ]
+    },
+    {
+      "match": "nine below zero",
+      "genres": [
+        "blues"
+      ]
+    },
+    {
+      "match": "colosseum",
+      "genres": [
+        "jazz",
+        "rock"
+      ]
+    },
+    {
+      "match": "soft machine",
+      "genres": [
+        "jazz",
+        "rock"
+      ]
+    },
+    {
+      "match": "soulfly",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "genitorturers",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "as everything unfolds",
+      "genres": [
+        "emo-alt",
+        "metal"
+      ]
+    },
+    {
+      "match": "moretallica",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "mosh spice",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "nightwish",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "shred fest",
+      "genres": [
+        "metal"
+      ]
     },
     {
       "match": "wormrot",
-      "genre": "punk"
-    },
-    {
-      "match": "skids & theatre of hate",
-      "genre": "punk"
+      "genres": [
+        "metal"
+      ]
     },
     {
       "match": "perpetual paradox",
-      "genre": "punk"
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "devin townsend",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "allegaeon",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "king parrot",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "vexed",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "the five hundred",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "saxon",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "xentrix",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "soil",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "alcest",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "cancer bats",
+      "genres": [
+        "punk",
+        "metal"
+      ]
+    },
+    {
+      "match": "type of negative",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "tool shed",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "ed force one",
+      "genres": [
+        "metal"
+      ]
+    },
+    {
+      "match": "skids & theatre of hate",
+      "genres": [
+        "punk"
+      ]
     },
     {
       "match": "struck/down",
-      "genre": "punk"
+      "genres": [
+        "punk"
+      ]
     },
     {
       "match": "tuffaf presents",
-      "genre": "punk"
+      "genres": [
+        "punk"
+      ]
     },
     {
       "match": "blink daze",
-      "genre": "punk"
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "a skylit drive",
+      "genres": [
+        "emo-alt"
+      ]
+    },
+    {
+      "match": "the exploited",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "the undertones",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "ruts dc",
+      "genres": [
+        "punk",
+        "reggae"
+      ]
+    },
+    {
+      "match": "the ruts",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "john lydon",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "petrol girls",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "deaf havana",
+      "genres": [
+        "rock",
+        "emo-alt"
+      ]
+    },
+    {
+      "match": "marky ramone",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "london calling",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "punk rock factory",
+      "genres": [
+        "punk"
+      ]
+    },
+    {
+      "match": "chuck ragan",
+      "genres": [
+        "folk-acoustic",
+        "punk"
+      ]
     },
     {
       "match": "the dualers",
-      "genre": "jazz"
+      "genres": [
+        "ska",
+        "reggae"
+      ]
     },
     {
       "match": "kamil bednarek",
-      "genre": "jazz"
+      "genres": [
+        "reggae"
+      ]
+    },
+    {
+      "match": "the specials",
+      "genres": [
+        "ska"
+      ]
+    },
+    {
+      "match": "king king",
+      "genres": [
+        "blues"
+      ]
+    },
+    {
+      "match": "will wilde",
+      "genres": [
+        "blues"
+      ]
+    },
+    {
+      "match": "bare jams",
+      "genres": [
+        "reggae",
+        "funk"
+      ]
+    },
+    {
+      "match": "barejams",
+      "genres": [
+        "reggae",
+        "funk"
+      ]
+    },
+    {
+      "match": "smoove & turrell",
+      "genres": [
+        "funk",
+        "soul"
+      ]
+    },
+    {
+      "match": "martin taylor",
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "match": "the allergies",
+      "genres": [
+        "funk",
+        "hip-hop"
+      ]
     },
     {
       "match": "the tumbling paddies",
-      "genre": "acoustic"
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
       "match": "martyn joseph",
-      "genre": "acoustic"
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
       "match": "mike dawes",
-      "genre": "acoustic"
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
       "match": "listening garden",
-      "genre": "acoustic"
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
-      "match": "steward sons of val doonican",
-      "genre": "acoustic"
+      "match": "sons of val doonican",
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
       "match": "the wurzels",
-      "genre": "acoustic"
+      "genres": [
+        "folk-acoustic"
+      ]
     },
     {
-      "match": "massaoke",
-      "genre": "other"
+      "match": "lucy kitchen",
+      "genres": [
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "laura veirs",
+      "genres": [
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "thea gilmore",
+      "genres": [
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "richard thompson",
+      "genres": [
+        "folk-acoustic",
+        "rock"
+      ]
+    },
+    {
+      "match": "mad dog mcrea",
+      "genres": [
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "johnny cash roadshow",
+      "genres": [
+        "country"
+      ]
+    },
+    {
+      "match": "ian prowse",
+      "genres": [
+        "folk-acoustic",
+        "rock"
+      ]
+    },
+    {
+      "match": "damien o'kane",
+      "genres": [
+        "folk-acoustic"
+      ]
+    },
+    {
+      "match": "paul oakenfold",
+      "genres": [
+        "trance"
+      ]
+    },
+    {
+      "match": "darius syrossian",
+      "genres": [
+        "house"
+      ]
+    },
+    {
+      "match": "eats everything",
+      "genres": [
+        "house"
+      ]
+    },
+    {
+      "match": "born on road",
+      "genres": [
+        "dnb",
+        "jungle"
+      ]
+    },
+    {
+      "match": "4am kru",
+      "genres": [
+        "jungle",
+        "dnb"
+      ]
+    },
+    {
+      "match": "basslayerz",
+      "genres": [
+        "dnb"
+      ]
+    },
+    {
+      "match": "alabama 3",
+      "genres": [
+        "electronic",
+        "country",
+        "blues"
+      ]
+    },
+    {
+      "match": "signum",
+      "genres": [
+        "trance"
+      ]
+    },
+    {
+      "match": "dave pearce",
+      "genres": [
+        "trance"
+      ]
     },
     {
       "match": "max fulham",
-      "genre": "other",
+      "genres": [
+        "comedy"
+      ],
       "type": "comedy"
     },
     {
-      "match": "luke wright",
-      "genre": "other",
-      "type": "other"
-    },
-    {
       "match": "andrew lawrence",
-      "genre": "other",
+      "genres": [
+        "comedy"
+      ],
       "type": "comedy"
     },
     {
       "match": "200% badgers",
-      "genre": "other",
+      "genres": [
+        "comedy"
+      ],
       "type": "comedy"
     },
     {
       "match": "frank sanazi",
-      "genre": "other",
+      "genres": [
+        "comedy"
+      ],
       "type": "comedy"
-    },
-    {
-      "match": "myndstate",
-      "genre": "other",
-      "type": "other"
-    },
-    {
-      "match": "devin townsend",
-      "genre": "punk"
-    },
-    {
-      "match": "allegaeon",
-      "genre": "punk"
-    },
-    {
-      "match": "king parrot",
-      "genre": "punk"
-    },
-    {
-      "match": "vexed",
-      "genre": "punk"
-    },
-    {
-      "match": "the five hundred",
-      "genre": "punk"
-    },
-    {
-      "match": "a skylit drive",
-      "genre": "punk"
-    },
-    {
-      "match": "weird nightmare",
-      "genre": "punk"
     },
     {
       "match": "kevin bridges",
-      "genre": "other",
+      "genres": [
+        "comedy"
+      ],
       "type": "comedy"
     },
     {
-      "match": "lucy kitchen",
-      "genre": "acoustic"
+      "match": "alasdair beckett-king",
+      "genres": [
+        "comedy"
+      ],
+      "type": "comedy"
     },
     {
-      "match": "laura veirs",
-      "genre": "acoustic"
+      "match": "bella hull",
+      "genres": [
+        "comedy"
+      ],
+      "type": "comedy"
     },
     {
-      "match": "the specials",
-      "genre": "jazz"
+      "match": "massaoke",
+      "genres": [
+        "other"
+      ]
     },
     {
-      "match": "king king",
-      "genre": "jazz"
+      "match": "luke wright",
+      "genres": [
+        "other"
+      ],
+      "type": "other"
     },
     {
-      "match": "will wilde",
-      "genre": "jazz"
-    },
-    {
-      "match": "bare jams",
-      "genre": "jazz"
-    },
-    {
-      "match": "barejams",
-      "genre": "jazz"
-    },
-    {
-      "match": "ruled by raptors",
-      "genre": "indie"
+      "match": "myndstate",
+      "genres": [
+        "other"
+      ],
+      "type": "other"
     }
   ]
 }
