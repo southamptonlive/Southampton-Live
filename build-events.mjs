@@ -762,7 +762,8 @@ async function mayflower() {
     if (!dates.length || dates.length > 31) continue; // long residencies: skip rather than misrepresent
     const v = canonVenue(deent(ven[1]).trim(), '');
     if (!v.postcode) continue;
-    const img = (c.match(/<img src="(https:\/\/images\.mayflower\.org\.uk[^"]+?)(?:\?[^"]*)?"/) || [])[1];
+    // the markup wraps attributes onto new lines: <img\n  src="…" — match loosely
+    const img = (c.match(/<img[^>]*?\ssrc="(https:\/\/images\.mayflower\.org\.uk[^"?]+)/) || [])[1];
     const url = link[1].startsWith('http') ? link[1] : 'https://www.mayflower.org.uk' + link[1];
     for (const date of dates) {
       const id = 'mayf-' + slugify(name).slice(0, 34) + '-' + date;
