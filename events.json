@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-17T20:38:48.791Z",
+ "generated": "2026-10-17T23:10:04.252Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 68
+   "events": 67
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 36
+   "events": 35
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 448
+   "events": 440
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 235
+   "events": 233
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 273
+   "events": 272
   }
  ],
  "venues": [
@@ -168,12 +168,6 @@
    "address": "Romsey Road"
   },
   {
-   "id": "circuit",
-   "name": "Circuit",
-   "postcode": "SO14 7FN",
-   "address": "Southampton"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -184,12 +178,6 @@
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
    "address": "Guildhall Square"
-  },
-  {
-   "id": "mail-room-cocktail-bar-and-restaurant",
-   "name": "Mail Room Cocktail Bar And Restaurant",
-   "postcode": "SO14 3DP",
-   "address": "Oxford Street"
   },
   {
    "id": "guildhall-square",
@@ -214,6 +202,12 @@
    "name": "The Hobbit",
    "postcode": "SO14 0JZ",
    "address": "134 Bevois Valley Road, Southampton"
+  },
+  {
+   "id": "circuit",
+   "name": "Circuit",
+   "postcode": "SO14 7FN",
+   "address": "Southampton"
   },
   {
    "id": "concorde-club",
@@ -477,34 +471,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-89349a3e-9cc",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-17",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/daytime-clubbing-4pm-10pm",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [
     "rock"
@@ -754,32 +720,6 @@
    "genres": [
     "afrobeat",
     "reggae"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-77911387-39a",
-   "artist": "Bottomless Drinks £20pp | SATURDAY 17TH OCTOBER | Time Slot: 10pm - 11:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-17",
-   "time": "22:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "funk",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-17th-october-time-slot-10pm-11-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-17th-october-time-slot-10pm-11-30pm",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "funk"
    ]
   },
   {
@@ -3560,33 +3500,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43281976",
-   "artist": "Tortured Demon",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-27",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43281976-tortured-demon-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43281976-tortured-demon-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "tm-17uOv0G6GCi9zMB",
    "artist": "Deaf Havana",
    "venueId": "guildhall",
@@ -3608,33 +3521,6 @@
    "genres": [
     "rock",
     "emo-alt"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43200370",
-   "artist": "Hollow Hand",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-27",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43200370-hollow-hand-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43200370-hollow-hand-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -3780,59 +3666,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-42999385",
-   "artist": "L.A. Guns",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-28",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "rock",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43253128",
-   "artist": "Mould",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-28",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "tm-LvZ18QptQSABfO8Z0gpPM",
    "artist": "LA Guns",
    "venueId": "the-1865",
@@ -3853,33 +3686,6 @@
    "source": "ticketmaster",
    "genres": [
     "rock"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43243554",
-   "artist": "Shtëpi",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-28",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
