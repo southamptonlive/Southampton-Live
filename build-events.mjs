@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /* =============================================================
    SO:LIVE listings builder
-   Aggregates real Southampton (SO14–SO53) gig listings into
+   Aggregates real Greater Southampton gig listings into
    events.json, which the app fetches at load.
 
    Sources:
@@ -90,7 +90,17 @@ const deent = (s) =>
   String(s ?? '')
     .replace(/&pound;/g, '£').replace(/&amp;/g, '&').replace(/&quot;/g, '"')
     .replace(/&#0?39;|&#8217;|&apos;/g, "'").replace(/&#8211;|&ndash;/g, '–')
-    .replace(/&#8230;|&hellip;/g, '…').replace(/&nbsp;/g, ' ');
+    .replace(/&#8230;|&hellip;/g, '…').replace(/&nbsp;/g, ' ')
+    .replace(/&#8212;|&mdash;/g, '—').replace(/&#8216;|&lsquo;/g, '‘').replace(/&#8220;|&ldquo;/g, '“').replace(/&#8221;|&rdquo;/g, '”')
+    // named/numeric accented letters (The Brook titles carry &Ouml; etc.)
+    .replace(/&([a-zA-Z])(uml|acute|grave|circ|tilde|ring|cedil|slash);/g, (m, ch, kind) => {
+      const map = { uml: '\u0308', acute: '\u0301', grave: '\u0300', circ: '\u0302', tilde: '\u0303', ring: '\u030a' };
+      if (kind === 'cedil') return ch === 'C' ? 'Ç' : 'ç';
+      if (kind === 'slash') return ch === 'O' ? 'Ø' : 'ø';
+      return (ch + map[kind]).normalize('NFC');
+    })
+    .replace(/&#(\d+);/g, (m, n) => String.fromCodePoint(parseInt(n, 10)))
+    .replace(/&#x([0-9a-f]+);/gi, (m, h) => String.fromCodePoint(parseInt(h, 16)));
 
 // Canonical venue identities — merges the name variants that appear
 // across Skiddle city pages, venue pages and cross-listings.
@@ -212,7 +222,8 @@ function applyOverrides(ev) {
   const hay = ev.artist.toLowerCase();
   for (const o of OVERRIDES) {
     if (hay.includes(o.match)) {
-      if (o.genre) ev.genre = o.genre;
+      const gs = (o.genres || (o.genre ? [o.genre] : [])).map((g) => LEGACY_GENRE[g] || g).filter((g) => GENRE_KEYS.has(g));
+      if (gs.length) { ev.genres = gs; ev.genre = gs[0]; delete ev.genreGuess; }
       if (o.type) ev.type = o.type;
       return true;
     }
@@ -224,6 +235,73 @@ function inferGenre(name, desc, eventCode) {
   const hay = `${name} ${desc || ''}`;
   for (const [g, re] of GENRE_RULES) if (re.test(hay)) return g;
   return eventCode === 'CLUB' ? 'electronic' : 'indie';
+}
+
+/* ---------- genre v2: the app's 34-key vocabulary, multiple per event ----------
+   Matches are collected (not first-wins) from name + description + tags, in
+   priority order, so the first hit becomes the primary `genre` (drives the
+   card palette) and the rest ride along in `genres[]`. Non-music types
+   (comedy / theatre / other) get their own key and nothing else — a musical
+   is not "indie". Unknown = the same honest fallbacks as before. */
+const GENRE_KEYS = new Set(['rock','indie','metal','emo-alt','punk','electronic','dance','dnb','house','techno','trance','jungle','jazz','blues','funk','soul','reggae','dub','ska','hip-hop','grime','drill','trap','rnb','disco','country','folk-acoustic','world','afrobeat','salsa','latin','comedy','theatre','other']);
+const LEGACY_GENRE = { hiphop: 'hip-hop', acoustic: 'folk-acoustic', folk: 'folk-acoustic', rap: 'hip-hop', 'drum-and-bass': 'dnb' };
+const GENRE_RULES_V2 = [
+  ['comedy',        /\b(comedy|comedian|stand[-\s]?up)\b/i],
+  ['theatre',       /\b(musical|ballet|opera|panto(mime)?|theatre|the\s+play)\b/i],
+  ['dnb',           /\b(dnb|d&b|drum\s*(&|and|n)\s*bass|liquid)\b/i],
+  ['jungle',        /\bjungle\b/i],
+  ['house',         /\bhouse\b(?!\s*party)/i],
+  ['techno',        /\btechno\b/i],
+  ['trance',        /\btrance\b/i],
+  ['disco',         /\bdisco\b(?!\s*party)/i],
+  ['grime',         /\bgrime\b/i],
+  ['drill',         /\bdrill\b/i],
+  ['trap',          /\btrap\b/i],
+  ['hip-hop',       /\b(hip\s*hop|rap(per)?s?|cypher|freestyle)\b/i],
+  ['rnb',           /\b(r&b|rnb|r\s?n\s?b)\b/i],
+  ['afrobeat',      /\bafro\s*beats?\b/i],
+  ['salsa',         /\b(salsa|bachata|kizomba)\b/i],
+  ['latin',         /\b(latin|reggaeton|perreo|cumbia|bollywood|desi|bhangra)\b/i],
+  ['world',         /\b(world\s+music|balkan|klezmer|celtic|flamenco|gypsy)\b/i],
+  ['metal',         /\b(metal(core|head)?s?|thrash|death\s*metal|black\s*metal|doom|djent|deathcore|grind(core)?|slam)\b/i],
+  ['emo-alt',       /\b(emo|screamo|post[-\s]?hardcore|alt(ernative)?[-\s]?rock|alt\b|nu[-\s]?metal|pop[-\s]?punk)/i],
+  ['punk',          /\b(punk|hardcore|hxc|oi!|anarcho|riot\s*grrrl|d-?beat)\b/i],
+  ['ska',           /\bska\b(?!nk)/i],
+  ['dub',           /\bdub\b(?!step)/i],
+  ['reggae',        /\b(reggae|roots|dancehall|lovers\s*rock)\b/i],
+  ['jazz',          /\b(jazz|bebop|big\s*band|swing)\b/i],
+  ['funk',          /\b(funk(y|adelic)?|groove|brass\s*band)\b/i],
+  ['soul',          /\b(soul|motown|northern\s*soul)\b/i],
+  ['blues',         /\bblues\b/i],
+  ['country',       /\b(country|americana|bluegrass|honky[-\s]?tonk|barn\s*dance)\b/i],
+  ['folk-acoustic', /\b(folk|acoustic|unplugged|singer[-\s]?songwriter|songwriter|open\s*mic|ukulele|sea\s*shant)/i],
+  ['indie',         /\b(indie|britpop|shoegaze|dream\s*pop|jangle|post[-\s]?punk|new\s*wave|synth\s*pop)\b/i],
+  ['rock',          /\b(rock|grunge|psych(edelic)?|prog|glam\s*rock|stoner)\b/i],
+  ['electronic',    /\b(electro(nic|nica)?|edm|bass(line)?|dubstep|140|garage|ukg|breaks|breakbeat|hardstyle|dj\s|dj'?s|rave|club\s*night)/i],
+  ['dance',         /\b(dance|party\s*anthems|cheese|pop\s*party|anthems|90s|00s|80s|throwback)\b/i],
+  ['other',         /\b(quiz|bingo|karaoke|massaoke|drag|wrestling|burlesque|cabaret|spoken\s*word|poet(ry)?|screening|talk|lecture|q&a)\b/i],
+];
+const NON_MUSIC = new Set(['comedy', 'theatre', 'other']);
+function classifyGenresV2(e) {
+  const hay = `${e.artist} ${e.desc || ''} ${(e.tags || []).join(' ')}`;
+  let found = [];
+  for (const [g, re] of GENRE_RULES_V2) if (re.test(hay)) found.push(g);
+  // Non-music events: the type decides, nothing else rides along.
+  if (e.type === 'comedy') found = ['comedy'];
+  else if (e.type === 'theatre') found = found.includes('comedy') ? ['comedy', 'theatre'] : ['theatre'];
+  else if (e.type === 'other') found = found.filter((g) => NON_MUSIC.has(g)).length ? found.filter((g) => NON_MUSIC.has(g)) : ['other'];
+  else found = found.filter((g) => !NON_MUSIC.has(g) || g === 'comedy');
+  if (!found.length) {
+    // honest fallback, unchanged policy: a club night we can't place is
+    // electronic; a gig we can't place keeps the legacy "indie" bucket.
+    // genreGuess marks it so the knowledge layer (classify-events.mjs)
+    // knows which events still need an artist-level answer.
+    found = [e.type === 'club' ? 'electronic' : 'indie'];
+    e.genreGuess = true;
+  } else delete e.genreGuess;
+  e.genres = [...new Set(found)].filter((g) => GENRE_KEYS.has(g)).slice(0, 3);
+  if (!e.genres.length) e.genres = ['other'];
+  e.genre = e.genres[0];
 }
 
 /* ---------- price extraction ---------- */
@@ -916,6 +994,10 @@ async function main() {
     (e) => e.artist && e.date && e.date >= today && !e.cancelled && inPatch(e.postcode)
   );
 
+  // Genre v2 pass (34-key vocabulary, multi-genre). Runs BEFORE the media
+  // strip so promoter copy can inform classification without being displayed.
+  for (const e of events) classifyGenresV2(e);
+
   // Rights pass: keep the facts (artist, venue, date, time, price, links) but do
   // not display images or promoter copy from sources with no licence in place.
   // Reverse per-source when written permission arrives. (MITC pending reply.)
@@ -927,26 +1009,84 @@ async function main() {
   for (const e of events) if (applyOverrides(e)) corrected++;
   console.log(`knowledge layer: ${OVERRIDES.length} rules, ${corrected} events corrected`);
 
-  // dedupe: exact source id, then fuzzy name+date+district (prefer record w/ ticket+img)
-  const byKey = new Map();
+  // dedupe v2: one gig, one card.
+  //  1. exact source id
+  //  2. same date + same district + same billing (token SET, so
+  //     "Terrorvision + Massive Wagons" == "Massive Wagons & Terrorvision";
+  //     bracketed asides, filler words and tour years are ignored)
+  //  3. same date + same venue + one billing is a SUBSET of the other
+  //     (Songkick lists "Alabama 3" and "Haze"; Ticketmaster lists
+  //     "Alabama 3 (Acoustic)" and "Haze + Tiger Moth Tales" — same gigs)
+  // Winner = highest score (ticket link, licensed image, going, price);
+  // missing facts (time/price) are filled from the losers. Festival sets
+  // (noFuzzyMerge) only ever merge with themselves.
+  const BILL_STOP = new Set(['the','a','an','and','at','in','of','on','to','tour','presents','present','prestents','feat','featuring','ft','with','w','plus','special','guests','guest','support','live','uk','southampton','show','night','party','evening','an','vs','x','official','anniversary','years','year','celebrating','tickets']);
+  const billTokens = (name) => {
+    let t = String(name || '').toLowerCase()
+      .replace(/\(.*?\)|\[.*?\]/g, ' ')           // bracketed asides
+      .replace(/["'’!]/g, '')                      // P!NK → pnk, Bruce's → bruces
+      .replace(/&/g, ' and ')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .split(' ')
+      .filter((w) => w && !BILL_STOP.has(w) && !/^(19|20)\d\d$/.test(w));
+    return [...new Set(t)].sort();
+  };
   const score = (e) => (e.ticketUrl ? 2 : 0) + (e.img ? 1 : 0) + (e.going ? 1 : 0) + (e.price != null ? 1 : 0);
-  for (const e of events) {
-    const key = e.id;
-    const fuzzy = norm(e.artist).split(' ').slice(0, 5).join(' ') + '|' + e.date + '|' + district(e.postcode) + (e.noFuzzyMerge ? '|' + e.source : '');
-    const existing = byKey.get(key) || byKey.get('~' + fuzzy);
-    if (!existing || score(e) > score(existing.e)) byKey.set(key, { e, fuzzy });
-    if (!byKey.has('~' + fuzzy)) byKey.set('~' + fuzzy, { e, fuzzy });
+
+  // union-find over event indices
+  const parent = events.map((_, i) => i);
+  const find = (i) => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+  const union = (a, b) => { a = find(a); b = find(b); if (a !== b) parent[b] = a; };
+
+  const toks = events.map((e) => billTokens(e.artist));
+  const byId = new Map();
+  const byBill = new Map();
+  const byDateVenue = new Map();
+  events.forEach((e, i) => {
+    if (byId.has(e.id)) union(byId.get(e.id), i); else byId.set(e.id, i);
+    const fest = e.noFuzzyMerge ? '|' + e.source : '';
+    const bill = toks[i].join(' ') + '|' + e.date + '|' + district(e.postcode) + fest;
+    if (toks[i].length) { if (byBill.has(bill)) union(byBill.get(bill), i); else byBill.set(bill, i); }
+    const dv = e.date + '|' + e.venueId + fest;
+    if (!byDateVenue.has(dv)) byDateVenue.set(dv, []);
+    byDateVenue.get(dv).push(i);
+  });
+  // subset rule within date+venue groups
+  for (const idx of byDateVenue.values()) {
+    if (idx.length < 2) continue;
+    for (let x = 0; x < idx.length; x++) for (let y = x + 1; y < idx.length; y++) {
+      const a = idx[x], b = idx[y];
+      if (events[a].source === events[b].source) continue;
+      const ta = toks[a], tb = toks[b];
+      if (!ta.length || !tb.length) continue;
+      const [small, big] = ta.length <= tb.length ? [ta, tb] : [tb, ta];
+      if (small.every((w) => big.includes(w))) union(a, b);
+    }
   }
+  const groups = new Map();
+  events.forEach((e, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(e); });
   const out = [];
-  const used = new Set();
-  for (const [k, v] of byKey) {
-    if (k.startsWith('~')) continue;
-    const f = '~' + v.fuzzy;
-    if (used.has(f)) continue;
-    used.add(f);
-    const { _venue, cancelled, ...ev } = v.e;
+  let merged = 0;
+  for (const g of groups.values()) {
+    const SRC_RANK = { ticketmaster: 0, skiddle: 1, thebrook: 2, mayflower: 3, mitc: 4, songkick: 5, fatsoma: 6 };
+    g.sort((a, b) => (score(b) - score(a)) || ((SRC_RANK[a.source] ?? 9) - (SRC_RANK[b.source] ?? 9)));
+    const best = { ...g[0] };
+    for (const other of g.slice(1)) {
+      merged++;
+      // fill missing facts from the duplicate (facts only — never media)
+      if (!best.time && other.time) best.time = other.time;
+      if (best.price == null && other.price != null) { best.price = other.price; best.priceMax = other.priceMax; best.priceText = other.priceText; }
+      if (!best.infoUrl && other.infoUrl) best.infoUrl = other.infoUrl;
+      if (!best.ticketUrl && other.ticketUrl) best.ticketUrl = other.ticketUrl;
+      if (!best.minage && other.minage) best.minage = other.minage;
+      // union genres; the winner's primary stays primary
+      best.genres = [...new Set([...(best.genres || []), ...(other.genres || [])])].slice(0, 3);
+      best.genre = best.genres[0] || best.genre;
+    }
+    const { _venue, cancelled, ...ev } = best;
     out.push(ev);
   }
+  console.log(`dedupe: ${events.length} → ${out.length} (${merged} duplicate listings merged)`);
   out.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
   // derive venue registry from surviving events

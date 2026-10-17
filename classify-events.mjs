@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* =============================================================
-   SO:LIVE — AI genre/type classification pass
+   SOUTHAMPTON.LIVE — AI genre/type classification pass
    Run AFTER build-events.mjs. Finds events whose genre came from
    the keyword fallback (no keyword hit, no override), asks Claude
    to classify them from artist knowledge, appends results to
@@ -17,12 +17,14 @@ const EVENTS = new URL('./events.json', import.meta.url).pathname;
 const OVR = new URL('./genre-overrides.json', import.meta.url).pathname;
 const INDEX = new URL('./index.html', import.meta.url).pathname;
 
-const GENRES = ['indie', 'electronic', 'jazz', 'punk', 'hiphop', 'acoustic', 'other'];
-const TYPES = ['gig', 'club', 'comedy', 'other'];
+// The app's 34-key vocabulary (see GENRES in index.html). Up to 3 per event.
+const GENRES = ['rock','indie','metal','emo-alt','punk','electronic','dance','dnb','house','techno','trance','jungle','jazz','blues','funk','soul','reggae','dub','ska','hip-hop','grime','drill','trap','rnb','disco','country','folk-acoustic','world','afrobeat','salsa','latin','comedy','theatre','other'];
+const TYPES = ['gig', 'club', 'comedy', 'theatre', 'other'];
+const LEGACY = { hiphop: 'hip-hop', acoustic: 'folk-acoustic', folk: 'folk-acoustic', rap: 'hip-hop' };
+const normG = (arr) => [...new Set((Array.isArray(arr) ? arr : [arr]).map((g) => LEGACY[String(g || '').toLowerCase()] || String(g || '').toLowerCase()).filter((g) => GENRES.includes(g)))].slice(0, 3);
 
-// Same keyword vocabulary the builder trusts; anything that matched one of
-// these is considered confidently classified and is NOT re-checked.
-const CONFIDENT = /\b(punk|hardcore|emo|metal|ska|grunge|dnb|d&b|drum\s*(&|and|n)\s*bass|jungle|garage|house|techno|trance|dubstep|rave|disco|dj|club\s*night|jazz|funk|soul|blues|reggae|dub|hip\s*hop|rap|drill|grime|r&b|rnb|folk|acoustic|unplugged|singer[-\s]?songwriter|comedy|comedian|stand[-\s]?up|quiz|bingo|drag|karaoke|spoken\s*word|indie|rock)\b/i;
+// The builder marks events it could only place by fallback with genreGuess:true;
+// those are the ones worth asking about.
 
 const feed = JSON.parse(readFileSync(EVENTS, 'utf8'));
 const cache = existsSync(OVR)
@@ -37,7 +39,7 @@ const seen = new Set();
 for (const e of feed.events) {
   const hay = `${e.artist} ${e.desc || ''}`;
   const k = e.artist.toLowerCase().trim();
-  if (seen.has(k) || covered(e.artist) || CONFIDENT.test(hay) || e.type === 'club' || (e.tags || []).length) continue;
+  if (seen.has(k) || covered(e.artist) || !e.genreGuess || e.type !== 'gig') continue;
   seen.add(k);
   unknowns.push({ artist: e.artist, desc: (e.desc || '').slice(0, 140), venue: e.venueName });
 }
@@ -54,10 +56,11 @@ if (!KEY) {
 
 console.log(`classify: asking Claude about ${unknowns.length} unknown artist(s)…`);
 const prompt = `You are classifying live events in Southampton UK for a gig guide. For EACH event, use your knowledge of the artist to assign:
-- "genre": one of ${JSON.stringify(GENRES)} (indie = indie/rock/pop, electronic = dance/DnB/club, jazz = jazz/funk/soul/reggae/ska, punk = punk/metal/hardcore, hiphop = hip-hop/rap/R&B, acoustic = folk/acoustic/country, other = comedy/spoken word/misc)
-- "type": one of ${JSON.stringify(TYPES)} (gig = live music, club = DJ/club night, comedy = stand-up, other = quiz/drag/spoken word/misc)
+- "genres": 1 to 3 keys from ${JSON.stringify(GENRES)}, most specific first (e.g. a metal band is ["metal"], not ["rock"]; a tribute act takes the genre of the act it tributes)
+- "type": one of ${JSON.stringify(TYPES)} (gig = live music, club = DJ/club night, comedy = stand-up, theatre = musical/play/panto, other = quiz/drag/spoken word/misc)
 - "match": a short distinctive lowercase substring of the event name to key the rule (e.g. the artist name)
-Respond ONLY with a JSON array, no prose: [{"match":"...","genre":"...","type":"..."}]
+If you genuinely do not know the artist, OMIT it — never guess. This guide never invents data.
+Respond ONLY with a JSON array, no prose: [{"match":"...","genres":["..."],"type":"..."}]
 Events:
 ${unknowns.map((u, i) => `${i + 1}. "${u.artist}" at ${u.venue}${u.desc ? ` — ${u.desc}` : ''}`).join('\n')}`;
 
@@ -79,10 +82,11 @@ catch (e) { console.error('classify: unparseable response'); process.exit(1); }
 
 let added = 0;
 for (const r of rules) {
-  if (!r || !r.match || !GENRES.includes(r.genre) || !TYPES.includes(r.type)) continue;
+  const gs = normG(r && (r.genres || r.genre));
+  if (!r || !r.match || !gs.length || !TYPES.includes(r.type)) continue;
   const m = String(r.match).toLowerCase().slice(0, 60);
-  if (cache.overrides.some((o) => o.match === m)) continue;
-  cache.overrides.push({ match: m, genre: r.genre, type: r.type, via: 'claude-haiku-4-5' });
+  if (m.length < 4 || cache.overrides.some((o) => o.match === m)) continue;
+  cache.overrides.push({ match: m, genres: gs, type: r.type, via: 'claude-haiku-4-5' });
   added++;
 }
 writeFileSync(OVR, JSON.stringify(cache, null, 2));
@@ -94,7 +98,8 @@ for (const e of feed.events) {
   const hay = e.artist.toLowerCase();
   for (const o of cache.overrides) {
     if (hay.includes(o.match)) {
-      if (o.genre && e.genre !== o.genre) { e.genre = o.genre; patched++; }
+      const gs = normG(o.genres || o.genre);
+      if (gs.length && JSON.stringify(gs) !== JSON.stringify(e.genres)) { e.genres = gs; e.genre = gs[0]; delete e.genreGuess; patched++; }
       if (o.type && e.type !== o.type) { e.type = o.type; patched++; }
       break;
     }
