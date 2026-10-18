@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-18T11:09:24.308Z",
+ "generated": "2026-10-18T15:56:01.213Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 127,
+   "carried": 107,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 35
+   "events": 34
   },
   {
    "id": "skiddle:The-Joiners",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 270
+   "events": 272
   }
  ],
  "venues": [
@@ -160,6 +160,12 @@
    "name": "The Attic",
    "postcode": "SO40 9HQ",
    "address": "Totton, Southampton"
+  },
+  {
+   "id": "the-horns-inn",
+   "name": "The Horns Inn",
+   "postcode": "SO16 0XA",
+   "address": "Romsey Road"
   },
   {
    "id": "trilogy-southampton",
@@ -1497,8 +1503,8 @@
    "date": "2026-10-22",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 4.8,
-   "priceText": "£3.80–£4.80",
+   "priceMax": 5.8,
+   "priceText": "£3.80–£5.80",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-let-s-get-trollied-win-a-weeks-free-shopping-southampton-s-best-student-night-1-shots-all-night",
@@ -1920,7 +1926,6 @@
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -5745,7 +5750,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T11:09:24.308Z"
   },
   {
    "type": "club",
@@ -6381,7 +6387,6 @@
    "minage": null,
    "desc": "Southampton best \"Comedy Open Mic Night\" in Hampshire Wednesday 4th November",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -8113,7 +8118,6 @@
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -10211,7 +10215,6 @@
    "minage": null,
    "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -10674,7 +10677,6 @@
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -10940,6 +10942,34 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42425021",
+   "artist": "Bed By 10",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "going": 29,
+   "minage": "18",
+   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
+   "source": "skiddle",
+   "_carriedSince": "2026-10-13T10:37:51.934Z",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "tribute"
    ],
@@ -10962,35 +10992,6 @@
    "minage": "18",
    "desc": "Bed By 10: The Ultimate 30+ Clubbing Experience!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42425021",
-   "artist": "Bed By 10",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-21",
-   "time": "16:00",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 29,
-   "minage": "18",
-   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genreGuess": true,
    "genres": [
     "electronic"
@@ -11428,7 +11429,6 @@
    "minage": "18",
    "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "latin"
    ]
@@ -15603,7 +15603,6 @@
    "minage": null,
    "desc": "myndstate the spoken word artist new show \"Deep Breath\" at The Attic Thursday 10th December",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "other"
    ]
@@ -15772,7 +15771,6 @@
    "minage": "18",
    "desc": "Merry Axemas Horror Christmas takeover of Taking Back Thursdays! Emo/metalcore/nu metal/pop punk/alt. Fancy dress: Horror/Xmas. 10 Dec, Suburbia",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "metal",
     "emo-alt",
@@ -16737,7 +16735,6 @@
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -16990,35 +16987,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "sk-42532872",
-   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "price": 19,
-   "priceMax": 19,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "going": 0,
-   "minage": null,
-   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [
     "karaoke"
@@ -17045,6 +17013,34 @@
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
     "other"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-42532872",
+   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "price": 19,
+   "priceMax": 19,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "going": 0,
+   "minage": null,
+   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
+   "source": "skiddle",
+   "genres": [
+    "comedy"
    ]
   },
   {
@@ -17349,7 +17345,6 @@
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "metal"
    ]
@@ -18881,6 +18876,33 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QcGsvACpzI1KPZ8u",
+   "artist": "N.Y.E. With The Underdogs",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-12-31",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/n-y-e-with-the-underdogs-tickets-BHC1RW?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/n-y-e-with-the-underdogs-tickets-BHC1RW?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "club",
    "tags": [
     "xmas"
@@ -18967,6 +18989,33 @@
    "genres": [
     "electronic",
     "dance"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AdFZ_fGkyGQYxA",
+   "artist": "N.Y.E. with the Underdogs",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-12-31",
+   "time": "20:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/nye-with-the-underdogs-the-brook-tickets/14382964?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/nye-with-the-underdogs-the-brook-tickets/14382964?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -20912,7 +20961,8 @@
    "source": "skiddle",
    "genres": [
     "rnb"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T11:09:24.308Z"
   },
   {
    "type": "gig",
@@ -21609,7 +21659,6 @@
    "minage": null,
    "desc": "Max Fulham & Friends in Southampton",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -21663,7 +21712,6 @@
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -24800,7 +24848,6 @@
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -25659,7 +25706,6 @@
    "minage": "16",
    "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -25821,7 +25867,6 @@
    "minage": "14",
    "desc": "Coldplay It Again, Oasis Here Now, and Stereoconics are coming to Southampton!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -28269,7 +28314,6 @@
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -29898,7 +29942,6 @@
    "minage": "18",
    "desc": "Mosh Spice is the world's first metal tribute to the Spice Girls, a high energy mashup of pop anthems and headbanging metal attitude.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "metal"
    ]
@@ -30641,6 +30684,33 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4c8dbcc2-eb8",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "12:30",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -30981,7 +31051,6 @@
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -31477,10 +31546,9 @@
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616632/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616632/",
    "going": 0,
-   "minage": "16",
+   "minage": null,
    "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genres": [
     "comedy"
    ]
@@ -33200,7 +33268,6 @@
    "minage": "14",
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T12:52:08.070Z",
    "genreGuess": true,
    "genres": [
     "indie"
