@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-18T04:38:25.192Z",
+ "generated": "2026-10-18T11:09:24.308Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 130,
+   "carried": 127,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 440
+   "events": 441
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 227
+   "events": 229
   },
   {
    "id": "ticketmaster",
@@ -162,28 +162,22 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "the-horns-inn",
-   "name": "The Horns Inn",
-   "postcode": "SO16 0XA",
-   "address": "Romsey Road"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "guildhall-square-uk",
-   "name": "Guildhall Square, UK",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Square"
-  },
-  {
    "id": "guildhall-square",
    "name": "Guildhall Square",
    "postcode": "SO14 7LP",
    "address": "Civic Centre Road"
+  },
+  {
+   "id": "guildhall-square-uk",
+   "name": "Guildhall Square, UK",
+   "postcode": "SO14 7FP",
+   "address": "Guildhall Square"
   },
   {
    "id": "brook",
@@ -196,6 +190,12 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "vinilo-record-store",
+   "name": "Vinilo Record Store",
+   "postcode": "SO14 3BL",
+   "address": "43-47 Queensway"
   },
   {
    "id": "concorde-club",
@@ -256,6 +256,12 @@
    "name": "The Hobbit",
    "postcode": "SO14 0JZ",
    "address": "134 Bevois Valley Road, Southampton"
+  },
+  {
+   "id": "edmund-kell-unitarian-church-elizabeth-kell-community-hall",
+   "name": "Edmund Kell Unitarian Church & Elizabeth Kell Community Hall",
+   "postcode": "SO15 2AY",
+   "address": null
   },
   {
    "id": "locomotive-engineers-club",
@@ -538,7 +544,7 @@
    "priceMax": 41.25,
    "priceText": null,
    "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/12/85/38/04_Original.jpg?v=8",
+   "img": "https://i.ticketweb.com/i/00/12/85/38/04_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/crash-test-dummies-the-brook-tickets/14130494",
    "infoUrl": "https://www.the-brook.com/tm-event/crash-test-dummies/",
    "going": 0,
@@ -653,6 +659,33 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43438631-sundayclub-at-heartbreakers",
    "infoUrl": "https://www.songkick.com/concerts/43438631-sundayclub-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43470674",
+   "artist": "Tinie Tempah",
+   "venueId": "vinilo-record-store",
+   "venueName": "Vinilo Record Store",
+   "postcode": "SO14 3BL",
+   "date": "2026-10-18",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43470674-tinie-tempah-at-vinilo-record-store",
+   "infoUrl": "https://www.songkick.com/concerts/43470674-tinie-tempah-at-vinilo-record-store",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -1385,8 +1418,8 @@
    "date": "2026-10-22",
    "time": "19:30",
    "price": 35,
-   "priceMax": 110,
-   "priceText": "£35–£110",
+   "priceMax": 95,
+   "priceText": "£35–£95",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52828",
@@ -2720,6 +2753,64 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -4521,24 +4612,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QnJ_3ZBENPibGAjN",
+   "id": "br-the-south-2026-10-30",
    "artist": "The South",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-10-30",
    "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "price": 29.7,
+   "priceMax": 29.7,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/5c3/b4a96d21-e48e-4583-8112-dee85541a5c3_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/the-south-tickets-K9QGXM?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-south-tickets-K9QGXM?ref=ticketmaster",
-   "going": null,
+   "img": "https://i.ticketweb.com/i/00/12/78/83/74_Original.jpg?v=10",
+   "ticketUrl": "https://www.ticketweb.uk/event/the-south-the-brook-tickets/14060644",
+   "infoUrl": "https://www.the-brook.com/tm-event/the-south/",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
+   "source": "thebrook",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -4609,8 +4700,8 @@
    "date": "2026-10-30",
    "time": "20:00",
    "price": 40,
-   "priceMax": 58,
-   "priceText": "£40–£58",
+   "priceMax": 50,
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52415",
@@ -5647,11 +5738,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/3/f/2336535_372aa38e_nightmare-in-suburbia-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
-   "going": 1,
+   "going": 0,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T05:48:37.558Z",
    "genreGuess": true,
    "genres": [
     "electronic"
@@ -9125,33 +9215,6 @@
   },
   {
    "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42832849",
-   "artist": "OffTheMapRecz  X HausRecordings",
-   "venueId": "xoxo",
-   "venueName": "XOXO",
-   "postcode": "SO14 3DS",
-   "date": "2026-11-14",
-   "time": "16:00",
-   "price": 3,
-   "priceMax": 3,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/5/a/2358965_661cc18e_offthemaprecz-x-hausrecordings_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/XOXO/OffTheMapRecz--X-HausRecordings/42832849/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/XOXO/OffTheMapRecz--X-HausRecordings/42832849/",
-   "going": 0,
-   "minage": "18",
-   "desc": "The forces of OffTheMap & HausRecordings bring you a night at XOXO full of amazing local djs and energy like no other this November 14th!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-11T05:48:37.558Z",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
    "tags": [
     "free entry"
    ],
@@ -11093,6 +11156,33 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43470315",
+   "artist": "Giusto Di Lallo",
+   "venueId": "edmund-kell-unitarian-church-elizabeth-kell-community-hall",
+   "venueName": "Edmund Kell Unitarian Church & Elizabeth Kell Community Hall",
+   "postcode": "SO15 2AY",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43470315-giusto-di-lallo-at-edmund-kell-unitarian-church-and-elizabeth-kell-community-hall",
+   "infoUrl": "https://www.songkick.com/concerts/43470315-giusto-di-lallo-at-edmund-kell-unitarian-church-and-elizabeth-kell-community-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -18392,7 +18482,8 @@
    "source": "skiddle",
    "genres": [
     "house"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T04:38:25.192Z"
   },
   {
    "type": "theatre",
@@ -20815,11 +20906,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/2/2317554_6c813f46_r-b-orchestra-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
-   "going": 2,
+   "going": 0,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-11T05:48:37.558Z",
    "genres": [
     "rnb"
    ]
@@ -30541,33 +30631,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
    "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-4c8dbcc2-eb8",
-   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
-   "venueId": "goals-millbrook-southampton",
-   "venueName": "GOALS - Millbrook - (Southampton)",
-   "postcode": "SO15 0JW",
-   "date": "2027-06-26",
-   "time": "12:30",
-   "price": 80,
-   "priceMax": 80,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
    "going": null,
    "minage": null,
    "desc": null,
