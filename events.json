@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-18T03:16:27.591Z",
+ "generated": "2026-10-18T04:38:25.192Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 67
+   "events": 65
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 229
+   "events": 227
   },
   {
    "id": "ticketmaster",
@@ -3300,6 +3300,33 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43281976",
+   "artist": "Tortured Demon",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-10-27",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43281976-tortured-demon-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43281976-tortured-demon-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-17uOv0G6GCi9zMB",
    "artist": "Deaf Havana",
    "venueId": "guildhall",
@@ -3321,6 +3348,33 @@
    "genres": [
     "rock",
     "emo-alt"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43200370",
+   "artist": "Hollow Hand",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-10-27",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43200370-hollow-hand-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43200370-hollow-hand-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -3492,6 +3546,59 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-42999385",
+   "artist": "L.A. Guns",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "rock",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/42999385-la-guns-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genres": [
+    "rock"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43253128",
+   "artist": "Mould",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QptQSABfO8Z0gpPM",
    "artist": "LA Guns",
    "venueId": "the-1865",
@@ -3512,6 +3619,33 @@
    "source": "ticketmaster",
    "genres": [
     "rock"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43243554",
+   "artist": "Shtëpi",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -18252,14 +18386,13 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/6/9/f/2341846_d1ec3de6_paharas-musica-with-derrick-mckenzie-jamiroquai-ridney_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
-   "going": 0,
+   "going": 21,
    "minage": "18",
    "desc": "Jamiroquai drummer Derrick McKenzie returns to the Horns Inn with another irresistible selection of sumptuous soulful house.",
    "source": "skiddle",
    "genres": [
     "house"
-   ],
-   "_carriedSince": "2026-10-17T15:36:41.381Z"
+   ]
   },
   {
    "type": "theatre",
