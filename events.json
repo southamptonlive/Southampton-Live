@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-18T15:56:01.213Z",
+ "generated": "2026-10-18T20:47:16.952Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 107,
+   "carried": 129,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 229
+   "events": 237
   },
   {
    "id": "ticketmaster",
@@ -382,6 +382,12 @@
    "name": "The Edge & The Box Bar",
    "postcode": "SO14 0BH",
    "address": "Compton Walk, Southampton SO14 0BH"
+  },
+  {
+   "id": "loft",
+   "name": "The Loft",
+   "postcode": "SO15 2EH",
+   "address": "Bedford Place, Southampton"
   },
   {
    "id": "the-bugle-house",
@@ -1115,8 +1121,8 @@
    "date": "2026-10-21",
    "time": "19:30",
    "price": 25,
-   "priceMax": 85,
-   "priceText": "£25–£85",
+   "priceMax": 55,
+   "priceText": "£25–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52826",
@@ -1312,8 +1318,8 @@
    "date": "2026-10-22",
    "time": "14:00",
    "price": 30,
-   "priceMax": 85,
-   "priceText": "£30–£85",
+   "priceMax": 55,
+   "priceText": "£30–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52827",
@@ -1886,12 +1892,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-23",
    "time": "19:45",
-   "price": 31.75,
-   "priceMax": 31.75,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52969",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
@@ -1928,7 +1934,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "theatre",
@@ -2011,6 +2018,32 @@
    "source": "fatsoma",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7b149624-263",
+   "artist": "Bottomless Drinks £20pp | FRIDAY 23rd OCTOBER | Time Slot: 8pm - 9:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
    ]
   },
   {
@@ -2156,6 +2189,32 @@
     "hip-hop",
     "rnb",
     "afrobeat"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-70e73a2b-4a5",
+   "artist": "Bottomless Drinks £20pp | FRIDAY 23RD OCTOBER | Time Slot: 10pm - 11:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-23",
+   "time": "22:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-10pm-11-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-10pm-11-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
    ]
   },
   {
@@ -2672,6 +2731,32 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7cc7284e-4fa",
+   "artist": "Bottomless Drinks £20pp | SATURDAY 24TH OCTOBER | Time Slot: 8pm - 9:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "20:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "house",
     "halloween"
@@ -2843,6 +2928,32 @@
    "genres": [
     "afrobeat",
     "reggae"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-eb0cfee3-79b",
+   "artist": "Bottomless Drinks £20pp | SATURDAY 24TH OCTOBER | Time Slot: 10pm - 11:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
    ]
   },
   {
@@ -4147,8 +4258,8 @@
    "date": "2026-10-29",
    "time": "20:00",
    "price": 40,
-   "priceMax": 56,
-   "priceText": "£40–£56",
+   "priceMax": 50,
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52413",
@@ -4751,6 +4862,62 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4d49b50a-b8d",
+   "artist": "Bottomless Drinks £20pp | FRIDAY 30TH OCTOBER | Time Slot: 8pm - 9:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-8pm-9-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-8pm-9-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-60256505-520",
+   "artist": "HAUNTED MASQUERADE | FRIDAY 30TH OCTOBER 2026 | FREE ENTRY ALL NIGHT",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-30",
+   "time": "20:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/haunted-masquerade-friday-30th-october-2026-free-entry-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/haunted-masquerade-friday-30th-october-2026-free-entry-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "halloween"
@@ -4864,6 +5031,62 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "tribute",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-d7aeab6b-464",
+   "artist": "HAVANA 🇨🇺 — REVOLUCION LATINA | Halloween Special Edition 🎃",
+   "venueId": "loft",
+   "venueName": "The Loft",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-30",
+   "time": "22:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/havana-revolucion-latina-halloween-special-edition",
+   "infoUrl": "https://www.fatsoma.com/e/havana-revolucion-latina-halloween-special-edition",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin",
+    "dance"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-a6554e8e-9ab",
+   "artist": "Bottomless Drinks £20pp | FRIDAY 30TH OCTOBER | Time Slot: 10pm - 11:30pm",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-30",
+   "time": "22:00",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
+   "genre": "funk",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-10pm-11-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-10pm-11-30pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "funk"
    ]
   },
   {
@@ -6389,7 +6612,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "club",
@@ -8120,7 +8344,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "theatre",
@@ -10217,7 +10442,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -10679,7 +10905,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "club",
@@ -10995,7 +11222,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "club",
@@ -11431,7 +11659,8 @@
    "source": "skiddle",
    "genres": [
     "latin"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "club",
@@ -12348,9 +12577,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-26",
    "time": "19:30",
-   "price": 29.5,
+   "price": 45,
    "priceMax": 55.5,
-   "priceText": "£29.50–£55.50",
+   "priceText": "£45–£55.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52990",
@@ -15605,7 +15834,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -15775,7 +16005,8 @@
     "metal",
     "emo-alt",
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -16737,7 +16968,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -17041,7 +17273,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -17347,7 +17580,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -18879,24 +19113,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QcGsvACpzI1KPZ8u",
+   "id": "br-n-y-e-with-the-underdogs-2026-12-31",
    "artist": "N.Y.E. With The Underdogs",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-12-31",
    "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "price": 11,
+   "priceMax": 11,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/n-y-e-with-the-underdogs-tickets-BHC1RW?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/n-y-e-with-the-underdogs-tickets-BHC1RW?ref=ticketmaster",
-   "going": null,
+   "img": "https://i.ticketweb.com/i/00/13/09/83/14_Original.jpg?v=7",
+   "ticketUrl": "https://www.ticketweb.uk/event/nye-with-the-underdogs-the-brook-tickets/14382964",
+   "infoUrl": "https://www.the-brook.com/tm-event/n-y-e-with-the-underdogs/",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "source": "ticketmaster",
+   "source": "thebrook",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -18989,33 +19223,6 @@
    "genres": [
     "electronic",
     "dance"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-1AdFZ_fGkyGQYxA",
-   "artist": "N.Y.E. with the Underdogs",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-12-31",
-   "time": "20:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/4f2/0109888a-61b5-4525-8432-b026ef04f4f2_105631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/nye-with-the-underdogs-the-brook-tickets/14382964?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/nye-with-the-underdogs-the-brook-tickets/14382964?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -21661,7 +21868,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "theatre",
@@ -21715,7 +21923,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -24850,7 +25059,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -25044,6 +25254,32 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-1AdFZ_oGknB-ZLk",
+   "artist": "Alcest",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-03-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "metal",
+   "img": "https://s1.ticketm.net/dam/a/08c/a68e876a-b712-4df2-986f-e7a0bb85608c_SOURCE",
+   "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genres": [
+    "metal"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QiW4Ti8_1fx0tPMJ",
    "artist": "Brooke Combe",
    "venueId": "the-1865",
@@ -25065,32 +25301,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-alcest-2027-03-16",
-   "artist": "Alcest",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-03-16",
-   "time": "19:30",
-   "price": 30.25,
-   "priceMax": 30.25,
-   "priceText": null,
-   "genre": "metal",
-   "img": "https://i.ticketweb.com/i/00/13/00/35/14_Original.jpg?v=4",
-   "ticketUrl": "https://www.ticketweb.uk/event/alcest-the-brook-tickets/14288024",
-   "infoUrl": "https://www.the-brook.com/tm-event/alcest/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "genres": [
-    "metal"
    ]
   },
   {
@@ -25708,7 +25918,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "comedy",
@@ -25870,7 +26081,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -28316,7 +28528,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -29944,7 +30157,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -31053,7 +31267,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -31551,7 +31766,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
@@ -33271,7 +33487,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-18T15:56:01.213Z"
   },
   {
    "type": "gig",
