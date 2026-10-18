@@ -715,6 +715,41 @@ async function mayflowerPages(base, max = 12) {
   }
   return pages;
 }
+
+// Mayflower event page → performance instances (server-rendered list:
+// day / "12th December 2026" / "2:00PM" / "£24.50 – £59.50" / Book link).
+async function mayflowerInstances(url, MONTHS, iso) {
+  const html = await fetchText(url, 1);
+  const items = html.split('class="c-instances__list-item"').slice(1);
+  const out = [];
+  for (const it of items) {
+    const dateTx = deent((it.match(/c-instances__list-date">\s*([\s\S]*?)\s*<\/div>/) || [])[1] || '');
+    const timeTx = deent((it.match(/c-instances__list-time">\s*([\s\S]*?)\s*<\/div>/) || [])[1] || '');
+    const priceTx = deent((it.match(/c-instances__list-price">\s*([\s\S]*?)\s*<\/div>/) || [])[1] || '').replace(/\s+/g, ' ').trim();
+    const book = (it.match(/href="(https:\/\/ticketing\.mayflower\.org\.uk[^"]+)"/) || [])[1] || null;
+    const dm = dateTx.match(/(\d{1,2})(?:st|nd|rd|th)?\s+(\w+)\s+(\d{4})/);
+    if (!dm) continue;
+    const mo = MONTHS[dm[2].toLowerCase()];
+    if (!mo) continue;
+    const date = iso(+dm[1], mo, +dm[3]);
+    let time = null;
+    const tm = timeTx.match(/(\d{1,2})(?::(\d{2}))?\s*([AP]M)/i);
+    if (tm) {
+      let h = +tm[1] % 12; if (tm[3].toUpperCase() === 'PM') h += 12;
+      time = `${String(h).padStart(2, '0')}:${tm[2] || '00'}`;
+    }
+    const nums = [...priceTx.matchAll(/£\s*(\d+(?:\.\d{1,2})?)/g)].map((m) => parseFloat(m[1]));
+    let price = null, priceMax = null, priceText = null;
+    if (/\bfree\b/i.test(priceTx) && !nums.length) { price = 0; priceMax = 0; priceText = 'Free'; }
+    else if (nums.length) {
+      const lo = Math.min(...nums), hi = Math.max(...nums);
+      const fmt = (n) => (Number.isInteger(n) ? String(n) : n.toFixed(2));
+      price = lo; priceMax = hi; priceText = hi > lo ? `£${fmt(lo)}–£${fmt(hi)}` : null;
+    }
+    out.push({ date, time, price, priceMax, priceText, ticketUrl: book });
+  }
+  return out;
+}
 async function mayflower() {
   const pages = await mayflowerPages(MAYF_URL);
   if (!pages.length) throw new Error('no pages fetched');
@@ -765,39 +800,54 @@ async function mayflower() {
     // the markup wraps attributes onto new lines: <img\n  src="…" — match loosely
     const img = (c.match(/<img[^>]*?\ssrc="(https:\/\/images\.mayflower\.org\.uk[^"?]+)/) || [])[1];
     const url = link[1].startsWith('http') ? link[1] : 'https://www.mayflower.org.uk' + link[1];
-    for (const date of dates) {
-      const id = 'mayf-' + slugify(name).slice(0, 34) + '-' + date;
+    const inferred = inferType(name, '', 'LIVE');
+    const musicky = /\b(live|band|tour|orchestra|tribute|sings?|singing|in concert|music|symphonic|acoustic|strictly)\b/i.test(name);
+    const slug = (link[1].match(/\/whats-on\/([^/"]+)/) || [])[1];
+    const cats = catOf.get(slug);
+    // A show can carry several venue categories ("comedy" + "musical" for
+    // Operation Mincemeat). A staged show is theatre first; comedy rides along.
+    const ordered = cats ? MAYF_CAT_PRIORITY.filter((c) => cats.has(c)) : [];
+    const staged = ordered.some((c) => MAYF_CATS[c].type === 'theatre');
+    const venueType = !ordered.length ? null : staged ? 'theatre' : MAYF_CATS[ordered[0]].type;
+    const venueGenres = !ordered.length ? null
+      : [...new Set([...(staged ? ['theatre'] : []), ...ordered.flatMap((c) => MAYF_CATS[c].genres || [])])];
+
+    // Performances: the event page lists every instance with its real time,
+    // advertised price range and booking link. One card per performance
+    // (matinee + evening are two cards). If the page can't be read, fall
+    // back to one timeless card per listed date — TBC, never invented.
+    let instances = [];
+    try {
+      instances = await mayflowerInstances(url, MONTHS, iso);
+    } catch (e) { instances = []; }
+    await sleep(600);
+    const perfs = instances.length
+      ? instances
+      : dates.map((date) => ({ date, time: null, price: null, priceMax: null, priceText: null, ticketUrl: url }));
+
+    for (const pf of perfs) {
+      if (pf.date < todayISO()) continue;
+      const id = 'mayf-' + slugify(name).slice(0, 34) + '-' + pf.date + (pf.time ? '-' + pf.time.replace(':', '') : '');
       if (seen.has(id)) continue;
       seen.add(id);
-      const inferred = inferType(name, '', 'LIVE');
-      const musicky = /\b(live|band|tour|orchestra|tribute|sings?|singing|in concert|music|symphonic|acoustic|strictly)\b/i.test(name);
-      const slug = (link[1].match(/\/whats-on\/([^/"]+)/) || [])[1];
-      const cats = catOf.get(slug);
-      // A show can carry several venue categories ("comedy" + "musical" for
-      // Operation Mincemeat). A staged show is theatre first; comedy rides along.
-      const ordered = cats ? MAYF_CAT_PRIORITY.filter((c) => cats.has(c)) : [];
-      const staged = ordered.some((c) => MAYF_CATS[c].type === 'theatre');
-      const venueType = !ordered.length ? null : staged ? 'theatre' : MAYF_CATS[ordered[0]].type;
-      const venueGenres = !ordered.length ? null
-        : [...new Set([...(staged ? ['theatre'] : []), ...ordered.flatMap((c) => MAYF_CATS[c].genres || [])])];
       events.push({
         type: venueType || (inferred !== 'gig' ? inferred : (musicky ? 'gig' : 'theatre')),
         venueGenres: venueGenres && venueGenres.length ? venueGenres : null,
-        tags: inferTags(name, '', null),
+        tags: inferTags(name, '', pf.price),
         hot: false,
         id,
         artist: name,
         venueId: v.id,
         venueName: v.name,
         postcode: v.postcode,
-        date,
-        time: null,
-        price: null,
-        priceMax: null,
-        priceText: null,
+        date: pf.date,
+        time: pf.time,
+        price: pf.price,
+        priceMax: pf.priceMax,
+        priceText: pf.priceText,
         genre: inferGenre(name, '', 'LIVE'),
         img: img ? img + '?resize=640%2C400' : null,
-        ticketUrl: url,
+        ticketUrl: pf.ticketUrl || url,
         infoUrl: url,
         going: 0,
         minage: null,
@@ -1104,6 +1154,16 @@ async function main() {
   const union = (a, b) => { a = find(a); b = find(b); if (a !== b) parent[b] = a; };
 
   const toks = events.map((e) => billTokens(e.artist));
+  // Two listings can only be the same gig if they come from DIFFERENT sources
+  // (one source listing the same name twice on a day = two performances, e.g.
+  // a matinee and an evening) and, when both carry a time, those times are
+  // within 3 hours (doors vs start drift — not 2pm vs 7pm).
+  const mins = (t) => (t ? +t.slice(0, 2) * 60 + +t.slice(3, 5) : null);
+  const compatible = (a, b) => {
+    if (a.source === b.source) return false;
+    const ta = mins(a.time), tb = mins(b.time);
+    return ta == null || tb == null || Math.abs(ta - tb) <= 180;
+  };
   const byId = new Map();
   const byBill = new Map();
   const byDateVenue = new Map();
@@ -1111,17 +1171,24 @@ async function main() {
     if (byId.has(e.id)) union(byId.get(e.id), i); else byId.set(e.id, i);
     const fest = e.noFuzzyMerge ? '|' + e.source : '';
     const bill = toks[i].join(' ') + '|' + e.date + '|' + district(e.postcode) + fest;
-    if (toks[i].length) { if (byBill.has(bill)) union(byBill.get(bill), i); else byBill.set(bill, i); }
+    if (toks[i].length) { if (!byBill.has(bill)) byBill.set(bill, []); byBill.get(bill).push(i); }
     const dv = e.date + '|' + e.venueId + fest;
     if (!byDateVenue.has(dv)) byDateVenue.set(dv, []);
     byDateVenue.get(dv).push(i);
   });
+  // identical billing, same day + district
+  for (const idx of byBill.values()) {
+    if (idx.length < 2) continue;
+    for (let x = 0; x < idx.length; x++) for (let y = x + 1; y < idx.length; y++) {
+      if (compatible(events[idx[x]], events[idx[y]])) union(idx[x], idx[y]);
+    }
+  }
   // subset rule within date+venue groups
   for (const idx of byDateVenue.values()) {
     if (idx.length < 2) continue;
     for (let x = 0; x < idx.length; x++) for (let y = x + 1; y < idx.length; y++) {
       const a = idx[x], b = idx[y];
-      if (events[a].source === events[b].source) continue;
+      if (!compatible(events[a], events[b])) continue;
       const ta = toks[a], tb = toks[b];
       if (!ta.length || !tb.length) continue;
       const [small, big] = ta.length <= tb.length ? [ta, tb] : [tb, ta];
