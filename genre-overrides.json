@@ -1,5 +1,5 @@
 {
-  "note": "AI knowledge layer: artist-level corrections applied after scraping, because ticket outlets expose no genre data. Keys are lowercase substrings matched against the event name; genres use the app's 34-key vocabulary (up to 3, most specific first). Re-seeded 2026-10-17 for the 34-genre system; classify-events.mjs extends this cache for new unknown artists and is told never to guess.",
+  "note": "AI knowledge layer: artist-level corrections applied after scraping, because ticket outlets expose no genre data. Keys are lowercase substrings matched against the event name. ONE genre per act unless unarguably two; secondary genres come only from sources that state them (venue categories, Skiddle API). Reviewed for Southampton.Live 2026-10-18; classify-events.mjs extends this cache for new unknown artists and is told never to guess.",
   "overrides": [
     {
       "match": "krs-one",
@@ -10,8 +10,7 @@
     {
       "match": "stereo mcs",
       "genres": [
-        "hip-hop",
-        "electronic"
+        "hip-hop"
       ]
     },
     {
@@ -29,8 +28,7 @@
     {
       "match": "chali 2na",
       "genres": [
-        "hip-hop",
-        "funk"
+        "hip-hop"
       ]
     },
     {
@@ -42,15 +40,13 @@
     {
       "match": "pete & bas",
       "genres": [
-        "drill",
-        "hip-hop"
+        "drill"
       ]
     },
     {
       "match": "huey morgan",
       "genres": [
-        "hip-hop",
-        "funk"
+        "hip-hop"
       ]
     },
     {
@@ -122,22 +118,19 @@
     {
       "match": "the long ryders",
       "genres": [
-        "rock",
         "country"
       ]
     },
     {
       "match": "republica",
       "genres": [
-        "rock",
-        "electronic"
+        "rock"
       ]
     },
     {
       "match": "jesus jones",
       "genres": [
-        "indie",
-        "electronic"
+        "indie"
       ]
     },
     {
@@ -203,15 +196,13 @@
     {
       "match": "chris difford",
       "genres": [
-        "indie",
-        "folk-acoustic"
+        "indie"
       ]
     },
     {
       "match": "bruce foxton",
       "genres": [
-        "punk",
-        "indie"
+        "punk"
       ]
     },
     {
@@ -229,15 +220,13 @@
     {
       "match": "uncle acid",
       "genres": [
-        "rock",
-        "metal"
+        "rock"
       ]
     },
     {
       "match": "dr feelgood",
       "genres": [
-        "blues",
-        "rock"
+        "blues"
       ]
     },
     {
@@ -249,15 +238,13 @@
     {
       "match": "colosseum",
       "genres": [
-        "jazz",
-        "rock"
+        "jazz"
       ]
     },
     {
       "match": "soft machine",
       "genres": [
-        "jazz",
-        "rock"
+        "jazz"
       ]
     },
     {
@@ -275,7 +262,6 @@
     {
       "match": "as everything unfolds",
       "genres": [
-        "emo-alt",
         "metal"
       ]
     },
@@ -372,8 +358,7 @@
     {
       "match": "cancer bats",
       "genres": [
-        "punk",
-        "metal"
+        "punk"
       ]
     },
     {
@@ -464,8 +449,7 @@
     {
       "match": "deaf havana",
       "genres": [
-        "rock",
-        "emo-alt"
+        "rock"
       ]
     },
     {
@@ -489,15 +473,13 @@
     {
       "match": "chuck ragan",
       "genres": [
-        "folk-acoustic",
-        "punk"
+        "folk-acoustic"
       ]
     },
     {
       "match": "the dualers",
       "genres": [
-        "ska",
-        "reggae"
+        "ska"
       ]
     },
     {
@@ -527,22 +509,19 @@
     {
       "match": "bare jams",
       "genres": [
-        "reggae",
-        "funk"
+        "reggae"
       ]
     },
     {
       "match": "barejams",
       "genres": [
-        "reggae",
-        "funk"
+        "reggae"
       ]
     },
     {
       "match": "smoove & turrell",
       "genres": [
-        "funk",
-        "soul"
+        "funk"
       ]
     },
     {
@@ -554,7 +533,6 @@
     {
       "match": "the allergies",
       "genres": [
-        "funk",
         "hip-hop"
       ]
     },
@@ -615,8 +593,7 @@
     {
       "match": "richard thompson",
       "genres": [
-        "folk-acoustic",
-        "rock"
+        "folk-acoustic"
       ]
     },
     {
@@ -634,8 +611,7 @@
     {
       "match": "ian prowse",
       "genres": [
-        "folk-acoustic",
-        "rock"
+        "folk-acoustic"
       ]
     },
     {
@@ -665,15 +641,13 @@
     {
       "match": "born on road",
       "genres": [
-        "dnb",
-        "jungle"
+        "dnb"
       ]
     },
     {
       "match": "4am kru",
       "genres": [
-        "jungle",
-        "dnb"
+        "jungle"
       ]
     },
     {
@@ -685,9 +659,7 @@
     {
       "match": "alabama 3",
       "genres": [
-        "electronic",
-        "country",
-        "blues"
+        "electronic"
       ]
     },
     {

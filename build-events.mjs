@@ -270,7 +270,7 @@ const GENRE_RULES_V2 = [
   ['dub',           /\bdub\b(?!step)/i],
   ['reggae',        /\b(reggae|roots|dancehall|lovers\s*rock)\b/i],
   ['jazz',          /\b(jazz|bebop|big\s*band|swing)\b/i],
-  ['funk',          /\b(funk(y|adelic)?|groove|brass\s*band)\b/i],
+  ['funk',          /\b(funk|funkadelic|brass\s*band)\b/i],
   ['soul',          /\b(soul|motown|northern\s*soul)\b/i],
   ['blues',         /\bblues\b/i],
   ['country',       /\b(country|americana|bluegrass|honky[-\s]?tonk|barn\s*dance)\b/i],
@@ -292,7 +292,11 @@ function classifyGenresV2(e) {
     return;
   }
   delete e.venueGenres;
-  const hay = `${e.artist} ${e.desc || ''} ${(e.tags || []).join(' ')}`;
+  // strip the venue's own name from the title so "… at Funky Flamingo" or
+  // "The Brook Live Presents" can't tag the music
+  const vn = String(e.venueName || e._venue?.name || '').trim();
+  const title = vn ? String(e.artist).replace(new RegExp(vn.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'ig'), ' ') : e.artist;
+  const hay = `${title} ${e.desc || ''} ${(e.tags || []).join(' ')}`;
   let found = [];
   for (const [g, re] of GENRE_RULES_V2) if (re.test(hay)) found.push(g);
   // Non-music events: the type decides, nothing else rides along.
