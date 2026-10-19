@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-18T23:16:23.578Z",
+ "generated": "2026-10-19T04:45:04.400Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 129,
+   "carried": 128,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 235
+   "events": 233
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 271
+   "events": 270
   }
  ],
  "venues": [
@@ -196,12 +196,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "vinilo-record-store",
-   "name": "Vinilo Record Store",
-   "postcode": "SO14 3BL",
-   "address": "43-47 Queensway"
   },
   {
    "id": "concorde-club",
@@ -427,226 +421,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42154209",
-   "artist": "The Hoosiers Compassion Tour - Southampton",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-10-18",
-   "time": "18:00",
-   "price": 27.5,
-   "priceMax": 27.5,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/e/2217085_22d4dabc_the-hoosiers-compassion-tour-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Hoosiers-Compassion-Tour---Southampton/42154209/",
-   "going": 140,
-   "minage": "14",
-   "desc": "The Hoosiers head to EngineRooms Southampton this October!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-13T10:37:51.934Z",
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-the-long-ryders-2026-10-18",
-   "artist": "The Long Ryders",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-18",
-   "time": "19:30",
-   "price": 33,
-   "priceMax": 33,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/13/31/55/73_Original.jpg?v=11",
-   "ticketUrl": "https://www.ticketweb.uk/event/the-long-ryders-papillon-papillon-tickets/14698353",
-   "infoUrl": "https://www.the-brook.com/tm-event/the-long-ryders-papillon/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "genres": [
-    "rock",
-    "country"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-crash-test-dummies-2026-10-18",
-   "artist": "Crash Test Dummies",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-18",
-   "time": "19:30",
-   "price": 41.25,
-   "priceMax": 41.25,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/12/85/38/04_Original.jpg?v=9",
-   "ticketUrl": "https://www.ticketweb.uk/event/crash-test-dummies-the-brook-tickets/14130494",
-   "infoUrl": "https://www.the-brook.com/tm-event/crash-test-dummies/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-8f8cfebc-c85",
-   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-10-18",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 3.5,
-   "priceText": "£0–£3.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/karaoke-sundays-free-entry-before-midnight",
-   "infoUrl": "https://www.fatsoma.com/e/karaoke-sundays-free-entry-before-midnight",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-ea444bc5-c49",
-   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-18",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "infoUrl": "https://www.fatsoma.com/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433613",
-   "artist": "Acres",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-18",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433613-acres-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43433613-acres-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43438631",
-   "artist": "sundayclub",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-18",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43438631-sundayclub-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43438631-sundayclub-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43470674",
-   "artist": "Tinie Tempah",
-   "venueId": "vinilo-record-store",
-   "venueName": "Vinilo Record Store",
-   "postcode": "SO14 3BL",
-   "date": "2026-10-18",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43470674-tinie-tempah-at-vinilo-record-store",
-   "infoUrl": "https://www.songkick.com/concerts/43470674-tinie-tempah-at-vinilo-record-store",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
   {
    "type": "gig",
    "tags": [],
@@ -5906,15 +5680,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/3/f/2336535_372aa38e_nightmare-in-suburbia-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-18T11:09:24.308Z"
+   ]
   },
   {
    "type": "club",
@@ -7823,32 +7596,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-17GOv0G6u30a8PI",
-   "artist": "Dirty DC - Special Bon Scott / Brian Johnson Show",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-07",
-   "time": "20:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/dirty-dc-special-the-brook-tickets/14209424?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/dirty-dc-special-the-brook-tickets/14209424?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
    "type": "club",
    "tags": [
     "free entry",
@@ -7979,6 +7726,33 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/42951606-marty-wilde-at-thornden-hall",
    "infoUrl": "https://www.songkick.com/concerts/42951606-marty-wilde-at-thornden-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43433108",
+   "artist": "Gaz Brookfield",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-11-07",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43433108-gaz-brookfield-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43433108-gaz-brookfield-at-joiners",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -11154,15 +10928,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/5/6/2298470_b20ea1f9_bed-by-10pm-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10pm---Southampton/42569253/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10pm---Southampton/42569253/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Bed By 10: The Ultimate 30+ Clubbing Experience!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "club",
@@ -21101,14 +20874,13 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/2/2317554_6c813f46_r-b-orchestra-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
-   "going": 0,
+   "going": 5,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
    "source": "skiddle",
    "genres": [
     "rnb"
-   ],
-   "_carriedSince": "2026-10-18T11:09:24.308Z"
+   ]
   },
   {
    "type": "gig",
