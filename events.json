@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-19T04:45:04.400Z",
+ "generated": "2026-10-19T13:20:00.128Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 270
+   "events": 271
   }
  ],
  "venues": [
@@ -168,16 +168,16 @@
    "address": "Romsey Road"
   },
   {
-   "id": "trilogy-southampton",
-   "name": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
-   "address": "Waterloo Buildings, 55 London road"
-  },
-  {
    "id": "guildhall-square",
    "name": "Guildhall Square",
    "postcode": "SO14 7LP",
    "address": "Civic Centre Road"
+  },
+  {
+   "id": "trilogy-southampton",
+   "name": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "address": "Waterloo Buildings, 55 London road"
   },
   {
    "id": "guildhall-square-uk",
@@ -459,9 +459,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-19",
    "time": "19:30",
-   "price": 25,
+   "price": 30,
    "priceMax": 85,
-   "priceText": "£25–£85",
+   "priceText": "£30–£85",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52823",
@@ -1553,9 +1553,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-23",
    "time": "19:30",
-   "price": 35,
+   "price": 45,
    "priceMax": 95,
-   "priceText": "£35–£95",
+   "priceText": "£45–£95",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52829",
@@ -3581,8 +3581,8 @@
    "date": "2026-10-28",
    "time": "20:00",
    "price": 40,
-   "priceMax": 50,
-   "priceText": "£40–£50",
+   "priceMax": 56.5,
+   "priceText": "£40–£56.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52412",
@@ -4906,8 +4906,8 @@
    "date": "2026-10-31",
    "time": "10:00",
    "price": 0,
-   "priceMax": 2,
-   "priceText": "£0–£2",
+   "priceMax": 4,
+   "priceText": "£0–£4",
    "genre": "house",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/the-mad-house-halloween-event",
@@ -5261,32 +5261,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18Qntx0jiwosYJu2x_",
-   "artist": "Mad Dog Mcrea - DUSK TILL DAWN TOUR",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-31",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "folk-acoustic",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/mad-dog-mcrea-dusk-till-dawn-tour-tickets-06YM9Q?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/mad-dog-mcrea-dusk-till-dawn-tour-tickets-06YM9Q?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genres": [
-    "folk-acoustic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43128322",
    "artist": "Nic Cage Against The Machine",
    "venueId": "joiners",
@@ -5308,6 +5282,32 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-mad-dog-mcrea-dusk-till-dawn-tour-2026-10-31",
+   "artist": "Mad Dog Mcrea - DUSK TILL DAWN TOUR",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "price": 23.1,
+   "priceMax": 23.1,
+   "priceText": null,
+   "genre": "folk-acoustic",
+   "img": "https://i.ticketweb.com/i/00/13/45/53/93_Original.jpg?v=6",
+   "ticketUrl": "https://www.ticketweb.uk/event/mad-dog-mcrea-the-brook-tickets/14855493",
+   "infoUrl": "https://www.the-brook.com/tm-event/mad-dog-mcrea-dusk-till-dawn-tour/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook",
+   "genres": [
+    "folk-acoustic"
    ]
   },
   {
@@ -5497,8 +5497,8 @@
    "date": "2026-10-31",
    "time": "21:00",
    "price": 5,
-   "priceMax": 9,
-   "priceText": "£5–£9",
+   "priceMax": 11,
+   "priceText": "£5–£11",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/case-file-16-halloween",
@@ -5687,7 +5687,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-19T04:45:04.400Z"
   },
   {
    "type": "club",
@@ -6550,24 +6551,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43102678",
-   "artist": "Conor McLain",
+   "id": "br-conor-mclain-2026-11-05",
+   "artist": "Conor Mclain",
    "venueId": "papillon",
    "venueName": "Papillon",
    "postcode": "SO15 1GG",
    "date": "2026-11-05",
    "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "price": 24.75,
+   "priceMax": 24.75,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43102678-conor-mclain-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43102678-conor-mclain-at-papillon",
+   "img": "https://i.ticketweb.com/i/00/13/38/99/93_Original.jpg?v=3",
+   "ticketUrl": "https://www.ticketweb.uk/event/conor-mclain-papillon-papillon-tickets/14786823",
+   "infoUrl": "https://www.the-brook.com/tm-event/conor-mclain-papillon/",
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "songkick",
+   "source": "thebrook",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -7098,33 +7099,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-17GOv0G62R3J8io",
-   "artist": "Noasis",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-06",
-   "time": "20:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
    "type": "club",
    "tags": [
     "free entry",
@@ -7152,6 +7126,33 @@
    "source": "fatsoma",
    "genres": [
     "house"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-17GOv0G62R3J8io",
+   "artist": "Noasis",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -7923,33 +7924,6 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43300181",
-   "artist": "Thibaut Garcia",
-   "venueId": "turnersims",
-   "venueName": "Turner Sims",
-   "postcode": "SO17 1BJ",
-   "date": "2026-11-08",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43300181-thibaut-garcia-at-turner-sims-concert-hall",
-   "infoUrl": "https://www.songkick.com/concerts/43300181-thibaut-garcia-at-turner-sims-concert-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -10321,33 +10295,6 @@
   },
   {
    "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-ed909997-7b2",
-   "artist": "😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
-   "venueId": "trilogy-nightclub",
-   "venueName": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "date": "2026-11-19",
-   "time": "22:00",
-   "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
    "tags": [
     "indie"
    ],
@@ -10935,7 +10882,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-19T04:45:04.400Z"
   },
   {
    "type": "club",
@@ -12824,8 +12772,8 @@
    "date": "2026-11-27",
    "time": "22:30",
    "price": 0,
-   "priceMax": 16.5,
-   "priceText": "£0–£16.50",
+   "priceMax": 22,
+   "priceText": "£0–£22",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-this-is-r-u-m-terminal-4-savvy-teeshow-dj-larni",
@@ -12989,9 +12937,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-28",
    "time": "14:00",
-   "price": 66,
+   "price": 36.5,
    "priceMax": 67.5,
-   "priceText": "£66–£67.50",
+   "priceText": "£36.50–£67.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52992",
@@ -20880,7 +20828,8 @@
    "source": "skiddle",
    "genres": [
     "rnb"
-   ]
+   ],
+   "_carriedSince": "2026-10-19T04:45:04.400Z"
   },
   {
    "type": "gig",
@@ -24578,6 +24527,33 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QiWqoCojtpXr_HIJ",
+   "artist": "Dream State",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-03-11",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/dream-state-tickets-7WKXJM?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/dream-state-tickets-7WKXJM?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
