@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-19T13:20:00.128Z",
+ "generated": "2026-10-19T18:13:40.420Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 434
+   "events": 436
   },
   {
    "id": "mitc",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 271
+   "events": 270
   }
  ],
  "venues": [
@@ -306,28 +306,16 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "turtle-bay-southampton",
-   "name": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
-  },
-  {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
    "id": "crib-cocktails-shuffleboard",
    "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
    "postcode": "SO15 2EJ",
    "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
+   "id": "turtle-bay-southampton",
+   "name": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "address": "1 Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "trilogy-nightclub",
@@ -340,6 +328,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -1101,9 +1101,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "electronic",
-    "country",
-    "blues"
+    "electronic"
    ]
   },
   {
@@ -1349,8 +1347,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "drill",
-    "hip-hop"
+    "drill"
    ]
   },
   {
@@ -1430,8 +1427,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "hip-hop",
-    "funk"
+    "hip-hop"
    ]
   },
   {
@@ -1511,8 +1507,7 @@
    "desc": null,
    "source": "thebrook",
    "genres": [
-    "funk",
-    "soul"
+    "funk"
    ]
   },
   {
@@ -1748,7 +1743,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
@@ -1756,8 +1751,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -1919,7 +1915,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-10pm-11-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-23rd-october-time-slot-10pm-11-30pm",
@@ -1927,8 +1923,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -2333,8 +2330,7 @@
    "desc": null,
    "source": "thebrook",
    "genres": [
-    "folk-acoustic",
-    "rock"
+    "folk-acoustic"
    ]
   },
   {
@@ -2457,7 +2453,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
@@ -2465,8 +2461,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -2658,7 +2655,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
@@ -2666,8 +2663,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -2694,8 +2692,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "dnb",
-    "jungle"
+    "dnb"
    ]
   },
   {
@@ -3046,7 +3043,7 @@
    ],
    "hot": false,
    "id": "fat-4ff8efa9-209",
-   "artist": "[85% SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!",
+   "artist": "[95% SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -3057,8 +3054,8 @@
    "priceText": "£7–£11",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/85-sold-out-southampton-punjabi-soc-halloween-house-party",
-   "infoUrl": "https://www.fatsoma.com/e/85-sold-out-southampton-punjabi-soc-halloween-house-party",
+   "ticketUrl": "https://www.fatsoma.com/e/95-sold-out-southampton-punjabi-soc-halloween-house-party",
+   "infoUrl": "https://www.fatsoma.com/e/95-sold-out-southampton-punjabi-soc-halloween-house-party",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3076,7 +3073,7 @@
    ],
    "hot": false,
    "id": "fat-ce445ca5-f27",
-   "artist": "[90% SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!",
+   "artist": "[95% SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -3087,8 +3084,8 @@
    "priceText": "£6–£11",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/90-sold-out-southampton-asoc-halloween-house-party",
-   "infoUrl": "https://www.fatsoma.com/e/90-sold-out-southampton-asoc-halloween-house-party",
+   "ticketUrl": "https://www.fatsoma.com/e/95-sold-out-southampton-asoc-halloween-house-party",
+   "infoUrl": "https://www.fatsoma.com/e/95-sold-out-southampton-asoc-halloween-house-party",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3106,7 +3103,7 @@
    ],
    "hot": false,
    "id": "fat-d389058d-5ee",
-   "artist": "[85% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
+   "artist": "[95% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -3117,8 +3114,8 @@
    "priceText": "£6–£9",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3267,8 +3264,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "rock",
-    "emo-alt"
+    "rock"
    ]
   },
   {
@@ -3459,8 +3455,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-17T04:27:49.894Z",
    "genres": [
-    "hip-hop",
-    "funk"
+    "hip-hop"
    ]
   },
   {
@@ -3581,8 +3576,8 @@
    "date": "2026-10-28",
    "time": "20:00",
    "price": 40,
-   "priceMax": 56.5,
-   "priceText": "£40–£56.50",
+   "priceMax": 50,
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52412",
@@ -4588,7 +4583,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-8pm-9-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-8pm-9-30pm",
@@ -4596,8 +4591,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -4791,7 +4787,7 @@
    "price": 22,
    "priceMax": 22,
    "priceText": null,
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-10pm-11-30pm",
    "infoUrl": "https://www.fatsoma.com/e/bottomless-drinks-20pp-friday-30th-october-time-slot-10pm-11-30pm",
@@ -4799,8 +4795,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -6343,7 +6340,7 @@
    "price": 22,
    "priceMax": 48.4,
    "priceText": "£22–£48.40",
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
    "infoUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
@@ -6351,8 +6348,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -6966,33 +6964,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QntPYCmmCJUcc79P",
-   "artist": "Noasis",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-06",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43241645",
    "artist": "The Manor",
    "venueId": "engine",
@@ -7068,6 +7039,33 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QntPYCmmCJUcc79P",
+   "artist": "Noasis",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -7460,8 +7458,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "ska",
-    "reggae"
+    "ska"
    ]
   },
   {
@@ -7924,6 +7921,33 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43300181",
+   "artist": "Thibaut Garcia",
+   "venueId": "turnersims",
+   "venueName": "Turner Sims",
+   "postcode": "SO17 1BJ",
+   "date": "2026-11-08",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43300181-thibaut-garcia-at-turner-sims-concert-hall",
+   "infoUrl": "https://www.songkick.com/concerts/43300181-thibaut-garcia-at-turner-sims-concert-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -8837,7 +8861,7 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "funk",
+   "genre": "hip-hop",
    "img": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
    "ticketUrl": "https://www.ticketweb.uk/event/the-allergies-beneath-the-brook-tickets/14789313?REFERRAL_ID=tmfeed",
    "infoUrl": "https://www.ticketweb.uk/event/the-allergies-beneath-the-brook-tickets/14789313?REFERRAL_ID=tmfeed",
@@ -8846,7 +8870,6 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "funk",
     "hip-hop"
    ]
   },
@@ -9955,7 +9978,7 @@
    "price": 22,
    "priceMax": 48.4,
    "priceText": "£22–£48.40",
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
    "infoUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
@@ -9963,8 +9986,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -10291,6 +10315,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-ed909997-7b2",
+   "artist": "😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy-nightclub",
+   "venueName": "Trilogy nightclub",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 6,
+   "priceText": "£3.80–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -11867,8 +11918,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "rock",
-    "metal"
+    "rock"
    ]
   },
   {
@@ -12128,9 +12178,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-26",
    "time": "14:00",
-   "price": 62.5,
+   "price": 66.5,
    "priceMax": 68.5,
-   "priceText": "£62.50–£68.50",
+   "priceText": "£66.50–£68.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52989",
@@ -12810,8 +12860,7 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "jungle",
-    "dnb"
+    "jungle"
    ]
   },
   {
@@ -12937,9 +12986,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-28",
    "time": "14:00",
-   "price": 36.5,
+   "price": 66,
    "priceMax": 67.5,
-   "priceText": "£36.50–£67.50",
+   "priceText": "£66–£67.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52992",
@@ -13017,12 +13066,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-28",
    "time": "16:00",
-   "price": 24.5,
-   "priceMax": 24.5,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/5_MAST-Web-Event-Card-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53093/53098",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
    "going": 0,
    "minage": null,
@@ -13497,8 +13546,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "indie",
-    "electronic"
+    "indie"
    ]
   },
   {
@@ -13707,7 +13755,7 @@
    "price": 22,
    "priceMax": 48.4,
    "priceText": "£22–£48.40",
-   "genre": "funk",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/20s-30s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
    "infoUrl": "https://www.fatsoma.com/e/20s-30s-singles-night-at-funky-flamingo-southampton-love-at-first-sign",
@@ -13715,8 +13763,9 @@
    "minage": null,
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "funk"
+    "electronic"
    ]
   },
   {
@@ -14755,8 +14804,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "jazz",
-    "rock"
+    "jazz"
    ]
   },
   {
@@ -16791,35 +16839,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "fat-2643dbc7-4f9",
-   "artist": "😻 Glam Thursdays | 🧝🏽 ELF CHRISTMAS PARTY!🧝🏽Southampton's Best Student Night! 😻 £1 Corky's All Night! 🥃",
-   "venueId": "trilogy-nightclub",
-   "venueName": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "date": "2026-12-17",
-   "time": "22:00",
-   "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-elf-christmas-party-southampton-s-best-student-night-1-corky-s-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-elf-christmas-party-southampton-s-best-student-night-1-corky-s-all-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -20212,8 +20231,7 @@
    "desc": null,
    "source": "songkick",
    "genres": [
-    "folk-acoustic",
-    "punk"
+    "folk-acoustic"
    ]
   },
   {
@@ -22357,7 +22375,7 @@
    "price": 20,
    "priceMax": 20,
    "priceText": null,
-   "genre": "emo-alt",
+   "genre": "metal",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/f/8/2282321_349726d6_as-everything-unfolds_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/As-Everything-Unfolds/42491717/",
@@ -22367,7 +22385,6 @@
    "source": "skiddle",
    "_carriedSince": "2026-10-13T10:37:51.934Z",
    "genres": [
-    "emo-alt",
     "metal"
    ]
   },
@@ -25688,34 +25705,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-38ff5599-bbe",
-   "artist": "90s & 00s Dance Anthems Day Party: Southampton",
-   "venueId": "popworld-southampton",
-   "venueName": "Popworld - Southampton",
-   "postcode": "SO15 2EH",
-   "date": "2027-03-27",
-   "time": "15:00",
-   "price": 12,
-   "priceMax": 22,
-   "priceText": "£12–£22",
-   "genre": "dance",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/90s-00s-dance-anthems-day-party-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/90s-00s-dance-anthems-day-party-southampton",
-   "going": null,
-   "minage": "25+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "dance"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -25739,6 +25728,34 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-38ff5599-bbe",
+   "artist": "90s & 00s Dance Anthems Day Party: Southampton",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2027-03-27",
+   "time": "16:00",
+   "price": 12,
+   "priceMax": 22,
+   "priceText": "£12–£22",
+   "genre": "dance",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/90s-00s-dance-anthems-day-party-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/90s-00s-dance-anthems-day-party-southampton",
+   "going": null,
+   "minage": "25+",
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "dance"
    ]
   },
   {
@@ -26242,6 +26259,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43471456",
+   "artist": "Vic Allen",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-04-08",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43471456-vic-allen-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43471456-vic-allen-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -26880,60 +26924,6 @@
    "minage": null,
    "desc": null,
    "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43109008",
-   "artist": "[spunge]",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2027-04-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43109008-spunge-at-1865",
-   "infoUrl": "https://www.songkick.com/concerts/43109008-spunge-at-1865",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QhOBB_kdg8Z0rG8C",
-   "artist": "Spunge",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2027-04-16",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/spunge-tickets-PR4N9C?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/spunge-tickets-PR4N9C?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -27655,8 +27645,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "folk-acoustic",
-    "rock"
+    "folk-acoustic"
    ]
   },
   {
@@ -29870,8 +29859,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "indie",
-    "folk-acoustic"
+    "indie"
    ]
   },
   {
@@ -30555,33 +30543,6 @@
    "source": "mayflower",
    "genres": [
     "theatre"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-f7103712-4e1",
-   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U8/U9/U10 - SAT 26TH JUNE 2027 - 10AM - 12PM",
-   "venueId": "goals-millbrook-southampton",
-   "venueName": "GOALS - Millbrook - (Southampton)",
-   "postcode": "SO15 0JW",
-   "date": "2027-06-26",
-   "time": "10:00",
-   "price": 80,
-   "priceMax": 80,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
-   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -31607,7 +31568,7 @@
    "price": 12.5,
    "priceMax": 22.5,
    "priceText": "£12.50–£22.50",
-   "genre": "funk",
+   "genre": "soul",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
    "infoUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
@@ -31616,7 +31577,6 @@
    "desc": null,
    "source": "fatsoma",
    "genres": [
-    "funk",
     "soul"
    ]
   },
@@ -31636,7 +31596,7 @@
    "price": 12.5,
    "priceMax": 12.5,
    "priceText": null,
-   "genre": "funk",
+   "genre": "soul",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
    "infoUrl": "https://www.fatsoma.com/e/motown-day-party-southampton",
@@ -31645,7 +31605,6 @@
    "desc": null,
    "source": "fatsoma",
    "genres": [
-    "funk",
     "soul"
    ]
   },
@@ -33091,8 +33050,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "blues",
-    "rock"
+    "blues"
    ]
   },
   {
@@ -33118,8 +33076,7 @@
    "desc": null,
    "source": "ticketmaster",
    "genres": [
-    "punk",
-    "indie"
+    "punk"
    ]
   },
   {
