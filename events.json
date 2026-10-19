@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-19T18:13:40.420Z",
+ "generated": "2026-10-19T20:39:26.463Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 522
+   "events": 521
   },
   {
    "id": "skiddle:api",
@@ -288,16 +288,16 @@
    "address": "Bugle St, Southampton SO14 2AD"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo-southampton-lounge-roof-garden",
    "name": "Funky Flamingo Southampton - Lounge & Roof Garden",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
   },
   {
    "id": "popworld-southampton",
@@ -306,28 +306,10 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "crib-cocktails-shuffleboard",
-   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
-   "postcode": "SO15 2EJ",
-   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
    "id": "turtle-bay-southampton",
    "name": "Turtle Bay Southampton",
    "postcode": "SO14 7FP",
    "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "trilogy-nightclub",
-   "name": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "address": "Waterloo Buildings, 55 London Rd, Southampton SO15 2AD"
-  },
-  {
-   "id": "the-stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 W Marlands Rd, Southampton SO14 7FW"
   },
   {
    "id": "ruby-s-at-the-grand",
@@ -340,6 +322,24 @@
    "name": "St Denys Parish Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "crib-cocktails-shuffleboard",
+   "name": "CRIB | COCKTAILS | SHUFFLEBOARD |",
+   "postcode": "SO15 2EJ",
+   "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
+   "id": "trilogy-nightclub",
+   "name": "Trilogy nightclub",
+   "postcode": "SO15 2AD",
+   "address": "Waterloo Buildings, 55 London Rd, Southampton SO15 2AD"
+  },
+  {
+   "id": "the-stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 W Marlands Rd, Southampton SO14 7FW"
   },
   {
    "id": "goals-millbrook-southampton",
@@ -446,32 +446,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-19-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-19",
-   "time": "19:30",
-   "price": 30,
-   "priceMax": 85,
-   "priceText": "£30–£85",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52823",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -2345,8 +2319,8 @@
    "date": "2026-10-24",
    "time": "19:30",
    "price": 65,
-   "priceMax": 105,
-   "priceText": "£65–£105",
+   "priceMax": 95,
+   "priceText": "£65–£95",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
@@ -3102,8 +3076,8 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
-   "artist": "[95% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
+   "id": "fat-d7e77c4e-4af",
+   "artist": "[85% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -3114,8 +3088,8 @@
    "priceText": "£6–£9",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3132,8 +3106,8 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
-   "artist": "[85% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
+   "id": "fat-d389058d-5ee",
+   "artist": "[95% SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -3144,8 +3118,8 @@
    "priceText": "£6–£9",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/85-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/95-sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -4757,8 +4731,8 @@
    "postcode": "SO15 2EH",
    "date": "2026-10-30",
    "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
+   "price": 5,
+   "priceMax": 5,
    "priceText": null,
    "genre": "latin",
    "img": null,
@@ -16839,6 +16813,35 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-2643dbc7-4f9",
+   "artist": "😻 Glam Thursdays | 🧝🏽 ELF CHRISTMAS PARTY!🧝🏽Southampton's Best Student Night! 😻 £1 Corky's All Night! 🥃",
+   "venueId": "trilogy-nightclub",
+   "venueName": "Trilogy nightclub",
+   "postcode": "SO15 2AD",
+   "date": "2026-12-17",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 6,
+   "priceText": "£3.80–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-elf-christmas-party-southampton-s-best-student-night-1-corky-s-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-elf-christmas-party-southampton-s-best-student-night-1-corky-s-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -30543,6 +30546,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-f7103712-4e1",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U8/U9/U10 - SAT 26TH JUNE 2027 - 10AM - 12PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "10:00",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
