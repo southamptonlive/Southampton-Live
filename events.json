@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-20T14:22:49.188Z",
+ "generated": "2026-10-20T19:21:03.244Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 72,
+   "carried": 126,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 18
+   "events": 19
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 537
+   "events": 536
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 233
+   "events": 234
   },
   {
    "id": "ticketmaster",
@@ -168,16 +168,16 @@
    "address": "Romsey Road"
   },
   {
-   "id": "guildhall-square-uk",
-   "name": "Guildhall Square, UK",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Square"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
    "address": "Waterloo Buildings, 55 London road"
+  },
+  {
+   "id": "guildhall-square-uk",
+   "name": "Guildhall Square, UK",
+   "postcode": "SO14 7FP",
+   "address": "Guildhall Square"
   },
   {
    "id": "guildhall-square",
@@ -475,7 +475,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -528,32 +529,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-20-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-20",
-   "time": "19:30",
-   "price": 25,
-   "priceMax": 85,
-   "priceText": "£25–£85",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52825",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -978,8 +953,8 @@
    "date": "2026-10-22",
    "time": "14:00",
    "price": 30,
-   "priceMax": 65,
-   "priceText": "£30–£65",
+   "priceMax": 55,
+   "priceText": "£30–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52827",
@@ -1019,7 +994,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -1292,7 +1268,8 @@
    "source": "skiddle",
    "genres": [
     "drill"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -1897,7 +1874,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -2166,7 +2144,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -2604,7 +2583,8 @@
    "source": "skiddle",
    "genres": [
     "dnb"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -3645,7 +3625,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -4227,7 +4208,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "other",
@@ -4255,7 +4237,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -4587,7 +4570,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -4734,7 +4718,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -5102,7 +5087,8 @@
    "source": "skiddle",
    "genres": [
     "trance"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -5545,8 +5531,8 @@
    "date": "2026-10-31",
    "time": "22:00",
    "price": 1.99,
-   "priceMax": 11,
-   "priceText": "£1.99–£11",
+   "priceMax": 16.5,
+   "priceText": "£1.99–£16.50",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/the-purge-sobars-annual-halloween-party-free-boohoo-tshirts-and-j-bombs-100-99p-tickets",
@@ -5680,7 +5666,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -7358,7 +7345,8 @@
    "source": "skiddle",
    "genres": [
     "ska"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -7573,7 +7561,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -7669,12 +7658,12 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-08",
    "time": "15:00",
-   "price": null,
-   "priceMax": null,
+   "price": 64.5,
+   "priceMax": 64.5,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/BB-Vaudevillean-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53091/53705",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
    "going": 0,
    "minage": null,
@@ -7736,7 +7725,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -8521,7 +8511,8 @@
     "metal",
     "emo-alt",
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -10322,7 +10313,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -10602,7 +10594,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -10827,7 +10820,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -10881,7 +10875,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "comedy",
@@ -10936,7 +10931,8 @@
    "source": "skiddle",
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -11399,7 +11395,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -11808,7 +11805,8 @@
    "source": "skiddle",
    "genres": [
     "rock"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -12415,7 +12413,8 @@
    "source": "skiddle",
    "genres": [
     "country"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -12748,7 +12747,8 @@
    "source": "skiddle",
    "genres": [
     "jungle"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -13048,7 +13048,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -14034,6 +14035,36 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-8ab64ecf-c74",
+   "artist": "ADVENT CALENDER GIVEAWAY",
+   "venueId": "popworld-southampton",
+   "venueName": "Popworld - Southampton",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-03",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3,
+   "priceText": "£0–£3",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/advent-calender-giveaway",
+   "infoUrl": "https://www.fatsoma.com/e/advent-calender-giveaway",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [
     "xmas"
@@ -14166,7 +14197,8 @@
    "source": "skiddle",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -14303,7 +14335,8 @@
    "source": "skiddle",
    "genres": [
     "jungle"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "comedy",
@@ -14608,7 +14641,8 @@
    "source": "skiddle",
    "genres": [
     "emo-alt"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -14635,7 +14669,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -15679,7 +15714,8 @@
    "source": "skiddle",
    "genres": [
     "dance"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -16067,7 +16103,8 @@
    "genres": [
     "indie",
     "dance"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -16757,7 +16794,7 @@
     "xmas"
    ],
    "hot": false,
-   "id": "fat-ed956490-7ff",
+   "id": "fat-35ae9550-e3c",
    "artist": "CANDY CANE LANE",
    "venueId": "popworld-southampton",
    "venueName": "Popworld - Southampton",
@@ -16765,9 +16802,9 @@
    "date": "2026-12-17",
    "time": "22:00",
    "price": 0,
-   "priceMax": 2,
-   "priceText": "£0–£2",
-   "genre": "dance",
+   "priceMax": 3,
+   "priceText": "£0–£3",
+   "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/candy-cane-lane",
    "infoUrl": "https://www.fatsoma.com/e/candy-cane-lane",
@@ -16775,8 +16812,9 @@
    "minage": "18+",
    "desc": null,
    "source": "fatsoma",
+   "genreGuess": true,
    "genres": [
-    "dance"
+    "electronic"
    ]
   },
   {
@@ -16861,7 +16899,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -17107,7 +17146,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -18749,7 +18789,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -18778,7 +18819,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -20561,7 +20603,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "club",
@@ -21367,7 +21410,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -21990,7 +22034,8 @@
     "trance",
     "emo-alt",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -22233,7 +22278,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -22286,7 +22332,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -22636,33 +22683,6 @@
    "_carriedSince": "2026-10-20T08:36:41.307Z"
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43457980",
-   "artist": "Abi Clarke",
-   "venueId": "attic",
-   "venueName": "The Attic",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-19",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
-   "infoUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -22686,6 +22706,34 @@
    "source": "mayflower",
    "genres": [
     "theatre",
+    "comedy"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-43050968",
+   "artist": "Abi Clarke stand up comedy tour",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-02-19",
+   "time": "19:45",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/4/b/2453412_a130d33a_abi-clarke-stand-up-comedy-tour_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Abi-Clarke-stand-up-comedy-tour/43050968/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Abi-Clarke-stand-up-comedy-tour/43050968/",
+   "going": 0,
+   "minage": null,
+   "desc": "Abi Clarke \"Just Tell Me When It’s Over\" at The Attic in Southampton Friday 19th February 2027",
+   "source": "skiddle",
+   "genres": [
     "comedy"
    ]
   },
@@ -22795,7 +22843,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -23310,7 +23359,8 @@
     "punk",
     "ska",
     "rock"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -24041,7 +24091,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -24769,7 +24820,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -27009,7 +27061,8 @@
    "source": "skiddle",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -27647,7 +27700,8 @@
    "source": "skiddle",
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -27965,7 +28019,8 @@
    "source": "skiddle",
    "genres": [
     "theatre"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
@@ -28444,7 +28499,8 @@
    "source": "skiddle",
    "genres": [
     "reggae"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -28766,7 +28822,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -29213,7 +29270,8 @@
    "source": "skiddle",
    "genres": [
     "soul"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -29481,7 +29539,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "gig",
@@ -29666,7 +29725,8 @@
    "source": "skiddle",
    "genres": [
     "theatre"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T14:22:49.188Z"
   },
   {
    "type": "theatre",
