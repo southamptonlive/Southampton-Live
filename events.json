@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-20T19:21:03.244Z",
+ "generated": "2026-10-20T23:57:05.427Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 126,
+   "carried": 123,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 65
+   "events": 64
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -51,7 +51,7 @@
    "label": "Skiddle · The Attic Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/",
    "ok": true,
-   "events": 19
+   "events": 23
   },
   {
    "id": "skiddle:The-Loft-Southampton",
@@ -288,16 +288,16 @@
    "address": "Bugle St, Southampton SO14 2AD"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo-southampton-lounge-roof-garden",
    "name": "Funky Flamingo Southampton - Lounge & Roof Garden",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
   },
   {
    "id": "popworld-southampton",
@@ -408,6 +408,12 @@
    "address": "Salisbury St, Southampton SO15 2TZ"
   },
   {
+   "id": "deluxe-one-oxford",
+   "name": "Deluxe One Oxford",
+   "postcode": "SO14 3DJ",
+   "address": "1 Oxford St, Southampton SO14 3DJ"
+  },
+  {
    "id": "orange-rooms-southampton",
    "name": "Orange Rooms Southampton",
    "postcode": "SO15 2EJ",
@@ -421,36 +427,6 @@
   }
  ],
  "events": [
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "acoustic",
-    "open mic"
-   ],
-   "hot": false,
-   "id": "fat-c913c607-f29",
-   "artist": "Open Mic Night @ The Platform Tavern (20th October)",
-   "venueId": "platform-tavern",
-   "venueName": "Platform Tavern",
-   "postcode": "SO14 2NY",
-   "date": "2026-10-20",
-   "time": "18:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "folk-acoustic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/open-mic-night-the-platform-tavern-20th-october",
-   "infoUrl": "https://www.fatsoma.com/e/open-mic-night-the-platform-tavern-20th-october",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "folk-acoustic"
-   ]
-  },
   {
    "type": "theatre",
    "tags": [],
@@ -733,7 +709,7 @@
    "priceMax": 30.8,
    "priceText": null,
    "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/wishbone-ash-the-brook-tickets/14736603",
    "infoUrl": "https://www.the-brook.com/tm-event/wishbone-ash/",
    "going": 0,
@@ -2933,36 +2909,6 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-ce445ca5-f27",
-   "artist": "[SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!",
-   "venueId": "trilogy-southampton",
-   "venueName": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-26",
-   "time": "22:30",
-   "price": 6,
-   "priceMax": 11,
-   "priceText": "£6–£11",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sold-out-southampton-asoc-halloween-house-party",
-   "infoUrl": "https://www.fatsoma.com/e/sold-out-southampton-asoc-halloween-house-party",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "halloween"
-   ],
-   "hot": false,
    "id": "fat-4ff8efa9-209",
    "artist": "[SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!",
    "venueId": "trilogy-southampton",
@@ -2993,7 +2939,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -3023,7 +2969,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -6363,9 +6309,9 @@
    "postcode": "SO14 0JD",
    "date": "2026-11-04",
    "time": "22:00",
-   "price": 4,
-   "priceMax": 9,
-   "priceText": "£4–£9",
+   "price": 3,
+   "priceMax": 5,
+   "priceText": "£3–£5",
    "genre": "house",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/c/c/2448116_e777c657_midweek-motion_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MidWeek-Motion/43018159/",
@@ -6374,7 +6320,6 @@
    "minage": "18",
    "desc": "The Motion Boyz are stepping out with their first ever event and we’re bringing a MIDWEEK SHUTDOWN Southampton has NEVER seen before.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-13T19:19:37.714Z",
    "genres": [
     "house",
     "trap",
@@ -6912,9 +6857,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-06",
    "time": "19:30",
-   "price": 36,
+   "price": 40,
    "priceMax": 50,
-   "priceText": "£36–£50",
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52880",
@@ -7658,12 +7603,12 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-08",
    "time": "15:00",
-   "price": 64.5,
-   "priceMax": 64.5,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/BB-Vaudevillean-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53091/53705",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
    "going": 0,
    "minage": null,
@@ -10012,6 +9957,35 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "country"
+   ],
+   "hot": false,
+   "id": "fat-210cce38-d6c",
+   "artist": "🤠 COUNTRY LINE DANCING CLASS AT MEDBAR 🤠",
+   "venueId": "medbar-southampton",
+   "venueName": "Medbar Southampton",
+   "postcode": "SO14 3DP",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "price": 11,
+   "priceMax": 11,
+   "priceText": null,
+   "genre": "country",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/country-line-dancing-class-at-medbar",
+   "infoUrl": "https://www.fatsoma.com/e/country-line-dancing-class-at-medbar",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "country",
+    "dance"
    ]
   },
   {
@@ -13377,7 +13351,6 @@
    "minage": "14",
    "desc": "Heavy Jams: A full play through of Linkin Park's Hybrid Theory at Suburbia.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-13T19:19:37.714Z",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -17594,7 +17567,6 @@
    "minage": "14",
    "desc": "Heavy Jams: Merry Metal Xmas. A Christmas heavy metal open jam session at Suburbia",
    "source": "skiddle",
-   "_carriedSince": "2026-10-13T19:19:37.714Z",
    "genres": [
     "metal"
    ]
@@ -21901,6 +21873,34 @@
    ]
   },
   {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-43050987",
+   "artist": "Bobby Davro at The Attic in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-02-12",
+   "time": "19:45",
+   "price": 23.5,
+   "priceMax": 23.5,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/4/2453431_6db3c628_bobby-davro-at-the-attic-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Bobby-Davro-at-The-Attic-in-Southampton/43050987/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Bobby-Davro-at-The-Attic-in-Southampton/43050987/",
+   "going": 0,
+   "minage": null,
+   "desc": "An Evening of Comedy with Bobby Davro at The Attic in Southampton- Friday 12th February",
+   "source": "skiddle",
+   "genres": [
+    "comedy"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -22198,6 +22198,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-bbd82d15-20b",
+   "artist": "LICK N' LUV",
+   "venueId": "deluxe-one-oxford",
+   "venueName": "Deluxe One Oxford",
+   "postcode": "SO14 3DJ",
+   "date": "2027-02-13",
+   "time": "20:00",
+   "price": 6,
+   "priceMax": 71.5,
+   "priceText": "£6–£71.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/lick-n-luv",
+   "infoUrl": "https://www.fatsoma.com/e/lick-n-luv",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -22735,7 +22762,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-20T19:21:03.244Z"
   },
   {
    "type": "theatre",
@@ -24311,6 +24339,34 @@
    ]
   },
   {
+   "type": "other",
+   "tags": [
+    "spoken word"
+   ],
+   "hot": false,
+   "id": "sk-43050981",
+   "artist": "Harry Baker \"If You’re Harry and You Poet, Clap Your Hands\"",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-03-10",
+   "time": "17:00",
+   "price": 18,
+   "priceMax": 18,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/c/e/2453425_7138b191_harry-baker-if-you-re-harry-and-you-poet-clap-your-hands-_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Harry-Baker-If-Youre-Harry-and-You-Poet-Clap-Your-Hands/43050981/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Harry-Baker-If-Youre-Harry-and-You-Poet-Clap-Your-Hands/43050981/",
+   "going": 0,
+   "minage": null,
+   "desc": "Harry Baker's \"If You’re Harry and You Poet, Clap Your Hands\" in Southampton Wednesday 10th March Early Evening 5pm Show",
+   "source": "skiddle",
+   "genres": [
+    "other"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -24387,6 +24443,34 @@
    "source": "mayflower",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "other",
+   "tags": [
+    "spoken word"
+   ],
+   "hot": false,
+   "id": "sk-43050985",
+   "artist": "Harry Baker \"If You’re Harry and You Poet, Clap Your Hands\"",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-03-10",
+   "time": "20:15",
+   "price": 18,
+   "priceMax": 18,
+   "priceText": null,
+   "genre": "other",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/d/5/2/2453429_d4ab8b6a_harry-baker-if-you-re-harry-and-you-poet-clap-your-hands-_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Harry-Baker-If-Youre-Harry-and-You-Poet-Clap-Your-Hands/43050985/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Harry-Baker-If-Youre-Harry-and-You-Poet-Clap-Your-Hands/43050985/",
+   "going": 0,
+   "minage": null,
+   "desc": "Harry Baker's New Show \"If You’re Harry and You Poet, Clap Your Hands\" at The Attic in Southampton Wednesday 10th March 2027",
+   "source": "skiddle",
+   "genres": [
+    "other"
    ]
   },
   {
@@ -25194,6 +25278,34 @@
    "source": "mayflower",
    "genres": [
     "theatre",
+    "comedy"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-43050972",
+   "artist": "Stand up comedy in Southampton with headliner Laura Lexx",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2027-03-19",
+   "time": "19:45",
+   "price": 16.5,
+   "priceMax": 16.5,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/6/f/2453416_f6a1cceb_stand-up-comedy-in-southampton-with-headliner-laura-lexx_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-headliner-Laura-Lexx/43050972/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-headliner-Laura-Lexx/43050972/",
+   "going": 0,
+   "minage": null,
+   "desc": "Stand up comedy in Southampton with headliner Laura Lexx - Friday 19th March At The Attic Southampton",
+   "source": "skiddle",
+   "genres": [
     "comedy"
    ]
   },
@@ -27433,7 +27545,6 @@
    "minage": "18",
    "desc": "The Old Skool Day Rave is coming to Southampton!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-13T19:19:37.714Z",
    "genres": [
     "electronic",
     "dance"
