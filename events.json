@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-21T11:53:26.421Z",
+ "generated": "2026-10-21T17:16:41.335Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 123,
+   "carried": 132,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 233
+   "events": 235
   },
   {
    "id": "ticketmaster",
@@ -577,8 +577,8 @@
    "date": "2026-10-21",
    "time": "19:30",
    "price": 30,
-   "priceMax": 55,
-   "priceText": "£30–£55",
+   "priceMax": 85,
+   "priceText": "£30–£85",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52826",
@@ -1295,7 +1295,7 @@
    "priceMax": 24.75,
    "priceText": null,
    "genre": "funk",
-   "img": "https://i.ticketweb.com/i/00/13/36/84/73_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/13/36/84/73_Original.jpg?v=8",
    "ticketUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403",
    "infoUrl": "https://www.the-brook.com/tm-event/smoove-turrell-the-singles-tour/",
    "going": 0,
@@ -3042,8 +3042,8 @@
    "date": "2026-10-27",
    "time": "20:00",
    "price": 27,
-   "priceMax": 50,
-   "priceText": "£27–£50",
+   "priceMax": 59,
+   "priceText": "£27–£59",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52410",
@@ -3526,7 +3526,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
@@ -3700,8 +3701,8 @@
    "date": "2026-10-29",
    "time": "20:00",
    "price": 40,
-   "priceMax": 50,
-   "priceText": "£40–£50",
+   "priceMax": 56,
+   "priceText": "£40–£56",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52413",
@@ -4734,7 +4735,8 @@
     "electronic",
     "dance",
     "dnb"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "theatre",
@@ -6482,9 +6484,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-06",
    "time": "14:00",
-   "price": 34,
+   "price": 27,
    "priceMax": 42.5,
-   "priceText": "£34–£42.50",
+   "priceText": "£27–£42.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52879",
@@ -7787,6 +7789,36 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "free entry",
+    "blues",
+    "comedy"
+   ],
+   "hot": false,
+   "id": "fat-98f34861-02e",
+   "artist": "Comedy At Heartbreakers",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "comedy",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "infoUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "comedy"
    ]
   },
   {
@@ -9260,7 +9292,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "club",
@@ -10074,6 +10107,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-ed909997-7b2",
+   "artist": "😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy-nightclub",
+   "venueName": "Trilogy nightclub",
+   "postcode": "SO15 2AD",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 6,
+   "priceText": "£3.80–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -11447,9 +11507,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-23",
    "time": "19:30",
-   "price": 51,
+   "price": 29.5,
    "priceMax": 60.5,
-   "priceText": "£51–£60.50",
+   "priceText": "£29.50–£60.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52941",
@@ -11527,9 +11587,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-24",
    "time": "19:30",
-   "price": 47.5,
+   "price": 29.5,
    "priceMax": 60.5,
-   "priceText": "£47.50–£60.50",
+   "priceText": "£29.50–£60.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52987",
@@ -12019,9 +12079,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-26",
    "time": "19:30",
-   "price": 45,
+   "price": 29.5,
    "priceMax": 55.5,
-   "priceText": "£45–£55.50",
+   "priceText": "£29.50–£55.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52990",
@@ -12118,7 +12178,8 @@
     "metal",
     "emo-alt",
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
@@ -12536,7 +12597,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "club",
@@ -15004,6 +15066,36 @@
   },
   {
    "type": "comedy",
+   "tags": [
+    "free entry",
+    "blues",
+    "comedy"
+   ],
+   "hot": false,
+   "id": "fat-509ed00d-11c",
+   "artist": "Comedy At Heartbreakers",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-12-08",
+   "time": "19:30",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "comedy",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "infoUrl": "https://www.fatsoma.com/e/comedy-at-heartbreakers",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "comedy"
+   ]
+  },
+  {
+   "type": "comedy",
    "tags": [],
    "hot": false,
    "id": "mayf-cinderella-a-very-happy-ending-2026-12-08-2000",
@@ -15156,6 +15248,33 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43340306-buzzcocks-at-papillon",
    "infoUrl": "https://www.songkick.com/concerts/43340306-buzzcocks-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43477378",
+   "artist": "Sonne",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-12-09",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43477378-sonne-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43477378-sonne-at-heartbreakers",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -17076,7 +17195,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
@@ -18601,7 +18721,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
@@ -20054,7 +20175,7 @@
    "tags": [],
    "hot": false,
    "id": "tm-LvZ18Q_9oDUC2vZZw_Nn4",
-   "artist": "Kings of Lyon & UK Strokes",
+   "artist": "Kings of Lyon & UK Strokes & Razorlite",
    "venueId": "the-1865",
    "venueName": "The 1865",
    "postcode": "SO14 3AR",
@@ -20065,8 +20186,8 @@
    "priceText": null,
    "genre": "indie",
    "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/kings-of-lyon-uk-strokes-tickets-163N45?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/kings-of-lyon-uk-strokes-tickets-163N45?ref=ticketmaster",
+   "ticketUrl": "https://www.universe.com/events/kings-of-lyon-uk-strokes-razorlite-tickets-163N45?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/kings-of-lyon-uk-strokes-razorlite-tickets-163N45?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
@@ -26564,7 +26685,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
@@ -26940,7 +27062,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T11:53:26.421Z"
   },
   {
    "type": "gig",
