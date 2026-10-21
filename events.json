@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-21T17:16:41.335Z",
+ "generated": "2026-10-21T21:46:59.842Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 132,
+   "carried": 130,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 439
+   "events": 443
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 536
+   "events": 535
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 235
+   "events": 236
   },
   {
    "id": "ticketmaster",
@@ -318,16 +318,22 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "turtle-bay-southampton",
-   "name": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "address": "1 Guildhall Sq, Southampton SO14 7FP"
+   "id": "harbour-hotel-southampton",
+   "name": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
    "id": "ruby-s-at-the-grand",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
    "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "turtle-bay-southampton",
+   "name": "Turtle Bay Southampton",
+   "postcode": "SO14 7FP",
+   "address": "1 Guildhall Sq, Southampton SO14 7FP"
   },
   {
    "id": "st-denys-parish-church",
@@ -513,33 +519,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-2efb9f7f-9d4",
-   "artist": "30s & 40s Singles Night at Turtle Bay Southampton| Love at First Sign",
-   "venueId": "turtle-bay-southampton",
-   "venueName": "Turtle Bay Southampton",
-   "postcode": "SO14 7FP",
-   "date": "2026-10-21",
-   "time": "19:00",
-   "price": 22,
-   "priceMax": 48.4,
-   "priceText": "£22–£48.40",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-turtle-bay-southampton-love-at-first-sign",
-   "infoUrl": "https://www.fatsoma.com/e/30s-40s-singles-night-at-turtle-bay-southampton-love-at-first-sign",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -554,7 +533,7 @@
    "priceMax": 36.3,
    "priceText": null,
    "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=10",
+   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=11",
    "ticketUrl": "https://www.ticketweb.uk/event/wishbone-ash-the-brook-tickets/14736603",
    "infoUrl": "https://www.the-brook.com/tm-event/wishbone-ash/",
    "going": 0,
@@ -563,32 +542,6 @@
    "source": "thebrook",
    "genres": [
     "rock"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-21-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-21",
-   "time": "19:30",
-   "price": 30,
-   "priceMax": 85,
-   "priceText": "£30–£85",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52826",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -827,9 +780,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-22",
    "time": "14:00",
-   "price": 30,
+   "price": 25,
    "priceMax": 55,
-   "priceText": "£30–£55",
+   "priceText": "£25–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52827",
@@ -1397,12 +1350,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-23",
    "time": "19:45",
-   "price": null,
-   "priceMax": null,
+   "price": 31.75,
+   "priceMax": 31.75,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52969",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
@@ -2911,11 +2864,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/0/d/2357129_f57de434_juvy-under-18s-halloween-tour-tues-27-october-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Trilogy-Southampton/JUVY-Under-18s---Halloween-Tour---Tues-27-October---SOUTHAMPTON/42827925/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Trilogy-Southampton/JUVY-Under-18s---Halloween-Tour---Tues-27-October---SOUTHAMPTON/42827925/",
-   "going": 0,
+   "going": 344,
    "minage": "14",
    "desc": "TICKETS WILL SELL OUT QUICK, PLEASE PURCHASE ASAP",
    "source": "skiddle",
-   "_carriedSince": "2026-10-16T11:26:21.214Z",
    "genreGuess": true,
    "genres": [
     "electronic"
@@ -4666,8 +4618,8 @@
    "date": "2026-10-31",
    "time": "10:00",
    "price": 0,
-   "priceMax": 4,
-   "priceText": "£0–£4",
+   "priceMax": 2,
+   "priceText": "£0–£2",
    "genre": "house",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/the-mad-house-halloween-event",
@@ -4727,7 +4679,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/6/9/2335390_36063856_Raver-Tots-Halloween-Party-Southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
-   "going": 0,
+   "going": 17,
    "minage": null,
    "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
    "source": "skiddle",
@@ -4735,8 +4687,7 @@
     "electronic",
     "dance",
     "dnb"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "theatre",
@@ -4839,15 +4790,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/c/9/2348339_ae839865_nightmare-in-the-square_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
-   "going": 0,
+   "going": 81,
    "minage": "18",
    "desc": "High Tide and Riddle team up for their biggest show to date 'Nightmare On The Square', with a huge purpose-built 2,000 capacity marquee.",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "club",
@@ -6498,6 +6448,38 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "punk",
+    "emo"
+   ],
+   "hot": false,
+   "id": "fat-e51a930e-ccb",
+   "artist": "DOOMED - POP PUNK TAKEOVER",
+   "venueId": "hobbit",
+   "venueName": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-06",
+   "time": "15:00",
+   "price": 0,
+   "priceMax": 5,
+   "priceText": "£0–£5",
+   "genre": "emo-alt",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/doomed-pop-punk-takeover",
+   "infoUrl": "https://www.fatsoma.com/e/doomed-pop-punk-takeover",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "emo-alt",
+    "punk",
+    "electronic"
    ]
   },
   {
@@ -9286,14 +9268,13 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/8/2291425_fe100362_swiftogeddon-20-years-of-taylor-special_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
    "source": "skiddle",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "club",
@@ -12170,7 +12151,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/c/2/2324358_a9cf9b37_taking-back-thursdays-myspace-core_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
-   "going": 0,
+   "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
    "source": "skiddle",
@@ -12178,8 +12159,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "gig",
@@ -12590,15 +12570,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_0426c656_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "club",
@@ -17188,15 +17167,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/1/2445906_03a48955_madchester-experience_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
-   "going": 0,
+   "going": 6,
    "minage": "14",
    "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "gig",
@@ -18714,15 +18692,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/e/d/2204456_77bb60ec_on-a-mission-new-years-eve-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
-   "going": 0,
+   "going": 2,
    "minage": null,
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
    "source": "skiddle",
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "gig",
@@ -21890,6 +21867,33 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7f7d5bb7-50e",
+   "artist": "Valentines Singles Ball (Southampton Harbour Hotel - The Bow)",
+   "venueId": "harbour-hotel-southampton",
+   "venueName": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "price": 15.5,
+   "priceMax": 25.5,
+   "priceText": "£15.50–£25.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "infoUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "going": null,
+   "minage": "21+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "comedy",
    "tags": [
     "comedy"
@@ -23234,7 +23238,6 @@
    "minage": "14",
    "desc": "Hammerdown presents... Froglord plus special guests Ael-Fierlen!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T19:26:08.813Z",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -24054,6 +24057,33 @@
    "minage": null,
    "desc": null,
    "source": "mayflower",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43476998",
+   "artist": "Black Water County",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2027-03-05",
+   "time": "20:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43476998-black-water-county-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43476998-black-water-county-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -25459,7 +25489,6 @@
    "minage": "14",
    "desc": "Hammerdown and Obsidian Gathering presents... Black Altar plus special guests Necro Ritual!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T19:26:08.813Z",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -26678,15 +26707,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/3/e/2358251_3a469f9e_cardinal-black_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Cardinal-Black/42831792/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Cardinal-Black/42831792/",
-   "going": 0,
+   "going": 2,
    "minage": "14",
    "desc": "Cardinal Black are heading back to EngineRooms Southampton!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "gig",
@@ -32599,8 +32627,8 @@
    "date": "2027-09-19",
    "time": "13:00",
    "price": 32,
-   "priceMax": 80.5,
-   "priceText": "£32–£80.50",
+   "priceMax": 70.5,
+   "priceText": "£32–£70.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/04/SE_Tour_Generic_960x600_InclSafeArea.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53908/53939",
