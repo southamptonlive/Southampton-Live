@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-21T04:51:42.272Z",
+ "generated": "2026-10-21T11:53:26.421Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 127,
+   "carried": 123,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,14 +16,14 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 64
+   "events": 66
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 32
+   "events": 33
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 435
+   "events": 439
   },
   {
    "id": "mitc",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 268
+   "events": 271
   }
  ],
  "venues": [
@@ -210,6 +210,12 @@
    "address": "Aikman Lane, Totton"
   },
   {
+   "id": "vinilo-record-store",
+   "name": "Vinilo Record Store",
+   "postcode": "SO14 3BL",
+   "address": "43-47 Queensway"
+  },
+  {
    "id": "guildhall",
    "name": "O2 Guildhall",
    "postcode": "SO14 7LP",
@@ -268,6 +274,12 @@
    "name": "Locomotive Engineers Club",
    "postcode": "SO50 9FJ",
    "address": "18 Southampton Rd"
+  },
+  {
+   "id": "platform-tavern",
+   "name": "Platform Tavern",
+   "postcode": "SO14 2NY",
+   "address": "Town Quay"
   },
   {
    "id": "the-point",
@@ -388,12 +400,6 @@
    "name": "The Bugle House",
    "postcode": "SO14 2AL",
    "address": "1A Bugle St, Southampton SO14 2AL"
-  },
-  {
-   "id": "platform-tavern",
-   "name": "Platform Tavern",
-   "postcode": "SO14 2NY",
-   "address": "Town Quay, Southampton SO14 2NY"
   },
   {
    "id": "bitterne-royal-british-legion-club-ltd",
@@ -544,11 +550,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-10-21",
    "time": "19:30",
-   "price": 30.8,
-   "priceMax": 30.8,
+   "price": 36.3,
+   "priceMax": 36.3,
    "priceText": null,
    "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=9",
+   "img": "https://i.ticketweb.com/i/00/13/34/94/63_Original.jpg?v=10",
    "ticketUrl": "https://www.ticketweb.uk/event/wishbone-ash-the-brook-tickets/14736603",
    "infoUrl": "https://www.the-brook.com/tm-event/wishbone-ash/",
    "going": 0,
@@ -570,9 +576,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-21",
    "time": "19:30",
-   "price": 25,
+   "price": 30,
    "priceMax": 55,
-   "priceText": "£25–£55",
+   "priceText": "£30–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52826",
@@ -757,6 +763,60 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43476059",
+   "artist": "Nieve Ella",
+   "venueId": "vinilo-record-store",
+   "venueName": "Vinilo Record Store",
+   "postcode": "SO14 3BL",
+   "date": "2026-10-21",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43476059-nieve-ella-at-vinilo-record-store",
+   "infoUrl": "https://www.songkick.com/concerts/43476059-nieve-ella-at-vinilo-record-store",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43476060",
+   "artist": "Jamie T",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-21",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43476060-jamie-t-at-enginerooms-southampton",
+   "infoUrl": "https://www.songkick.com/concerts/43476060-jamie-t-at-enginerooms-southampton",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -809,7 +869,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -1082,7 +1143,8 @@
    "source": "skiddle",
    "genres": [
     "drill"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -1687,7 +1749,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -1956,7 +2019,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -2201,36 +2265,6 @@
   {
    "type": "club",
    "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "sk-42708004",
-   "artist": "Mala Casa - Halloween at Suburbia Southampton",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "price": 6,
-   "priceMax": 20,
-   "priceText": "£6–£20",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/e/f/2332807_be1e2227_mala-casa-halloween-at-suburbia-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Mala-Casa---Halloween-at-Suburbia-Southampton/42708004/",
-   "going": 8,
-   "minage": "18",
-   "desc": "Our huge halloween party this year will be held at Suburbia Southampton",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
     "free entry",
     "tribute"
    ],
@@ -2394,7 +2428,8 @@
    "source": "skiddle",
    "genres": [
     "dnb"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -3435,7 +3470,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -3463,6 +3499,33 @@
    "source": "fatsoma",
    "genres": [
     "latin"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-43051729",
+   "artist": "YellowTape Promotions Presents: Lost and Found Society + Support",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "price": 9,
+   "priceMax": 9,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/c/2453820_11396150_yellowtape-promotions-presents-lost-and-found-society-support_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/YellowTape-Promotions-Presents-Lost-and-Found-Society--Support/43051729/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/YellowTape-Promotions-Presents-Lost-and-Found-Society--Support/43051729/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Industrial noise project from Bristol, Lost and Found Society make their Southampton Debut headlining at Suburbia later next month!",
+   "source": "skiddle",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -4017,7 +4080,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "other",
@@ -4378,7 +4442,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -4525,7 +4590,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -4664,7 +4730,6 @@
    "minage": null,
    "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
    "genres": [
     "electronic",
     "dance",
@@ -4893,7 +4958,8 @@
    "source": "skiddle",
    "genres": [
     "trance"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -5471,7 +5537,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -5487,8 +5554,8 @@
    "date": "2026-10-31",
    "time": "23:00",
    "price": 5.99,
-   "priceMax": 14.29,
-   "priceText": "£5.99–£14.29",
+   "priceMax": 16.49,
+   "priceText": "£5.99–£16.49",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/halloween-purge-southampton-s-biggest-halloween-event",
@@ -7149,7 +7216,8 @@
    "source": "skiddle",
    "genres": [
     "ska"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -7364,7 +7432,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -7527,7 +7596,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -7568,8 +7638,8 @@
    "date": "2026-11-08",
    "time": "20:00",
    "price": 50,
-   "priceMax": 64.5,
-   "priceText": "£50–£64.50",
+   "priceMax": 50,
+   "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/BB-Vaudevillean-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53091/53094",
@@ -8312,7 +8382,8 @@
     "metal",
     "emo-alt",
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -9183,11 +9254,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/b/e/8/2291425_fe100362_swiftogeddon-20-years-of-taylor-special_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/",
-   "going": 4,
+   "going": 0,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
    "genres": [
     "electronic"
    ]
@@ -9556,8 +9626,8 @@
    "date": "2026-11-18",
    "time": "14:00",
    "price": 53,
-   "priceMax": 69.5,
-   "priceText": "£53–£69.50",
+   "priceMax": 62.5,
+   "priceText": "£53–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52081",
@@ -9930,33 +10000,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-listening-room-live-sessions-2026-11-19",
-   "artist": "Listening Room - Live Sessions",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-19",
-   "time": "19:30",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/02/24/14_Original.jpg?v=20",
-   "ticketUrl": "https://www.ticketweb.uk/event/listening-room-live-the-brook-tickets/14306014",
-   "infoUrl": "https://www.the-brook.com/tm-event/listening-room-live-sessions/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43386350",
    "artist": "The Zangwills",
    "venueId": "heartbreakers",
@@ -10031,33 +10074,6 @@
    "source": "mayflower",
    "genres": [
     "theatre"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-ed909997-7b2",
-   "artist": "😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
-   "venueId": "trilogy-nightclub",
-   "venueName": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "date": "2026-11-19",
-   "time": "22:00",
-   "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -10142,7 +10158,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -10422,7 +10439,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -10647,7 +10665,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -10701,7 +10720,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "comedy",
@@ -10756,7 +10776,8 @@
    "source": "skiddle",
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -11219,7 +11240,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -11628,7 +11650,8 @@
    "source": "skiddle",
    "genres": [
     "rock"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -12087,11 +12110,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/1/c/2/2324358_a9cf9b37_taking-back-thursdays-myspace-core_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/",
-   "going": 1,
+   "going": 0,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
    "genres": [
     "metal",
     "emo-alt",
@@ -12235,7 +12257,8 @@
    "source": "skiddle",
    "genres": [
     "country"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -12506,11 +12529,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_0426c656_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 4,
+   "going": 0,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
    "genreGuess": true,
    "genres": [
     "electronic"
@@ -12568,7 +12590,8 @@
    "source": "skiddle",
    "genres": [
     "jungle"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -12615,7 +12638,7 @@
    "priceMax": 20,
    "priceText": "£10–£20",
    "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/10/Getting-started-as-a-writer-1.png?resize=640%2C400",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/artfulscribe-writing-hand-copy3.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54804/54806",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/getting-started-as-a-writer-2026/",
    "going": 0,
@@ -12868,7 +12891,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -14016,7 +14040,8 @@
    "source": "skiddle",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -14153,7 +14178,8 @@
    "source": "skiddle",
    "genres": [
     "jungle"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "comedy",
@@ -14458,7 +14484,8 @@
    "source": "skiddle",
    "genres": [
     "emo-alt"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -14485,7 +14512,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -15332,6 +15360,33 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43476730",
+   "artist": "Lost Post",
+   "venueId": "platform-tavern",
+   "venueName": "Platform Tavern",
+   "postcode": "SO14 2NY",
+   "date": "2026-12-10",
+   "time": "20:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43476730-lost-post-at-platform-tavern",
+   "infoUrl": "https://www.songkick.com/concerts/43476730-lost-post-at-platform-tavern",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "comedy",
    "tags": [],
    "hot": false,
@@ -15529,7 +15584,8 @@
    "source": "skiddle",
    "genres": [
     "dance"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -15917,7 +15973,8 @@
    "genres": [
     "indie",
     "dance"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -16712,7 +16769,8 @@
    "source": "skiddle",
    "genres": [
     "other"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -16958,38 +17016,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "tribute",
-    "xmas"
    ],
-   "hot": false,
-   "id": "sk-43008039",
-   "artist": "Madchester Experience",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "price": 10,
-   "priceMax": 35,
-   "priceText": "£10–£35",
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/1/2445906_03a48955_madchester-experience_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
-   "going": 1,
-   "minage": "14",
-   "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
-   "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -17019,6 +17047,36 @@
     "metal"
    ],
    "_carriedSince": "2026-10-18T15:56:01.213Z"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "tribute",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-43008039",
+   "artist": "Madchester Experience",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": 10,
+   "priceMax": 35,
+   "priceText": "£10–£35",
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/9/1/2445906_03a48955_madchester-experience_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Madchester-Experience/43008039/",
+   "going": 0,
+   "minage": "14",
+   "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
+   "source": "skiddle",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
   },
   {
    "type": "gig",
@@ -18536,11 +18594,10 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/4/e/d/2204456_77bb60ec_on-a-mission-new-years-eve-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
-   "going": 1,
+   "going": 0,
    "minage": null,
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
    "source": "skiddle",
-   "_carriedSince": "2026-10-14T08:44:57.536Z",
    "genres": [
     "dnb",
     "electronic"
@@ -18600,7 +18657,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -18629,7 +18687,8 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -19670,7 +19729,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -20411,7 +20471,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
@@ -21217,7 +21278,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -21869,7 +21931,8 @@
     "trance",
     "emo-alt",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -22139,7 +22202,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -22192,7 +22256,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -22703,7 +22768,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -23218,7 +23284,8 @@
     "punk",
     "ska",
     "rock"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -23379,7 +23446,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -23948,7 +24016,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -24388,33 +24457,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43230961",
-   "artist": "The Howlers",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2027-03-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "tm-LvZ18QiWqoCojtpXr_HIJ",
    "artist": "Dream State",
    "venueId": "the-1865",
@@ -24433,6 +24475,33 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43230961",
+   "artist": "The Howlers",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2027-03-11",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43230961-howlers-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -24734,7 +24803,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -25001,6 +25071,32 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43475401",
+   "artist": "4am Kru",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-03-19",
+   "time": "18:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "jungle",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43475401-4am-kru-at-enginerooms",
+   "infoUrl": "https://www.songkick.com/concerts/43475401-4am-kru-at-enginerooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genres": [
+    "jungle"
    ]
   },
   {
@@ -26447,24 +26543,24 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43466611",
+   "id": "sk-42831792",
    "artist": "Cardinal Black",
    "venueId": "engine",
-   "venueName": "Engine Rooms",
+   "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
    "date": "2027-04-10",
    "time": "18:00",
-   "price": null,
-   "priceMax": null,
+   "price": 30,
+   "priceMax": 30,
    "priceText": null,
    "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43466611-cardinal-black-at-enginerooms",
-   "infoUrl": "https://www.songkick.com/concerts/43466611-cardinal-black-at-enginerooms",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/3/e/2358251_3a469f9e_cardinal-black_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Cardinal-Black/42831792/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Cardinal-Black/42831792/",
    "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
+   "minage": "14",
+   "desc": "Cardinal Black are heading back to EngineRooms Southampton!",
+   "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -26629,7 +26725,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -26822,6 +26919,33 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sk-43047223",
+   "artist": "The Smyths",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-04-16",
+   "time": "18:00",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/7/0/2452623_fb0ceb77_the-smyths_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Smyths/43047223/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Smyths/43047223/",
+   "going": 0,
+   "minage": "14",
+   "desc": "The Smyths return to EngineRooms Southampton this April",
+   "source": "skiddle",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43461826",
    "artist": "Tommy Blaize",
    "venueId": "thornden-hall",
@@ -27002,7 +27126,8 @@
    "source": "skiddle",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -27640,7 +27765,8 @@
    "source": "skiddle",
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -27958,7 +28084,8 @@
    "source": "skiddle",
    "genres": [
     "theatre"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -28437,7 +28564,8 @@
    "source": "skiddle",
    "genres": [
     "reggae"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -28759,7 +28887,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -28916,6 +29045,34 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "jazz"
+   ],
+   "hot": false,
+   "id": "br-johnny-hates-jazz-the-shattered-dreams-t-2027-05-22",
+   "artist": "Johnny Hates Jazz - The Shattered Dreams Tour",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-05-22",
+   "time": "19:30",
+   "price": 29.15,
+   "priceMax": 29.15,
+   "priceText": null,
+   "genre": "jazz",
+   "img": "https://i.ticketweb.com/i/00/13/09/81/64_Original.jpg?v=5",
+   "ticketUrl": "https://www.ticketweb.uk/event/johnny-hates-jazz-the-brook-tickets/14382854",
+   "infoUrl": "https://www.the-brook.com/tm-event/johnny-hates-jazz-the-shattered-dreams-tour/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook",
+   "genres": [
+    "jazz"
    ]
   },
   {
@@ -29206,7 +29363,8 @@
    "source": "skiddle",
    "genres": [
     "soul"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -29474,7 +29632,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
@@ -29659,7 +29818,8 @@
    "source": "skiddle",
    "genres": [
     "theatre"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "theatre",
@@ -31242,6 +31402,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QceS8bV7ZMh0z_Qs",
+   "artist": "Motley Crude",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-07-16",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/motley-crude-tickets-4MCGWQ?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/motley-crude-tickets-4MCGWQ?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -33039,7 +33226,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "gig",
