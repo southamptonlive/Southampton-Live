@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-22T04:49:55.264Z",
+ "generated": "2026-10-22T11:56:39.163Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 130,
+   "carried": 132,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 33
+   "events": 34
   },
   {
    "id": "skiddle:The-Joiners",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 232
+   "events": 231
   },
   {
    "id": "ticketmaster",
@@ -162,12 +162,6 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "the-horns-inn",
-   "name": "The Horns Inn",
-   "postcode": "SO16 0XA",
-   "address": "Romsey Road"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
@@ -178,12 +172,6 @@
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
    "address": "Guildhall Square"
-  },
-  {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "address": "Civic Centre Road"
   },
   {
    "id": "brook",
@@ -208,6 +196,12 @@
    "name": "Turner Sims",
    "postcode": "SO17 1BJ",
    "address": "University of Southampton"
+  },
+  {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7DU",
+   "address": "Above Bar St"
   },
   {
    "id": "working-men-s-club",
@@ -438,9 +432,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-22",
    "time": "14:00",
-   "price": 25,
+   "price": 30,
    "priceMax": 55,
-   "priceText": "£25–£55",
+   "priceText": "£30–£55",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52827",
@@ -1752,8 +1746,8 @@
    "date": "2026-10-24",
    "time": "19:30",
    "price": 30,
-   "priceMax": 95,
-   "priceText": "£30–£95",
+   "priceMax": 80,
+   "priceText": "£30–£80",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
@@ -1901,64 +1895,6 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-863347ca-81c",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-90158996-809",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": "18+",
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
    ]
   },
   {
@@ -3312,8 +3248,8 @@
    "date": "2026-10-29",
    "time": "20:00",
    "price": 40,
-   "priceMax": 56,
-   "priceText": "£40–£56",
+   "priceMax": 50,
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52413",
@@ -4670,7 +4606,7 @@
    "priceMax": 23.1,
    "priceText": null,
    "genre": "folk-acoustic",
-   "img": "https://i.ticketweb.com/i/00/13/45/53/93_Original.jpg?v=6",
+   "img": "https://i.ticketweb.com/i/00/13/45/53/93_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/mad-dog-mcrea-the-brook-tickets/14855493",
    "infoUrl": "https://www.the-brook.com/tm-event/mad-dog-mcrea-dusk-till-dawn-tour/",
    "going": 0,
@@ -6367,6 +6303,33 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "br-noasis-2026-11-06",
+   "artist": "Noasis",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "price": 19.8,
+   "priceMax": 19.8,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/59/83/33_Original.jpg?v=5",
+   "ticketUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893",
+   "infoUrl": "https://www.the-brook.com/tm-event/noasis/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43241645",
    "artist": "The Manor",
    "venueId": "engine",
@@ -6446,33 +6409,6 @@
   },
   {
    "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QntPYCmmCJUcc79P",
-   "artist": "Noasis",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-06",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/ab4/6367448e-7474-4650-bd2d-02a8f7166ab4_106161_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
    "tags": [
     "rock"
    ],
@@ -6527,33 +6463,6 @@
    "source": "fatsoma",
    "genres": [
     "house"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-17GOv0G62R3J8io",
-   "artist": "Noasis",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-06",
-   "time": "21:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-   "ticketUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
-   "infoUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893?REFERRAL_ID=tmfeed",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -8424,6 +8333,35 @@
   {
    "type": "club",
    "tags": [
+    "drum & bass"
+   ],
+   "hot": false,
+   "id": "sk-43056814",
+   "artist": "Get Hook'd x Re:Gen presents: HARLEY D",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2026-11-13",
+   "time": "22:30",
+   "price": 10,
+   "priceMax": 10,
+   "priceText": null,
+   "genre": "dnb",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/6/1/2454582_7be83e9c_get-hook-d-x-re-gen-presents-harley-d_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/",
+   "going": 0,
+   "minage": "18",
+   "desc": "We're taking over Suburbia for a night dedicated to the deeper, rolling side of drum and bass. Headlining is Harley D",
+   "source": "skiddle",
+   "genres": [
+    "dnb",
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry",
     "house"
    ],
@@ -9544,9 +9482,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-19",
    "time": "14:00",
-   "price": 51,
+   "price": 41.5,
    "priceMax": 62.5,
-   "priceText": "£51–£62.50",
+   "priceText": "£41.50–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52083",
@@ -15959,7 +15897,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T04:49:55.264Z"
   },
   {
    "type": "gig",
@@ -29437,9 +29376,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-05-30",
    "time": "14:00",
-   "price": 43,
+   "price": 35,
    "priceMax": 55,
-   "priceText": "£43–£55",
+   "priceText": "£35–£55",
    "genre": "other",
    "img": "https://images.mayflower.org.uk/uploads/2026/04/CHRIS-H-2027-900x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53915/53916",
@@ -30451,33 +30390,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
    "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-4c8dbcc2-eb8",
-   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
-   "venueId": "goals-millbrook-southampton",
-   "venueName": "GOALS - Millbrook - (Southampton)",
-   "postcode": "SO15 0JW",
-   "date": "2027-06-26",
-   "time": "12:30",
-   "price": 80,
-   "priceMax": 80,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
    "going": null,
    "minage": null,
    "desc": null,
@@ -33101,7 +33013,8 @@
    "genres": [
     "punk",
     "reggae"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T04:49:55.264Z"
   },
   {
    "type": "gig",
