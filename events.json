@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-22T17:14:37.808Z",
+ "generated": "2026-10-22T21:39:55.829Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 18,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 18
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 534
+   "events": 532
   },
   {
    "id": "skiddle:api",
@@ -174,16 +174,16 @@
    "address": "Guildhall Square"
   },
   {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
-  },
-  {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
    "address": "466 Portswood Road, Southampton"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "guildhall",
@@ -304,6 +304,12 @@
    "name": "Popworld - Southampton",
    "postcode": "SO15 2EH",
    "address": "17 Lower Banister St, Southampton SO15 2EH"
+  },
+  {
+   "id": "harbour-hotel-southampton",
+   "name": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
    "id": "ruby-s-at-the-grand",
@@ -500,32 +506,6 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-22-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-22",
-   "time": "19:30",
-   "price": 25,
-   "priceMax": 95,
-   "priceText": "£25–£95",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52828",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
    "type": "club",
    "tags": [],
    "hot": false,
@@ -550,32 +530,6 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-murder-she-didn-t-write-2026-10-22-1945",
-   "artist": "Murder, She Didn't Write",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-22",
-   "time": "19:45",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "comedy"
    ]
   },
   {
@@ -877,8 +831,7 @@
    "source": "thebrook",
    "genres": [
     "funk"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "gig",
@@ -1692,7 +1645,7 @@
    "priceMax": 22,
    "priceText": null,
    "genre": "folk-acoustic",
-   "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=10",
    "ticketUrl": "https://www.ticketweb.uk/event/ian-prowse-amsterdam-the-brook-tickets/14136584",
    "infoUrl": "https://www.the-brook.com/tm-event/ian-prowse-amsterdam/",
    "going": 0,
@@ -1701,8 +1654,7 @@
    "source": "thebrook",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -2202,8 +2154,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "club",
@@ -2650,6 +2601,35 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
    "infoUrl": "https://www.fatsoma.com/e/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-dc98a474-245",
+   "artist": "SO:CRAZY - EVERY TUESDAY - HALLOWEEN SPECIAL - 27th October 2026 - £1 DOUBLES ALL NIGHT.",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-27",
+   "time": "22:00",
+   "price": 7,
+   "priceMax": 7,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-halloween-special-27th-october-2026-1-doubles-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/so-crazy-every-tuesday-halloween-special-27th-october-2026-1-doubles-all-night",
    "going": null,
    "minage": "18+",
    "desc": null,
@@ -3209,8 +3189,7 @@
    "source": "thebrook",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "gig",
@@ -3798,8 +3777,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -4646,8 +4624,7 @@
    "source": "thebrook",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -5912,8 +5889,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -6357,8 +6333,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "gig",
@@ -9517,9 +9492,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-19",
    "time": "14:00",
-   "price": 41.5,
+   "price": 51,
    "priceMax": 62.5,
-   "priceText": "£41.50–£62.50",
+   "priceText": "£51–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52083",
@@ -9942,8 +9917,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18394,8 +18368,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "club",
@@ -19362,8 +19335,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21507,8 +21479,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21535,6 +21506,33 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7f7d5bb7-50e",
+   "artist": "Valentines Singles Ball (Southampton Harbour Hotel - The Bow)",
+   "venueId": "harbour-hotel-southampton",
+   "venueName": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "price": 15.5,
+   "priceMax": 25.5,
+   "priceText": "£15.50–£25.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "infoUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "going": null,
+   "minage": "21+",
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -22210,33 +22208,6 @@
    "minage": null,
    "desc": null,
    "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43450998",
-   "artist": "Cheap Thrills",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2027-02-18",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43450998-cheap-thrills-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43450998-cheap-thrills-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -23867,8 +23838,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -25327,8 +25297,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -27140,8 +27109,7 @@
    "source": "thebrook",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -27700,8 +27668,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -28421,8 +28388,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "gig",
@@ -28876,8 +28842,7 @@
    "source": "thebrook",
    "genres": [
     "jazz"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "theatre",
@@ -33060,6 +33025,32 @@
     "reggae"
    ],
    "_carriedSince": "2026-10-22T04:49:55.264Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QngBzmcmsdtT-6f6",
+   "artist": "The Ruts '50 Years of Ruts music 1977-2027'",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "punk",
+   "img": "https://s1.ticketm.net/dam/c/fbc/b293c0ad-c904-4215-bc59-8d7f2414dfbc_106141_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.universe.com/events/the-ruts-50-years-of-ruts-music-1977-2027-tickets-GFLSRK?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/the-ruts-50-years-of-ruts-music-1977-2027-tickets-GFLSRK?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "ticketmaster",
+   "genres": [
+    "punk"
+   ]
   },
   {
    "type": "gig",
