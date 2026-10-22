@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-22T11:56:39.163Z",
+ "generated": "2026-10-22T17:14:37.808Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 132,
+   "carried": 133,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -77,16 +77,16 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "url": "https://www.the-brook.com/",
-   "ok": true,
-   "events": 18
+   "ok": false,
+   "carried": 18,
+   "error": "no event cards parsed"
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 435
+   "events": 434
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 535
+   "events": 534
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 231
+   "events": 233
   },
   {
    "id": "ticketmaster",
@@ -174,16 +174,16 @@
    "address": "Guildhall Square"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
    "id": "heartbreakers",
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -306,12 +306,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "harbour-hotel-southampton",
-   "name": "Harbour Hotel Southampton",
-   "postcode": "SO14 3QT",
-   "address": "5 Maritime Walk, Southampton SO14 3QT"
-  },
-  {
    "id": "ruby-s-at-the-grand",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -421,32 +415,6 @@
   }
  ],
  "events": [
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-22-1400",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-22",
-   "time": "14:00",
-   "price": 30,
-   "priceMax": 55,
-   "priceText": "£30–£55",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52827",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
   {
    "type": "gig",
    "tags": [
@@ -595,12 +563,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-22",
    "time": "19:45",
-   "price": 31.75,
-   "priceMax": 31.75,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52968",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
@@ -909,7 +877,8 @@
    "source": "thebrook",
    "genres": [
     "funk"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "gig",
@@ -950,8 +919,8 @@
    "date": "2026-10-23",
    "time": "19:30",
    "price": 25,
-   "priceMax": 95,
-   "priceText": "£25–£95",
+   "priceMax": 75,
+   "priceText": "£25–£75",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52829",
@@ -1002,12 +971,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-23",
    "time": "19:45",
-   "price": 31.75,
-   "priceMax": 31.75,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52969",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
@@ -1425,12 +1394,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-24",
    "time": "13:00",
-   "price": 10,
-   "priceMax": 10,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/event-card-flotsam-mayflower.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54426/54427",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
    "going": 0,
    "minage": null,
@@ -1478,9 +1447,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "14:00",
-   "price": 55,
+   "price": 40,
    "priceMax": 125,
-   "priceText": "£55–£125",
+   "priceText": "£40–£125",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52830",
@@ -1732,7 +1701,8 @@
    "source": "thebrook",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -1746,8 +1716,8 @@
    "date": "2026-10-24",
    "time": "19:30",
    "price": 30,
-   "priceMax": 80,
-   "priceText": "£30–£80",
+   "priceMax": 60,
+   "priceText": "£30–£60",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
@@ -1895,6 +1865,64 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -2174,7 +2202,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "club",
@@ -3180,7 +3209,8 @@
    "source": "thebrook",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "gig",
@@ -3768,7 +3798,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -4615,7 +4646,8 @@
    "source": "thebrook",
    "genres": [
     "folk-acoustic"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -5880,7 +5912,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -6324,7 +6357,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "gig",
@@ -7510,8 +7544,8 @@
    "type": "theatre",
    "tags": [],
    "hot": false,
-   "id": "mayf-welsh-national-opera-family-concer-2026-11-11-1830",
-   "artist": "Welsh National Opera Family Concert",
+   "id": "mayf-wno-family-concert-marvellous-musi-2026-11-11-1830",
+   "artist": "WNO Family Concert: Marvellous Musical Mythology",
    "venueId": "mayflower",
    "venueName": "Mayflower Theatre",
    "postcode": "SO15 1GE",
@@ -8357,7 +8391,8 @@
    "genres": [
     "dnb",
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "club",
@@ -9266,9 +9301,9 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-18",
    "time": "14:30",
-   "price": 22.5,
+   "price": 32.5,
    "priceMax": 38,
-   "priceText": "£22.50–£38",
+   "priceText": "£32.50–£38",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/TOSOM-Web-Prod-SHamp_960-x-600px-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54085/54088",
@@ -9400,9 +9435,9 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-18",
    "time": "19:45",
-   "price": 22.5,
+   "price": 32.5,
    "priceMax": 36.5,
-   "priceText": "£22.50–£36.50",
+   "priceText": "£32.50–£36.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/TOSOM-Web-Prod-SHamp_960-x-600px-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54085/54089",
@@ -9907,7 +9942,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -18358,7 +18394,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "club",
@@ -19325,7 +19362,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -21469,7 +21507,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -21496,33 +21535,6 @@
    "genres": [
     "theatre",
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-7f7d5bb7-50e",
-   "artist": "Valentines Singles Ball (Southampton Harbour Hotel - The Bow)",
-   "venueId": "harbour-hotel-southampton",
-   "venueName": "Harbour Hotel Southampton",
-   "postcode": "SO14 3QT",
-   "date": "2027-02-12",
-   "time": "19:30",
-   "price": 15.5,
-   "priceMax": 25.5,
-   "priceText": "£15.50–£25.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
-   "infoUrl": "https://www.fatsoma.com/e/valentines-singles-ball-southampton-harbour-hotel-the-bow",
-   "going": null,
-   "minage": "21+",
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -23855,7 +23867,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -25314,7 +25327,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -27126,7 +27140,8 @@
    "source": "thebrook",
    "genres": [
     "rock"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -27685,7 +27700,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -28405,7 +28421,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "gig",
@@ -28859,7 +28876,8 @@
    "source": "thebrook",
    "genres": [
     "jazz"
-   ]
+   ],
+   "_carriedSince": "2026-10-22T11:56:39.163Z"
   },
   {
    "type": "theatre",
@@ -30390,6 +30408,33 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
    "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4c8dbcc2-eb8",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "12:30",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
    "going": null,
    "minage": null,
    "desc": null,
