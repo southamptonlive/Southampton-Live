@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-23T13:05:36.754Z",
+ "generated": "2026-10-23T13:09:18.880Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -648,9 +648,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-23",
    "time": "19:30",
-   "price": 60,
+   "price": 25,
    "priceMax": 75,
-   "priceText": "£60–£75",
+   "priceText": "£25–£75",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52829",
@@ -2113,7 +2113,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -2143,7 +2143,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
