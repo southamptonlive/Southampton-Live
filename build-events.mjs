@@ -936,7 +936,12 @@ async function fatsoma() {
       const type = cats.includes('club-nights') ? 'club'
         : cats.includes('comedy') ? 'comedy'
         : inferType(name, desc || '', cats.includes('gigs-concerts') || cats.includes('live-music') ? 'LIVE' : 'CLUB');
-      const url = a['seo-name'] ? 'https://www.fatsoma.com/e/' + a['seo-name'] : null;
+      // Fatsoma's canonical event URL is /e/{vanity-name}/{seo-name}; without
+      // the vanity code the page renders "Not Found" (while answering HTTP 200).
+      const url = a['vanity-name'] && a['seo-name'] ? `https://www.fatsoma.com/e/${a['vanity-name']}/${a['seo-name']}`
+        : a['vanity-name'] ? `https://www.fatsoma.com/e/${a['vanity-name']}` : null;
+      // health: null | 'postponed' | 'cancelled' (promoter-set status)
+      const health = String(a.health || '').toLowerCase();
       const ageM = String(a['age-restrictions'] || '').match(/(\d{2})\s*\+/);
       events.push({
         type,
@@ -958,8 +963,9 @@ async function fatsoma() {
         infoUrl: url,
         going: null,
         minage: ageM ? ageM[1] + '+' : null,
+        status: health === 'postponed' ? 'postponed' : null,
         desc,
-        cancelled: false,
+        cancelled: /cancel/.test(health) || a.expired === true,
         source: 'fatsoma',
         _venue: { name: v.name, postcode: v.postcode, address: deent(addr).replace(/, UK$/, '') || null },
       });
@@ -1012,6 +1018,7 @@ async function ticketmaster() {
         ticketUrl: ev.url || null, infoUrl: ev.url || null,
         going: null, minage: null, desc: null,
         cancelled: /cancell?ed/i.test(ev.dates?.status?.code || ''),
+        status: /postponed/i.test(ev.dates?.status?.code || '') ? 'postponed' : /rescheduled/i.test(ev.dates?.status?.code || '') ? 'rescheduled' : null,
         source: 'ticketmaster',
         _venue: { name: v.name, postcode: v.postcode, address: deent(ven.address?.line1 || '') || null },
       });
@@ -1246,6 +1253,7 @@ async function main() {
       if (!best.infoUrl && other.infoUrl) best.infoUrl = other.infoUrl;
       if (!best.ticketUrl && other.ticketUrl) best.ticketUrl = other.ticketUrl;
       if (!best.minage && other.minage) best.minage = other.minage;
+      if (!best.status && other.status) best.status = other.status;
       // genres: a guess never pollutes a known answer. Known + known = union
       // (winner's primary stays primary); guess + known = the known one.
       if (!other.genreGuess) {
