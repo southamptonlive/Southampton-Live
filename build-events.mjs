@@ -423,8 +423,36 @@ function brookDate(text) {
   return `${m[3]}-${String(mo).padStart(2, '0')}-${String(m[1]).padStart(2, '0')}`;
 }
 
+// The Brook's what's-on page serves 12 cards in HTML and the rest behind a
+// "Load More" button (a plain WordPress admin-ajax call, same nonce as the
+// page, no login). We press it until the venue says there's nothing more, so
+// every Brook gig comes from the venue itself with its own flyer.
+async function brookAllCards() {
+  const first = await fetchText(BROOK_URL + 'whats-on/');
+  let html = first;
+  const nonce = (first.match(/"security":"([a-f0-9]+)"/) || [])[1];
+  let page = (first.match(/data-load-more-page="(\d+)"/) || [])[1];
+  for (let guard = 0; nonce && page && guard < 12; guard++) {
+    await sleep(1200);
+    let data;
+    try {
+      const res = await fetch(BROOK_URL + 'wp-admin/admin-ajax.php', {
+        method: 'POST',
+        headers: { ...HEADERS, 'Content-Type': 'application/x-www-form-urlencoded', Referer: BROOK_URL + 'whats-on/' },
+        body: new URLSearchParams({ action: 'the_brook_events_search', security: nonce, search: '', date: '', genres: '', load_more_page: String(page) }),
+      });
+      if (!res.ok) break;
+      data = await res.json();
+    } catch (e) { break; }
+    if (!data || !data.cards) break;
+    html += '\n' + data.cards;
+    page = data.load_more ? String(data.load_more) : null;
+  }
+  return html;
+}
 async function brook() {
-  const html = await fetchText(BROOK_URL);
+  let html;
+  try { html = await brookAllCards(); } catch (e) { html = await fetchText(BROOK_URL); }
   const cards = html.split(/class="event-card"/).slice(1);
   const events = [];
   const seen = new Set();
