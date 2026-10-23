@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-23T14:10:08.627Z",
+ "generated": "2026-10-23T14:13:49.849Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 228
+   "events": 229
   },
   {
    "id": "ticketmaster",
@@ -1619,6 +1619,66 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -30522,34 +30582,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/6n4sc7x1/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
    "infoUrl": "https://www.fatsoma.com/e/6n4sc7x1/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-4c8dbcc2-eb8",
-   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
-   "venueId": "goals-millbrook-southampton",
-   "venueName": "GOALS - Millbrook - (Southampton)",
-   "postcode": "SO15 0JW",
-   "date": "2027-06-26",
-   "time": "12:30",
-   "price": 80,
-   "priceMax": 80,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/mge6ubud/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/mge6ubud/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
    "going": null,
    "minage": null,
    "status": null,
