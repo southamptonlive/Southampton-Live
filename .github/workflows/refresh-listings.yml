@@ -76,7 +76,7 @@ jobs:
           mkdir -p dist
           cp index.html events.json logo.png dist/
           # ship any extra static pages if present (privacy, about…)
-          for f in privacy.html terms.html about.html share-card.png icon-512.png; do [ -f "$f" ] && cp "$f" dist/; done
+          for f in privacy.html terms.html about.html share-card.png icon-512.png .htaccess; do [ -f "$f" ] && cp "$f" dist/; done
           ls -la dist/
 
       - name: Deploy to SiteGround (FTPS)
