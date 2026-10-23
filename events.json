@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-23T17:11:27.458Z",
+ "generated": "2026-10-23T21:28:23.497Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -79,14 +79,14 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 60
+   "events": 59
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 430
+   "events": 433
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 533
+   "events": 530
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 228
+   "events": 227
   },
   {
    "id": "ticketmaster",
@@ -561,55 +561,28 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-ffdf037d-a16",
-   "artist": "Late Night Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-23",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/af54nrab/late-night-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/af54nrab/late-night-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-smoove-turrell-the-singles-tour-2026-10-23",
-   "artist": "Smoove & Turrell - The Singles Tour",
+   "id": "tm-16dFZ_k8YG7B8zU",
+   "artist": "Smoove & Turrell - the Singles Tour",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-10-23",
    "time": "19:30",
-   "price": 24.75,
-   "priceMax": 24.75,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "funk",
-   "img": "https://i.ticketweb.com/i/00/13/36/84/73_Original.jpg?v=8",
-   "ticketUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403",
-   "infoUrl": "https://www.the-brook.com/tm-event/smoove-turrell-the-singles-tour/",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/a/c0f/985645bf-d056-4128-9b15-fafcab899c0f_SOURCE",
+   "ticketUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403?REFERRAL_ID=tmfeed",
+   "infoUrl": "https://www.ticketweb.uk/event/smoove-turrell-the-brook-tickets/14758403?REFERRAL_ID=tmfeed",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
+   "status": null,
+   "source": "ticketmaster",
    "genres": [
     "funk"
    ]
@@ -642,32 +615,6 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-23-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-23",
-   "time": "19:30",
-   "price": 60,
-   "priceMax": 60,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52829",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -693,32 +640,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-murder-she-didn-t-write-2026-10-23-1945",
-   "artist": "Murder, She Didn't Write",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-23",
-   "time": "19:45",
-   "price": 31.75,
-   "priceMax": 31.75,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52969",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "comedy"
    ]
   },
   {
@@ -750,32 +671,6 @@
     "comedy"
    ],
    "_carriedSince": "2026-10-18T15:56:01.213Z"
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-hasbian-2026-10-23-2000",
-   "artist": "Hasbian",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-23",
-   "time": "20:00",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/08/Hasbian-900x600-text-collage-scaled.png?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54568/54569",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-hasbian-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
   },
   {
    "type": "club",
@@ -834,34 +729,6 @@
    "source": "fatsoma",
    "genres": [
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-7b149624-263",
-   "artist": "Bottomless Drinks £20pp | FRIDAY 23rd OCTOBER | Time Slot: 8pm - 9:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-23",
-   "time": "20:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/yppte02i/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/yppte02i/bottomless-drinks-20pp-friday-23rd-october-time-slot-8pm-9-30pm",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -1465,9 +1332,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "19:30",
-   "price": 45,
+   "price": 30,
    "priceMax": 60,
-   "priceText": "£45–£60",
+   "priceText": "£30–£60",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
@@ -1619,6 +1486,66 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -2357,9 +2284,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-27",
    "time": "20:00",
-   "price": 27,
+   "price": 40,
    "priceMax": 50,
-   "priceText": "£27–£50",
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52410",
@@ -2470,9 +2397,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-28",
    "time": "17:00",
-   "price": 27,
+   "price": 40,
    "priceMax": 50,
-   "priceText": "£27–£50",
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52411",
@@ -2661,9 +2588,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-28",
    "time": "20:00",
-   "price": 27,
+   "price": 40,
    "priceMax": 50,
-   "priceText": "£27–£50",
+   "priceText": "£40–£50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52412",
@@ -8029,9 +7956,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-13",
    "time": "19:00",
-   "price": 38.5,
+   "price": 47.5,
    "priceMax": 59.5,
-   "priceText": "£38.50–£59.50",
+   "priceText": "£47.50–£59.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/04/WNO_LB_S_960x600px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53963/53969",
@@ -9856,9 +9783,9 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-20",
    "time": "19:45",
-   "price": 32.5,
+   "price": 22.5,
    "priceMax": 37.5,
-   "priceText": "£32.50–£37.50",
+   "priceText": "£22.50–£37.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/TOSOM-Web-Prod-SHamp_960-x-600px-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54085/54091",
@@ -10150,9 +10077,9 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-21",
    "time": "14:30",
-   "price": 32.5,
+   "price": 22.5,
    "priceMax": 38.5,
-   "priceText": "£32.50–£38.50",
+   "priceText": "£22.50–£38.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/TOSOM-Web-Prod-SHamp_960-x-600px-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54085/54092",
@@ -15084,34 +15011,6 @@
    "source": "mayflower",
    "genres": [
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-f81ee87d-6b6",
-   "artist": "😻 Glam Thursdays | ❄️☃️ SNOW PARTY❄️☃️ Southampton's Best Student Night! 😻 £1 Corky's All Night! 🥃 *Gala Event",
-   "venueId": "trilogy-nightclub",
-   "venueName": "Trilogy nightclub",
-   "postcode": "SO15 2AD",
-   "date": "2026-12-10",
-   "time": "22:00",
-   "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/f08uf0sv/glam-thursdays-snow-party-southampton-s-best-student-night-1-corky-s-all-night-gala-event",
-   "infoUrl": "https://www.fatsoma.com/e/f08uf0sv/glam-thursdays-snow-party-southampton-s-best-student-night-1-corky-s-all-night-gala-event",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -20933,9 +20832,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-02-05",
    "time": "19:30",
-   "price": 29,
+   "price": 42,
    "priceMax": 75,
-   "priceText": "£29–£75",
+   "priceText": "£42–£75",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/04/Doubtfire-Event-Card.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/51887/51917",
@@ -21984,6 +21883,33 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43480825",
+   "artist": "Holy Motors",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-02-15",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43480825-holy-motors-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43480825-holy-motors-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -28528,33 +28454,6 @@
   },
   {
    "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-guitar-superstars-2027-05-16-1900",
-   "artist": "Guitar Superstars",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-05-16",
-   "time": "19:00",
-   "price": 30,
-   "priceMax": 50,
-   "priceText": "£30–£50",
-   "genre": "indie",
-   "img": "https://images.mayflower.org.uk/uploads/2026/06/BSO-Guitar-Superstars_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54365/54368",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/bso-guitar-superstars-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
    "tags": [
     "tribute"
    ],
@@ -28578,6 +28477,33 @@
    "desc": null,
    "status": null,
    "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-guitar-superstars-2027-05-16-1900",
+   "artist": "Guitar Superstars",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-05-16",
+   "time": "19:00",
+   "price": 30,
+   "priceMax": 50,
+   "priceText": "£30–£50",
+   "genre": "indie",
+   "img": "https://images.mayflower.org.uk/uploads/2026/06/BSO-Guitar-Superstars_960x600pxls.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54365/54368",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/bso-guitar-superstars-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -30522,6 +30448,34 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/6n4sc7x1/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
    "infoUrl": "https://www.fatsoma.com/e/6n4sc7x1/southampton-fit4football-masterclass-u8-u9-u10-sat-26th-june-2027-10am-12pm",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-4c8dbcc2-eb8",
+   "artist": "SOUTHAMPTON FIT4FOOTBALL MASTERCLASS - U11/U12/U13 - SAT 26TH JUNE 2027 - 12.30PM - 2.30PM",
+   "venueId": "goals-millbrook-southampton",
+   "venueName": "GOALS - Millbrook - (Southampton)",
+   "postcode": "SO15 0JW",
+   "date": "2027-06-26",
+   "time": "12:30",
+   "price": 80,
+   "priceMax": 80,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/mge6ubud/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
+   "infoUrl": "https://www.fatsoma.com/e/mge6ubud/southampton-fit4football-masterclass-u11-u12-u13-sat-26th-june-2027-12-30pm-2-30pm",
    "going": null,
    "minage": null,
    "status": null,
@@ -34089,6 +34043,33 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43380734",
+   "artist": "A Foreigners Journey",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2028-07-29",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43380734-a-foreigners-journey-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43380734-a-foreigners-journey-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   }
  ]
