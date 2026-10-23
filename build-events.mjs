@@ -977,7 +977,10 @@ async function ticketmaster() {
         priceMax: pr ? pr.max : (pr ? pr.min : null),
         priceText: pr && pr.max > pr.min ? `£${fmt(pr.min)}–£${fmt(pr.max)}` : null,
         genre: inferGenre(ev.name, '', 'LIVE'),
-        img: (ev.images || []).sort((x, y) => (y.width || 0) - (x.width || 0))[0]?.url || null,
+        // Only real attraction artwork (/dam/a/). Ticketmaster's /dam/c/ images
+        // are generic category stock photos (lasers, crowds) shared by dozens of
+        // unrelated events — a stock photo dressed as a flyer is fake data.
+        img: (ev.images || []).filter((i) => i.url && !/\/dam\/c\//.test(i.url)).sort((x, y) => (y.width || 0) - (x.width || 0))[0]?.url || null,
         ticketUrl: ev.url || null, infoUrl: ev.url || null,
         going: null, minage: null, desc: null,
         cancelled: /cancell?ed/i.test(ev.dates?.status?.code || ''),
