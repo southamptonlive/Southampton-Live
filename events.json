@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T09:47:05.337Z",
+ "generated": "2026-10-24T10:29:54.620Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 133,
+   "carried": 125,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -9660,35 +9660,6 @@
    "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42492040",
-   "artist": "Dominic Frisby on Tour! in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "going": 1,
-   "minage": null,
-   "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
-   "source": "skiddle",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -9714,6 +9685,34 @@
     "indie"
    ],
    "_carriedSince": "2026-10-21T04:51:42.272Z"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-42492040",
+   "artist": "Dominic Frisby on Tour! in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
+   "going": 1,
+   "minage": null,
+   "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
+   "source": "skiddle",
+   "genres": [
+    "comedy"
+   ]
   },
   {
    "type": "gig",
@@ -16456,7 +16455,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/8/7/2449964_be60fba7_dj-joker-presents-jungle-bells_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/",
-   "going": 2,
+   "going": 4,
    "minage": "18",
    "desc": "Get ready for Jungle Bells! Join DJ Joker vs DJ Active at Suburbia for a festive Drum & Bass night on Saturday 19th December",
    "source": "skiddle",
@@ -16464,8 +16463,7 @@
     "dnb",
     "jungle",
     "electronic"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17123,14 +17121,13 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/8/e/2264385_e0c1f874_enginerooms-southampton-secret-boxing-day-headliner_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
-   "going": 62,
+   "going": 70,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
    "source": "skiddle",
    "genres": [
     "trance"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "club",
@@ -19453,15 +19450,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/3/c/5/2336013_4905e026_prohibition-party_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Prohibition-Party/42719881/",
-   "going": 10,
+   "going": 12,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "gig",
@@ -20709,8 +20705,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "theatre",
@@ -22799,15 +22794,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/5/0/e/2352389_98fd0fdb_frankie-stew-harvey-gunn_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Frankie-Stew--Harvey-Gunn/42807838/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Frankie-Stew--Harvey-Gunn/42807838/",
-   "going": 9,
+   "going": 11,
    "minage": "14",
    "desc": "Frankie Stew & Harvey Gunn head to EngineRooms Southampton!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "gig",
@@ -23427,15 +23421,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/1/6/2342714_60e82980_movements_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Movements/42736679/",
-   "going": 77,
+   "going": 76,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "theatre",
@@ -26044,15 +26037,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/7/a/2351385_05bfdc61_dinosaur-pile-up_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dinosaur-Pile-Up/42804082/",
-   "going": 18,
+   "going": 19,
    "minage": "14",
    "desc": "Dinosaur Pile Up hit EngineRooms Southampton this April!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-17T10:09:12.742Z"
+   ]
   },
   {
    "type": "gig",
