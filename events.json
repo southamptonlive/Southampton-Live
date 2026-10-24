@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T11:05:17.622Z",
+ "generated": "2026-10-24T11:26:33.666Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -162,16 +162,16 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "guildhall-square-uk",
-   "name": "Guildhall Square, UK",
-   "postcode": "SO14 7FP",
-   "address": "Guildhall Square"
-  },
-  {
    "id": "trilogy-southampton",
    "name": "Trilogy Southampton",
    "postcode": "SO15 2AD",
    "address": "Waterloo Buildings, 55 London road"
+  },
+  {
+   "id": "guildhall-square-uk",
+   "name": "Guildhall Square, UK",
+   "postcode": "SO14 7FP",
+   "address": "Guildhall Square"
   },
   {
    "id": "brook",
@@ -513,8 +513,8 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "14:00",
-   "price": 60,
-   "priceMax": 60,
+   "price": 95,
+   "priceMax": 95,
    "priceText": null,
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
@@ -1530,7 +1530,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -1542,8 +1542,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -1561,7 +1561,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -1573,8 +1573,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
