@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T04:41:12.467Z",
+ "generated": "2026-10-24T09:47:05.337Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 131,
+   "carried": 133,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 215
+   "events": 216
   },
   {
    "id": "ticketmaster",
@@ -513,9 +513,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "14:00",
-   "price": 40,
+   "price": 125,
    "priceMax": 125,
-   "priceText": "£40–£125",
+   "priceText": null,
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52830",
@@ -785,12 +785,12 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "19:30",
-   "price": 30,
-   "priceMax": 60,
-   "priceText": "£30–£60",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "going": 0,
    "minage": null,
@@ -939,6 +939,66 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -1860,7 +1920,8 @@
    "source": "skiddle",
    "genres": [
     "hip-hop"
-   ]
+   ],
+   "_carriedSince": "2026-10-24T04:41:12.467Z"
   },
   {
    "type": "gig",
@@ -7784,7 +7845,8 @@
    "source": "skiddle",
    "genres": [
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-24T04:41:12.467Z"
   },
   {
    "type": "gig",
@@ -26125,7 +26187,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-24T04:41:12.467Z"
   },
   {
    "type": "gig",
