@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T20:54:05.958Z",
+ "generated": "2026-10-24T23:18:37.493Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 66
+   "events": 65
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 430
+   "events": 422
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 238
+   "events": 236
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 266
+   "events": 265
   }
  ],
  "venues": [
@@ -312,22 +312,10 @@
    "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
-  },
-  {
    "id": "turtle-bay-southampton",
    "name": "Turtle Bay Southampton",
    "postcode": "SO14 7FP",
    "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "trilogy-nightclub",
@@ -340,6 +328,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "crib-cocktails-shuffleboard",
@@ -449,35 +449,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-08048c86-05e",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-24",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/whnsj2of/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/whnsj2of/daytime-clubbing-4pm-10pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -506,38 +477,10 @@
    "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-a3071f64-bbc",
-   "artist": "Oktoberfest Southampton Saturday 24th October 2026 (Evening Session)",
-   "venueId": "guildhall-square",
-   "venueName": "Guildhall square",
-   "postcode": "SO14 7FP",
-   "date": "2026-10-24",
-   "time": "18:30",
-   "price": 16.5,
-   "priceMax": 27.5,
-   "priceText": "£16.50–£27.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/atuk8jnj/oktoberfest-southampton-saturday-24th-october-2026-evening-session",
-   "infoUrl": "https://www.fatsoma.com/e/atuk8jnj/oktoberfest-southampton-saturday-24th-october-2026-evening-session",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-17uOv0G65mS8B0T",
+   "id": "sg-43246844",
    "artist": "Keo",
    "venueId": "guildhall",
    "venueName": "O2 Guildhall",
@@ -548,14 +491,13 @@
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/e18/f6f4851b-20de-4dfe-958a-0f7da064ae18_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/keo-southampton-24-10-2026/event/360064BBB343A93F",
-   "infoUrl": "https://www.ticketmaster.co.uk/keo-southampton-24-10-2026/event/360064BBB343A93F",
-   "going": null,
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43246844-keo-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/43246844-keo-at-o2-guildhall",
+   "going": 0,
    "minage": null,
    "desc": null,
-   "status": null,
-   "source": "ticketmaster",
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -705,6 +647,66 @@
   },
   {
    "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-863347ca-81c",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-90158996-809",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
+   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-24",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-27b3b048-3f8",
@@ -759,34 +761,6 @@
    "source": "fatsoma",
    "genres": [
     "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-eb0cfee3-79b",
-   "artist": "Bottomless Drinks £20pp | SATURDAY 24TH OCTOBER | Time Slot: 10pm - 11:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/71urayyy/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/71urayyy/bottomless-drinks-20pp-saturday-24th-october-time-slot-10pm-11-30pm",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -7872,61 +7846,6 @@
    "_carriedSince": "2026-10-24T04:41:12.467Z"
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qj1zdFZTsOZzGmAk",
-   "artist": "Kid Kapichi",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/f33/c05835eb-fc7b-480b-88dc-89b8de808f33_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43041883",
-   "artist": "Jacob Hawley",
-   "venueId": "attic",
-   "venueName": "The Attic",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43041883-jacob-hawley-at-attic",
-   "infoUrl": "https://www.songkick.com/concerts/43041883-jacob-hawley-at-attic",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
    "type": "comedy",
    "tags": [],
    "hot": false,
@@ -7983,6 +7902,34 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-LvZ18Qj1zdFZTsOZzGmAk",
+   "artist": "Kid Kapichi",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/f33/c05835eb-fc7b-480b-88dc-89b8de808f33_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "br-bon-giovi-2026-11-14",
    "artist": "Bon Giovi",
    "venueId": "brook",
@@ -8001,33 +7948,6 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42915208",
-   "artist": "Fin Taylor",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "date": "2026-11-14",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42915208-fin-taylor-at-o2-guildhall",
-   "infoUrl": "https://www.songkick.com/concerts/42915208-fin-taylor-at-o2-guildhall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -8201,33 +8121,6 @@
    "genres": [
     "afrobeat",
     "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433358",
-   "artist": "Hail the Sun",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-11-14",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
