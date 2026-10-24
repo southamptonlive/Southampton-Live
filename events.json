@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T16:01:17.125Z",
+ "generated": "2026-10-24T20:54:05.958Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -79,14 +79,14 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 59
+   "events": 58
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 429
+   "events": 430
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 526
+   "events": 524
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 215
+   "events": 238
   },
   {
    "id": "ticketmaster",
@@ -174,16 +174,16 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
-   "id": "brook",
-   "name": "The Brook",
-   "postcode": "SO17 3QF",
-   "address": "466 Portswood Road, Southampton"
-  },
-  {
    "id": "heartbreakers",
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
+  },
+  {
+   "id": "brook",
+   "name": "The Brook",
+   "postcode": "SO17 3QF",
+   "address": "466 Portswood Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -312,10 +312,22 @@
    "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
    "id": "turtle-bay-southampton",
    "name": "Turtle Bay Southampton",
    "postcode": "SO14 7FP",
    "address": "1 Guildhall Sq, Southampton SO14 7FP"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "trilogy-nightclub",
@@ -328,18 +340,6 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
-  },
-  {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "crib-cocktails-shuffleboard",
@@ -421,34 +421,6 @@
   }
  ],
  "events": [
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-5d08df32-e26",
-   "artist": "Oktoberfest Southampton Saturday 24th October 2026 (Day Session)",
-   "venueId": "guildhall-square",
-   "venueName": "Guildhall square",
-   "postcode": "SO14 7FP",
-   "date": "2026-10-24",
-   "time": "12:30",
-   "price": 9,
-   "priceMax": 357.5,
-   "priceText": "£9–£357.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ycmqeflv/oktoberfest-southampton-saturday-24th-october-2026-day-session",
-   "infoUrl": "https://www.fatsoma.com/e/ycmqeflv/oktoberfest-southampton-saturday-24th-october-2026-day-session",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
   {
    "type": "gig",
    "tags": [],
@@ -621,78 +593,27 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-ian-prowse-amsterdam-2026-10-24",
+   "id": "tm-LvZ18Qn0clGeJ1pYkda_m",
    "artist": "Ian Prowse & Amsterdam",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-10-24",
-   "time": "19:30",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "folk-acoustic",
-   "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=11",
-   "ticketUrl": "https://www.ticketweb.uk/event/ian-prowse-amsterdam-the-brook-tickets/14136584",
-   "infoUrl": "https://www.the-brook.com/tm-event/ian-prowse-amsterdam/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "genres": [
-    "folk-acoustic"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-24-1930",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-24",
-   "time": "19:30",
-   "price": 80,
-   "priceMax": 80,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-murder-she-didn-t-write-2026-10-24-1945",
-   "artist": "Murder, She Didn't Write",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-24",
-   "time": "19:45",
+   "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "going": 0,
+   "genre": "folk-acoustic",
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/ian-prowse-amsterdam-tickets-9VQCHK?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/ian-prowse-amsterdam-tickets-9VQCHK?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "mayflower",
+   "status": null,
+   "source": "ticketmaster",
    "genres": [
-    "comedy"
+    "folk-acoustic"
    ]
   },
   {
@@ -753,34 +674,6 @@
   },
   {
    "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-7cc7284e-4fa",
-   "artist": "Bottomless Drinks £20pp | SATURDAY 24TH OCTOBER | Time Slot: 8pm - 9:30pm",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/6g70o8ue/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
-   "infoUrl": "https://www.fatsoma.com/e/6g70o8ue/bottomless-drinks-20pp-saturday-24th-october-time-slot-8pm-9-30pm",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
    "tags": [
     "free entry",
     "tribute"
@@ -808,66 +701,6 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-863347ca-81c",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-90158996-809",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
    ]
   },
   {
@@ -1173,7 +1006,7 @@
    "priceMax": 11,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/72/95/24_Original.jpg?v=10",
+   "img": "https://i.ticketweb.com/i/00/12/72/95/24_Original.jpg?v=11",
    "ticketUrl": "https://www.ticketweb.uk/event/emma-stevens-heartbreakers-heartbreakers-tickets/13975874",
    "infoUrl": "https://www.the-brook.com/tm-event/emma-stevens-heartbreakers/",
    "going": 0,
@@ -4651,6 +4484,34 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-83203b18-afc",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-03",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/7w4vrb86/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/7w4vrb86/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -4874,6 +4735,36 @@
   },
   {
    "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-ca5f3e01-35e",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-04",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jp0yiftn/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/jp0yiftn/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "sk-43018159",
@@ -5093,6 +4984,35 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-002dc98b-ab5",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-05",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "dance",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/m4q9vi2f/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/m4q9vi2f/pop-off-thursdays-free-entry-shot",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "dance"
    ]
   },
   {
@@ -5542,6 +5462,36 @@
    "source": "mayflower",
    "genres": [
     "rock"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-06d5047b-cfe",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/ubse3eq5/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/ubse3eq5/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -6052,6 +6002,33 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-57e80d2b-515",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/6pif6hzc/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/6pif6hzc/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "tribute"
@@ -6359,6 +6336,37 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-55596a90-ef4",
+   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-08",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/36it9ity/karaoke-sundays-free-entry-before-midnight",
+   "infoUrl": "https://www.fatsoma.com/e/36it9ity/karaoke-sundays-free-entry-before-midnight",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -6579,6 +6587,34 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-e44fe557-620",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-10",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jlnsexh2/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/jlnsexh2/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -6793,6 +6829,36 @@
    "source": "fatsoma",
    "genres": [
     "other"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-05eb01e3-90b",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-11",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/66em4d8t/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/66em4d8t/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -7063,6 +7129,35 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-6d67ed05-bcd",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-12",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "dance",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/lqzjom9p/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/lqzjom9p/pop-off-thursdays-free-entry-shot",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "dance"
    ]
   },
   {
@@ -7428,6 +7523,36 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-43b22eea-856",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/89p1e0zk/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/89p1e0zk/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -7937,6 +8062,33 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-a0fcaedd-90e",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dapmtk6v/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/dapmtk6v/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "tribute"
@@ -8190,6 +8342,37 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-5ffea3c2-199",
+   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-15",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/copcz0zd/karaoke-sundays-free-entry-before-midnight",
+   "infoUrl": "https://www.fatsoma.com/e/copcz0zd/karaoke-sundays-free-entry-before-midnight",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -8377,6 +8560,34 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-d3b0e5ae-e88",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-17",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/d48pkavc/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/d48pkavc/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -8595,6 +8806,36 @@
    "source": "fatsoma",
    "genres": [
     "other"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-d0868eed-242",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-18",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/ycjc92q8/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/ycjc92q8/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -8904,6 +9145,35 @@
   {
    "type": "club",
    "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-446f0cbf-68c",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "dance",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/j960druu/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/j960druu/pop-off-thursdays-free-entry-shot",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "dance"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "indie"
    ],
    "hot": false,
@@ -9178,6 +9448,36 @@
     "comedy"
    ],
    "_carriedSince": "2026-10-18T15:56:01.213Z"
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-df60781a-506",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/7gvp0ott/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/7gvp0ott/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
   },
   {
    "type": "club",
@@ -9832,6 +10132,33 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7a08b874-ee4",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s9p4vrf3/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/s9p4vrf3/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "tribute"
@@ -10227,6 +10554,37 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-3f2f0d86-b7a",
+   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-22",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/1f8j4ttv/karaoke-sundays-free-entry-before-midnight",
+   "infoUrl": "https://www.fatsoma.com/e/1f8j4ttv/karaoke-sundays-free-entry-before-midnight",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -10360,6 +10718,34 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-05762175-0af",
+   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-24",
+   "time": "22:00",
+   "price": 1.5,
+   "priceMax": 3.5,
+   "priceText": "£1.50–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/nqm8vrix/pounded-tuesdays-1-drinks",
+   "infoUrl": "https://www.fatsoma.com/e/nqm8vrix/pounded-tuesdays-1-drinks",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -10641,6 +11027,36 @@
   },
   {
    "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-693c2440-99e",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jumaojf9/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/jumaojf9/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-c0e8f55d-929",
@@ -10910,6 +11326,35 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-05c9be7d-155",
+   "artist": "Pop Off Thursdays - Free Entry & Shot!",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-26",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "dance",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/vddkxuf0/pop-off-thursdays-free-entry-shot",
+   "infoUrl": "https://www.fatsoma.com/e/vddkxuf0/pop-off-thursdays-free-entry-shot",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "dance"
    ]
   },
   {
@@ -11307,6 +11752,36 @@
    "source": "mayflower",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drag"
+   ],
+   "hot": false,
+   "id": "fat-4ffc9674-2c0",
+   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 4,
+   "priceText": null,
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/4myb7ikh/bingo-cabaret-cocktails-prizes-to-be-won",
+   "infoUrl": "https://www.fatsoma.com/e/4myb7ikh/bingo-cabaret-cocktails-prizes-to-be-won",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -11982,6 +12457,33 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-17242150-03b",
+   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "price": 4,
+   "priceMax": 7,
+   "priceText": "£4–£7",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/k85hkxhr/the-big-one-cocktails-2-4-1",
+   "infoUrl": "https://www.fatsoma.com/e/k85hkxhr/the-big-one-cocktails-2-4-1",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "free entry",
     "tribute"
@@ -12232,6 +12734,37 @@
    "source": "mayflower",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-5efe3304-dce",
+   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-11-29",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3.5,
+   "priceText": "£0–£3.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/vc1mpmxz/karaoke-sundays-free-entry-before-midnight",
+   "infoUrl": "https://www.fatsoma.com/e/vc1mpmxz/karaoke-sundays-free-entry-before-midnight",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -12566,6 +13099,36 @@
    "source": "mayflower",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "karaoke"
+   ],
+   "hot": false,
+   "id": "fat-4acb339b-163",
+   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
+   "venueId": "the-edge-the-box-bar",
+   "venueName": "The Edge & The Box Bar",
+   "postcode": "SO14 0BH",
+   "date": "2026-12-02",
+   "time": "21:00",
+   "price": 1.5,
+   "priceMax": 6,
+   "priceText": "£1.50–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/vltzsiyg/bar150-win-a-100-bar-tab-every-wednesday",
+   "infoUrl": "https://www.fatsoma.com/e/vltzsiyg/bar150-win-a-100-bar-tab-every-wednesday",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -31213,9 +31776,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-09-04",
    "time": "14:00",
-   "price": 25,
+   "price": 39.5,
    "priceMax": 89.5,
-   "priceText": "£25–£89.50",
+   "priceText": "£39.50–£89.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/8721_01_JCS_Southampton_960x600px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54081/54107",
