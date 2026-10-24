@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T11:26:33.666Z",
+ "generated": "2026-10-24T16:01:17.125Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 530
+   "events": 526
   },
   {
    "id": "skiddle:api",
@@ -162,16 +162,16 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "trilogy-southampton",
-   "name": "Trilogy Southampton",
-   "postcode": "SO15 2AD",
-   "address": "Waterloo Buildings, 55 London road"
-  },
-  {
    "id": "guildhall-square-uk",
    "name": "Guildhall Square, UK",
    "postcode": "SO14 7FP",
    "address": "Guildhall Square"
+  },
+  {
+   "id": "trilogy-southampton",
+   "name": "Trilogy Southampton",
+   "postcode": "SO15 2AD",
+   "address": "Waterloo Buildings, 55 London road"
   },
   {
    "id": "brook",
@@ -312,22 +312,10 @@
    "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
-  },
-  {
    "id": "turtle-bay-southampton",
    "name": "Turtle Bay Southampton",
    "postcode": "SO14 7FP",
    "address": "1 Guildhall Sq, Southampton SO14 7FP"
-  },
-  {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "trilogy-nightclub",
@@ -340,6 +328,18 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
+  },
+  {
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "crib-cocktails-shuffleboard",
@@ -450,32 +450,6 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-flotsam-2026-10-24-1300",
-   "artist": "Flotsam",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-24",
-   "time": "13:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/07/event-card-flotsam-mayflower.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -500,111 +474,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-moulin-rouge-the-musical-2026-10-24-1400",
-   "artist": "Moulin Rouge! The Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "price": 95,
-   "priceMax": 95,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52830",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-9178e986-1bd",
-   "artist": "Bangers & Brunch [BOOK VIA WEBSITE]",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/c6q6dhkc/bangers-brunch-book-via-website",
-   "infoUrl": "https://www.fatsoma.com/e/c6q6dhkc/bangers-brunch-book-via-website",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-murder-she-didn-t-write-2026-10-24-1430",
-   "artist": "Murder, She Didn't Write",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-24",
-   "time": "14:30",
-   "price": 31.75,
-   "priceMax": 31.75,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52970",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-flotsam-2026-10-24-1500",
-   "artist": "Flotsam",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-24",
-   "time": "15:00",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/07/event-card-flotsam-mayflower.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54426/54428",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/flotsam-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -763,7 +632,7 @@
    "priceMax": 22,
    "priceText": null,
    "genre": "folk-acoustic",
-   "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=10",
+   "img": "https://i.ticketweb.com/i/00/12/85/96/04_Original.jpg?v=11",
    "ticketUrl": "https://www.ticketweb.uk/event/ian-prowse-amsterdam-the-brook-tickets/14136584",
    "infoUrl": "https://www.the-brook.com/tm-event/ian-prowse-amsterdam/",
    "going": 0,
@@ -785,12 +654,12 @@
    "postcode": "SO15 1GE",
    "date": "2026-10-24",
    "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "price": 80,
+   "priceMax": 80,
    "priceText": null,
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/MR-2025-10-SOU-Signupassets-Emails-960x600-56346SA.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/52782/52831",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/moulin-rouge-the-musical-2026/",
    "going": 0,
    "minage": null,
@@ -811,12 +680,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-10-24",
    "time": "19:45",
-   "price": 31.75,
-   "priceMax": 31.75,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/960x600_MSDW_V1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52967/52971",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/murder-she-didnt-write-2026/",
    "going": 0,
    "minage": null,
@@ -1464,6 +1333,35 @@
   {
    "type": "club",
    "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-f708c22b-2dc",
+   "artist": "🎃🌍 INTERNATIONAL HALLOWEEN SOCIAL 🌍🎃",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-10-26",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 6,
+   "priceText": null,
+   "genre": "world",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/vkp601v7/international-halloween-social",
+   "infoUrl": "https://www.fatsoma.com/e/vkp601v7/international-halloween-social",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "world"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "house",
     "halloween"
    ],
@@ -1530,7 +1428,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -1542,8 +1440,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -1561,7 +1459,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -1573,8 +1471,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -19688,9 +19586,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-01-30",
    "time": "14:00",
-   "price": 41.5,
+   "price": 48.5,
    "priceMax": 57.5,
-   "priceText": "£41.50–£57.50",
+   "priceText": "£48.50–£57.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/ANNIE-2026-04-Sou-UpdatedEventCard-960x600-60046SGA.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53073/53080",
