@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T16:23:26.304Z",
+ "generated": "2026-10-25T16:42:41.759Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 108,
+   "carried": 125,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -270,16 +270,16 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "funky-flamingo",
-   "name": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
    "address": "Southampton"
+  },
+  {
+   "id": "funky-flamingo",
+   "name": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
    "id": "popworld",
@@ -3811,7 +3811,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "theatre",
@@ -5638,7 +5639,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "theatre",
@@ -7860,7 +7862,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -8328,7 +8331,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "club",
@@ -9067,7 +9071,8 @@
    "source": "skiddle",
    "genres": [
     "latin"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "club",
@@ -13613,7 +13618,8 @@
     "metal",
     "emo-alt",
     "punk"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -14617,7 +14623,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -14926,7 +14933,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -15236,7 +15244,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -19350,7 +19359,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "theatre",
@@ -22724,7 +22734,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -23618,7 +23629,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "comedy",
@@ -23782,7 +23794,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -26241,7 +26254,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -27938,7 +27952,8 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -28997,7 +29012,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
@@ -29525,7 +29541,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T16:23:26.304Z"
   },
   {
    "type": "gig",
