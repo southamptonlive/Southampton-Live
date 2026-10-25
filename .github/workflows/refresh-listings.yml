@@ -17,6 +17,7 @@
 #   TM_API_KEY         free at developer.ticketmaster.com — adds TM listings
 #   ANTHROPIC_API_KEY  enables the AI genre-classification pass (34-genre vocabulary; never guesses)
 #   SKIDDLE_API_KEY    official Skiddle API — licensed images/genres/affiliate
+#   GA4_MEASUREMENT_ID G-XXXXXXXXXX — injected into the deployed index.html only; absent = analytics off
 
 name: Refresh Southampton.Live listings
 
@@ -76,7 +77,17 @@ jobs:
           mkdir -p dist
           cp index.html events.json logo.png dist/
           # ship any extra static pages if present (privacy, about…)
-          for f in privacy.html terms.html about.html share-card.png icon-512.png .htaccess; do [ -f "$f" ] && cp "$f" dist/; done
+          for f in privacy.html terms.html about.html share-card.png icon-512.png .htaccess robots.txt sitemap.xml; do [ -f "$f" ] && cp "$f" dist/; done
+          # static sub-pages (e.g. about/free/index.html)
+          [ -d about ] && mkdir -p dist/about && cp -r about/. dist/about/
+          # GA4 measurement ID is injected here, into the deploy copy only — the
+          # committed index.html keeps the placeholder (DR-003). No secret = analytics off.
+          if [ -n "${{ secrets.GA4_MEASUREMENT_ID }}" ]; then
+            sed -i "s/__GA4_MEASUREMENT_ID__/${{ secrets.GA4_MEASUREMENT_ID }}/" dist/index.html
+            echo "analytics: GA4 id injected"
+          else
+            echo "analytics: GA4_MEASUREMENT_ID secret not set — analytics off, no banner"
+          fi
           ls -la dist/
 
       - name: Deploy to SiteGround (FTPS)
