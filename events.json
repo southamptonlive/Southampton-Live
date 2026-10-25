@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T15:50:01.910Z",
+ "generated": "2026-10-25T16:19:58.445Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 125,
+   "carried": 108,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -270,16 +270,16 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo",
    "name": "Funky Flamingo",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
   },
   {
    "id": "popworld",
@@ -710,7 +710,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -722,8 +722,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -741,7 +741,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -753,8 +753,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -3811,8 +3811,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "theatre",
@@ -5639,8 +5638,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "theatre",
@@ -7862,8 +7860,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -8331,8 +8328,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "club",
@@ -9071,8 +9067,7 @@
    "source": "skiddle",
    "genres": [
     "latin"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "club",
@@ -13618,8 +13613,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -14623,8 +14617,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -14879,35 +14872,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "sk-42532872",
-   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "price": 19,
-   "priceMax": 19,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "going": 0,
-   "minage": null,
-   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
-  },
-  {
    "type": "gig",
    "tags": [
     "karaoke"
@@ -14935,6 +14899,34 @@
     "other"
    ],
    "_carriedSince": "2026-10-21T04:51:42.272Z"
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "sk-42532872",
+   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "price": 19,
+   "priceMax": 19,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
+   "going": 0,
+   "minage": null,
+   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
+   "source": "skiddle",
+   "genres": [
+    "comedy"
+   ]
   },
   {
    "type": "gig",
@@ -15190,35 +15182,6 @@
   {
    "type": "gig",
    "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sk-42414993",
-   "artist": "Nightwish Tribute band Night-ish in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "metal",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "going": 0,
-   "minage": null,
-   "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle",
-   "genres": [
-    "metal"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
-  },
-  {
-   "type": "gig",
-   "tags": [
     "tribute",
     "xmas"
    ],
@@ -15246,6 +15209,34 @@
     "indie"
    ],
    "_carriedSince": "2026-10-21T21:46:59.842Z"
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "sk-42414993",
+   "artist": "Nightwish Tribute band Night-ish in Southampton",
+   "venueId": "attic",
+   "venueName": "The Attic Southampton",
+   "postcode": "SO40 9HQ",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "metal",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
+   "going": 0,
+   "minage": null,
+   "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
+   "source": "skiddle",
+   "genres": [
+    "metal"
+   ]
   },
   {
    "type": "gig",
@@ -19359,8 +19350,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "theatre",
@@ -22734,8 +22724,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -23629,8 +23618,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "comedy",
@@ -23794,8 +23782,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -26254,8 +26241,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -27952,8 +27938,7 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -29012,8 +28997,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -29541,8 +29525,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
