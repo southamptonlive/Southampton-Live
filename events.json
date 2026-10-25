@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T11:33:39.837Z",
+ "generated": "2026-10-25T14:51:36.770Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 229
+   "events": 231
   },
   {
    "id": "ticketmaster",
@@ -174,6 +174,12 @@
    "address": "Waterloo Buildings, 55 London road"
   },
   {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "address": "Civic Centre Road"
+  },
+  {
    "id": "heartbreakers",
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
@@ -196,12 +202,6 @@
    "name": "Turner Sims",
    "postcode": "SO17 1BJ",
    "address": "University of Southampton"
-  },
-  {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7DU",
-   "address": "Above Bar St"
   },
   {
    "id": "working-men-s-club",
@@ -282,16 +282,22 @@
    "address": "Bugle St, Southampton SO14 2AD"
   },
   {
+   "id": "funky-flamingo-southampton-lounge-roof-garden",
+   "name": "Funky Flamingo Southampton - Lounge & Roof Garden",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
    "address": "Southampton"
   },
   {
-   "id": "funky-flamingo-southampton-lounge-roof-garden",
-   "name": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+   "id": "harbour-hotel-southampton",
+   "name": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "address": "5 Maritime Walk, Southampton SO14 3QT"
   },
   {
    "id": "popworld-southampton",
@@ -768,7 +774,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -780,8 +786,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -799,7 +805,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -811,8 +817,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -4562,9 +4568,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-06",
    "time": "14:00",
-   "price": 27,
+   "price": 34,
    "priceMax": 42.5,
-   "priceText": "£27–£42.50",
+   "priceText": "£34–£42.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52879",
@@ -10103,9 +10109,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-23",
    "time": "19:30",
-   "price": 29.5,
+   "price": 51,
    "priceMax": 60.5,
-   "priceText": "£29.50–£60.50",
+   "priceText": "£51–£60.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52941",
@@ -20511,7 +20517,8 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T11:33:39.837Z"
   },
   {
    "type": "gig",
@@ -20862,6 +20869,34 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-7f7d5bb7-50e",
+   "artist": "Valentines Singles Ball (Southampton Harbour Hotel - The Bow)",
+   "venueId": "harbour-hotel-southampton",
+   "venueName": "Harbour Hotel Southampton",
+   "postcode": "SO14 3QT",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "price": 15.5,
+   "priceMax": 25.5,
+   "priceText": "£15.50–£25.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/bu2vaflj/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "infoUrl": "https://www.fatsoma.com/e/bu2vaflj/valentines-singles-ball-southampton-harbour-hotel-the-bow",
+   "going": null,
+   "minage": "21+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
