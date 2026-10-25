@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T16:42:41.759Z",
+ "generated": "2026-10-25T16:46:29.020Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -710,7 +710,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -722,8 +722,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -741,7 +741,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -753,8 +753,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
