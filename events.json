@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T20:55:10.199Z",
+ "generated": "2026-10-25T23:20:29.553Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 35
+   "events": 34
   },
   {
    "id": "skiddle:The-Joiners",
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 125,
+   "carried": 128,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -282,28 +282,22 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo",
    "name": "Funky Flamingo",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
    "id": "popworld",
    "name": "Popworld",
    "postcode": "SO15 2EH",
    "address": "17 Lower Banister St, Southampton SO15 2EH"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "rubys",
@@ -316,6 +310,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -378,6 +378,12 @@
    "address": "1 Oxford St, Southampton SO14 3DJ"
   },
   {
+   "id": "orange-rooms",
+   "name": "Orange Rooms",
+   "postcode": "SO15 2EJ",
+   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
+  },
+  {
    "id": "st-denys-social",
    "name": "St Denys Social Club",
    "postcode": "SO17 2FP",
@@ -385,36 +391,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [
-    "country"
-   ],
-   "hot": false,
-   "id": "fat-1293faad-bc7",
-   "artist": "Country Road Barn Dance 2026",
-   "venueId": "guildhall-square",
-   "venueName": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "date": "2026-10-25",
-   "time": "16:00",
-   "price": 24.75,
-   "priceMax": 44,
-   "priceText": "£24.75–£44",
-   "genre": "country",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/kzf6sp14/country-road-barn-dance-2026",
-   "infoUrl": "https://www.fatsoma.com/e/kzf6sp14/country-road-barn-dance-2026",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "country",
-    "dance"
-   ]
-  },
   {
    "type": "gig",
    "tags": [
@@ -1336,6 +1312,38 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-a05af5ac-99a",
+   "artist": "Fiesta Miércoles | Halloween Edition",
+   "venueId": "orange-rooms",
+   "venueName": "Orange Rooms",
+   "postcode": "SO15 2EJ",
+   "date": "2026-10-28",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 5.5,
+   "priceText": "£0–£5.50",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition",
+   "infoUrl": "https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin",
+    "electronic",
+    "dance"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "halloween"
    ],
    "hot": false,
@@ -2033,7 +2041,8 @@
    "source": "skiddle",
    "genres": [
     "house"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T20:55:10.199Z"
   },
   {
    "type": "gig",
@@ -3110,7 +3119,8 @@
    "source": "skiddle",
    "genres": [
     "electronic"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T20:55:10.199Z"
   },
   {
    "type": "club",
@@ -11321,33 +11331,6 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
-   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-11-28",
-   "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
    "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
@@ -11389,6 +11372,33 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "infoUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-943df342-890",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -14684,6 +14694,36 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "free entry",
+    "open mic"
+   ],
+   "hot": false,
+   "id": "fat-10269a4b-b6b",
+   "artist": "Open Mic Night @ The Platform Tavern (15th December)",
+   "venueId": "platform-tavern",
+   "venueName": "Platform Tavern",
+   "postcode": "SO14 2NY",
+   "date": "2026-12-15",
+   "time": "18:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "folk-acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/ibtk0dy8/open-mic-night-the-platform-tavern-15th-december",
+   "infoUrl": "https://www.fatsoma.com/e/ibtk0dy8/open-mic-night-the-platform-tavern-15th-december",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "folk-acoustic"
    ]
   },
   {
