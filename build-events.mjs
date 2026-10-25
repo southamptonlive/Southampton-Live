@@ -112,6 +112,7 @@ const CANON = [
   [/\bthe\s*brook\b/i,          { id: 'brook',     name: 'The Brook',          postcode: 'SO17 3QF', address: '466 Portswood Road, Southampton' }],
   [/\b1865\b/,                   { id: 'the-1865',  name: 'The 1865',           postcode: 'SO14 3AR', address: 'Brunswick Square, Southampton' }],
   [/papill/i,                      { id: 'papillon',  name: 'Papillon',           postcode: 'SO15 1GG', address: 'West Quay Road, Southampton' }],
+  [/guildhall\s*square/i,         { id: 'guildhall-square', name: 'Guildhall Square', postcode: 'SO14 7LP', address: 'Guildhall Square, Southampton' }],
   [/o2\s*guildhall|guildhall\s*southampton/i, { id: 'guildhall', name: 'O2 Guildhall', postcode: 'SO14 7LP', address: 'West Marlands Road, Southampton' }],
   [/mast|mayflower\s*studios/i,   { id: 'mast',      name: 'MAST Mayflower Studios', postcode: 'SO14 7DU', address: 'Above Bar Street, Southampton' }],
   [/mayflower/i,                   { id: 'mayflower', name: 'Mayflower Theatre',  postcode: 'SO15 1GE', address: 'Commercial Road, Southampton' }],
@@ -125,6 +126,35 @@ const CANON = [
   [/\bloft\b/i,                  { id: 'loft',      name: 'The Loft',           postcode: 'SO15 2EH', address: 'Bedford Place, Southampton' }],
   [/circuit/i,                     { id: 'circuit',   name: 'Circuit',            postcode: 'SO14 7FN', address: 'Southampton' }],
   [/sobar/i,                       { id: 'sobar',     name: 'The Sobar',          postcode: 'SO14 0JZ', address: 'Southampton' }],
+  // Promoter-typed names from Fatsoma, tidied to how locals say them
+  [/medbar/i,                      { id: 'medbar',    name: 'Medbar',             postcode: 'SO14 3DP', address: '50 Oxford Street, Southampton' }],
+  [/\bthe\s*edge\b|box\s*bar/i,  { id: 'the-edge',  name: 'The Edge',           postcode: 'SO14 0BH', address: 'Compton Walk, Southampton' }],
+  [/popworld/i,                    { id: 'popworld',  name: 'Popworld',           postcode: 'SO15 2EH', address: '17 Lower Banister Street, Southampton' }],
+  [/trilogy/i,                     { id: 'trilogy',   name: 'Trilogy',            postcode: 'SO15 2AD', address: '55 London Road, Southampton' }],
+  [/caf.?\s*parfait/i,            { id: 'cafe-parfait', name: 'Café Parfait',    postcode: 'SO14 7DW', address: '194 Above Bar Street, Southampton' }],
+  [/funky\s*flamingo/i,           { id: 'funky-flamingo', name: 'Funky Flamingo', postcode: 'SO15 2EL', address: '3 Winchester Street, Southampton' }],
+  [/jesters|clowns\s*wine/i,      { id: 'jesters',   name: 'Jesters',            postcode: 'SO14 0JZ', address: '114–118 Bevois Valley Road, Southampton' }],
+  [/\bcrib\b/i,                  { id: 'crib',      name: 'CRIB',               postcode: 'SO15 2EJ', address: '3–4 Vernon Walk, Southampton' }],
+  [/orange\s*rooms/i,             { id: 'orange-rooms', name: 'Orange Rooms',    postcode: 'SO15 2EJ', address: '1–2 Vernon Walk, Southampton' }],
+  [/turtle\s*bay/i,               { id: 'turtle-bay', name: 'Turtle Bay',        postcode: 'SO14 7FP', address: '1 Guildhall Square, Southampton' }],
+  [/harbour\s*hotel/i,            { id: 'harbour-hotel', name: 'Harbour Hotel',  postcode: 'SO14 3QT', address: '5 Maritime Walk, Ocean Village, Southampton' }],
+  [/stage\s*door/i,               { id: 'stage-door', name: 'The Stage Door',    postcode: 'SO14 7FW', address: '78 West Marlands Road, Southampton' }],
+  [/ruby.?s\s*at\s*the\s*grand/i, { id: 'rubys',   name: "Ruby's at the Grand", postcode: 'SO14 3AS', address: 'South Western House, Southampton' }],
+  [/bitterne\s*royal\s*british\s*legion/i, { id: 'bitterne-legion', name: 'Bitterne British Legion', postcode: 'SO19 5JR', address: '237 Upper Deacon Road, Southampton' }],
+  [/st\s*denys\s*social/i,       { id: 'st-denys-social', name: 'St Denys Social Club', postcode: 'SO17 2FP', address: '100 St Denys Road, Southampton' }],
+  [/st\s*denys\s*(parish\s*)?church/i, { id: 'st-denys-church', name: 'St Denys Church', postcode: 'SO17 2ND', address: 'Dundee Road, Southampton' }],
+  [/deluxe\s*one/i,               { id: 'deluxe-one', name: 'Deluxe One',        postcode: 'SO14 3DJ', address: 'Oxford Street, Southampton' }],
+  [/goals.*millbrook/i,            { id: 'goals-millbrook', name: 'Goals Millbrook', postcode: 'SO15 0JW', address: 'Third Avenue, Millbrook' }],
+  [/bugle\s*house/i,              { id: 'bugle-house', name: 'The Bugle House',  postcode: 'SO14 2AL', address: '1A Bugle Street, Southampton' }],
+  [/platform\s*tavern/i,          { id: 'platform-tavern', name: 'Platform Tavern', postcode: 'SO14 2NY', address: 'Town Quay, Southampton' }],
+  [/shooting\s*star/i,            { id: 'shooting-star', name: 'The Shooting Star', postcode: 'SO14 0JR', address: '40–42 Bevois Valley Road, Southampton' }],
+  [/brave\s*night/i,              { id: 'brave-night', name: 'Brave Night Lounge', postcode: 'SO15 2TZ', address: 'Salisbury Street, Southampton' }],
+  [/working\s*men.?s\s*club/i,   { id: 'eastleigh-wmc', name: "Eastleigh Working Men's Club", postcode: 'SO50 9FD', address: '18 Upper Market Street, Eastleigh' }],
+  [/locomotive\s*engineers/i,     { id: 'loco-club', name: 'Locomotive Engineers Club', postcode: 'SO50 9FJ', address: '18 Southampton Road, Eastleigh' }],
+  [/\bthe\s*point\b/i,          { id: 'the-point', name: 'The Point, Eastleigh', postcode: 'SO50 9DE', address: 'Leigh Road, Eastleigh' }],
+  [/concorde/i,                    { id: 'concorde-club', name: 'The Concorde Club', postcode: 'SO50 9HQ', address: 'Stoneham Lane, Eastleigh' }],
+  [/thornden/i,                    { id: 'thornden-hall', name: 'Thornden Hall',  postcode: 'SO53 2DW', address: 'Winchester Road, Chandler\'s Ford' }],
+  [/tudor\s*house/i,              { id: 'tudor-house', name: 'Tudor House & Garden', postcode: 'SO14 2AD', address: 'Bugle Street, Southampton' }],
 ];
 
 function canonVenue(name, pc) {
@@ -199,6 +229,20 @@ function inferTags(name, desc, price) {
   if (price === 0) tags.unshift('free entry');
   return tags.slice(0, 4);
 }
+
+// SCOPE. The guide lists gigs, club nights, comedy and theatre. Everything a
+// ticket outlet also sells — football masterclasses, networking breakfasts,
+// bottomless brunches, singles nights, ghost tours — is out, however
+// Southampton it is. Sources tell us their own category; we use it, and an
+// event that lands as "other" survives only with a clear music signal.
+const MUSIC_SIGNAL = /\b(karaoke|dj|djs|live\s*music|live\s*band|open\s*mic|jam\s*(night|session)|acoustic|gig|band|concert|disco|rave|club\s*night|soundsystem|sound\s*system)\b/i;
+const inScope = (e) => e.type !== 'other' || MUSIC_SIGNAL.test(`${e.artist} ${e.desc || ''} ${(e.tags || []).join(' ')}`);
+// Skiddle EventCode → type (anything else is "other")
+const SKIDDLE_TYPE = { LIVE: 'gig', CLUB: 'club', FEST: 'gig', COMEDY: 'comedy', THEATRE: 'theatre', DANCE: 'club' };
+// Fatsoma category vanity-name → type
+const FATSOMA_TYPE = { 'club-nights': 'club', gigs: 'gig', 'gigs-concerts': 'gig', 'live-music': 'gig', festivals: 'gig', comedy: 'comedy', theatre: 'theatre' };
+// Always out, whatever the blurb says: a bottomless brunch with a DJ is still a brunch.
+const FATSOMA_OUT = new Set(['food-and-drink', 'dating', 'fitness', 'business', 'sports', 'wellness', 'kids', 'family', 'networking', 'education', 'classes']);
 
 // Event type: separate axis from genre (gig / club / comedy / other)
 function inferType(name, desc, eventCode) {
@@ -367,8 +411,9 @@ function normSkiddle(ev, appId = null) {
   const { price, priceMax, priceText } = priceFrom(ev);
   const desc = deent(ev.description).replace(/\s+/g, ' ').trim().slice(0, 280);
   const nm = deent(ev.eventname);
+  const code = String(ev.EventCode || '').toUpperCase();
   return {
-    type: inferType(nm, desc, ev.EventCode),
+    type: code && !SKIDDLE_TYPE[code] ? 'other' : inferType(nm, desc, ev.EventCode),
     tags: inferTags(nm, desc, price),
     hot: !!ev.hotSeller,
     id: 'sk-' + ev.id,
@@ -933,9 +978,16 @@ async function fatsoma() {
       const priceText = price == null ? null
         : price === 0 && priceMax === 0 ? 'Free'
         : priceMax > price ? `£${fmt(price)}–£${fmt(priceMax)}` : null;
-      const type = cats.includes('club-nights') ? 'club'
-        : cats.includes('comedy') ? 'comedy'
-        : inferType(name, desc || '', cats.includes('gigs-concerts') || cats.includes('live-music') ? 'LIVE' : 'CLUB');
+      // Fatsoma's own category decides. A category we don't list (fitness,
+      // business, dating, food-and-drink, fun-things…) is out of scope unless
+      // the event is plainly musical (karaoke & DJ nights sit under fun-things).
+      if (cats.some((c) => FATSOMA_OUT.has(c)) && !cats.some((c) => FATSOMA_TYPE[c])) continue;
+      const fatType = cats.map((c) => FATSOMA_TYPE[c]).find(Boolean) || null;
+      const type = fatType === 'club' ? 'club'
+        : fatType === 'comedy' ? 'comedy'
+        : fatType === 'theatre' ? 'theatre'
+        : fatType === 'gig' ? inferType(name, desc || '', 'LIVE')
+        : 'other';
       // Fatsoma's canonical event URL is /e/{vanity-name}/{seo-name}; without
       // the vanity code the page renders "Not Found" (while answering HTTP 200).
       const url = a['vanity-name'] && a['seo-name'] ? `https://www.fatsoma.com/e/${a['vanity-name']}/${a['seo-name']}`
@@ -1150,6 +1202,11 @@ async function main() {
   let events = pool.filter(
     (e) => e.artist && e.date && e.date >= today && !e.cancelled && inPatch(e.postcode)
   );
+
+  // Scope gate: gigs, club nights, comedy, theatre — nothing else.
+  const beforeScope = events.length;
+  events = events.filter(inScope);
+  console.log(`scope: dropped ${beforeScope - events.length} out-of-scope listings (fitness, networking, brunches, tours…)`);
 
   // Genre v2 pass (34-key vocabulary, multi-genre). Runs BEFORE the media
   // strip so promoter copy can inform classification without being displayed.
