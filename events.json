@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-24T23:18:37.493Z",
+ "generated": "2026-10-25T04:45:40.578Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 133,
+   "carried": 129,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 65
+   "events": 64
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 236
+   "events": 231
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 265
+   "events": 261
   }
  ],
  "venues": [
@@ -306,16 +306,22 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "harbour-hotel-southampton",
-   "name": "Harbour Hotel Southampton",
-   "postcode": "SO14 3QT",
-   "address": "5 Maritime Walk, Southampton SO14 3QT"
+   "id": "ruby-s-at-the-grand",
+   "name": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "address": "South Western House, Southampton SO14 3AS"
   },
   {
    "id": "turtle-bay-southampton",
    "name": "Turtle Bay Southampton",
    "postcode": "SO14 7FP",
    "address": "1 Guildhall Sq, Southampton SO14 7FP"
+  },
+  {
+   "id": "st-denys-parish-church",
+   "name": "St Denys Parish Church",
+   "postcode": "SO17 2ND",
+   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "trilogy-nightclub",
@@ -328,18 +334,6 @@
    "name": "The Stage Door",
    "postcode": "SO14 7FW",
    "address": "78 W Marlands Rd, Southampton SO14 7FW"
-  },
-  {
-   "id": "ruby-s-at-the-grand",
-   "name": "Ruby's at the Grand",
-   "postcode": "SO14 3AS",
-   "address": "South Western House, Southampton SO14 3AS"
-  },
-  {
-   "id": "st-denys-parish-church",
-   "name": "St Denys Parish Church",
-   "postcode": "SO17 2ND",
-   "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
    "id": "crib-cocktails-shuffleboard",
@@ -421,461 +415,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43286370",
-   "artist": "bby",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-24",
-   "time": "14:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43286370-bby-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43286370-bby-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-41645107",
-   "artist": "Chameleons",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-10-24",
-   "time": "18:00",
-   "price": 32.5,
-   "priceMax": 32.5,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chameleons/41645107/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chameleons/41645107/",
-   "going": 58,
-   "minage": null,
-   "desc": "+ Very Special Guests LOL TOLHURST PLAYS THE SONGS OF THE CURE",
-   "source": "skiddle",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43246844",
-   "artist": "Keo",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43246844-keo-at-o2-guildhall",
-   "infoUrl": "https://www.songkick.com/concerts/43246844-keo-at-o2-guildhall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qjfx-pQFDZZzc7eM",
-   "artist": "Ferocious Dog",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/bb1/d4727b8a-a3dd-4fe8-95ab-917b05b63bb1_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/ferocious-dog-tickets-XGHVQB?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/ferocious-dog-tickets-XGHVQB?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qn0clGeJ1pYkda_m",
-   "artist": "Ian Prowse & Amsterdam",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-24",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "folk-acoustic",
-   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-   "ticketUrl": "https://www.universe.com/events/ian-prowse-amsterdam-tickets-9VQCHK?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/ian-prowse-amsterdam-tickets-9VQCHK?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "genres": [
-    "folk-acoustic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-da4d8689-f86",
-   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
-   "venueId": "the-edge-the-box-bar",
-   "venueName": "The Edge & The Box Bar",
-   "postcode": "SO14 0BH",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 7,
-   "priceText": "£4–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/rxpyq0f8/the-big-one-cocktails-2-4-1",
-   "infoUrl": "https://www.fatsoma.com/e/rxpyq0f8/the-big-one-cocktails-2-4-1",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-eafb56b4-ae3",
-   "artist": "SO3 Collective: After dark",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-10-24",
-   "time": "20:00",
-   "price": 11,
-   "priceMax": 16.5,
-   "priceText": "£11–£16.50",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/b5v444f0/so3-collective-after-dark",
-   "infoUrl": "https://www.fatsoma.com/e/b5v444f0/so3-collective-after-dark",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "house"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-39e8e537-9fd",
-   "artist": "SATURDAY SESSIONS",
-   "venueId": "popworld-southampton",
-   "venueName": "Popworld - Southampton",
-   "postcode": "SO15 2EH",
-   "date": "2026-10-24",
-   "time": "21:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/v9h60n0x/saturday-sessions",
-   "infoUrl": "https://www.fatsoma.com/e/v9h60n0x/saturday-sessions",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-863347ca-81c",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/2k6gagg7/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-90158996-809",
-   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/jttlrdb1/essence-southampton-s-newest-r-b-saturday-night",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-27b3b048-3f8",
-   "artist": "Afro Kulture | Urban Room",
-   "venueId": "medbar-southampton",
-   "venueName": "Medbar Southampton",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "afrobeat",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/6gs49t4b/afro-kulture-urban-room",
-   "infoUrl": "https://www.fatsoma.com/e/6gs49t4b/afro-kulture-urban-room",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "afrobeat",
-    "reggae"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-be62ad98-1d0",
-   "artist": "R.U.M: TAKEOVER CLUB FLAMINGO FREE ENTRY BEFORE 11PM",
-   "venueId": "funky-flamingo-southampton-lounge-roof-garden",
-   "venueName": "Funky Flamingo Southampton - Lounge & Roof Garden",
-   "postcode": "SO15 2EL",
-   "date": "2026-10-24",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/x5js3tlt/r-u-m-takeover-club-flamingo-free-entry-before-11pm",
-   "infoUrl": "https://www.fatsoma.com/e/x5js3tlt/r-u-m-takeover-club-flamingo-free-entry-before-11pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "rnb"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": true,
-   "id": "sk-42580751",
-   "artist": "Born on Road | Southampton",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-10-24",
-   "time": "23:00",
-   "price": 9,
-   "priceMax": 17,
-   "priceText": "£9–£17",
-   "genre": "dnb",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/3/8/2301220_b060f2a3_born-on-road-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Born-on-Road--Southampton/42580751/",
-   "going": 210,
-   "minage": "18",
-   "desc": "Born on Road are coming to Engine Rooms this September!",
-   "source": "skiddle",
-   "genres": [
-    "dnb"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-01c8d8d7-e73",
-   "artist": "Strays HALLOWEEN!",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-24",
-   "time": "23:00",
-   "price": 4,
-   "priceMax": 5,
-   "priceText": "£4–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/a74g8267/strays-halloween",
-   "infoUrl": "https://www.fatsoma.com/e/a74g8267/strays-halloween",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-a9a9ca85-9ea",
-   "artist": "Saturdays at Cafe Parfait",
-   "venueId": "caf-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-24",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 13.2,
-   "priceText": "£0–£13.20",
-   "genre": "afrobeat",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ig5w8q8r/saturdays-at-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/ig5w8q8r/saturdays-at-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "afrobeat",
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43346133",
-   "artist": "Selecta J",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-10-24",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43346133-selecta-j-at-enginerooms",
-   "infoUrl": "https://www.songkick.com/concerts/43346133-selecta-j-at-enginerooms",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
   {
    "type": "club",
    "tags": [
@@ -4944,8 +4483,8 @@
    "date": "2026-11-05",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/wozz67hi/glam-thursdays-glam-nandos-southampton-s-best-student-night-1-shots-all-night",
@@ -7846,6 +7385,61 @@
    "_carriedSince": "2026-10-24T04:41:12.467Z"
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18Qj1zdFZTsOZzGmAk",
+   "artist": "Kid Kapichi",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/f33/c05835eb-fc7b-480b-88dc-89b8de808f33_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43041883",
+   "artist": "Jacob Hawley",
+   "venueId": "attic",
+   "venueName": "The Attic",
+   "postcode": "SO40 9HQ",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43041883-jacob-hawley-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43041883-jacob-hawley-at-attic",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "comedy",
    "tags": [],
    "hot": false,
@@ -7902,34 +7496,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18Qj1zdFZTsOZzGmAk",
-   "artist": "Kid Kapichi",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/f33/c05835eb-fc7b-480b-88dc-89b8de808f33_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/kid-kapichi-tickets-QJX0W6?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "br-bon-giovi-2026-11-14",
    "artist": "Bon Giovi",
    "venueId": "brook",
@@ -7948,6 +7514,33 @@
    "minage": null,
    "desc": null,
    "source": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-42915208",
+   "artist": "Fin Taylor",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42915208-fin-taylor-at-o2-guildhall",
+   "infoUrl": "https://www.songkick.com/concerts/42915208-fin-taylor-at-o2-guildhall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -8121,6 +7714,33 @@
    "genres": [
     "afrobeat",
     "electronic"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43433358",
+   "artist": "Hail the Sun",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-11-14",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43433358-hail-the-sun-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -12404,6 +12024,87 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-3ab688a1-d5c",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 4.99,
+   "priceMax": 26.4,
+   "priceText": "£4.99–£26.40",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-532ade32-7b1",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-943df342-890",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
    ]
   },
   {
@@ -17674,35 +17375,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [
-    "house"
-   ],
-   "hot": false,
-   "id": "sk-42734325",
-   "artist": "Derrick McKenzie (Jamiroquai), Ridney & Doctor Feelgood",
-   "venueId": "the-horns-inn",
-   "venueName": "The Horns Inn",
-   "postcode": "SO16 0XA",
-   "date": "2026-12-27",
-   "time": "19:00",
-   "price": 10,
-   "priceMax": 15,
-   "priceText": "£10–£15",
-   "genre": "house",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/9/f/2341846_d1ec3de6_paharas-musica-with-derrick-mckenzie-jamiroquai-ridney_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Horns-Inn/Derrick-McKenzie-Jamiroquai-Ridney--Doctor-Feelgood/42734325/",
-   "going": 21,
-   "minage": "18",
-   "desc": "Jamiroquai drummer Derrick McKenzie returns to the Horns Inn with another irresistible selection of sumptuous soulful house.",
-   "source": "skiddle",
-   "genres": [
-    "house"
-   ],
-   "_carriedSince": "2026-10-18T04:38:25.192Z"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -21224,34 +20896,6 @@
    "genres": [
     "theatre",
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-7f7d5bb7-50e",
-   "artist": "Valentines Singles Ball (Southampton Harbour Hotel - The Bow)",
-   "venueId": "harbour-hotel-southampton",
-   "venueName": "Harbour Hotel Southampton",
-   "postcode": "SO14 3QT",
-   "date": "2027-02-12",
-   "time": "19:30",
-   "price": 15.5,
-   "priceMax": 25.5,
-   "priceText": "£15.50–£25.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/bu2vaflj/valentines-singles-ball-southampton-harbour-hotel-the-bow",
-   "infoUrl": "https://www.fatsoma.com/e/bu2vaflj/valentines-singles-ball-southampton-harbour-hotel-the-bow",
-   "going": null,
-   "minage": "21+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -31276,8 +30920,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-18T02:24:26.911Z"
+   ]
   },
   {
    "type": "gig",
