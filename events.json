@@ -1,15 +1,15 @@
 {
  "version": 1,
- "generated": "2026-10-25T16:46:29.020Z",
+ "generated": "2026-10-25T20:55:10.199Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
   {
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
-   "ok": false,
-   "carried": 125,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/",
+   "ok": true,
+   "events": 1
   },
   {
    "id": "skiddle:EngineRooms",
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 0,
+   "carried": 125,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -79,7 +79,7 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 58
+   "events": 57
   },
   {
    "id": "songkick:metro",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 207
+   "events": 210
   },
   {
    "id": "ticketmaster",
@@ -125,6 +125,12 @@
   }
  ],
  "venues": [
+  {
+   "id": "hobbit",
+   "name": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "address": "134 Bevois Valley Road, Southampton"
+  },
   {
    "id": "engine",
    "name": "Engine Rooms",
@@ -174,16 +180,28 @@
    "address": "55 London Road, Southampton"
   },
   {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
+   "id": "loft",
+   "name": "The Loft",
+   "postcode": "SO15 2EH",
+   "address": "Bedford Place, Southampton"
+  },
+  {
+   "id": "secret-venue-southampton",
+   "name": "Secret Venue Southampton",
+   "postcode": "SO15 1GZ",
+   "address": "Secret Venue"
   },
   {
    "id": "brook",
    "name": "The Brook",
    "postcode": "SO17 3QF",
    "address": "466 Portswood Road, Southampton"
+  },
+  {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "guildhall",
@@ -226,12 +244,6 @@
    "name": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "address": "Commercial Road, Southampton"
-  },
-  {
-   "id": "hobbit",
-   "name": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "address": "134 Bevois Valley Road, Southampton"
   },
   {
    "id": "loco-club",
@@ -288,6 +300,12 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
+  },
+  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -298,12 +316,6 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -340,12 +352,6 @@
    "name": "The Edge",
    "postcode": "SO14 0BH",
    "address": "Compton Walk, Southampton SO14 0BH"
-  },
-  {
-   "id": "loft",
-   "name": "The Loft",
-   "postcode": "SO15 2EH",
-   "address": "Bedford Place, Southampton"
   },
   {
    "id": "bugle-house",
@@ -444,24 +450,25 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-emma-stevens-2026-10-25",
-   "artist": "Emma Stevens",
+   "id": "tm-LvZ18QnJpr7RvHqxdyt9S",
+   "artist": "Emma Stevens @ Heartbreakers",
    "venueId": "heartbreakers",
    "venueName": "Heartbreakers",
    "postcode": "SO14 1JX",
    "date": "2026-10-25",
    "time": "19:30",
-   "price": 11,
-   "priceMax": 11,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/72/95/24_Original.jpg?v=11",
-   "ticketUrl": "https://www.ticketweb.uk/event/emma-stevens-heartbreakers-heartbreakers-tickets/13975874",
-   "infoUrl": "https://www.the-brook.com/tm-event/emma-stevens-heartbreakers/",
-   "going": 0,
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/emma-stevens-heartbreakers-tickets-XP83L5?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/emma-stevens-heartbreakers-tickets-XP83L5?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "thebrook",
+   "status": null,
+   "source": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -710,7 +717,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -722,8 +729,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -741,7 +748,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -753,8 +760,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -1411,8 +1418,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T11:53:26.421Z"
+   ]
   },
   {
    "type": "gig",
@@ -1997,6 +2003,36 @@
    "source": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-43026802",
+   "artist": "Temple - Halloween After Dark",
+   "venueId": "loft",
+   "venueName": "The Loft",
+   "postcode": "SO15 2EH",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "price": 0,
+   "priceMax": 7,
+   "priceText": "£0–£7",
+   "genre": "house",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/e/2449603_8c4cb8bc_temple-halloween-after-dark_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Portsmouth/The-Loft-Portsmouth/Temple---Halloween-After-Dark/43026802/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Portsmouth/The-Loft-Portsmouth/Temple---Halloween-After-Dark/43026802/",
+   "going": 0,
+   "minage": "18",
+   "desc": "This Halloween we revisit the popular Portsmouth venue 'The Loft' as we bring you a night of scary vibes and great house tunes.",
+   "source": "skiddle",
+   "genres": [
+    "house"
    ]
   },
   {
@@ -3049,6 +3085,35 @@
   },
   {
    "type": "club",
+   "tags": [
+    "rave",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "sk-42489276",
+   "artist": "Halloween Secret Rave - Southampton",
+   "venueId": "secret-venue-southampton",
+   "venueName": "Secret Venue Southampton",
+   "postcode": "SO15 1GZ",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "price": 5,
+   "priceMax": 20,
+   "priceText": "£5–£20",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/1/7/2281584_21349807_HALLOWEEN-SECRET-RAVE---Southampton_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Secret-Venue-Southampton/Halloween-Secret-Rave---Southampton/42489276/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Secret-Venue-Southampton/Halloween-Secret-Rave---Southampton/42489276/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Halloween Secret Rave - 300+ Ravers - Insane DJ's - Fancy Dress - Insane Production",
+   "source": "skiddle",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-bec9ccb7-cd4",
@@ -3569,7 +3634,6 @@
    "type": "gig",
    "tags": [
     "free entry",
-    "acoustic",
     "open mic"
    ],
    "hot": false,
@@ -3811,8 +3875,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "theatre",
@@ -3954,8 +4017,7 @@
     "house",
     "trap",
     "rnb"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "club",
@@ -4660,6 +4722,34 @@
    "source": "fatsoma",
    "genres": [
     "house"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-ba3b614f-c96",
+   "artist": "BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 8,
+   "priceText": "£6–£8",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin",
+    "dance"
    ]
   },
   {
@@ -5639,8 +5729,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "theatre",
@@ -6671,8 +6760,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-10-22T11:56:39.163Z"
+   ]
   },
   {
    "type": "club",
@@ -7233,6 +7321,33 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sk-42803985",
+   "artist": "My Black Poison",
+   "venueId": "hobbit",
+   "venueName": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "price": 6,
+   "priceMax": 6,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/2/a/2351309_6035fe15_my-black-poison_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/My-Black-Poison/42803985/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/My-Black-Poison/42803985/",
+   "going": 0,
+   "minage": "18",
+   "desc": "My Black Poison, Dead Rubber Dolls, The Medz, and Reawaken live at The Hobbit, Southampton",
+   "source": "skiddle",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18Qjn9LaPqmOZztBTg",
    "artist": "Blank Manuskript",
    "venueId": "the-1865",
@@ -7450,6 +7565,36 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "free entry",
+    "open mic"
+   ],
+   "hot": false,
+   "id": "fat-6d43ad6b-9e0",
+   "artist": "Open Mic Night @ The Platform Tavern (17th November)",
+   "venueId": "platform-tavern",
+   "venueName": "Platform Tavern",
+   "postcode": "SO14 2NY",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "folk-acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/fqzujv99/open-mic-night-the-platform-tavern-17th-november",
+   "infoUrl": "https://www.fatsoma.com/e/fqzujv99/open-mic-night-the-platform-tavern-17th-november",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "folk-acoustic"
    ]
   },
   {
@@ -7862,8 +8007,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -8331,8 +8475,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "club",
@@ -9071,8 +9214,7 @@
    "source": "skiddle",
    "genres": [
     "latin"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "club",
@@ -11179,6 +11321,33 @@
    "type": "club",
    "tags": [],
    "hot": false,
+   "id": "fat-943df342-890",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
    "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
@@ -11220,33 +11389,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "infoUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-943df342-890",
-   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-11-28",
-   "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -11341,8 +11483,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "gig",
@@ -11538,6 +11679,36 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "free entry",
+    "open mic"
+   ],
+   "hot": false,
+   "id": "fat-da13721f-209",
+   "artist": "Open Mic Night @ The Platform Tavern (1st December)",
+   "venueId": "platform-tavern",
+   "venueName": "Platform Tavern",
+   "postcode": "SO14 2NY",
+   "date": "2026-12-01",
+   "time": "18:00",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "folk-acoustic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dxrsbrig/open-mic-night-the-platform-tavern-1st-december",
+   "infoUrl": "https://www.fatsoma.com/e/dxrsbrig/open-mic-night-the-platform-tavern-1st-december",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "folk-acoustic"
    ]
   },
   {
@@ -13618,8 +13789,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -13843,8 +14013,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-10-23T11:43:11.171Z"
+   ]
   },
   {
    "type": "comedy",
@@ -13916,9 +14085,9 @@
    "postcode": "SO14 0JD",
    "date": "2026-12-12",
    "time": "07:00",
-   "price": 5,
+   "price": 10,
    "priceMax": 10,
-   "priceText": "£5–£10",
+   "priceText": null,
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/8/2/2455590_c08542f1_so3-collective-christmas-party-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/",
@@ -13930,8 +14099,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-23T11:43:11.171Z"
+   ]
   },
   {
    "type": "theatre",
@@ -14623,8 +14791,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -14933,8 +15100,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -15244,8 +15410,7 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -15607,8 +15772,7 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "gig",
@@ -17773,8 +17937,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17933,8 +18096,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-20T08:36:41.307Z"
+   ]
   },
   {
    "type": "gig",
@@ -19359,8 +19521,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "theatre",
@@ -19794,8 +19955,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "theatre",
@@ -20689,8 +20849,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-20T19:21:03.244Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21148,8 +21307,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T21:46:59.842Z"
+   ]
   },
   {
    "type": "gig",
@@ -21479,8 +21637,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
+   ]
   },
   {
    "type": "gig",
@@ -22599,7 +22756,7 @@
    ]
   },
   {
-   "type": "theatre",
+   "type": "other",
    "tags": [
     "disco"
    ],
@@ -22624,8 +22781,7 @@
    "source": "skiddle",
    "genres": [
     "theatre"
-   ],
-   "_carriedSince": "2026-10-20T08:36:41.307Z"
+   ]
   },
   {
    "type": "gig",
@@ -22734,8 +22890,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -23251,8 +23406,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "theatre",
@@ -23361,8 +23515,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T21:46:59.842Z"
+   ]
   },
   {
    "type": "gig",
@@ -23629,8 +23782,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "comedy",
@@ -23794,8 +23946,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -24753,8 +24904,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
+   ]
   },
   {
    "type": "theatre",
@@ -25535,8 +25685,7 @@
    "genres": [
     "electronic",
     "dance"
-   ],
-   "_carriedSince": "2026-10-20T23:57:05.427Z"
+   ]
   },
   {
    "type": "theatre",
@@ -26254,8 +26403,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -27952,8 +28100,7 @@
    "source": "skiddle",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -29012,8 +29159,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -29541,8 +29687,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T16:23:26.304Z"
+   ]
   },
   {
    "type": "gig",
@@ -29624,8 +29769,7 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-10-25T04:45:40.578Z"
+   ]
   },
   {
    "type": "gig",
@@ -30454,33 +30598,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sk-43118014",
-   "artist": "Generation Grunge UK tour - Nirvanah - Pearl Scam - Angry Hair",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2027-09-18",
-   "time": "18:00",
-   "price": 22.5,
-   "priceMax": 22.5,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/6/4/2455476_698f827f_generation-grunge-uk-tour_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge-UK-tour---Nirvanah---Pearl-Scam---Angry-Hair/43118014/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge-UK-tour---Nirvanah---Pearl-Scam---Angry-Hair/43118014/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Generation Grunge brings it's electric live show to Southampton with special guests, Nirvanah, Pearl Scam and Angry Hair",
-   "source": "skiddle",
-   "genres": [
-    "rock"
-   ],
-   "_carriedSince": "2026-10-23T11:43:11.171Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sk-43049613",
    "artist": "Generation Grunge",
    "venueId": "engine",
@@ -30501,8 +30618,33 @@
    "source": "skiddle",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-23T11:43:11.171Z"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-43118014",
+   "artist": "Generation Grunge UK tour - Nirvanah - Pearl Scam - Angry Hair",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-09-18",
+   "time": "18:00",
+   "price": 22.5,
+   "priceMax": 22.5,
+   "priceText": null,
+   "genre": "rock",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/6/4/2455476_698f827f_generation-grunge-uk-tour_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge-UK-tour---Nirvanah---Pearl-Scam---Angry-Hair/43118014/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge-UK-tour---Nirvanah---Pearl-Scam---Angry-Hair/43118014/",
+   "going": 0,
+   "minage": "16",
+   "desc": "Generation Grunge brings it's electric live show to Southampton with special guests, Nirvanah, Pearl Scam and Angry Hair",
+   "source": "skiddle",
+   "genres": [
+    "rock"
+   ]
   },
   {
    "type": "gig",
@@ -31355,8 +31497,7 @@
    "genres": [
     "punk",
     "reggae"
-   ],
-   "_carriedSince": "2026-10-22T04:49:55.264Z"
+   ]
   },
   {
    "type": "gig",
