@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T04:45:40.578Z",
+ "generated": "2026-10-25T11:33:39.837Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -8,7 +8,7 @@
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
    "ok": false,
-   "carried": 129,
+   "carried": 130,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 231
+   "events": 229
   },
   {
    "id": "ticketmaster",
@@ -238,12 +238,6 @@
    "name": "The Hobbit",
    "postcode": "SO14 0JZ",
    "address": "134 Bevois Valley Road, Southampton"
-  },
-  {
-   "id": "edmund-kell-unitarian-church-elizabeth-kell-community-hall",
-   "name": "Edmund Kell Unitarian Church & Elizabeth Kell Community Hall",
-   "postcode": "SO15 2AY",
-   "address": null
   },
   {
    "id": "locomotive-engineers-club",
@@ -774,7 +768,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -786,8 +780,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -805,7 +799,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy-southampton",
    "venueName": "Trilogy Southampton",
@@ -817,8 +811,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -9477,33 +9471,6 @@
    "desc": null,
    "status": null,
    "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43470315",
-   "artist": "Giusto Di Lallo",
-   "venueId": "edmund-kell-unitarian-church-elizabeth-kell-community-hall",
-   "venueName": "Edmund Kell Unitarian Church & Elizabeth Kell Community Hall",
-   "postcode": "SO15 2AY",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43470315-giusto-di-lallo-at-edmund-kell-unitarian-church-and-elizabeth-kell-community-hall",
-   "infoUrl": "https://www.songkick.com/concerts/43470315-giusto-di-lallo-at-edmund-kell-unitarian-church-and-elizabeth-kell-community-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -20537,15 +20504,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/d/a/7/2326263_6b10d3af_jacek-stachursky_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Jacek-Stachursky/42675391/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Jacek-Stachursky/42675391/",
-   "going": 0,
+   "going": 1,
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-18T15:56:01.213Z"
+   ]
   },
   {
    "type": "gig",
@@ -29657,9 +29623,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-06-18",
    "time": "19:30",
-   "price": 29,
+   "price": 34,
    "priceMax": 70,
-   "priceText": "£29–£70",
+   "priceText": "£34–£70",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52622",
@@ -30920,7 +30886,8 @@
    "source": "skiddle",
    "genres": [
     "comedy"
-   ]
+   ],
+   "_carriedSince": "2026-10-25T04:45:40.578Z"
   },
   {
    "type": "gig",
