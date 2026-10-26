@@ -56,11 +56,17 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node classify-events.mjs
 
+      - name: Check the feed before it ships (no-fiction + source link checks)
+        run: node check-feed.mjs
+
+      - name: Render static pages, sitemap and calendar feeds
+        run: node render-pages.mjs
+
       - name: Commit refreshed listings (if changed)
         run: |
           git config user.name  'southamptonlive-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add events.json genre-overrides.json index.html
+          git add -A events.json genre-overrides.json index.html pages cal pages-state.json
           git diff --cached --quiet || git commit -m "listings: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
           # push is bookkeeping; deploy below works from this checkout either way.
           # on a race, rebase and let our freshly generated artifacts win (-X theirs
@@ -77,9 +83,12 @@ jobs:
           mkdir -p dist
           cp index.html events.json logo.png dist/
           # ship any extra static pages if present (privacy, about…)
-          for f in privacy.html terms.html about.html share-card.png icon-512.png .htaccess robots.txt sitemap.xml; do [ -f "$f" ] && cp "$f" dist/; done
+          for f in privacy.html terms.html about.html share-card.png icon-512.png .htaccess robots.txt; do [ -f "$f" ] && cp "$f" dist/; done
           # static sub-pages (e.g. about/free/index.html)
           [ -d about ] && mkdir -p dist/about && cp -r about/. dist/about/
+          # pre-rendered pages (e/, v/, d/, tonight, this-weekend, sitemap) and calendar feeds
+          [ -d pages ] && cp -r pages/. dist/
+          [ -d cal ] && mkdir -p dist/cal && cp -r cal/. dist/cal/
           # GA4 measurement ID is injected here, into the deploy copy only — the
           # committed index.html keeps the placeholder (DR-003). No secret = analytics off.
           if [ -n "${{ secrets.GA4_MEASUREMENT_ID }}" ]; then
