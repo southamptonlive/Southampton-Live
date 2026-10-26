@@ -280,17 +280,23 @@ put('this-weekend.html', listPage({ title: `${wk.length ? wk.length + ' things o
 // same rule as the app's sidebar. Counts are real; nothing descriptive we wrote.
 {
   const nk = (v) => v.name.replace(/^the\s+/i, '');
-  const vs = [...venuesWithUpcoming].sort((a, b) => nk(a).localeCompare(nk(b), 'en', { sensitivity: 'base' }));
-  const cards = vs.map((v) => {
+  const TOP = ['joiners', 'heartbreakers', 'brook', 'the-1865', 'papillon', 'engine', 'guildhall', 'turnersims', 'mayflower']; // Mark's order, 26 Oct
+  const top = TOP.map((id) => venuesWithUpcoming.find((v) => v.id === id)).filter(Boolean);
+  const rest = venuesWithUpcoming.filter((v) => !TOP.includes(v.id)).sort((a, b) => nk(a).localeCompare(nk(b), 'en', { sensitivity: 'base' }));
+  const vs = [...top, ...rest];
+  const rowOf = (v) => {
     const n = upcoming.filter((e) => e.venueId === v.id).length;
     const where = [v.address, v.postcode].filter(Boolean).join(', ');
     const maps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${v.name} ${v.postcode || ''} Southampton`)}`;
     const ph = (VENUE_PHOTOS[v.id] || [])[0];
     return `<a class="row vrow" href="${venuePath(v.id)}">${ph ? `<img src="/${esc(ph.file)}" alt="" loading="lazy">` : ''}<span style="min-width:0"><b>${esc(v.name)}</b><span>${esc(where)}${where ? ' · ' : ''}${n} coming up</span></span></a>`;
-  }).join('\n');
+  };
   const body = `<h1>Live music venues in Southampton</h1>
-<p class="meta">${vs.length} venues with something on · alphabetical · counts update every 3 hours</p>
-${cards}
+<p class="meta">${vs.length} venues with something on · counts update every 3 hours</p>
+<div class="dayhead">Top venues</div>
+${top.map(rowOf).join('\n')}
+<div class="dayhead">All venues, A to Z</div>
+${rest.map(rowOf).join('\n')}
 <p class="src">Venue descriptions and photos appear only when a venue supplies them. <a href="/#/add">Add your event — free, always</a> · <a href="/">Open the guide</a></p>`;
   put('venues.html', shell({ title: 'Live music venues in Southampton — Southampton.Live', desc: `${vs.length} venues with gigs, club nights, comedy and theatre coming up in Greater Southampton — addresses, maps and what's on at each.`, canonical: `${SITE}/venues`, body }));
 }
