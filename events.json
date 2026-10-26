@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T15:49:41.404Z",
+ "generated": "2026-10-26T16:16:45.097Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -1660,8 +1660,8 @@
    "date": "2026-10-30",
    "time": "00:00",
    "price": 3,
-   "priceMax": 6,
-   "priceText": "£3–£6",
+   "priceMax": 4,
+   "priceText": "£3–£4",
    "genre": "dance",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/r5viotn1/club-koko-halloween-special-jersey-party",
@@ -9047,7 +9047,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 38,
+   "going": 0,
    "minage": "18",
    "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
    "feeIncluded": false,
