@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:tm-LvZ18QpNiQ2isMOZlMAjX@southampton.live
-DTSTAMP:20261026T200354Z
+DTSTAMP:20261026T200955Z
 DTSTART;TZID=Europe/London:20261205T190000
 SUMMARY:Colosseum + Soft Machine
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140480@southampton.live
-DTSTAMP:20261026T200354Z
+DTSTAMP:20261026T200955Z
 DTSTART;TZID=Europe/London:20261219T140000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140484@southampton.live
-DTSTAMP:20261026T200354Z
+DTSTAMP:20261026T200955Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:br-johnny-hates-jazz-the-shattered-dreams-t-2027-05-22@southampton.live
-DTSTAMP:20261026T200354Z
+DTSTAMP:20261026T200955Z
 DTSTART;TZID=Europe/London:20270522T193000
 SUMMARY:Johnny Hates Jazz - The Shattered Dreams Tour
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
