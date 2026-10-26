@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-25T23:20:29.553Z",
+ "generated": "2026-10-26T04:51:47.600Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 128,
+   "carried": 124,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 422
+   "events": 421
   },
   {
    "id": "mitc",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 210
+   "events": 208
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 261
+   "events": 259
   }
  ],
  "venues": [
@@ -282,22 +282,28 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "funky-flamingo",
-   "name": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
    "address": "Southampton"
   },
   {
+   "id": "funky-flamingo",
+   "name": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
    "id": "popworld",
    "name": "Popworld",
    "postcode": "SO15 2EH",
    "address": "17 Lower Banister St, Southampton SO15 2EH"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "rubys",
@@ -310,12 +316,6 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -391,126 +391,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [
-    "free entry",
-    "metal",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "sk-42814388",
-   "artist": "Heavy Jams Halloween Horror",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-25",
-   "time": "18:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "metal",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/f/c/2353601_581bc357_heavy-jams-halloween-horror_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Halloween-Horror/42814388/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Halloween-Horror/42814388/",
-   "going": 3,
-   "minage": "14",
-   "desc": "Heavy Jams: Halloween Horror... A Black/death metal open jam night at Suburbia.",
-   "source": "skiddle",
-   "genres": [
-    "metal"
-   ],
-   "_carriedSince": "2026-10-23T04:53:37.630Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QnJpr7RvHqxdyt9S",
-   "artist": "Emma Stevens @ Heartbreakers",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-25",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-   "ticketUrl": "https://www.universe.com/events/emma-stevens-heartbreakers-tickets-XP83L5?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/emma-stevens-heartbreakers-tickets-XP83L5?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-974499e7-9d2",
-   "artist": "🎤 Karaoke Sundays - Free Entry Before Midnight 🎤",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-10-25",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 3.5,
-   "priceText": "£0–£3.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/3floeqqr/karaoke-sundays-free-entry-before-midnight",
-   "infoUrl": "https://www.fatsoma.com/e/3floeqqr/karaoke-sundays-free-entry-before-midnight",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-950488d3-69e",
-   "artist": "Sunday Funday! Half price drinks with a Sunday Funday Card!",
-   "venueId": "cafe-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-10-25",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 5,
-   "priceText": "£0–£5",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/4vazrvnc/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "infoUrl": "https://www.fatsoma.com/e/4vazrvnc/sunday-funday-half-price-drinks-with-a-sunday-funday-card",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
   {
    "type": "club",
    "tags": [
@@ -987,8 +867,8 @@
    "date": "2026-10-27",
    "time": "23:00",
    "price": 7.5,
-   "priceMax": 15.14,
-   "priceText": "£7.50–£15.14",
+   "priceMax": 16.5,
+   "priceText": "£7.50–£16.50",
    "genre": "dance",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/veo1ep3j/dnd-x-oasis-bashoween",
@@ -3232,15 +3112,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/c/3/f/2336535_372aa38e_nightmare-in-suburbia-southampton-freshers-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/",
-   "going": 4,
+   "going": 0,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-19T04:45:04.400Z"
+   ]
   },
   {
    "type": "club",
@@ -8774,15 +8653,14 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/5/6/2298470_b20ea1f9_bed-by-10pm-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10pm---Southampton/42569253/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10pm---Southampton/42569253/",
-   "going": 1,
+   "going": 0,
    "minage": "18",
    "desc": "Bed By 10: The Ultimate 30+ Clubbing Experience!",
    "source": "skiddle",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-19T04:45:04.400Z"
+   ]
   },
   {
    "type": "club",
@@ -11331,6 +11209,33 @@
    "type": "club",
    "tags": [],
    "hot": false,
+   "id": "fat-943df342-890",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
    "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
@@ -11372,33 +11277,6 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "infoUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-943df342-890",
-   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-11-28",
-   "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -18877,14 +18755,13 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/d/2/2317554_6c813f46_r-b-orchestra-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/",
-   "going": 5,
+   "going": 0,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
    "source": "skiddle",
    "genres": [
     "rnb"
-   ],
-   "_carriedSince": "2026-10-19T04:45:04.400Z"
+   ]
   },
   {
    "type": "gig",
