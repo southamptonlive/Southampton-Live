@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T16:16:45.097Z",
+ "generated": "2026-10-26T19:28:33.901Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 424
+   "events": 425
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 530
+   "events": 532
   },
   {
    "id": "skiddle:api",
@@ -282,22 +282,28 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo",
    "name": "Funky Flamingo",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
    "id": "popworld",
    "name": "Popworld",
    "postcode": "SO15 2EH",
    "address": "17 Lower Banister St, Southampton SO15 2EH"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "rubys",
@@ -310,12 +316,6 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -2305,6 +2305,33 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-theatre-tours-2026-10-31-0900",
+   "artist": "Theatre Tours",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-10-31",
+   "time": "09:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2024/03/Family-Theatre-Trail-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53404/53903",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
    ]
   },
   {
@@ -11196,6 +11223,33 @@
   },
   {
    "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-theatre-tours-2026-11-28-0900",
+   "artist": "Theatre Tours",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-11-28",
+   "time": "09:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2024/03/Family-Theatre-Trail-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
    "tags": [
     "xmas"
    ],
@@ -11684,20 +11738,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-3ab688a1-d5c",
+   "id": "fat-943df342-890",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 4.99,
-   "priceMax": 26.4,
-   "priceText": "£4.99–£26.40",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
