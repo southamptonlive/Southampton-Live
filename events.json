@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T19:38:25.669Z",
+ "generated": "2026-10-26T19:58:05.972Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -300,12 +300,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -316,6 +310,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -583,7 +583,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d389058d-5ee",
+   "id": "fat-d7e77c4e-4af",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -595,8 +595,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -11738,20 +11738,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
+   "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
+   "price": 4.99,
+   "priceMax": 26.4,
+   "priceText": "£4.99–£26.40",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
