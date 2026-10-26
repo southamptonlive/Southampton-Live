@@ -1,0 +1,325 @@
+{
+ "note": "Venue photos shown on venue cards and venue pages. status: pending-permission = taken from the venue website during the demo phase (Mark, 26 Oct 2026) and not yet confirmed by the venue; permitted = venue confirmed in writing (fill permission.from/date/text). Remove a line to remove a photo at the next refresh. Never used as event artwork.",
+ "photos": [
+  {
+   "venue": "cafe-parfait",
+   "file": "venues/photos/cafe-parfait.jpg",
+   "width": 1600,
+   "height": 1068,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "the-edge",
+   "file": "venues/photos/the-edge.jpg",
+   "width": 1000,
+   "height": 652,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "guildhall",
+   "file": "venues/photos/guildhall.jpg",
+   "width": 1600,
+   "height": 1200,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "heartbreakers",
+   "file": "venues/photos/heartbreakers.jpg",
+   "width": 1600,
+   "height": 1067,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "mast",
+   "file": "venues/photos/mast.jpg",
+   "width": 1600,
+   "height": 900,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "mayflower",
+   "file": "venues/photos/mayflower.jpg",
+   "width": 1600,
+   "height": 1067,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "medbar",
+   "file": "venues/photos/medbar.jpg",
+   "width": 1078,
+   "height": 720,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "sobar",
+   "file": "venues/photos/sobar.jpg",
+   "width": 1200,
+   "height": 659,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "sobar",
+   "file": "venues/photos/sobar-2.jpg",
+   "width": 960,
+   "height": 612,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "suburbia",
+   "file": "venues/photos/suburbia.jpg",
+   "width": 547,
+   "height": 365,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "the-1865",
+   "file": "venues/photos/the-1865.jpg",
+   "width": 516,
+   "height": 387,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "joiners",
+   "file": "venues/photos/joiners.jpg",
+   "width": 1120,
+   "height": 747,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "attic",
+   "file": "venues/photos/attic.jpg",
+   "width": 1500,
+   "height": 1125,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "brook",
+   "file": "venues/photos/brook.jpg",
+   "width": 1600,
+   "height": 1067,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "hobbit",
+   "file": "venues/photos/hobbit.jpg",
+   "width": 640,
+   "height": 480,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "loft",
+   "file": "venues/photos/loft.jpg",
+   "width": 1080,
+   "height": 810,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "trilogy",
+   "file": "venues/photos/trilogy.jpg",
+   "width": 547,
+   "height": 365,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "engine",
+   "file": "venues/photos/engine.jpg",
+   "width": 1600,
+   "height": 1067,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "papillon",
+   "file": "venues/photos/papillon.jpg",
+   "width": 1600,
+   "height": 1016,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  },
+  {
+   "venue": "popworld",
+   "file": "venues/photos/popworld.jpg",
+   "width": 1600,
+   "height": 1067,
+   "source": "venue website",
+   "source_url": "",
+   "added": "2026-10-26",
+   "status": "pending-permission",
+   "permission": {
+    "from": "",
+    "date": "",
+    "text": ""
+   },
+   "credit": "Photo: the venue"
+  }
+ ]
+}
