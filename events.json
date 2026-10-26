@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T04:51:47.600Z",
+ "generated": "2026-10-26T13:07:11.972Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 124,
+   "carried": 127,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 421
+   "events": 424
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 524
+   "events": 523
   },
   {
    "id": "skiddle:api",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 208
+   "events": 210
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 259
+   "events": 261
   }
  ],
  "venues": [
@@ -168,28 +168,22 @@
    "address": "Totton, Southampton"
   },
   {
-   "id": "guildhall-square",
-   "name": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "address": "Guildhall Square, Southampton"
-  },
-  {
    "id": "trilogy",
    "name": "Trilogy",
    "postcode": "SO15 2AD",
    "address": "55 London Road, Southampton"
   },
   {
+   "id": "guildhall-square",
+   "name": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "address": "Guildhall Square, Southampton"
+  },
+  {
    "id": "loft",
    "name": "The Loft",
    "postcode": "SO15 2EH",
    "address": "Bedford Place, Southampton"
-  },
-  {
-   "id": "secret-venue-southampton",
-   "name": "Secret Venue Southampton",
-   "postcode": "SO15 1GZ",
-   "address": "Secret Venue"
   },
   {
    "id": "brook",
@@ -300,12 +294,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -316,6 +304,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -2925,8 +2919,8 @@
    "date": "2026-10-31",
    "time": "21:00",
    "price": 6,
-   "priceMax": 8,
-   "priceText": "£6–£8",
+   "priceMax": 11,
+   "priceText": "£6–£11",
    "genre": "hip-hop",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/97zcv909/demon-time-halloween-party",
@@ -3004,6 +2998,39 @@
   },
   {
    "type": "club",
+   "tags": [
+    "hip hop",
+    "r&b",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-d35c145e-85e",
+   "artist": "SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME",
+   "venueId": "funky-flamingo",
+   "venueName": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 11,
+   "priceText": "£6–£11",
+   "genre": "hip-hop",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/4ix3bhju/southampton-10-bottle-of-vodka-v-i-p-table-demon-time",
+   "infoUrl": "https://www.fatsoma.com/e/4ix3bhju/southampton-10-bottle-of-vodka-v-i-p-table-demon-time",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "hip-hop",
+    "rnb",
+    "afrobeat"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "fat-bec9ccb7-cd4",
@@ -3058,6 +3085,39 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "hip hop",
+    "r&b",
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-a61d80f4-0f0",
+   "artist": "HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included",
+   "venueId": "funky-flamingo",
+   "venueName": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 11,
+   "priceText": "£6–£11",
+   "genre": "hip-hop",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/zfc6w1p6/halloween-10-bottle-of-vodka-v-i-p-table-minimum-6-people-required-to-claim-bottle-table-entry-not-included",
+   "infoUrl": "https://www.fatsoma.com/e/zfc6w1p6/halloween-10-bottle-of-vodka-v-i-p-table-minimum-6-people-required-to-claim-bottle-table-entry-not-included",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "hip-hop",
+    "rnb",
+    "afrobeat"
    ]
   },
   {
@@ -8950,9 +9010,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-21",
    "time": "19:30",
-   "price": 61,
+   "price": 47.5,
    "priceMax": 74.5,
-   "priceText": "£61–£74.50",
+   "priceText": "£47.50–£74.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52087",
@@ -11209,33 +11269,6 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
-   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-11-28",
-   "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "source": "fatsoma",
-   "genres": [
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
    "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
@@ -11277,6 +11310,33 @@
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "infoUrl": "https://www.fatsoma.com/e/kftp54dy/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "source": "fatsoma",
+   "genres": [
+    "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-943df342-890",
+   "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-28",
+   "time": "22:00",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -14631,6 +14691,33 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43483703",
+   "artist": "Scarlet Reading",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-12-15",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43483703-scarlet-reading-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43483703-scarlet-reading-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -17544,9 +17631,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-01-14",
    "time": "19:30",
-   "price": 43.5,
+   "price": 29.5,
    "priceMax": 55.5,
-   "priceText": "£43.50–£55.50",
+   "priceText": "£29.50–£55.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/07/MG-2026-09-Tour-Web-Banners-62551SGA-Southampton-Event-Card-960x600px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52243/52249",
@@ -18600,6 +18687,34 @@
     "hip-hop"
    ],
    "_carriedSince": "2026-10-21T04:51:42.272Z"
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QcimCpsHhx5vsDCw",
+   "artist": "Take Me Back: The Offspin, Green 182, Some 41",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-01-29",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://images.universe.com/b0ecb66e-0297-4c2a-82cd-73e5618a91b8/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/take-me-back-the-offspin-green-182-some-41-tickets-VW4JZ6?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/take-me-back-the-offspin-green-182-some-41-tickets-VW4JZ6?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
   },
   {
    "type": "theatre",
@@ -29369,136 +29484,6 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-13-1930",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-13",
-   "time": "19:30",
-   "price": 29.5,
-   "priceMax": 49.5,
-   "priceText": "£29.50–£49.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53780",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-14-1400",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-14",
-   "time": "14:00",
-   "price": 29.5,
-   "priceMax": 49.5,
-   "priceText": "£29.50–£49.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53781",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-14-1930",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-14",
-   "time": "19:30",
-   "price": 29.5,
-   "priceMax": 49.5,
-   "priceText": "£29.50–£49.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53782",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-15-1400",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-15",
-   "time": "14:00",
-   "price": 29.5,
-   "priceMax": 49.5,
-   "priceText": "£29.50–£49.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53783",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-15-1930",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-15",
-   "time": "19:30",
-   "price": 29.5,
-   "priceMax": 49.5,
-   "priceText": "£29.50–£49.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53784",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -29524,58 +29509,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-16-1930",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-16",
-   "time": "19:30",
-   "price": 34.5,
-   "priceMax": 54.5,
-   "priceText": "£34.50–£54.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53785",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-17-1400",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-17",
-   "time": "14:00",
-   "price": 34.5,
-   "priceMax": 56,
-   "priceText": "£34.50–£56",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53786",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -29632,32 +29565,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-grease-the-musical-2027-07-17-1930",
-   "artist": "Grease the Musical",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2027-07-17",
-   "time": "19:30",
-   "price": 34.5,
-   "priceMax": 54.5,
-   "priceText": "£34.50–£54.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/Grease_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53779/53787",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/grease-2027/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -29743,6 +29650,162 @@
    ]
   },
   {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-22-1000",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-22",
+   "time": "10:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54812",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-22-1300",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-22",
+   "time": "13:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54813",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-23-1000",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-23",
+   "time": "10:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54815",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-23-1300",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-23",
+   "time": "13:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54816",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-24-1000",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-24",
+   "time": "10:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54818",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-24-1300",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-24",
+   "time": "13:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54819",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
    "type": "club",
    "tags": [
     "soul"
@@ -29798,6 +29861,32 @@
    "source": "fatsoma",
    "genres": [
     "soul"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-the-smartest-giant-in-town-2027-07-24-1600",
+   "artist": "The Smartest Giant in Town",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2027-07-24",
+   "time": "16:00",
+   "price": 19.5,
+   "priceMax": 19.5,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/10/TSGIT-Mayflower-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54811/54820",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-smartest-giant-in-town-2027/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "genres": [
+    "theatre"
    ]
   },
   {
@@ -31495,6 +31584,34 @@
    "desc": null,
    "status": null,
    "source": "ticketmaster",
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-1AUZk49GkeWxJRd",
+   "artist": "Lightning Seeds",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-11-06",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/3e1/97b5bc96-086e-4306-a6f0-11f71dcbd3e1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+   "ticketUrl": "https://www.ticketmaster.co.uk/lightning-seeds-southampton-06-11-2027/event/36006557BD8A6BC3",
+   "infoUrl": "https://www.ticketmaster.co.uk/lightning-seeds-southampton-06-11-2027/event/36006557BD8A6BC3",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "genreGuess": true,
    "genres": [
     "indie"
    ]
