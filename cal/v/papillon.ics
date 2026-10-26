@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-8ac5c6ea-41a@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261031T200000
 SUMMARY:LOOSE X RITMO - HALLOWEEN PARTY
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£9–£22\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4a5da184-31b@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261031T203000
 SUMMARY:Loose X Ritmo - Halloween Party
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£6–£22\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43269112@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261103T193000
 SUMMARY:chloe slater
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43188557@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261104T200000
 SUMMARY:Car Bomb
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:br-conor-mclain-2026-11-05@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261105T193000
 SUMMARY:Conor Mclain
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£24.75\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43186032@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:Beardyman
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433874@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Harakiri for the Sky
@@ -71,7 +71,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42681834@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261120T200000
 SUMMARY:Stand Up Comedy with Bella Hull\, Tom Ward and Joey Page
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -80,7 +80,7 @@ DESCRIPTION:Comedy\n£22.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AgZk3pGkeRCwmK@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261122T193000
 SUMMARY:The Guest List
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -89,7 +89,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43340306@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261209T193000
 SUMMARY:Buzzcocks
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -98,7 +98,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43408559@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261216T193000
 SUMMARY:Paul McCaffrey
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -107,7 +107,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43408560@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261217T193000
 SUMMARY:Angelos Epithemiou
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -116,7 +116,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43290585@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270123T190000
 SUMMARY:Chuck Ragan
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -125,7 +125,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43455254@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Beans on Toast
@@ -135,7 +135,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43476998@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270305T200000
 SUMMARY:Black Water County
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -144,7 +144,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43436569@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Anna Erhard
@@ -154,7 +154,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433023@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Utah Saints
@@ -164,7 +164,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433278@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Ibibio Sound Machine

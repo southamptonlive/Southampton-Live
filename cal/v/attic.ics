@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42492042@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261104T190000
 SUMMARY:Hampshire Open Mic Comedy Night
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -16,7 +16,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42639198@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261110T194500
 SUMMARY:Andrew Lawrence "So right\, it's wrong"
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -25,7 +25,7 @@ DESCRIPTION:Comedy\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43328835@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:Arthur Smith
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43041883@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261114T190000
 SUMMARY:Jacob Hawley
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42437557@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261119T190000
 SUMMARY:Alasdair Beckett-King at The Attic in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -52,7 +52,7 @@ DESCRIPTION:Comedy\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42492040@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261121T190000
 SUMMARY:Dominic Frisby on Tour! in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -61,7 +61,7 @@ DESCRIPTION:Comedy\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42611270@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261216T193000
 SUMMARY:Open Mic Comedy Night Special near me
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -70,7 +70,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42532872@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261218T190000
 SUMMARY:A Jerry Christmas with Frank Sanazi & The Iraq Pack
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -79,7 +79,7 @@ DESCRIPTION:Comedy\n£19\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42414993@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Nightwish Tribute band Night-ish in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42800786@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270120T193000
 SUMMARY:Open Mic Comedy Night near me
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -97,7 +97,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42498034@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270206T194500
 SUMMARY:Max Fulham & Friends in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -106,7 +106,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050987@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270212T194500
 SUMMARY:Bobby Davro at The Attic in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -115,7 +115,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050968@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270219T194500
 SUMMARY:Abi Clarke stand up comedy tour
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -124,7 +124,7 @@ DESCRIPTION:Comedy\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42800788@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270227T170000
 SUMMARY:Iain Lee "Imposter Syndrome"
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\n£17\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42724346@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270312T194500
 SUMMARY:Chris Cantrill Stand up Comedy Tour in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -142,7 +142,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050972@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270319T194500
 SUMMARY:Stand up comedy in Southampton with headliner Laura Lexx
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -151,7 +151,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42624052@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270325T193000
 SUMMARY:200% Badgers (Badgers vs Hedgehogs) with Matt Hobs
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -160,7 +160,7 @@ DESCRIPTION:Comedy\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42800783@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270413T194500
 SUMMARY:Tom Lawrinson "Speak of the Devil"
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -169,7 +169,7 @@ DESCRIPTION:Gig\n£16\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43312745@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Patrick Monahan
@@ -179,7 +179,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42681120@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270508T194500
 SUMMARY:A Night with Frank Sanazi & Sol Bernstein in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -188,7 +188,7 @@ DESCRIPTION:Comedy\n£17.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42604561@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270703T170000
 SUMMARY:Mark Simmons - W.I.P - Early evening (matinee) show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -197,7 +197,7 @@ DESCRIPTION:Comedy\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42616632@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270717T164500
 SUMMARY:Alfie Moore - New Comedy Tour Warm Up Show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -206,7 +206,7 @@ DESCRIPTION:Comedy\n£17\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42616640@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20270717T200000
 SUMMARY:Alfie Moore - New Comedy Tour Warm Up Show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -215,7 +215,7 @@ DESCRIPTION:Comedy\n£17\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43408569@southampton.live
-DTSTAMP:20261026T200955Z
+DTSTAMP:20261026T203302Z
 DTSTART;TZID=Europe/London:20271007T190000
 SUMMARY:Micky Overman
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
