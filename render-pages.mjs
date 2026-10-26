@@ -58,6 +58,13 @@ const venueName = (e) => (venueById.get(e.venueId) || {}).name || e.venueName ||
 const venueAddr = (e) => { const v = venueById.get(e.venueId) || {}; return [v.address, v.postcode || e.postcode].filter(Boolean).join(', '); };
 const eventPath = (e) => `/e/${slugify(e.artist)}-${e.id}.html`;
 const venuePath = (vid) => `/v/${vid}.html`;
+// venue photos manifest (optional): shown on venue pages and the /venues list only
+let VENUE_PHOTOS = {};
+try {
+  const m = JSON.parse(readFileSync(join(ROOT, 'venue-photos.json'), 'utf8'));
+  for (const ph of m.photos || []) if (ph.venue && ph.file) (VENUE_PHOTOS[ph.venue] = VENUE_PHOTOS[ph.venue] || []).push(ph);
+} catch (e) { /* no manifest, no photos */ }
+const venuePhotoHtml = (vid, cls = 'vimg') => { const ph = (VENUE_PHOTOS[vid] || [])[0]; return ph ? `<figure class="vphoto"><img class="${cls}" src="/${esc(ph.file)}" alt="" loading="lazy"><figcaption>${esc(ph.credit || 'Photo: the venue')}</figcaption></figure>` : ''; };
 const dayPath = (iso) => `/d/${iso}.html`;
 
 const events = (feed.events || []).filter((e) => e.date && e.artist).sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
@@ -104,6 +111,8 @@ a{color:#FF6E6E}
 .row b{color:#fff;display:block;font-size:16px}
 .row span{color:#9a9a9a;font-size:13.5px}
 .dayhead{color:#fff;font-weight:900;font-size:20px;margin:22px 0 4px;text-transform:uppercase}
+.vphoto{margin:14px 0 6px}.vphoto img{width:100%;max-height:420px;object-fit:cover;border-radius:14px;display:block}.vphoto figcaption{color:#6d6d6d;font-size:11.5px;margin-top:4px;text-align:right}
+.vrow{display:flex;gap:12px;align-items:center}.vrow img{width:92px;height:62px;object-fit:cover;border-radius:10px;flex-shrink:0}
 .note{border:1.5px solid #FF7A00;border-radius:12px;padding:10px 14px;color:#FF7A00;font-weight:700;margin:12px 0}
 footer{color:#6d6d6d;font-size:12px;padding:20px 16px;border-top:1px solid #1e1e1e;text-align:center}
 footer a{color:#8a8a8a}
@@ -170,8 +179,8 @@ ${more.length ? `<h2>More at ${esc(vn)}</h2>${more.map(rowHTML).join('')}` : ''}
 }
 
 /* ---------- venue / day / tonight / weekend pages ---------- */
-function listPage({ title, h1, intro, canonical, list, emptyLine }) {
-  const body = `<h1>${esc(h1)}</h1><p class="meta">${esc(intro)}</p>
+function listPage({ title, h1, intro, canonical, list, emptyLine, lead = '' }) {
+  const body = `<h1>${esc(h1)}</h1><p class="meta">${esc(intro)}</p>${lead}
 ${list.length ? listByDay(list) : `<p class="note">${esc(emptyLine)}</p><p><a class="btn ghost" href="/#/add">Add your event — free, always</a></p>`}`;
   return shell({ title, desc: intro, canonical, body });
 }
@@ -252,7 +261,7 @@ for (const v of venuesWithUpcoming) {
   put(venuePath(v.id).slice(1), listPage({
     title: `${v.name}, Southampton — what's on · Southampton.Live`, h1: v.name,
     intro: `${[v.address, v.postcode].filter(Boolean).join(', ')} · ${list.length} upcoming ${list.length === 1 ? 'event' : 'events'} listed · updated every 3 hours`,
-    canonical: venuePath(v.id), list, emptyLine: `Nothing listed yet at ${v.name}.`,
+    canonical: venuePath(v.id), list, emptyLine: `Nothing listed yet at ${v.name}.`, lead: venuePhotoHtml(v.id),
   }));
 }
 // days
@@ -276,7 +285,8 @@ put('this-weekend.html', listPage({ title: `${wk.length ? wk.length + ' things o
     const n = upcoming.filter((e) => e.venueId === v.id).length;
     const where = [v.address, v.postcode].filter(Boolean).join(', ');
     const maps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${v.name} ${v.postcode || ''} Southampton`)}`;
-    return `<a class="row" href="${venuePath(v.id)}"><b>${esc(v.name)}</b><span>${esc(where)}${where ? ' · ' : ''}${n} coming up</span></a>`;
+    const ph = (VENUE_PHOTOS[v.id] || [])[0];
+    return `<a class="row vrow" href="${venuePath(v.id)}">${ph ? `<img src="/${esc(ph.file)}" alt="" loading="lazy">` : ''}<span style="min-width:0"><b>${esc(v.name)}</b><span>${esc(where)}${where ? ' · ' : ''}${n} coming up</span></span></a>`;
   }).join('\n');
   const body = `<h1>Live music venues in Southampton</h1>
 <p class="meta">${vs.length} venues with something on · alphabetical · counts update every 3 hours</p>
