@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T15:28:12.566Z",
+ "generated": "2026-10-26T15:49:41.404Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 84,
+   "carried": 83,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -11319,12 +11319,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-28",
    "time": "16:00",
-   "price": null,
-   "priceMax": null,
+   "price": 27,
+   "priceMax": 27,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/5_MAST-Web-Event-Card-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53093/53098",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
    "going": 0,
    "minage": null,
