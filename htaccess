@@ -14,7 +14,15 @@
   </FilesMatch>
 </IfModule>
 
-# Pre-rendered pages: serve /tonight, /e/<slug>, /v/<venue>, /d/<date> without ".html"
+# App tabs have real addresses (T12): the app is served for these paths and picks
+# the tab from the URL. /venues is NOT here — it is a pre-rendered page (venues.html).
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(whats-on|dates|scene|profile|venues)/$ /$1 [R=301,L]
+  RewriteRule ^(whats-on|dates|scene|profile)$ index.html [L]
+</IfModule>
+
+# Pre-rendered pages: serve /tonight, /venues, /e/<slug>, /v/<venue>, /d/<date> without ".html"
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteCond %{REQUEST_FILENAME} !-f

@@ -111,7 +111,7 @@ footer a{color:#8a8a8a}
 <header><a href="/">SOUTHAMPTON<span style="color:#FF0000">.LIVE</span></a><span class="live">LIVE IN SO</span></header>
 <main>${body}</main>
 <footer>Southampton.Live — Southampton's gig guide · listings refresh every 3 hours · always confirm with the venue · produced and managed by Mark James, <a href="https://southamptondesign.co/" rel="noopener">Southampton Design Co</a><br>
-<a href="/">What's on</a> · <a href="/#/add"><b>Add your event — free, always</b></a> · <a href="/tonight.html">Tonight</a> · <a href="/this-weekend.html">This weekend</a> · <a href="/about.html">About</a> · <a href="/about/free/">How this stays free</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></footer>
+<a href="/">What's on</a> · <a href="/#/add"><b>Add your event — free, always</b></a> · <a href="/tonight.html">Tonight</a> · <a href="/this-weekend.html">This weekend</a> · <a href="/venues">Venues</a> · <a href="/about.html">About</a> · <a href="/about/free/">How this stays free</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></footer>
 </body></html>`;
 }
 
@@ -267,9 +267,27 @@ put('tonight.html', listPage({ title: `${tonight.length ? tonight.length + ' thi
 const wk = upcoming.filter((e) => WKND.includes(e.date));
 put('this-weekend.html', listPage({ title: `${wk.length ? wk.length + ' things on in Southampton this ' + (WKND_COMING ? 'coming ' : '') + 'weekend' : 'This weekend in Southampton'} · Southampton.Live`, h1: WKND_COMING ? 'This coming weekend in Southampton' : 'This weekend in Southampton', intro: `${fmtShort(WKND[0])} – ${fmtShort(WKND[WKND.length - 1])} · ${wk.length ? wk.length + ' listed' : 'nothing listed yet'}`, canonical: '/this-weekend.html', list: wk, emptyLine: 'Nothing listed yet for this weekend.' }));
 
+// /venues — the venue list as a real page (task T12). Alphabetical, "The" ignored,
+// same rule as the app's sidebar. Counts are real; nothing descriptive we wrote.
+{
+  const nk = (v) => v.name.replace(/^the\s+/i, '');
+  const vs = [...venuesWithUpcoming].sort((a, b) => nk(a).localeCompare(nk(b), 'en', { sensitivity: 'base' }));
+  const cards = vs.map((v) => {
+    const n = upcoming.filter((e) => e.venueId === v.id).length;
+    const where = [v.address, v.postcode].filter(Boolean).join(', ');
+    const maps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${v.name} ${v.postcode || ''} Southampton`)}`;
+    return `<a class="row" href="${venuePath(v.id)}"><b>${esc(v.name)}</b><span>${esc(where)}${where ? ' · ' : ''}${n} coming up</span></a>`;
+  }).join('\n');
+  const body = `<h1>Live music venues in Southampton</h1>
+<p class="meta">${vs.length} venues with something on · alphabetical · counts update every 3 hours</p>
+${cards}
+<p class="src">Venue descriptions and photos appear only when a venue supplies them. <a href="/#/add">Add your event — free, always</a> · <a href="/">Open the guide</a></p>`;
+  put('venues.html', shell({ title: 'Live music venues in Southampton — Southampton.Live', desc: `${vs.length} venues with gigs, club nights, comedy and theatre coming up in Greater Southampton — addresses, maps and what's on at each.`, canonical: `${SITE}/venues`, body }));
+}
+
 // sitemap (upcoming events, venues, days, fixed pages; past/alias pages excluded)
 const urls = [
-  ['/', 'hourly', '1.0'], ['/tonight.html', 'hourly', '0.9'], ['/this-weekend.html', 'daily', '0.9'],
+  ['/', 'hourly', '1.0'], ['/tonight.html', 'hourly', '0.9'], ['/this-weekend.html', 'daily', '0.9'], ['/venues', 'daily', '0.8'],
   ['/about.html', 'monthly', '0.4'], ['/about/free/', 'monthly', '0.4'], ['/privacy.html', 'monthly', '0.2'], ['/terms.html', 'monthly', '0.2'],
   ...venuesWithUpcoming.map((v) => [venuePath(v.id), 'daily', '0.7']),
   ...days.map((d) => [dayPath(d), 'daily', '0.6']),
