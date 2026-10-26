@@ -110,7 +110,7 @@ footer a{color:#8a8a8a}
 </style></head><body>
 <header><a href="/">SOUTHAMPTON<span style="color:#FF0000">.LIVE</span></a><span class="live">LIVE IN SO</span></header>
 <main>${body}</main>
-<footer>Southampton.Live — Southampton's gig guide · listings refresh every 3 hours · always confirm with the venue<br>
+<footer>Southampton.Live — Southampton's gig guide · listings refresh every 3 hours · always confirm with the venue · produced and managed by Mark James, <a href="https://southamptondesign.co/" rel="noopener">Southampton Design Co</a><br>
 <a href="/">What's on</a> · <a href="/#/add"><b>Add your event — free, always</b></a> · <a href="/tonight.html">Tonight</a> · <a href="/this-weekend.html">This weekend</a> · <a href="/about.html">About</a> · <a href="/about/free/">How this stays free</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></footer>
 </body></html>`;
 }
