@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-ce445ca5-f27@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T223000
 SUMMARY:[SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4ff8efa9-209@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T223000
 SUMMARY:[SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -24,17 +24,17 @@ URL:https://southampton.live/e/sold-out-southampton-punjabi-soc-halloween-house-
 DESCRIPTION:Club night\n£7–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/l3x41rec/sold-out-southampton-punjabi-soc-halloween-house-party\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:fat-d389058d-5ee@southampton.live
-DTSTAMP:20261026T203302Z
+UID:fat-d7e77c4e-4af@southampton.live
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T230000
 SUMMARY:[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
-URL:https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d389058d-5ee.html
-DESCRIPTION:Club night\n£6–£15.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton\nDetails can change — check with the venue.
+URL:https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d7e77c4e-4af.html
+DESCRIPTION:Club night\n£6–£15.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a05af5ac-99a@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261028T220000
 SUMMARY:Fiesta Miércoles | Halloween Edition
 LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£5.50\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-88d0c7a5-ad9@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261028T230000
 SUMMARY:Bollynights Southampton - THE CRYPT - BOLLYWOOD HALLOWEEN
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£7–£13.99\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d7aeab6b-464@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261030T220000
 SUMMARY:HAVANA 🇨🇺 — REVOLUCION LATINA | Halloween Special Edition 🎃
 LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ba3b614f-c96@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9001b82b-cad@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:BOLLYWOOD DIWALI NIGHT
 LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
@@ -79,7 +79,7 @@ DESCRIPTION:Club night\n£4–£9.50\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-006818f9-fac@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261106T230000
 SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -88,7 +88,7 @@ DESCRIPTION:Club night\n£6–£33\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42719298@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261121T223000
 SUMMARY:Reggaeton Party (Southampton) November 2026
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -96,12 +96,12 @@ URL:https://southampton.live/e/reggaeton-party-southampton-november-2026-sk-4271
 DESCRIPTION:Club night\n£7–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-November-2026/42719298/\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:fat-3ab688a1-d5c@southampton.live
-DTSTAMP:20261026T203302Z
+UID:fat-943df342-890@southampton.live
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
-URL:https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-3ab688a1-d5c.html
-DESCRIPTION:Club night\n£4.99–£26.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada\nDetails can change — check with the venue.
+URL:https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-943df342-890.html
+DESCRIPTION:Club night\n£6.99–£12.09\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR

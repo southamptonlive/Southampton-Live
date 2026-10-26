@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-ce445ca5-f27@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T223000
 SUMMARY:[SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4ff8efa9-209@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T223000
 SUMMARY:[SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -24,17 +24,17 @@ URL:https://southampton.live/e/sold-out-southampton-punjabi-soc-halloween-house-
 DESCRIPTION:Club night\n£7–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/l3x41rec/sold-out-southampton-punjabi-soc-halloween-house-party\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:fat-d389058d-5ee@southampton.live
-DTSTAMP:20261026T203302Z
+UID:fat-d7e77c4e-4af@southampton.live
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261026T230000
 SUMMARY:[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
-URL:https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d389058d-5ee.html
-DESCRIPTION:Club night\n£6–£15.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton\nDetails can change — check with the venue.
+URL:https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d7e77c4e-4af.html
+DESCRIPTION:Club night\n£6–£15.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-be5478ad-923@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261028T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 🧟‍♀️🎃👻 HALLOWEEN!! 🧛🏻‍♀️🧟🦇🐈‍⬛
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£5–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-15829e4c-43c@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261029T220000
 SUMMARY:SOLD OUT - SPACE AVAILABLE ON THE DOOR 😻 Glam Thursdays | 🧟🦇🐈‍⬛ GLAM HALLOWEEN 2026! 🧛🏽‍♂️🎃👻Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃 *Gala event*
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£3.80–£8\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4d7ee54c-725@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261104T220000
 SUMMARY:🐫 Hump Wednesdays 🐫
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-1628eab3-961@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261105T220000
 SUMMARY:😻 Glam Thursdays | 🌶️ GLAM NANDOS!! 🌶️ Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£3.80–£4.80\nListed via Fatsoma\nTickets: https://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ffa15c92-0fa@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261111T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 Après Ski Party! ⛷️🚠
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -79,7 +79,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8ed04007-496@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261112T220000
 SUMMARY:😻 Glam Thursdays | 💪🏽💪💪🏻 GYM SHARK GIVEAWAY! 🦈 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -88,7 +88,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2345db26-0a0@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261114T150000
 SUMMARY:The ABBA Day Party: Southampton 💃🕺
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2e445134-b9b@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261118T220000
 SUMMARY:🐫 Hump Wednesdays 🐫
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -106,7 +106,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ed909997-7b2@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261119T220000
 SUMMARY:😻 Glam Thursdays | 😋🪽 LORD OF THE WINGS! 🪽😋 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -115,7 +115,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-c0e8f55d-929@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261125T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 🏹🏏🥋 Hump Olympics! 🏑🏓🏸
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -124,7 +124,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f3caf66c-e9c@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261126T220000
 SUMMARY:😻 Glam Thursdays | 🛞 SPIN THE WHEEL!! 🛞 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -133,7 +133,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0281d5f3-1f1@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261202T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 Ho Ho Hold My Drink! 🧑🏾‍🎄🎅🏻
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -142,7 +142,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-5dc8c40b-fa5@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261203T220000
 SUMMARY:😻 Glam Thursdays | 🎅🏻 BAD SANTA RAVE! 🎅🏽 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -151,7 +151,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f12d9114-a18@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261205T150000
 SUMMARY:2000's Day Party: Southampton 🦋
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -160,7 +160,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-47452271-680@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261209T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 Christmas Jumper Party 🎄
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -169,7 +169,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f81ee87d-6b6@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261210T220000
 SUMMARY:😻 Glam Thursdays | ❄️☃️ SNOW PARTY❄️☃️ Southampton's Best Student Night! 😻 £1 Corky's All Night! 🥃 *Gala Event
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -178,7 +178,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-443765c2-806@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261216T220000
 SUMMARY:🐫 Hump Wednesdays 🐫 End of Term Christmas Party 🎄
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -187,7 +187,7 @@ DESCRIPTION:Club night\n£5–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2643dbc7-4f9@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20261217T220000
 SUMMARY:😻 Glam Thursdays | 🧝🏽 ELF CHRISTMAS PARTY!🧝🏽Southampton's Best Student Night! 😻 £1 Corky's All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -196,7 +196,7 @@ DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ca6f4dd0-f8a@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270107T220000
 SUMMARY:Glam Thursdays | Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -205,7 +205,7 @@ DESCRIPTION:Club night\n£3.80–£4.80\nListed via Fatsoma\nTickets: https://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0a2f634e-ed7@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270130T150000
 SUMMARY:Northern Soul Day Party: Southampton ✊
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -214,7 +214,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-be8b71ee-1b3@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270306T150000
 SUMMARY:90s Day Party: Southampton 💿
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -223,7 +223,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f158dc83-269@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270320T150000
 SUMMARY:Dolly's Disco: Southampton 💋👢
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -232,7 +232,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-c8a67586-f7f@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270403T150000
 SUMMARY:Ska Day Party: Southampton 🎺
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -241,7 +241,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-52111014-d01@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270529T150000
 SUMMARY:Rock Day Party: Southampton 🤘
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -250,7 +250,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a1304b53-ef1@southampton.live
-DTSTAMP:20261026T203302Z
+DTSTAMP:20261026T215310Z
 DTSTART;TZID=Europe/London:20270724T150000
 SUMMARY:Motown Day Party: Southampton ✨
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
