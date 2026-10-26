@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T15:22:54.290Z",
+ "generated": "2026-10-26T15:28:12.566Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -9031,6 +9031,35 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42425021",
+   "artist": "Bed By 10",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "going": 38,
+   "minage": "18",
+   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
+   "feeIncluded": false,
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "tribute"
    ],
@@ -9059,34 +9088,6 @@
    "genres": [
     "electronic"
    ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42425021",
-   "artist": "Bed By 10",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-21",
-   "time": "16:00",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 36,
-   "minage": "18",
-   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
-   "source": "skiddle",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ],
-   "_carriedSince": "2026-10-21T04:51:42.272Z"
   },
   {
    "type": "club",
