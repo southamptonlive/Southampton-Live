@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T15:04:57.102Z",
+ "generated": "2026-10-26T15:22:54.290Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 531
+   "events": 530
   },
   {
    "id": "skiddle:api",
@@ -11191,33 +11191,6 @@
    "genres": [
     "house",
     "dance"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-getting-started-as-a-writer-2026-11-28-1000",
-   "artist": "Getting Started as a Writer",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-28",
-   "time": "10:00",
-   "price": 10,
-   "priceMax": 20,
-   "priceText": "£10–£20",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/10/artfulscribe-writing-hand-copy3.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54804/54806",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/getting-started-as-a-writer-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {

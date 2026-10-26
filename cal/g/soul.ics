@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-41634043@southampton.live
-DTSTAMP:20261026T150457Z
+DTSTAMP:20261026T152254Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:The Vintage Explosion
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£32.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0a2f634e-ed7@southampton.live
-DTSTAMP:20261026T150457Z
+DTSTAMP:20261026T152254Z
 DTSTART;TZID=Europe/London:20270130T150000
 SUMMARY:Northern Soul Day Party: Southampton ✊
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42828624@southampton.live
-DTSTAMP:20261026T150457Z
+DTSTAMP:20261026T152254Z
 DTSTART;TZID=Europe/London:20270528T190000
 SUMMARY:A Night of Sade in Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\n£21–£23\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a1304b53-ef1@southampton.live
-DTSTAMP:20261026T150457Z
+DTSTAMP:20261026T152254Z
 DTSTART;TZID=Europe/London:20270724T150000
 SUMMARY:Motown Day Party: Southampton ✨
 LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
