@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-da49016b-b2d@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261026T170000
 SUMMARY:The Hobbit Pub Invasion of the societies!
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£3–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-df3f450c-474@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261028T170000
 SUMMARY:Hobbit Wednesday Halloween takeover
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4ed847a9-937@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261030T170000
 SUMMARY:The Horror Rave
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£3–£8\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-cabc4786-f0f@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261031T150000
 SUMMARY:The Hobbit Pub Halloween
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\n£2–£8.50\nListed via Fatsoma\nTickets: https://www.fatsoma.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-e51a930e-ccb@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261106T150000
 SUMMARY:DOOMED - POP PUNK TAKEOVER
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42803985@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261115T190000
 SUMMARY:My Black Poison
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/whats
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43384348@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261121T193000
 SUMMARY:Diaz Brothers
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43387670@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261211T190000
 SUMMARY:7eventh sea
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43449385@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20261219T200000
 SUMMARY:Aubrey Blakeledge
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43387186@southampton.live
-DTSTAMP:20261026T195805Z
+DTSTAMP:20261026T200354Z
 DTSTART;TZID=Europe/London:20270108T190000
 SUMMARY:Parasitic Encephalitis
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
