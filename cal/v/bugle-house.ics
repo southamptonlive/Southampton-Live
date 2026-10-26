@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Bugle House — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-18ce1bca-eef@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T190000
+SUMMARY:DREAMS OF VALHALLA
+LOCATION:The Bugle House\, 1A Bugle Street\, Southampton\, SO14 2AL
+URL:https://southampton.live/e/dreams-of-valhalla-fat-18ce1bca-eef.html
+DESCRIPTION:Gig\n£16.50–£27.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2pxb0zeg/dreams-of-valhalla\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Techno in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-6b6771e7-b86@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:Kaleidoscope Trance and Techno
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/kaleidoscope-trance-and-techno-fat-6b6771e7-b86.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspimnbw/kaleidoscope-trance-and-techno\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Afrobeat in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-8a51a62a-56f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-8a51a62a-56f.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/srx3ied4/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-eb646d5c-44f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:Southampton: DEMON TIME HALLOWEEN SPECIAL
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-demon-time-halloween-special-fat-eb646d5c-44f.html
+DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/x3yqrdyp/southampton-demon-time-halloween-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-598a86a0-3b7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:DEMON TIME HALLOWEEN PARTY
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/demon-time-halloween-party-fat-598a86a0-3b7.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/97zcv909/demon-time-halloween-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d35c145e-85e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-10-bottle-of-vodka-vip-table-demon-time-fat-d35c145e-85e.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ix3bhju/southampton-10-bottle-of-vodka-v-i-p-table-demon-time\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-bec9ccb7-cd4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-bec9ccb7-cd4.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/s2esaqqs/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a61d80f4-0f0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/halloween-10-bottle-of-vodka-vip-table-minimum-6-people-requ-fat-a61d80f4-0f0.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/zfc6w1p6/halloween-10-bottle-of-vodka-v-i-p-table-minimum-6-people-required-to-claim-bottle-table-entry-not-included\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-7e972460-cb8@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-7e972460-cb8.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ag74cpj8/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d458a78f-738@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-d458a78f-738.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/5kmhesnt/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ed44f16b-4f2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ed44f16b-4f2.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ub758lyu/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-12007744-94b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-12007744-94b.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/qyie9rsr/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-fc58462c-fe8@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-fc58462c-fe8.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mgts3hsl/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ef7c535a-7c5@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ef7c535a-7c5.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rymktuud/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-203ca87a-c52@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-203ca87a-c52.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/e36im8yq/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-8c1aa27f-75a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-8c1aa27f-75a.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/6rkri2tk/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d22ee22c-84c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-d22ee22c-84c.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ytma4si/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-fc0939ff-3f7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-fc0939ff-3f7.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ao34po01/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9f57af6a-d2f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-9f57af6a-d2f.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/jh26g5vr/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

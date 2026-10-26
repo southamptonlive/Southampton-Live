@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Indie in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-3a628292-71f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261029T220000
+SUMMARY:WTF IS INDIE? HALLOWEEN SPECIAL! 🎃
+LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
+URL:https://southampton.live/e/wtf-is-indie-halloween-special-fat-3a628292-71f.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/5fwm08x8/wtf-is-indie-halloween-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-0a381fa7-813@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261105T220000
+SUMMARY:WTF IS INDIE? CATFISH SPECIAL! 🐊🐊🐊
+LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
+URL:https://southampton.live/e/wtf-is-indie-catfish-special-fat-0a381fa7-813.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/n3rhq4o4/wtf-is-indie-catfish-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QbhTjHNZcOZl0SrJ@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T180000
+SUMMARY:Southampton - The 1865 - Indiepalooza - "the UK's BEST Indie Festival"
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/southampton-the-1865-indiepalooza-the-uks-best-indie-festiva-tm-LvZ18QbhTjHNZcOZl0SrJ.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/southampton-the-1865-indiepalooza-the-uks-best-indie-festival-tickets-1WM83P?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-dbb5b1dd-266@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261112T220000
+SUMMARY:WTF IS INDIE? THE SMITHS SPECIAL! 🥀🥀🥀
+LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
+URL:https://southampton.live/e/wtf-is-indie-the-smiths-special-fat-dbb5b1dd-266.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/wmu234nv/wtf-is-indie-the-smiths-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-b0e20a61-f8b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261119T220000
+SUMMARY:WTF IS INDIE? RADIOHEAD SPECIAL! 📻📻📻
+LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
+URL:https://southampton.live/e/wtf-is-indie-radiohead-special-fat-b0e20a61-f8b.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/fre1evdm/wtf-is-indie-radiohead-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42415287@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T190000
+SUMMARY:Definitely Oasis - Southampton
+LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
+URL:https://southampton.live/e/definitely-oasis-southampton-sk-42415287.html
+DESCRIPTION:Gig\n£16\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/The-Joiners/Definitely-Oasis---Southampton/42415287/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-5fe3a282-5ac@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261126T220000
+SUMMARY:WTF IS INDIE? THE BEATLES SPECIAL! 👨👨👨👨
+LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
+URL:https://southampton.live/e/wtf-is-indie-the-beatles-special-fat-5fe3a282-5ac.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vvidd2zt/wtf-is-indie-the-beatles-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZk8MGke0zdSu@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T190000
+SUMMARY:Embrace - Celebrating 30 Years
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/embrace-celebrating-30-years-tm-1AUZk8MGke0zdSu.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/embrace-celebrating-30-years-southampton-27-11-2026/event/36006437A4E03CCD\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d4511196-a7b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T190000
+SUMMARY:Winter Metal Meltdown - Southampton
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/winter-metal-meltdown-southampton-fat-d4511196-a7b.html
+DESCRIPTION:Gig\n£30.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gm5pun5x/winter-metal-meltdown-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-jesus-jones-35-year-anniversary-of-doubt-2026-11-29@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261129T193000
+SUMMARY:Jesus Jones 35 Year Anniversary of Doubt
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/jesus-jones-35-year-anniversary-of-doubt-br-jesus-jones-35-year-anniversary-of-doubt-2026-11-29.html
+DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/jesus-jones-35-year-anniversary-the-brook-tickets/14740803\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42171164@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T190000
+SUMMARY:Arctic Numpties
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/arctic-numpties-sk-42171164.html
+DESCRIPTION:Gig\n£18.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Arctic-Numpties/42171164/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18Q_9oDUC2vZZw_Nn4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270123T190000
+SUMMARY:Kings of Lyon & UK Strokes & Razorlite
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/kings-of-lyon-uk-strokes-razorlite-tm-LvZ18Q_9oDUC2vZZw_Nn4.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/kings-of-lyon-uk-strokes-razorlite-tickets-163N45?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QhsZ4eRo98ZHIPfW@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270221T190000
+SUMMARY:An Evening With Steve Cradock
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/an-evening-with-steve-cradock-tm-LvZ18QhsZ4eRo98ZHIPfW.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/an-evening-with-steve-cradock-tickets-LMZ4QK?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZk3bGkd4T6W4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270312T190000
+SUMMARY:The Editors
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/the-editors-tm-1AUZk3bGkd4T6W4.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/the-editors-southampton-12-03-2027/event/36006498D5FC7F55\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42698903@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270430T180000
+SUMMARY:The Big Indie Fest
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/the-big-indie-fest-sk-42698903.html
+DESCRIPTION:Gig\n£18–£21\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Big-Indie-Fest/42698903/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QO63Mi1jKZZ0dv5v@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270605T190000
+SUMMARY:Chris Difford: An Intimate Evening with the Co-Founder of Squeeze
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/chris-difford-an-intimate-evening-with-the-co-founder-of-squ-tm-LvZ18QO63Mi1jKZZ0dv5v.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/chris-difford-an-intimate-evening-with-the-co-founder-of-squeeze-tickets-YK16GB?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QtPfemFTO1FXUt3c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271103T190000
+SUMMARY:Clint Boon (Inspiral Carpets)
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/clint-boon-inspiral-carpets-tm-LvZ18QtPfemFTO1FXUt3c.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/clint-boon-inspiral-carpets-tickets-C4Q53S?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Heartbreakers — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43210831@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T193000
+SUMMARY:Pina Palau
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/pina-palau-sg-43210831.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43210831-pina-palau-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43200370@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261027T193000
+SUMMARY:Hollow Hand
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/hollow-hand-sg-43200370.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43200370-hollow-hand-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43243554@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T193000
+SUMMARY:Shtëpi
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/shtepi-sg-43243554.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43285356@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261029T193000
+SUMMARY:Sam Grassie
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/sam-grassie-sg-43285356.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43285356-sam-grassie-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43479490@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T193000
+SUMMARY:RY-GUY
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/ry-guy-sg-43479490.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43479490-ryguy-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43327670@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Inhuman Nature
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/inhuman-nature-sg-43327670.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43327670-inhuman-nature-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43278717@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261102T193000
+SUMMARY:Knats
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/knats-sg-43278717.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43278717-knats-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43197882@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T193000
+SUMMARY:King No-One
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/king-no-one-sg-43197882.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43197882-king-noone-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43168577@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261109T193000
+SUMMARY:cootie catcher
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/cootie-catcher-sg-43168577.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43168577-cootie-catcher-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-98f34861-02e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261110T193000
+SUMMARY:Comedy At Heartbreakers
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/comedy-at-heartbreakers-fat-98f34861-02e.html
+DESCRIPTION:Comedy\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/txd0xqgn/comedy-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43433783@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Petrol Girls
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/petrol-girls-sg-43433783.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43302594@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T193000
+SUMMARY:Butch Kassidy
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/butch-kassidy-sg-43302594.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43302594-butch-kassidy-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdfZ_8GkzDF7OV@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261117T190000
+SUMMARY:Dermot Henry
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/dermot-henry-tm-1AdfZ_8GkzDF7OV.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/dermot-henry-southampton-17-11-2026/event/3500650E3B204834\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43386350@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261119T193000
+SUMMARY:The Zangwills
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/the-zangwills-sg-43386350.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43386350-zangwills-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43433994@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Big Red
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/big-red-sg-43433994.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43433994-big-red-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43433963@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Kalopsia
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/kalopsia-sg-43433963.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43433963-kalopsia-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-3f3fa1a5-ae3@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T223000
+SUMMARY:Strays THE BIRTHDAY PROM RIOT!
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/strays-the-birthday-prom-riot-fat-3f3fa1a5-ae3.html
+DESCRIPTION:Club night\n£4–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/zosba5dj/strays-the-birthday-prom-riot\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43243551@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261125T193000
+SUMMARY:Make Friends
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/make-friends-sg-43243551.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43243551-make-friends-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43384680@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T193000
+SUMMARY:cowboyy
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/cowboyy-sg-43384680.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43384680-cowboyy-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43293552@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261204T193000
+SUMMARY:Milo Korbenski
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/milo-korbenski-sg-43293552.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43293552-milo-korbenski-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43439505@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Anna Muir
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/anna-muir-sg-43439505.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43439505-anna-muir-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-509ed00d-11c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261208T193000
+SUMMARY:Comedy At Heartbreakers
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/comedy-at-heartbreakers-fat-509ed00d-11c.html
+DESCRIPTION:Comedy\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/jmtin088/comedy-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43477378@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261209T193000
+SUMMARY:Sonne
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/sonne-sg-43477378.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43477378-sonne-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43410900@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261210T190000
+SUMMARY:Mauvey
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/mauvey-sg-43410900.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43410900-mauvey-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43442751@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270110T190000
+SUMMARY:Tramhaus
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/tramhaus-sg-43442751.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43442751-tramhaus-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43406146@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270202T193000
+SUMMARY:Modern Woman
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/modern-woman-sg-43406146.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43406146-modern-woman-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-catlea-2027-02-13@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270213T193000
+SUMMARY:Catlea
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/catlea-br-catlea-2027-02-13.html
+DESCRIPTION:Gig\n£13.20\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/catlea-heartbreakers-heartbreakers-tickets/15042863\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43480825@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270215T193000
+SUMMARY:Holy Motors
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/holy-motors-sg-43480825.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43480825-holy-motors-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43480595@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270305T193000
+SUMMARY:Family Stereo
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/family-stereo-sg-43480595.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43480595-family-stereo-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43468522@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Chaosbay
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/chaosbay-sg-43468522.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43468522-chaosbay-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43471456@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270408T193000
+SUMMARY:Vic Allen
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/vic-allen-sg-43471456.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43471456-vic-allen-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43464387@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:Lachlan Horne
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/lachlan-horne-sg-43464387.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43464387-lachlan-horne-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43429990@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270501T110000
+SUMMARY:Billy Nomates
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/billy-nomates-sg-43429990.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43429990-billy-nomates-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43362597@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270521T193000
+SUMMARY:Sound of the Sirens
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/sound-of-the-sirens-sg-43362597.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43362597-sound-of-the-sirens-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43354565@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270611T193000
+SUMMARY:Dakka Skanks
+LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
+URL:https://southampton.live/e/dakka-skanks-sg-43354565.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43354565-dakka-skanks-at-heartbreakers\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

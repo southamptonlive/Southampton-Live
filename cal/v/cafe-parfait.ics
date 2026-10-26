@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Café Parfait — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-eee5e124-e97@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T230000
+SUMMARY:Halloween Friday 2026: BE AFRAID
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/halloween-friday-2026-be-afraid-fat-eee5e124-e97.html
+DESCRIPTION:Club night\n£5–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gfwfmhlh/halloween-friday-2026-be-afraid\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-b54789a2-d39@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:Halloween Sat 31st Oct 2026: THE POSSESSION
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/halloween-sat-31st-oct-2026-the-possession-fat-b54789a2-d39.html
+DESCRIPTION:Club night\n£7–£33\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ysb7lxsg/halloween-sat-31st-oct-2026-the-possession\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-96e0fd7e-952@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261101T230000
+SUMMARY:Halloween Sunday 01.11.26: The Reckoning
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/halloween-sunday-011126-the-reckoning-fat-96e0fd7e-952.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/n50kjhhv/halloween-sunday-01-11-26-the-reckoning\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d63438e2-d82@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:Feel . Good . Friday @ Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/feel-good-friday-cafe-parfait-fat-d63438e2-d82.html
+DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mag3h3ej/feel-good-friday-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ed44f16b-4f2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ed44f16b-4f2.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ub758lyu/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-3aa0aa65-6ad@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261108T230000
+SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card-fat-3aa0aa65-6ad.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mt6shsx3/sunday-funday-half-price-drinks-with-a-sunday-funday-card\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-0183973b-0b3@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T230000
+SUMMARY:Feel . Good . Friday @ Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/feel-good-friday-cafe-parfait-fat-0183973b-0b3.html
+DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4qkl1rbb/feel-good-friday-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ef7c535a-7c5@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ef7c535a-7c5.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rymktuud/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d8c3a9fe-1e0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261115T230000
+SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card-fat-d8c3a9fe-1e0.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/7pssft41/sunday-funday-half-price-drinks-with-a-sunday-funday-card\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-6b6771e7-b86@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:Kaleidoscope Trance and Techno
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/kaleidoscope-trance-and-techno-fat-6b6771e7-b86.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspimnbw/kaleidoscope-trance-and-techno\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-5e2d4ec9-961@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:Feel . Good . Friday @ Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/feel-good-friday-cafe-parfait-fat-5e2d4ec9-961.html
+DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/y7gnees9/feel-good-friday-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d22ee22c-84c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-d22ee22c-84c.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ytma4si/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-efbe01f9-d75@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261122T230000
+SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card-fat-efbe01f9-d75.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/otnyktrt/sunday-funday-half-price-drinks-with-a-sunday-funday-card\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-54dbd5a3-4d8@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T230000
+SUMMARY:Feel . Good . Friday @ Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/feel-good-friday-cafe-parfait-fat-54dbd5a3-4d8.html
+DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vqiv9iw9/feel-good-friday-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-62e00d57-bd1@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T230000
+SUMMARY:Patron El Alto x Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/patron-el-alto-x-cafe-parfait-fat-62e00d57-bd1.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/xp9zy1yf/patron-el-alto-x-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-5482bb4a-b7d@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261129T230000
+SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card-fat-5482bb4a-b7d.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/pous32ae/sunday-funday-half-price-drinks-with-a-sunday-funday-card\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-2869b3f4-3e7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T160000
+SUMMARY:RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/rnb-throwbacks-over-30s-day-party-with-90s-00s-rnb-fat-2869b3f4-3e7.html
+DESCRIPTION:Club night\n£17.60–£82.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

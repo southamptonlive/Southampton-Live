@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Loft — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-43026802@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T200000
+SUMMARY:Temple - Halloween After Dark
+LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
+URL:https://southampton.live/e/temple-halloween-after-dark-sk-43026802.html
+DESCRIPTION:Club night\n£0–£7\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Portsmouth/The-Loft-Portsmouth/Temple---Halloween-After-Dark/43026802/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d7aeab6b-464@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:HAVANA 🇨🇺 — REVOLUCION LATINA | Halloween Special Edition 🎃
+LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
+URL:https://southampton.live/e/havana-revolucion-latina-halloween-special-edition-fat-d7aeab6b-464.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/7ce676q2/havana-revolucion-latina-halloween-special-edition\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bitterne Railway station — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43449324@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T193000
+SUMMARY:Aubrey Blakeledge
+LOCATION:Bitterne Railway station\, Bitterne station MacNaghten Road Bitterne Hampshire\, SO18 1GG
+URL:https://southampton.live/e/aubrey-blakeledge-sg-43449324.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43449324-aubrey-blakeledge-at-bitterne-railway-station\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43449375@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261204T193000
+SUMMARY:Aubrey Blakeledge
+LOCATION:Bitterne Railway station\, Bitterne station MacNaghten Road Bitterne Hampshire\, SO18 1GG
+URL:https://southampton.live/e/aubrey-blakeledge-sg-43449375.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43449375-aubrey-blakeledge-at-bitterne-railway-station\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

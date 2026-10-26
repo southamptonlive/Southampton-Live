@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Suburbia — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-43051729@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261029T180000
+SUMMARY:YellowTape Promotions Presents: Lost and Found Society + Support
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/yellowtape-promotions-presents-lost-and-found-society-suppor-sk-43051729.html
+DESCRIPTION:Gig\n£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/YellowTape-Promotions-Presents-Lost-and-Found-Society--Support/43051729/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42669219@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261029T223000
+SUMMARY:Taking Back Thursdays: Clowning Around Halloween Special
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/taking-back-thursdays-clowning-around-halloween-special-sk-42669219.html
+DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Clowning-Around-Halloween-Special/42669219/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42157226@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:DJ KILLER Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/dj-killer-southampton-sk-42157226.html
+DESCRIPTION:Club night\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-KILLER-Southampton/42157226/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42721137@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T223000
+SUMMARY:Nightmare in Suburbia | Southampton Freshers 2026
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/nightmare-in-suburbia-southampton-freshers-2026-sk-42721137.html
+DESCRIPTION:Club night\n£7–£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Nightmare-in-Suburbia--Southampton-Freshers-2026/42721137/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43018159@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261104T220000
+SUMMARY:MidWeek Motion
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/midweek-motion-sk-43018159.html
+DESCRIPTION:Club night\n£3–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MidWeek-Motion/43018159/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43425120@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T180000
+SUMMARY:Gardna
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/gardna-sg-43425120.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43425120-gardna-at-suburbia\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42669306@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261112T223000
+SUMMARY:Taking Back Thursdays: MIDWEST EMO
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/taking-back-thursdays-midwest-emo-sk-42669306.html
+DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MIDWEST-EMO/42669306/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43056814@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T223000
+SUMMARY:Get Hook'd x Re:Gen presents: HARLEY D
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/get-hookd-x-regen-presents-harley-d-sk-43056814.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42623059@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T180000
+SUMMARY:TuffAF Presents: Compounds
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/tuffaf-presents-compounds-sk-42623059.html
+DESCRIPTION:Gig\n£8\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TuffAF-Presents-Compounds/42623059/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42527845@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T230000
+SUMMARY:Swiftogeddon - 20 Years of Taylor Special
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/swiftogeddon-20-years-of-taylor-special-sk-42527845.html
+DESCRIPTION:Club night\n£8–£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42488954@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:A.M.C & Phantom Presents Grassroots Energy Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/amc-phantom-presents-grassroots-energy-southampton-sk-42488954.html
+DESCRIPTION:Club night\n£10–£12.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42463502@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T180000
+SUMMARY:Wormrot + Support
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/wormrot-support-sk-42463502.html
+DESCRIPTION:Gig\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Wormrot--Support/42463502/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42719298@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T223000
+SUMMARY:Reggaeton Party (Southampton) November 2026
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/reggaeton-party-southampton-november-2026-sk-42719298.html
+DESCRIPTION:Club night\n£7–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-November-2026/42719298/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42799752@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261126T190000
+SUMMARY:The Crawling
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/the-crawling-sk-42799752.html
+DESCRIPTION:Gig\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Crawling/42799752/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42669967@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261126T223000
+SUMMARY:Taking Back Thursdays: MySpace Core
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/taking-back-thursdays-myspace-core-sk-42669967.html
+DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-MySpace-Core/42669967/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42793371@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T223000
+SUMMARY:Full Stack Presents: Dark Arts
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/full-stack-presents-dark-arts-sk-42793371.html
+DESCRIPTION:Club night\n£5–£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42831032@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T180000
+SUMMARY:Soton Slamdown: UK-Invsasion
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/soton-slamdown-uk-invsasion-sk-42831032.html
+DESCRIPTION:Gig\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Soton-Slamdown-UK-Invsasion/42831032/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42815128@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261129T180000
+SUMMARY:Heavy Jams: Linkin Park Hybrid Theory Playthrough
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/heavy-jams-linkin-park-hybrid-theory-playthrough-sk-42815128.html
+DESCRIPTION:Gig\nFree\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Linkin-Park-Hybrid-Theory-Playthrough/42815128/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42604107@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261204T200000
+SUMMARY:Suburbia & CodeName Amen Presents: Bladerunner Pure Jungle
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/suburbia-codename-amen-presents-bladerunner-pure-jungle-sk-42604107.html
+DESCRIPTION:Club night\n£8–£12.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia--CodeName-Amen-Presents-Bladerunner-Pure-Jungle/42604107/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42141419@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261205T180000
+SUMMARY:MC Devvo 20th Anniversary Show at Suburbia\, Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/mc-devvo-20th-anniversary-show-at-suburbia-southampton-sk-42141419.html
+DESCRIPTION:Gig\n£10–£15\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MC-Devvo-20th-Anniversary-Show-at-Suburbia-Southampton/42141419/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42670370@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261210T223000
+SUMMARY:Taking Back Thursdays: Merry AXEMAS
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/taking-back-thursdays-merry-axemas-sk-42670370.html
+DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Taking-Back-Thursdays-Merry-AXEMAS/42670370/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43118793@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261211T200000
+SUMMARY:TDS Presents: Backlash
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/tds-presents-backlash-sk-43118793.html
+DESCRIPTION:Club night\n£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TDS-Presents-Backlash/43118793/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43118288@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T070000
+SUMMARY:SO3 Collective Christmas Party 2026
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/so3-collective-christmas-party-2026-sk-43118288.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ce40c012-59c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T190000
+SUMMARY:SO3 Collective Christmas Party 2026 🎄
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/so3-collective-christmas-party-2026-fat-ce40c012-59c.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/fu2w3j2w/so3-collective-christmas-party-2026\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42679972@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T180000
+SUMMARY:Suburbia Presents: Blink Daze Alternative XMAS Party
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/suburbia-presents-blink-daze-alternative-xmas-party-sk-42679972.html
+DESCRIPTION:Gig\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Suburbia-Presents-Blink-Daze-Alternative-XMAS-Party/42679972/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43028018@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T223000
+SUMMARY:DJ Joker Presents: Jungle Bells
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/dj-joker-presents-jungle-bells-sk-43028018.html
+DESCRIPTION:Club night\n£0–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42815887@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261220T180000
+SUMMARY:Heavy Jams Merry Metal XMAS
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/heavy-jams-merry-metal-xmas-sk-42815887.html
+DESCRIPTION:Gig\nFree\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Heavy-Jams-Merry-Metal-XMAS/42815887/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42748924@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261226T220000
+SUMMARY:Multi Genre Madness | Boxing Day | WAVZ X SDS
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/multi-genre-madness-boxing-day-wavz-x-sds-sk-42748924.html
+DESCRIPTION:Club night\n£4–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42589316@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261231T200000
+SUMMARY:Future Focus NYE 2026-27
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/future-focus-nye-2026-27-sk-42589316.html
+DESCRIPTION:Club night\n£5–£12.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-NYE-2026-27/42589316/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42603940@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261231T200000
+SUMMARY:Future Focus New Years Eve
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/future-focus-new-years-eve-sk-42603940.html
+DESCRIPTION:Club night\n£7.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Future-Focus-New-Years-Eve/42603940/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42612504@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270129T180000
+SUMMARY:Michael Mathers - Eminem Tribute
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/michael-mathers-eminem-tribute-sk-42612504.html
+DESCRIPTION:Gig\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Michael-Mathers---Eminem-Tribute/42612504/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43021706@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270225T180000
+SUMMARY:HammerDown Presents: Froglord + Support
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/hammerdown-presents-froglord-support-sk-43021706.html
+DESCRIPTION:Gig\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/HammerDown-Presents-Froglord--Support/43021706/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42793601@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270312T180000
+SUMMARY:The Greatest MUSICALS Disco - Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/the-greatest-musicals-disco-southampton-sk-42793601.html
+DESCRIPTION:Event\n£14–£17\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/The-Greatest-MUSICALS-Disco---Southampton/42793601/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43021714@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270320T180000
+SUMMARY:Hammerdown and Obsidian Gathering presents: Black Altar
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/hammerdown-and-obsidian-gathering-presents-black-altar-sk-43021714.html
+DESCRIPTION:Gig\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Hammerdown-and-Obsidian-Gathering-presents-Black-Altar/43021714/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

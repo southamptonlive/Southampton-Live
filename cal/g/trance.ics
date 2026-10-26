@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Trance in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-42513985@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T170000
+SUMMARY:Dave Pearce Trance Anthems Halloween with Signum
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/dave-pearce-trance-anthems-halloween-with-signum-sk-42513985.html
+DESCRIPTION:Club night\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Dave-Pearce-Trance-Anthems-Halloween-with-Signum/42513985/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-6b6771e7-b86@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:Kaleidoscope Trance and Techno
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/kaleidoscope-trance-and-techno-fat-6b6771e7-b86.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspimnbw/kaleidoscope-trance-and-techno\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42424548@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261226T200000
+SUMMARY:EngineRooms Presents: Paul Oakenfold & Seb Fontaine BOXING DAY
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/enginerooms-presents-paul-oakenfold-seb-fontaine-boxing-day-sk-42424548.html
+DESCRIPTION:Club night\n£10–£17.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42467362@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270213T150000
+SUMMARY:Trance Day Party Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/trance-day-party-southampton-sk-42467362.html
+DESCRIPTION:Club night\n£15–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Trance-Day-Party-Southampton/42467362/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

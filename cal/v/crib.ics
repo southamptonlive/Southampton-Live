@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:CRIB — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-353380d7-59e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T000000
+SUMMARY:CLUB KOKO: HALLOWEEN SPECIAL JERSEY PARTY
+LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/club-koko-halloween-special-jersey-party-fat-353380d7-59e.html
+DESCRIPTION:Club night\n£3–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/r5viotn1/club-koko-halloween-special-jersey-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-0be38d99-5ac@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T100000
+SUMMARY:THE MAD HOUSE HALLOWEEN EVENT
+LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/the-mad-house-halloween-event-fat-0be38d99-5ac.html
+DESCRIPTION:Club night\n£0–£2\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/pgobz05i/the-mad-house-halloween-event\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9001b82b-cad@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:BOLLYWOOD DIWALI NIGHT
+LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/bollywood-diwali-night-fat-9001b82b-cad.html
+DESCRIPTION:Club night\n£4–£9.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rk3aos37/bollywood-diwali-night\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Orange Rooms — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-a05af5ac-99a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T220000
+SUMMARY:Fiesta Miércoles | Halloween Edition
+LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/fiesta-miercoles-halloween-edition-fat-a05af5ac-99a.html
+DESCRIPTION:Club night\n£0–£5.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

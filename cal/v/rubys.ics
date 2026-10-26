@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ruby's at the Grand — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-838bf519-171@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T213000
+SUMMARY:Southampton SATURDAY 31st October U\, ME & RNB NIGHTMARE ON OXFORD STREET
+LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS
+URL:https://southampton.live/e/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxfo-fat-838bf519-171.html
+DESCRIPTION:Club night\n£11–£165\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/1keojf7p/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxford-street\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

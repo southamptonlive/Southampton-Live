@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Blues in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-41634043@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T190000
+SUMMARY:The Vintage Explosion
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/the-vintage-explosion-sk-41634043.html
+DESCRIPTION:Gig\n£32.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:mayf-jools-holland-2026-11-15-1930@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261115T193000
+SUMMARY:Jools Holland
+LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
+URL:https://southampton.live/e/jools-holland-mayf-jools-holland-2026-11-15-1930.html
+DESCRIPTION:Gig\n£60\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53598/53599\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18Ql78WhqZQwFiONpa@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271015T190000
+SUMMARY:Dr Feelgood & Nine Below Zero
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/dr-feelgood-nine-below-zero-tm-LvZ18Ql78WhqZQwFiONpa.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/dr-feelgood-nine-below-zero-tickets-MD03R4?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

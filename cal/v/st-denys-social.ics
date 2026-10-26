@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:St Denys Social Club — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-f95fd819-e63@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T183000
+SUMMARY:Reggae Roots Dance: Community Dance Part 2 feat. Jah Lion Movement
+LOCATION:St Denys Social Club\, 100 St Denys Road\, Southampton\, SO17 2FP
+URL:https://southampton.live/e/reggae-roots-dance-community-dance-part-2-feat-jah-lion-move-fat-f95fd819-e63.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/6y235b21/reggae-roots-dance-community-dance-part-2-feat-jah-lion-movement\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

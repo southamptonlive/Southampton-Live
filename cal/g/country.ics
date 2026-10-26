@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Country in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-42485729@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T190000
+SUMMARY:Myriad @ The Joiners!
+LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
+URL:https://southampton.live/e/myriad-the-joiners-sk-42485729.html
+DESCRIPTION:Gig\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/The-Joiners/Myriad--The-Joiners/42485729/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-johnny-cash-roadshow-still-walking-the-l-2027-02-26@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270226T193000
+SUMMARY:Johnny Cash Roadshow - Still Walking The Line At 95
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/johnny-cash-roadshow-still-walking-the-line-at-95-br-johnny-cash-roadshow-still-walking-the-l-2027-02-26.html
+DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/johnny-cash-roadshow-the-brook-tickets/14752943\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QiS-Uxj1La5J-WNF@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270903T190000
+SUMMARY:Johnny Cash Roadshow
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/johnny-cash-roadshow-tm-LvZ18QiS-Uxj1La5J-WNF.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/johnny-cash-roadshow-tickets-215MSW?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

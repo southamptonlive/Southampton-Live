@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:World Music in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-f708c22b-2dc@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T220000
+SUMMARY:🎃🌍 INTERNATIONAL HALLOWEEN SOCIAL 🌍🎃
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/international-halloween-social-fat-f708c22b-2dc.html
+DESCRIPTION:Club night\n£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vkp601v7/international-halloween-social\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Sobar — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-f708c22b-2dc@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T220000
+SUMMARY:🎃🌍 INTERNATIONAL HALLOWEEN SOCIAL 🌍🎃
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/international-halloween-social-fat-f708c22b-2dc.html
+DESCRIPTION:Club night\n£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vkp601v7/international-halloween-social\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-dc98a474-245@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261027T220000
+SUMMARY:SO:CRAZY - EVERY TUESDAY - HALLOWEEN SPECIAL - 27th October 2026 - £1 DOUBLES ALL NIGHT.
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/socrazy-every-tuesday-halloween-special-27th-october-2026-1--fat-dc98a474-245.html
+DESCRIPTION:Club night\n£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/9wh4gthr/so-crazy-every-tuesday-halloween-special-27th-october-2026-1-doubles-all-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-88d0c7a5-ad9@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T230000
+SUMMARY:Bollynights Southampton - THE CRYPT - BOLLYWOOD HALLOWEEN
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/bollynights-southampton-the-crypt-bollywood-halloween-fat-88d0c7a5-ad9.html
+DESCRIPTION:Club night\n£7–£13.99\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mp4kkiaj/bollynights-southampton-the-crypt-bollywood-halloween\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d6c987a4-328@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:THE PURGE - SOBARS ANNUAL HALLOWEEN PARTY - FREE BOOHOO TSHIRTS AND J BOMBS- 100 99p Tickets
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/the-purge-sobars-annual-halloween-party-free-boohoo-tshirts--fat-d6c987a4-328.html
+DESCRIPTION:Club night\n£1.99–£16.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/3rqhi2i9/the-purge-sobars-annual-halloween-party-free-boohoo-tshirts-and-j-bombs-100-99p-tickets\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-daff9b61-336@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T230000
+SUMMARY:HALLOWEEN PURGE🩸 Southampton's Biggest Halloween Event 🎃
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/halloween-purge-southamptons-biggest-halloween-event-fat-daff9b61-336.html
+DESCRIPTION:Club night\n£5.99–£16.49\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/o19le3ud/halloween-purge-southampton-s-biggest-halloween-event\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ba3b614f-c96@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/bollywood-x-desi-diwali-night-bollywood-diwali-night-southam-fat-ba3b614f-c96.html
+DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-006818f9-fac@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/southampton-diwali-x-fake-wedding-party-fat-006818f9-fac.html
+DESCRIPTION:Club night\n£6–£33\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-3ab688a1-d5c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T220000
+SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-3ab688a1-d5c.html
+DESCRIPTION:Club night\n£4.99–£26.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-0badd251-fd4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270930T230000
+SUMMARY:Southampton Freshers 2027 Welcome Party
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/southampton-freshers-2027-welcome-party-fat-0badd251-fd4.html
+DESCRIPTION:Club night\n£1.99–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/tn9h05kq/southampton-freshers-2027-welcome-party\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

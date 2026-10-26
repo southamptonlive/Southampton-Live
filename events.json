@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T13:54:04.996Z",
+ "generated": "2026-10-26T14:18:16.273Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 127,
+   "carried": 84,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -9355,9 +9355,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-21",
    "time": "19:30",
-   "price": 47.5,
+   "price": 61,
    "priceMax": 74.5,
-   "priceText": "£47.50–£74.50",
+   "priceText": "£61–£74.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52087",

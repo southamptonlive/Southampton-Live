@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Latin in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-ce445ca5-f27@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T223000
+SUMMARY:[SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/sold-out-southampton-asoc-halloween-house-party-fat-ce445ca5-f27.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mkskqh97/sold-out-southampton-asoc-halloween-house-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-4ff8efa9-209@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T223000
+SUMMARY:[SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/sold-out-southampton-punjabi-soc-halloween-house-party-fat-4ff8efa9-209.html
+DESCRIPTION:Club night\n£7–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/l3x41rec/sold-out-southampton-punjabi-soc-halloween-house-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d389058d-5ee@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261026T230000
+SUMMARY:[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d389058d-5ee.html
+DESCRIPTION:Club night\n£6–£15.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a05af5ac-99a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T220000
+SUMMARY:Fiesta Miércoles | Halloween Edition
+LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/fiesta-miercoles-halloween-edition-fat-a05af5ac-99a.html
+DESCRIPTION:Club night\n£0–£5.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-88d0c7a5-ad9@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T230000
+SUMMARY:Bollynights Southampton - THE CRYPT - BOLLYWOOD HALLOWEEN
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/bollynights-southampton-the-crypt-bollywood-halloween-fat-88d0c7a5-ad9.html
+DESCRIPTION:Club night\n£7–£13.99\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mp4kkiaj/bollynights-southampton-the-crypt-bollywood-halloween\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d7aeab6b-464@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:HAVANA 🇨🇺 — REVOLUCION LATINA | Halloween Special Edition 🎃
+LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
+URL:https://southampton.live/e/havana-revolucion-latina-halloween-special-edition-fat-d7aeab6b-464.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/7ce676q2/havana-revolucion-latina-halloween-special-edition\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ba3b614f-c96@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/bollywood-x-desi-diwali-night-bollywood-diwali-night-southam-fat-ba3b614f-c96.html
+DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9001b82b-cad@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:BOLLYWOOD DIWALI NIGHT
+LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/bollywood-diwali-night-fat-9001b82b-cad.html
+DESCRIPTION:Club night\n£4–£9.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rk3aos37/bollywood-diwali-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-006818f9-fac@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/southampton-diwali-x-fake-wedding-party-fat-006818f9-fac.html
+DESCRIPTION:Club night\n£6–£33\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42719298@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T223000
+SUMMARY:Reggaeton Party (Southampton) November 2026
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/reggaeton-party-southampton-november-2026-sk-42719298.html
+DESCRIPTION:Club night\n£7–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Reggaeton-Party-Southampton-November-2026/42719298/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-3ab688a1-d5c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T220000
+SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-3ab688a1-d5c.html
+DESCRIPTION:Club night\n£4.99–£26.40\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

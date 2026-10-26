@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hanger Farm Arts Centre — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43396276@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270228T160000
+SUMMARY:The Pretend Beatles
+LOCATION:Hanger Farm Arts Centre\, Aikman Lane\, Totton\, SO40 8FT
+URL:https://southampton.live/e/the-pretend-beatles-sg-43396276.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43396276-pretend-beatles-at-hanger-farm-arts-centre\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43127161@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270527T200000
+SUMMARY:Matt Bragg
+LOCATION:Hanger Farm Arts Centre\, Aikman Lane\, Totton\, SO40 8FT
+URL:https://southampton.live/e/matt-bragg-sg-43127161.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43127161-matt-bragg-at-hanger-farm-arts-centre\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43353389@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Voodoo Room perform Hendrix\, Clapton & Cream
+LOCATION:Hanger Farm Arts Centre\, Aikman Lane\, Totton\, SO40 8FT
+URL:https://southampton.live/e/voodoo-room-perform-hendrix-clapton-cream-sg-43353389.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43353389-voodoo-room-perform-hendrix-clapton-and-cream-at-hangar-farm-arts-centre\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

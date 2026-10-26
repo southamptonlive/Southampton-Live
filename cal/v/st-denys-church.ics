@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:St Denys Church — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-f9d1945e-9a3@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T183000
+SUMMARY:Jimmy Herrity. 12/12/26 - St Denys Church\, Southampton.
+LOCATION:St Denys Church\, Dundee Rd\, Southampton SO17 2ND\, SO17 2ND
+URL:https://southampton.live/e/jimmy-herrity-121226-st-denys-church-southampton-fat-f9d1945e-9a3.html
+DESCRIPTION:Gig\n£13.20–£16.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/8ik0hgus/jimmy-herrity-12-12-26-st-denys-church-southampton\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Eastleigh Working Men's Club — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43436449@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T180000
+SUMMARY:Ultimate ELO
+LOCATION:Eastleigh Working Men's Club\, 18 Upper Market Street\, Eastleigh\, SO50 9FD
+URL:https://southampton.live/e/ultimate-elo-sg-43436449.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43436449-ultimate-elo-at-working-mens-club\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ska in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-41411151@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T180000
+SUMMARY:The Dualers
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/the-dualers-sk-41411151.html
+DESCRIPTION:Gig\n£29.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42674969@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270226T180000
+SUMMARY:Mad Caddies
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/mad-caddies-sk-42674969.html
+DESCRIPTION:Gig\n£28\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-c8a67586-f7f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270403T150000
+SUMMARY:Ska Day Party: Southampton 🎺
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/ska-day-party-southampton-fat-c8a67586-f7f.html
+DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/257ggtfd/ska-day-party-southampton\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

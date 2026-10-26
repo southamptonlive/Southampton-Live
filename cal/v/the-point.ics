@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Point\, Eastleigh — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43244698@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270227T193000
+SUMMARY:Rachel Parris
+LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
+URL:https://southampton.live/e/rachel-parris-sg-43244698.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43244698-rachel-parris-at-point\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43456835@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270514T193000
+SUMMARY:John Kearns
+LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
+URL:https://southampton.live/e/john-kearns-sg-43456835.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43456835-john-kearns-at-point\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43263531@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270619T193000
+SUMMARY:Ed Byrne
+LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
+URL:https://southampton.live/e/ed-byrne-sg-43263531.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43263531-ed-byrne-at-point\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

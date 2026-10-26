@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Deluxe One — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-bbd82d15-20b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270213T200000
+SUMMARY:LICK N' LUV
+LOCATION:Deluxe One\, 1 Oxford St\, Southampton SO14 3DJ\, SO14 3DJ
+URL:https://southampton.live/e/lick-n-luv-fat-bbd82d15-20b.html
+DESCRIPTION:Club night\n£6–£71.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gaqbhrap/lick-n-luv\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

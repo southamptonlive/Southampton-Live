@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Disco in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-2345db26-0a0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T150000
+SUMMARY:The ABBA Day Party: Southampton 💃🕺
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/the-abba-day-party-southampton-fat-2345db26-0a0.html
+DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/x8y858e7/the-abba-day-party-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-f158dc83-269@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270320T150000
+SUMMARY:Dolly's Disco: Southampton 💋👢
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/dollys-disco-southampton-fat-f158dc83-269.html
+DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rqm4er3i/dolly-s-disco-southampton\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

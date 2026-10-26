@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Turner Sims — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43350001@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T200000
+SUMMARY:Christ-Stéphane Boizi
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/christ-stephane-boizi-sg-43350001.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43350001-christstephane-boizi-at-turner-sims-concert-hall-university-of-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdbZ_8GkV5W9D2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261101T183000
+SUMMARY:Recomposed by Max Richter: Vivaldi\, The Four Seasons
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/recomposed-by-max-richter-vivaldi-the-four-seasons-tm-1AdbZ_8GkV5W9D2.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/recomposed-by-max-richter-vivaldi-the-southampton-01-11-2026/event/3600650D0BF57ECF\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43315417@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Soumik Datta
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/soumik-datta-sg-43315417.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43315417-soumik-datta-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43300181@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Thibaut Garcia
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/thibaut-garcia-sg-43300181.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43300181-thibaut-garcia-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43238868@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Jesca Hoop
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/jesca-hoop-sg-43238868.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43238868-jesca-hoop-at-turner-sims-concert-hall-university-of-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43140480@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T140000
+SUMMARY:Down for the Count Swing Orchestra
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/down-for-the-count-swing-orchestra-sg-43140480.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43140480-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43140484@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T190000
+SUMMARY:Down for the Count Swing Orchestra
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/down-for-the-count-swing-orchestra-sg-43140484.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43140484-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

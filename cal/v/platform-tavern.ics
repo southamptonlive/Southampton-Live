@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Platform Tavern — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-a79113d6-943@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261103T180000
+SUMMARY:Open Mic Night @ The Platform Tavern (3rd November)
+LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
+URL:https://southampton.live/e/open-mic-night-the-platform-tavern-3rd-november-fat-a79113d6-943.html
+DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rh3iz6ll/open-mic-night-the-platform-tavern-3rd-november\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-6d43ad6b-9e0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261117T180000
+SUMMARY:Open Mic Night @ The Platform Tavern (17th November)
+LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
+URL:https://southampton.live/e/open-mic-night-the-platform-tavern-17th-november-fat-6d43ad6b-9e0.html
+DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/fqzujv99/open-mic-night-the-platform-tavern-17th-november\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-da13721f-209@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261201T180000
+SUMMARY:Open Mic Night @ The Platform Tavern (1st December)
+LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
+URL:https://southampton.live/e/open-mic-night-the-platform-tavern-1st-december-fat-da13721f-209.html
+DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dxrsbrig/open-mic-night-the-platform-tavern-1st-december\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43476730@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261210T200000
+SUMMARY:Lost Post
+LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
+URL:https://southampton.live/e/lost-post-sg-43476730.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43476730-lost-post-at-platform-tavern\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-10269a4b-b6b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261215T180000
+SUMMARY:Open Mic Night @ The Platform Tavern (15th December)
+LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
+URL:https://southampton.live/e/open-mic-night-the-platform-tavern-15th-december-fat-10269a4b-b6b.html
+DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ibtk0dy8/open-mic-night-the-platform-tavern-15th-december\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

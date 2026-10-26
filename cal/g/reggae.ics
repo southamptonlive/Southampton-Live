@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Reggae in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-bec9ccb7-cd4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-bec9ccb7-cd4.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/s2esaqqs/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-f95fd819-e63@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T183000
+SUMMARY:Reggae Roots Dance: Community Dance Part 2 feat. Jah Lion Movement
+LOCATION:St Denys Social Club\, 100 St Denys Road\, Southampton\, SO17 2FP
+URL:https://southampton.live/e/reggae-roots-dance-community-dance-part-2-feat-jah-lion-move-fat-f95fd819-e63.html
+DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/6y235b21/reggae-roots-dance-community-dance-part-2-feat-jah-lion-movement\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d458a78f-738@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-d458a78f-738.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/5kmhesnt/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-fc58462c-fe8@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-fc58462c-fe8.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mgts3hsl/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-8c1aa27f-75a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-8c1aa27f-75a.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/6rkri2tk/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9f57af6a-d2f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T220000
+SUMMARY:Afro Kulture | Urban Room
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/afro-kulture-urban-room-fat-9f57af6a-d2f.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/jh26g5vr/afro-kulture-urban-room\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42610446@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270515T190000
+SUMMARY:The Reggae Orchestra
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/the-reggae-orchestra-sk-42610446.html
+DESCRIPTION:Gig\n£18–£23\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Reggae-Orchestra/42610446/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42822139@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271022T190000
+SUMMARY:Ruts DC Prestents The Ruts
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/ruts-dc-prestents-the-ruts-sk-42822139.html
+DESCRIPTION:Gig\n£27.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/The-1865/Ruts-DC-Prestents-The-Ruts/42822139/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

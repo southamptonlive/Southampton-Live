@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Brave Night Lounge — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-9983412d-f5a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T203000
+SUMMARY:Halloween no escape
+LOCATION:Brave Night Lounge\, Salisbury Street\, Southampton\, SO15 2TZ
+URL:https://southampton.live/e/halloween-no-escape-fat-9983412d-f5a.html
+DESCRIPTION:Club night\n£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/8telo1ss/halloween-no-escape\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

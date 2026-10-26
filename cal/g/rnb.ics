@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:R&B in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-feb72aa9-b5d@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T173000
+SUMMARY:🎶 Club Classics Orchestra Presents: R&B Orchestra 🎶
+LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/club-classics-orchestra-presents-rb-orchestra-fat-feb72aa9-b5d.html
+DESCRIPTION:Gig\n£16.50–£329.97\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2cmncbgc/club-classics-orchestra-presents-r-b-orchestra\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-8a51a62a-56f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-8a51a62a-56f.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/srx3ied4/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-eb646d5c-44f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:Southampton: DEMON TIME HALLOWEEN SPECIAL
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-demon-time-halloween-special-fat-eb646d5c-44f.html
+DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/x3yqrdyp/southampton-demon-time-halloween-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-598a86a0-3b7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:DEMON TIME HALLOWEEN PARTY
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/demon-time-halloween-party-fat-598a86a0-3b7.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/97zcv909/demon-time-halloween-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-838bf519-171@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T213000
+SUMMARY:Southampton SATURDAY 31st October U\, ME & RNB NIGHTMARE ON OXFORD STREET
+LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS
+URL:https://southampton.live/e/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxfo-fat-838bf519-171.html
+DESCRIPTION:Club night\n£11–£165\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/1keojf7p/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxford-street\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d35c145e-85e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-10-bottle-of-vodka-vip-table-demon-time-fat-d35c145e-85e.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ix3bhju/southampton-10-bottle-of-vodka-v-i-p-table-demon-time\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a61d80f4-0f0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/halloween-10-bottle-of-vodka-vip-table-minimum-6-people-requ-fat-a61d80f4-0f0.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/zfc6w1p6/halloween-10-bottle-of-vodka-v-i-p-table-minimum-6-people-required-to-claim-bottle-table-entry-not-included\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43018159@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261104T220000
+SUMMARY:MidWeek Motion
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/midweek-motion-sk-43018159.html
+DESCRIPTION:Club night\n£3–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MidWeek-Motion/43018159/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-7e972460-cb8@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-7e972460-cb8.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ag74cpj8/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-12007744-94b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-12007744-94b.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/qyie9rsr/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-203ca87a-c52@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-203ca87a-c52.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/e36im8yq/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-fc0939ff-3f7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T220000
+SUMMARY:Urban Room Fridays | Upstairs
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/urban-room-fridays-upstairs-fat-fc0939ff-3f7.html
+DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ao34po01/urban-room-fridays-upstairs\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-2869b3f4-3e7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T160000
+SUMMARY:RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/rnb-throwbacks-over-30s-day-party-with-90s-00s-rnb-fat-2869b3f4-3e7.html
+DESCRIPTION:Club night\n£17.60–£82.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42642297@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270130T190000
+SUMMARY:R&B Orchestra Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/rb-orchestra-southampton-sk-42642297.html
+DESCRIPTION:Gig\n£21–£23\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/RB-Orchestra-Southampton/42642297/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

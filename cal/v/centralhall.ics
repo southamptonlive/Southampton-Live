@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Central Hall — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43122068@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270410T193000
+SUMMARY:Aurie Styla
+LOCATION:Central Hall\, St Mary Street\, Southampton\, SO14 1NF
+URL:https://southampton.live/e/aurie-styla-sg-43122068.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43122068-aurie-styla-at-central-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43114625@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270528T193000
+SUMMARY:Scott Bennett
+LOCATION:Central Hall\, St Mary Street\, Southampton\, SO14 1NF
+URL:https://southampton.live/e/scott-bennett-sg-43114625.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43114625-scott-bennett-at-central-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43407339@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270618T193000
+SUMMARY:Tom Davis
+LOCATION:Central Hall\, St Mary Street\, Southampton\, SO14 1NF
+URL:https://southampton.live/e/tom-davis-sg-43407339.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43407339-tom-davis-at-central-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-42858285@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271127T193000
+SUMMARY:Mike Bubbins
+LOCATION:Central Hall\, St Mary Street\, Southampton\, SO14 1NF
+URL:https://southampton.live/e/mike-bubbins-sg-42858285.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/42858285-mike-bubbins-at-central-hall\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

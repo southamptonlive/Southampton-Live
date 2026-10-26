@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Trap in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-43018159@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261104T220000
+SUMMARY:MidWeek Motion
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/midweek-motion-sk-43018159.html
+DESCRIPTION:Club night\n£3–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/MidWeek-Motion/43018159/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:O2 Guildhall — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:tm-17uOv0G6GCi9zMB@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261027T193000
+SUMMARY:Deaf Havana
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/deaf-havana-tm-17uOv0G6GCi9zMB.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/deaf-havana-southampton-27-10-2026/event/360064C3AC5F8DFA\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G61m-YNbH@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261029T193000
+SUMMARY:Celebrating Celine - A New Day Featuring Lisa Harter
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/celebrating-celine-a-new-day-featuring-lisa-harter-tm-17uOv0G61m-YNbH.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/celebrating-celine-a-new-day-featuring-southampton-29-10-2026/event/360064ABA1C2363C\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-42915208@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T193000
+SUMMARY:Fin Taylor
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/fin-taylor-sg-42915208.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/42915208-fin-taylor-at-o2-guildhall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G65CxT0rc@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T190000
+SUMMARY:Avatar
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/avatar-tm-17uOv0G65CxT0rc.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/avatar-southampton-21-11-2026/event/360064B3A2FE47AD\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdbZ_kGkDKj9pC@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261122T193000
+SUMMARY:Waterloo A Tribute To ABBA
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/waterloo-a-tribute-to-abba-tm-1AdbZ_kGkDKj9pC.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/waterloo-a-tribute-to-abba-southampton-22-11-2026/event/3600646ED371758E\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G619ScUDN@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261124T190000
+SUMMARY:Yard Act
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/yard-act-tm-17uOv0G619ScUDN.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/yard-act-southampton-24-11-2026/event/360064A5F3B76EE3\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZk8MGke0zdSu@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T190000
+SUMMARY:Embrace - Celebrating 30 Years
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/embrace-celebrating-30-years-tm-1AUZk8MGke0zdSu.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/embrace-celebrating-30-years-southampton-27-11-2026/event/36006437A4E03CCD\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZkfbGkeWllCB@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T193000
+SUMMARY:Kneecap
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/kneecap-tm-1AUZkfbGkeWllCB.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/kneecap-southampton-28-11-2026/event/36006518BDAEB3BA\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G61kQ8NpZ@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261202T190000
+SUMMARY:Ash
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/ash-tm-17uOv0G61kQ8NpZ.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/ash-southampton-02-12-2026/event/360064A19A423580\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZkfxGkeEgkpf@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261212T180000
+SUMMARY:SPC & SU Phil: Coronation and Celebration
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/spc-su-phil-coronation-and-celebration-tm-1AUZkfxGkeEgkpf.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/spc-su-phil-coronation-and-celebration-southampton-12-12-2026/event/36006522A7D46594\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdbZ_dGkng7VLe@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261218T193000
+SUMMARY:STEP INTO CHRISTMAS
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/step-into-christmas-tm-1AdbZ_dGkng7VLe.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/step-into-christmas-southampton-18-12-2026/event/3600643AB51347C2\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZkfUGkeOxSRz@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T150000
+SUMMARY:Day Fever
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/day-fever-tm-1AUZkfUGkeOxSRz.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/day-fever-southampton-19-12-2026/event/36006536A08B3BF8\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G6uaDGoL2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270128T190000
+SUMMARY:Massive Wagons & Terrorvision
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/massive-wagons-terrorvision-tm-17uOv0G6uaDGoL2.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/massive-wagons-terrorvision-southampton-28-01-2027/event/360064D27B3117CF\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G65mQJFCe@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270201T190000
+SUMMARY:DMA'S
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/dmas-tm-17uOv0G65mQJFCe.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/dmas-southampton-01-02-2027/event/360064BB9A988382\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G6ukNNgbE@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270225T190000
+SUMMARY:Saxon - Gods Of Thunder
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/saxon-gods-of-thunder-tm-17uOv0G6ukNNgbE.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/saxon-gods-of-thunder-southampton-25-02-2027/event/360064D1A38F5627\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G61UoJw6N@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270305T193000
+SUMMARY:Man In the Mirror
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/man-in-the-mirror-tm-17uOv0G61UoJw6N.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/man-in-the-mirror-southampton-05-03-2027/event/360064AD919B21E3\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZk3bGkd4T6W4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270312T190000
+SUMMARY:The Editors
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/the-editors-tm-1AUZk3bGkd4T6W4.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/the-editors-southampton-12-03-2027/event/36006498D5FC7F55\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G6GXWV4jJ@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270319T193000
+SUMMARY:Ben Portsmouth: This Is Elvis
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/ben-portsmouth-this-is-elvis-tm-17uOv0G6GXWV4jJ.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/ben-portsmouth-this-is-elvis-southampton-19-03-2027/event/360064CFBDD15726\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G62w6yoz9@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270428T190000
+SUMMARY:Richard Thompson - Hippies\, Thugs and Heroes - Band Tour 2027
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/richard-thompson-hippies-thugs-and-heroes-band-tour-2027-tm-17uOv0G62w6yoz9.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/richard-thompson-hippies-thugs-and-heroes-southampton-28-04-2027/event/360064FC87E51E17\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AUZkftGkeV2J27@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270512T190000
+SUMMARY:Palace
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/palace-tm-1AUZkftGkeV2J27.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/palace-southampton-12-05-2027/event/36006529B43E63C4\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdbZ_8GkmRU09F@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270515T193000
+SUMMARY:The Illegal Eagles Their Greatest Hits Tour 2027
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/the-illegal-eagles-their-greatest-hits-tour-2027-tm-1AdbZ_8GkmRU09F.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/the-illegal-eagles-their-greatest-hits-southampton-15-05-2027/event/3600650BAFDA45C8\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-1AdbZ_dGkSsNb0M@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271008T193000
+SUMMARY:Michael Mania
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/michael-mania-tm-1AdbZ_dGkSsNb0M.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/michael-mania-southampton-08-10-2027/event/3600643CF18D8937\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-42956957@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20271112T193000
+SUMMARY:Roy "Chubby" Brown
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/roy-chubby-brown-sg-42956957.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/42956957-roy-chubby-brown-at-o2-guildhall\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Thornden Hall — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-42951606@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Marty Wilde
+LOCATION:Thornden Hall\, Winchester Road\, Chandler's Ford\, SO53 2DW
+URL:https://southampton.live/e/marty-wilde-sg-42951606.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/42951606-marty-wilde-at-thornden-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43461826@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270416T193000
+SUMMARY:Tommy Blaize
+LOCATION:Thornden Hall\, Winchester Road\, Chandler's Ford\, SO53 2DW
+URL:https://southampton.live/e/tommy-blaize-sg-43461826.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43461826-tommy-blaize-at-thornden-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43414315@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Rob Kingsley
+LOCATION:Thornden Hall\, Winchester Road\, Chandler's Ford\, SO53 2DW
+URL:https://southampton.live/e/rob-kingsley-sg-43414315.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43414315-rob-kingsley-at-thornden-hall\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

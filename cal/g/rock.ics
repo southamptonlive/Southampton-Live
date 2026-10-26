@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rock in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:tm-17uOv0G6GCi9zMB@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261027T193000
+SUMMARY:Deaf Havana
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/deaf-havana-tm-17uOv0G6GCi9zMB.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/deaf-havana-southampton-27-10-2026/event/360064C3AC5F8DFA\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QptQSABfO8Z0gpPM@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T190000
+SUMMARY:LA Guns
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/la-guns-tm-LvZ18QptQSABfO8Z0gpPM.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/la-guns-tickets-GY1TBD?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:mayf-the-glam-rock-show-2026-11-06-1945@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T194500
+SUMMARY:The Glam Rock Show
+LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
+URL:https://southampton.live/e/the-glam-rock-show-mayf-the-glam-rock-show-2026-11-06-1945.html
+DESCRIPTION:Gig\n£34\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54256/54257\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-dirty-dc-special-bon-scott-brian-johnson-2026-11-07@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T193000
+SUMMARY:Dirty DC - Special Bon Scott / Brian Johnson Show
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/dirty-dc-special-bon-scott-brian-johnson-show-br-dirty-dc-special-bon-scott-brian-johnson-2026-11-07.html
+DESCRIPTION:Gig\n£19.80\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/dirty-dc-special-the-brook-tickets/14209424\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-41634043@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T190000
+SUMMARY:The Vintage Explosion
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/the-vintage-explosion-sk-41634043.html
+DESCRIPTION:Gig\n£32.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42405260@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261125T190000
+SUMMARY:Uncle Acid & The Deadbeats with The Wytches
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/uncle-acid-the-deadbeats-with-the-wytches-sk-42405260.html
+DESCRIPTION:Gig\n£26.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Uncle-Acid--The-Deadbeats-with-The-Wytches/42405260/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d4511196-a7b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T190000
+SUMMARY:Winter Metal Meltdown - Southampton
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/winter-metal-meltdown-southampton-fat-d4511196-a7b.html
+DESCRIPTION:Gig\n£30.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/gm5pun5x/winter-metal-meltdown-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-foo-forgers-with-special-guests-foo-farm-2026-12-18@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261218T193000
+SUMMARY:Foo Forgers with special guests Foo Farmers
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/foo-forgers-with-special-guests-foo-farmers-br-foo-forgers-with-special-guests-foo-farm-2026-12-18.html
+DESCRIPTION:Gig\n£16.50\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/foo-forgers-with-special-guests-the-brook-tickets/15027453\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18Q-TMhdvh98vOdSd0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270116T190000
+SUMMARY:Coda - A Tribute To Led Zeppelin
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/coda-a-tribute-to-led-zeppelin-tm-LvZ18Q-TMhdvh98vOdSd0.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/coda-a-tribute-to-led-zeppelin-tickets-MGZJNY?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-17uOv0G6uaDGoL2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270128T190000
+SUMMARY:Massive Wagons & Terrorvision
+LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/massive-wagons-terrorvision-tm-17uOv0G6uaDGoL2.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/massive-wagons-terrorvision-southampton-28-01-2027/event/360064D27B3117CF\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42674969@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270226T180000
+SUMMARY:Mad Caddies
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/mad-caddies-sk-42674969.html
+DESCRIPTION:Gig\n£28\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mad-Caddies/42674969/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-deeper-purple-machine-head-tour-2027-2027-04-22@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270422T193000
+SUMMARY:Deeper Purple – Machine Head Tour 2027
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/deeper-purple-machine-head-tour-2027-br-deeper-purple-machine-head-tour-2027-2027-04-22.html
+DESCRIPTION:Gig\n£19.25\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/deeper-purple-machine-head-the-brook-tickets/14317704\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-52111014-d01@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270529T150000
+SUMMARY:Rock Day Party: Southampton 🤘
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/rock-day-party-southampton-fat-52111014-d01.html
+DESCRIPTION:Club night\n£12.50–£22.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ayvlsovx/rock-day-party-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18QIg08Q_GQJ4uZFQX@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270529T190000
+SUMMARY:The Gods of Grunge Tour ft. STONEGARDEN & The Smashed In Pumpkins
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/the-gods-of-grunge-tour-ft-stonegarden-the-smashed-in-pumpki-tm-LvZ18QIg08Q_GQJ4uZFQX.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/events/the-gods-of-grunge-tour-ft-stonegarden-the-smashed-in-pumpkins-tickets-4DLJSF?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:br-curved-air-farewell-tour-2026-2027-09-02@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270902T193000
+SUMMARY:Curved Air Farewell Tour 2026
+LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
+URL:https://southampton.live/e/curved-air-farewell-tour-2026-br-curved-air-farewell-tour-2026-2027-09-02.html
+DESCRIPTION:Gig\n£26.40\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/curved-air-farewell-tour-2026-the-brook-tickets/14105414\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43049613@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270918T180000
+SUMMARY:Generation Grunge
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/generation-grunge-sk-43049613.html
+DESCRIPTION:Gig\n£22.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge/43049613/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43118014@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270918T180000
+SUMMARY:Generation Grunge UK tour - Nirvanah - Pearl Scam - Angry Hair
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/generation-grunge-uk-tour-nirvanah-pearl-scam-angry-hair-sk-43118014.html
+DESCRIPTION:Gig\n£22.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge-UK-tour---Nirvanah---Pearl-Scam---Angry-Hair/43118014/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

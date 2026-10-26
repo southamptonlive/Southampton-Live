@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Stage Door — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-fb55d216-c76@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261105T200000
+SUMMARY:Tez Ilyas: Tez Things I Hate About You - Southampton**
+LOCATION:The Stage Door\, 78 West Marlands Road\, Southampton\, SO14 7FW
+URL:https://southampton.live/e/tez-ilyas-tez-things-i-hate-about-you-southampton-fat-fb55d216-c76.html
+DESCRIPTION:Comedy\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/c9r8kwm5/tez-ilyas-tez-things-i-hate-about-you-southampton\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

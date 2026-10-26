@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Electronic in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-fedb15fb-fea@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261027T180000
+SUMMARY:BOXXED OFF SOUTHAMPTON POSTPONED‼️
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/boxxed-off-southampton-postponed-fat-fedb15fb-fea.html
+DESCRIPTION:Club night\n£11.25–£20.25\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/1rduvai1/boxxed-off-southampton-postponed\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a05af5ac-99a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261028T220000
+SUMMARY:Fiesta Miércoles | Halloween Edition
+LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/fiesta-miercoles-halloween-edition-fat-a05af5ac-99a.html
+DESCRIPTION:Club night\n£0–£5.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-4ed847a9-937@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T170000
+SUMMARY:The Horror Rave
+LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/the-horror-rave-fat-4ed847a9-937.html
+DESCRIPTION:Club night\n£3–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/frhjv7yx/the-horror-rave\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42157226@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T220000
+SUMMARY:DJ KILLER Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/dj-killer-southampton-sk-42157226.html
+DESCRIPTION:Club night\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-KILLER-Southampton/42157226/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42718277@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T123000
+SUMMARY:Raver Tots Halloween Party Southampton
+LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/raver-tots-halloween-party-southampton-sk-42718277.html
+DESCRIPTION:Club night\n£15–£19\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-cabc4786-f0f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T150000
+SUMMARY:The Hobbit Pub Halloween
+LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/the-hobbit-pub-halloween-fat-cabc4786-f0f.html
+DESCRIPTION:Gig\n£2–£8.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/vqndzg94/the-hobbit-pub-halloween\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9f72e62f-0af@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T200000
+SUMMARY:👻 The Halloween Party - Cocktails 2-4-1 👻
+LOCATION:The Edge\, Compton Walk\, Southampton SO14 0BH\, SO14 0BH
+URL:https://southampton.live/e/the-halloween-party-cocktails-2-4-1-fat-9f72e62f-0af.html
+DESCRIPTION:Club night\n£5–£7.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cxgmddl1/the-halloween-party-cocktails-2-4-1\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42489276@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:Halloween Secret Rave - Southampton
+LOCATION:Secret Venue Southampton\, Secret Venue\, SO15 1GZ
+URL:https://southampton.live/e/halloween-secret-rave-southampton-sk-42489276.html
+DESCRIPTION:Club night\n£5–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Secret-Venue-Southampton/Halloween-Secret-Rave---Southampton/42489276/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42081729@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T230000
+SUMMARY:ON A MISSION - Halloween
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/on-a-mission-halloween-sk-42081729.html
+DESCRIPTION:Club night\n£10–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-e51a930e-ccb@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T150000
+SUMMARY:DOOMED - POP PUNK TAKEOVER
+LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/doomed-pop-punk-takeover-fat-e51a930e-ccb.html
+DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/twjfzg3t/doomed-pop-punk-takeover\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42719245@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:Kings of The Rollers | Holy Grail UK Tour | Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/kings-of-the-rollers-holy-grail-uk-tour-southampton-sk-42719245.html
+DESCRIPTION:Club night\n£12–£22\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-006818f9-fac@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/southampton-diwali-x-fake-wedding-party-fat-006818f9-fac.html
+DESCRIPTION:Club night\n£6–£33\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-7b82ac44-3e1@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T160000
+SUMMARY:Daytime Clubbing | 4pm-10pm
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/daytime-clubbing-4pm-10pm-fat-7b82ac44-3e1.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/546d27tu/daytime-clubbing-4pm-10pm\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-57e80d2b-515@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T200000
+SUMMARY:🍆 The Big One - Cocktails 2-4-1 🍹
+LOCATION:The Edge\, Compton Walk\, Southampton SO14 0BH\, SO14 0BH
+URL:https://southampton.live/e/the-big-one-cocktails-2-4-1-fat-57e80d2b-515.html
+DESCRIPTION:Club night\n£4–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/6pif6hzc/the-big-one-cocktails-2-4-1\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42437843@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T223000
+SUMMARY:Energy Saturday VOL. 4 SOUTHAMPTON
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/energy-saturday-vol-4-southampton-sk-42437843.html
+DESCRIPTION:Club night\n£25–£35\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Energy-Saturday-VOL-4-SOUTHAMPTON/42437843/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ed44f16b-4f2@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261107T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ed44f16b-4f2.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ub758lyu/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43056814@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T223000
+SUMMARY:Get Hook'd x Re:Gen presents: HARLEY D
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/get-hookd-x-regen-presents-harley-d-sk-43056814.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-6d04c2ce-800@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T160000
+SUMMARY:Daytime Clubbing | 4pm-10pm
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/daytime-clubbing-4pm-10pm-fat-6d04c2ce-800.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/q3pq21o9/daytime-clubbing-4pm-10pm\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-18ce1bca-eef@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T190000
+SUMMARY:DREAMS OF VALHALLA
+LOCATION:The Bugle House\, 1A Bugle Street\, Southampton\, SO14 2AL
+URL:https://southampton.live/e/dreams-of-valhalla-fat-18ce1bca-eef.html
+DESCRIPTION:Gig\n£16.50–£27.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2pxb0zeg/dreams-of-valhalla\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a0fcaedd-90e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T200000
+SUMMARY:🍆 The Big One - Cocktails 2-4-1 🍹
+LOCATION:The Edge\, Compton Walk\, Southampton SO14 0BH\, SO14 0BH
+URL:https://southampton.live/e/the-big-one-cocktails-2-4-1-fat-a0fcaedd-90e.html
+DESCRIPTION:Club night\n£4–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dapmtk6v/the-big-one-cocktails-2-4-1\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42527845@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T230000
+SUMMARY:Swiftogeddon - 20 Years of Taylor Special
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/swiftogeddon-20-years-of-taylor-special-sk-42527845.html
+DESCRIPTION:Club night\n£8–£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---20-Years-of-Taylor-Special/42527845/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-ef7c535a-7c5@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261114T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-ef7c535a-7c5.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rymktuud/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42488954@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:A.M.C & Phantom Presents Grassroots Energy Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/amc-phantom-presents-grassroots-energy-southampton-sk-42488954.html
+DESCRIPTION:Club night\n£10–£12.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-6b6771e7-b86@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:Kaleidoscope Trance and Techno
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/kaleidoscope-trance-and-techno-fat-6b6771e7-b86.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspimnbw/kaleidoscope-trance-and-techno\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-2df2bb0a-f86@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T160000
+SUMMARY:Daytime Clubbing | 4pm-10pm
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/daytime-clubbing-4pm-10pm-fat-2df2bb0a-f86.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/j5cn1b61/daytime-clubbing-4pm-10pm\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-7a08b874-ee4@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T200000
+SUMMARY:🍆 The Big One - Cocktails 2-4-1 🍹
+LOCATION:The Edge\, Compton Walk\, Southampton SO14 0BH\, SO14 0BH
+URL:https://southampton.live/e/the-big-one-cocktails-2-4-1-fat-7a08b874-ee4.html
+DESCRIPTION:Club night\n£4–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/s9p4vrf3/the-big-one-cocktails-2-4-1\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d22ee22c-84c@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261121T230000
+SUMMARY:Saturdays at Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/saturdays-at-cafe-parfait-fat-d22ee22c-84c.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ytma4si/saturdays-at-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9a4eeeea-b3a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T223000
+SUMMARY:SOUTHAMPTON THIS IS R.U.M: TERMINAL 4 / SAVVY / TEESHOW / DJ LARNI
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-this-is-rum-terminal-4-savvy-teeshow-dj-larni-fat-9a4eeeea-b3a.html
+DESCRIPTION:Club night\n£0–£22\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/n175noie/southampton-this-is-r-u-m-terminal-4-savvy-teeshow-dj-larni\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-8ec62d67-506@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T160000
+SUMMARY:Daytime Clubbing | 4pm-10pm
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/daytime-clubbing-4pm-10pm-fat-8ec62d67-506.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/eavhzjhk/daytime-clubbing-4pm-10pm\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-17242150-03b@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T200000
+SUMMARY:🍆 The Big One - Cocktails 2-4-1 🍹
+LOCATION:The Edge\, Compton Walk\, Southampton SO14 0BH\, SO14 0BH
+URL:https://southampton.live/e/the-big-one-cocktails-2-4-1-fat-17242150-03b.html
+DESCRIPTION:Club night\n£4–£7\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/k85hkxhr/the-big-one-cocktails-2-4-1\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-62e00d57-bd1@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261128T230000
+SUMMARY:Patron El Alto x Cafe Parfait
+LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
+URL:https://southampton.live/e/patron-el-alto-x-cafe-parfait-fat-62e00d57-bd1.html
+DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/xp9zy1yf/patron-el-alto-x-cafe-parfait\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-5dc8c40b-fa5@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261203T220000
+SUMMARY:😻 Glam Thursdays | 🎅🏻 BAD SANTA RAVE! 🎅🏽 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃
+LOCATION:Trilogy\, 55 London Road\, Southampton\, SO15 2AD
+URL:https://southampton.live/e/glam-thursdays-bad-santa-rave-southamptons-best-student-nigh-fat-5dc8c40b-fa5.html
+DESCRIPTION:Club night\n£3.80–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2904mel9/glam-thursdays-bad-santa-rave-southampton-s-best-student-night-1-shots-all-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-036a6f14-20f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261210T220000
+SUMMARY:SNOW RAVE
+LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
+URL:https://southampton.live/e/snow-rave-fat-036a6f14-20f.html
+DESCRIPTION:Club night\n£0–£2\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/how52jnz/snow-rave\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43118793@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261211T200000
+SUMMARY:TDS Presents: Backlash
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/tds-presents-backlash-sk-43118793.html
+DESCRIPTION:Club night\n£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TDS-Presents-Backlash/43118793/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43462814@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261218T203000
+SUMMARY:DJ Stevie C
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/dj-stevie-c-sg-43462814.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43462814-dj-stevie-c-at-1865\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43028018@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T223000
+SUMMARY:DJ Joker Presents: Jungle Bells
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/dj-joker-presents-jungle-bells-sk-43028018.html
+DESCRIPTION:Club night\n£0–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42748924@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261226T220000
+SUMMARY:Multi Genre Madness | Boxing Day | WAVZ X SDS
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/multi-genre-madness-boxing-day-wavz-x-sds-sk-42748924.html
+DESCRIPTION:Club night\n£4–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42081960@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261231T180000
+SUMMARY:ON A MISSION - New Years Eve 2026
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/on-a-mission-new-years-eve-2026-sk-42081960.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-2611718e-055@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261231T200000
+SUMMARY:New Year's Eve Party!
+LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
+URL:https://southampton.live/e/new-years-eve-party-fat-2611718e-055.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/olgohzt1/new-year-s-eve-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42467362@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270213T150000
+SUMMARY:Trance Day Party Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/trance-day-party-southampton-sk-42467362.html
+DESCRIPTION:Club night\n£15–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Trance-Day-Party-Southampton/42467362/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-LvZ18Qnguzh4YA3kHsbcW@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270220T190000
+SUMMARY:A Night for Jason
+LOCATION:The 1865\, Brunswick Square\, SO14 3AR
+URL:https://southampton.live/e/a-night-for-jason-tm-LvZ18Qnguzh4YA3kHsbcW.html
+DESCRIPTION:Gig\n£11\nListed via Ticketmaster\nTickets: https://www.universe.com/events/a-night-for-jason-tickets-3V9TDX?ref=ticketmaster\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43019216@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20270424T150000
+SUMMARY:Old Skool Day Rave: Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/old-skool-day-rave-southampton-sk-43019216.html
+DESCRIPTION:Club night\n£15–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Old-Skool-Day-Rave-Southampton/43019216/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

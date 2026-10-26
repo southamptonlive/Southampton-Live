@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Funky Flamingo — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-60256505-520@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261030T203000
+SUMMARY:HAUNTED MASQUERADE | FRIDAY 30TH OCTOBER 2026 | FREE ENTRY ALL NIGHT
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/haunted-masquerade-friday-30th-october-2026-free-entry-all-n-fat-60256505-520.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/9f0mhwcm/haunted-masquerade-friday-30th-october-2026-free-entry-all-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-eb646d5c-44f@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:Southampton: DEMON TIME HALLOWEEN SPECIAL
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-demon-time-halloween-special-fat-eb646d5c-44f.html
+DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/x3yqrdyp/southampton-demon-time-halloween-special\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-598a86a0-3b7@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T210000
+SUMMARY:DEMON TIME HALLOWEEN PARTY
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/demon-time-halloween-party-fat-598a86a0-3b7.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/97zcv909/demon-time-halloween-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-d35c145e-85e@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-10-bottle-of-vodka-vip-table-demon-time-fat-d35c145e-85e.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/4ix3bhju/southampton-10-bottle-of-vodka-v-i-p-table-demon-time\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a61d80f4-0f0@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T220000
+SUMMARY:HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/halloween-10-bottle-of-vodka-vip-table-minimum-6-people-requ-fat-a61d80f4-0f0.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/zfc6w1p6/halloween-10-bottle-of-vodka-v-i-p-table-minimum-6-people-required-to-claim-bottle-table-entry-not-included\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-9a4eeeea-b3a@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261127T223000
+SUMMARY:SOUTHAMPTON THIS IS R.U.M: TERMINAL 4 / SAVVY / TEESHOW / DJ LARNI
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/southampton-this-is-rum-terminal-4-savvy-teeshow-dj-larni-fat-9a4eeeea-b3a.html
+DESCRIPTION:Club night\n£0–£22\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/n175noie/southampton-this-is-r-u-m-terminal-4-savvy-teeshow-dj-larni\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

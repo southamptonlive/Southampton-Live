@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:DnB in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sk-42718277@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T123000
+SUMMARY:Raver Tots Halloween Party Southampton
+LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
+URL:https://southampton.live/e/raver-tots-halloween-party-southampton-sk-42718277.html
+DESCRIPTION:Club night\n£15–£19\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42081729@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261031T230000
+SUMMARY:ON A MISSION - Halloween
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/on-a-mission-halloween-sk-42081729.html
+DESCRIPTION:Club night\n£10–£20\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42719245@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:Kings of The Rollers | Holy Grail UK Tour | Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/kings-of-the-rollers-holy-grail-uk-tour-southampton-sk-42719245.html
+DESCRIPTION:Club night\n£12–£22\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Kings-of-The-Rollers--Holy-Grail-UK-Tour--Southampton/42719245/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43056814@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261113T223000
+SUMMARY:Get Hook'd x Re:Gen presents: HARLEY D
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/get-hookd-x-regen-presents-harley-d-sk-43056814.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42488954@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261120T230000
+SUMMARY:A.M.C & Phantom Presents Grassroots Energy Southampton
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/amc-phantom-presents-grassroots-energy-southampton-sk-42488954.html
+DESCRIPTION:Club night\n£10–£12.50\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/AMC--Phantom-Presents-Grassroots-Energy-Southampton/42488954/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42823950@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261205T230000
+SUMMARY:Basslayerz | Southampton
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/basslayerz-southampton-sk-42823950.html
+DESCRIPTION:Club night\n£12–£15\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/Basslayerz--Southampton/42823950/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43118793@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261211T200000
+SUMMARY:TDS Presents: Backlash
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/tds-presents-backlash-sk-43118793.html
+DESCRIPTION:Club night\n£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TDS-Presents-Backlash/43118793/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-43028018@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261219T223000
+SUMMARY:DJ Joker Presents: Jungle Bells
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/dj-joker-presents-jungle-bells-sk-43028018.html
+DESCRIPTION:Club night\n£0–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42748924@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261226T220000
+SUMMARY:Multi Genre Madness | Boxing Day | WAVZ X SDS
+LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
+URL:https://southampton.live/e/multi-genre-madness-boxing-day-wavz-x-sds-sk-42748924.html
+DESCRIPTION:Club night\n£4–£9\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Multi-Genre-Madness--Boxing-Day--WAVZ-X-SDS/42748924/\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sk-42081960@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;TZID=Europe/London:20261231T180000
+SUMMARY:ON A MISSION - New Years Eve 2026
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/on-a-mission-new-years-eve-2026-sk-42081960.html
+DESCRIPTION:Club night\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

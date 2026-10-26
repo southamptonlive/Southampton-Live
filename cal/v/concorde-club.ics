@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:The Concorde Club — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43111175@southampton.live
+DTSTAMP:20261026T141816Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Badness
+LOCATION:The Concorde Club\, Stoneham Lane\, Eastleigh\, SO50 9HQ
+URL:https://southampton.live/e/badness-sg-43111175.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43111175-badness-at-concorde-club\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
