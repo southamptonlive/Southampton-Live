@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42581812@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261028T180000
 SUMMARY:Chali 2na & A-Skillz Live Band
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:br-est-gee-bigger-than-the-devil-tour-2026-10-29@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261029T193000
 SUMMARY:EST GEE "BIGGER THAN THE DEVIL TOUR"
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\n£30.80\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8a51a62a-56f@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261030T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-eb646d5c-44f@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261031T210000
 SUMMARY:Southampton: DEMON TIME HALLOWEEN SPECIAL
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-598a86a0-3b7@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261031T210000
 SUMMARY:DEMON TIME HALLOWEEN PARTY
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d35c145e-85e@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a61d80f4-0f0@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-7e972460-cb8@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -79,7 +79,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:br-the-allergies-beneath-this-sun-live-tour-2026-11-13@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261113T193000
 SUMMARY:The Allergies - 'Beneath This Sun' Live Tour
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\n£20.35\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-12007744-94b@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261113T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-203ca87a-c52@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261120T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -106,7 +106,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc0939ff-3f7@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -115,7 +115,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42612504@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20270129T180000
 SUMMARY:Michael Mathers - Eminem Tribute
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -124,7 +124,7 @@ DESCRIPTION:Gig\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42490261@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20270313T180000
 SUMMARY:WHE Live & Poland Event Party Presents: CYPIS
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\n£10–£20\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42504843@southampton.live
-DTSTAMP:20261026T215310Z
+DTSTAMP:20261026T224546Z
 DTSTART;TZID=Europe/London:20270521T190000
 SUMMARY:The Eminem Experience in Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ

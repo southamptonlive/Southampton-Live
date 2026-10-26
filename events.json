@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T21:53:10.238Z",
+ "generated": "2026-10-26T22:45:46.250Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -44,7 +44,7 @@
    "label": "Skiddle · Papillon",
    "url": "https://www.skiddle.com/whats-on/Southampton/Papillon/",
    "ok": true,
-   "events": 1
+   "events": 4
   },
   {
    "id": "skiddle:The-Attic-Southampton",
@@ -282,28 +282,22 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "sobar",
-   "name": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "address": "Southampton"
-  },
-  {
    "id": "funky-flamingo",
    "name": "Funky Flamingo",
    "postcode": "SO15 2EL",
    "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
+   "id": "sobar",
+   "name": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "address": "Southampton"
+  },
+  {
    "id": "popworld",
    "name": "Popworld",
    "postcode": "SO15 2EH",
    "address": "17 Lower Banister St, Southampton SO15 2EH"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "rubys",
@@ -316,6 +310,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -583,7 +583,7 @@
     "halloween"
    ],
    "hot": false,
-   "id": "fat-d7e77c4e-4af",
+   "id": "fat-d389058d-5ee",
    "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
    "venueId": "trilogy",
    "venueName": "Trilogy",
@@ -595,8 +595,8 @@
    "priceText": "£6–£15.40",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/ixm30her/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
+   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -11738,20 +11738,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
+   "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
+   "price": 4.99,
+   "priceMax": 26.4,
+   "priceText": "£4.99–£26.40",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -15359,31 +15359,34 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
+   "type": "comedy",
+   "tags": [
+    "indie",
+    "comedy"
+   ],
    "hot": false,
-   "id": "sg-43408559",
-   "artist": "Paul McCaffrey",
+   "id": "sk-43123091",
+   "artist": "Stand Up Comedy with Paul McCaffrey, Robert White & Rob Deering",
    "venueId": "papillon",
    "venueName": "Papillon",
    "postcode": "SO15 1GG",
    "date": "2026-12-16",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "time": "20:00",
+   "price": 23.5,
+   "priceMax": 23.5,
    "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43408559-paul-mccaffrey-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43408559-paul-mccaffrey-at-papillon",
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/1/1/2457225_35c1378f_stand-up-comedy-with-paul-mccaffrey-robert-white-rob-deering_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-with-Paul-McCaffrey-Robert-White--Rob-Deering/43123091/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-with-Paul-McCaffrey-Robert-White--Rob-Deering/43123091/",
    "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
+   "minage": "16",
+   "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
+   "feeIncluded": false,
+   "source": "skiddle",
+   "sourceRun": "skiddle:Papillon",
    "genres": [
-    "indie"
+    "comedy"
    ]
   },
   {
@@ -15502,31 +15505,34 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
+   "type": "comedy",
+   "tags": [
+    "indie",
+    "comedy"
+   ],
    "hot": false,
-   "id": "sg-43408560",
-   "artist": "Angelos Epithemiou",
+   "id": "sk-43123094",
+   "artist": "Stand Up Comedy ft Angelos Epithemiou, Danny Ward & James Ellis",
    "venueId": "papillon",
    "venueName": "Papillon",
    "postcode": "SO15 1GG",
    "date": "2026-12-17",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
+   "time": "20:00",
+   "price": 23.5,
+   "priceMax": 23.5,
    "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43408560-angelos-epithemiou-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43408560-angelos-epithemiou-at-papillon",
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/2/a/4/2457228_6145cf8f_stand-up-comedy-ft-angelos-epithemiou-danny-ward-james-ellis_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-ft-Angelos-Epithemiou-Danny-Ward--James-Ellis/43123094/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-ft-Angelos-Epithemiou-Danny-Ward--James-Ellis/43123094/",
    "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
+   "minage": "16",
+   "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
+   "feeIncluded": false,
+   "source": "skiddle",
+   "sourceRun": "skiddle:Papillon",
    "genres": [
-    "indie"
+    "comedy"
    ]
   },
   {
@@ -18009,6 +18015,37 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "indie",
+    "comedy"
+   ],
+   "hot": false,
+   "id": "sk-43123095",
+   "artist": "Stand Up Comedy with Michael Fabbri, Jeff Innocent & Paul Sinha",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2027-01-08",
+   "time": "20:00",
+   "price": 23.5,
+   "priceMax": 23.5,
+   "priceText": null,
+   "genre": "comedy",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/e/3/2457229_4157f12d_stand-up-comedy-with-michael-fabbri-jeff-innocent-paul-sinha_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-with-Michael-Fabbri-Jeff-Innocent--Paul-Sinha/43123095/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Papillon/Stand-Up-Comedy-with-Michael-Fabbri-Jeff-Innocent--Paul-Sinha/43123095/",
+   "going": 0,
+   "minage": "16",
+   "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
+   "feeIncluded": false,
+   "source": "skiddle",
+   "sourceRun": "skiddle:Papillon",
+   "genres": [
+    "comedy"
    ]
   },
   {
