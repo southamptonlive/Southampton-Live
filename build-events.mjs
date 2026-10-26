@@ -434,6 +434,7 @@ function normSkiddle(ev, appId = null) {
     minage: ev.minage ? String(ev.minage) : null,
     desc: desc || null,
     cancelled: ev.cancelled === '1' || ev.cancelled === 1,
+    feeIncluded: false, // Skiddle entryprice is face value; booking fee added at checkout
     source: 'skiddle',
     _venue: { name: (appId ? v.name : cv.name), postcode: pc, address: (cv?.address || String(v.address || '').trim()) || null },
   };
@@ -1018,6 +1019,7 @@ async function fatsoma() {
         status: health === 'postponed' ? 'postponed' : null,
         desc,
         cancelled: /cancel/.test(health) || a.expired === true,
+        feeIncluded: true, // Fatsoma API publishes price-with-fees
         source: 'fatsoma',
         _venue: { name: v.name, postcode: v.postcode, address: deent(addr).replace(/, UK$/, '') || null },
       });
@@ -1124,6 +1126,7 @@ async function skiddleApi() {
         minage: ev.MinAge || null,
         desc: deent(String(ev.description || '')).replace(/\s+/g, ' ').trim().slice(0, 280) || null,
         cancelled: false,
+        feeIncluded: false,
         source: 'skiddle',
         _venue: { name: v.name, postcode: v.postcode, address: deent(ev.venue?.address || '') || null },
       });
@@ -1146,7 +1149,7 @@ async function main() {
     if (existsSync(OUT)) {
       const prev = JSON.parse(readFileSync(OUT, 'utf8'));
       prevGenerated = prev.generated || prevGenerated;
-      for (const e of prev.events || []) (prevBySource[e.source] = prevBySource[e.source] || []).push(e);
+      for (const e of prev.events || []) { const k = e.sourceRun || e.source; (prevBySource[k] = prevBySource[k] || []).push(e); }
     }
   } catch (e) { /* no previous build */ }
   const FORCE_FAIL = String(process.env.FORCE_FAIL_SOURCES || '').split(',').filter(Boolean);
@@ -1174,17 +1177,19 @@ async function main() {
       if (FORCE_FAIL.includes(run.id)) throw new Error('forced failure (test)');
       const { url, events } = await run.fn();
       sources.push({ id: run.id, label: run.label, url, ok: true, events: events.length });
+      for (const ev of events) ev.sourceRun = run.id; // which fetch produced it — carry-forward is per run, not per family
       pool = pool.concat(events);
       console.log(`${events.length} events`);
     } catch (e) {
       // Carry forward this family's previous still-future events instead of
       // erasing real listings just because this IP got blocked today.
-      const fam = family(run.id);
+      // per-run when the previous feed recorded it (sourceRun), else the whole family once (legacy feeds)
+      const key = prevBySource[run.id] ? run.id : family(run.id);
       let carried = 0;
-      if (!carriedFamilies.has(fam) && prevBySource[fam]) {
-        carriedFamilies.add(fam);
+      if (!carriedFamilies.has(key) && prevBySource[key]) {
+        carriedFamilies.add(key);
         const cutoff = Date.now() - 7 * 864e5; // one week, then we let it go
-        const alive = prevBySource[fam]
+        const alive = prevBySource[key]
           .map((ev) => ({ ...ev, _carriedSince: ev._carriedSince || prevGenerated }))
           .filter((ev) => ev.date >= todayISO() && new Date(ev._carriedSince).getTime() > cutoff);
         pool = pool.concat(alive);
@@ -1202,6 +1207,10 @@ async function main() {
   let events = pool.filter(
     (e) => e.artist && e.date && e.date >= today && !e.cancelled && inPatch(e.postcode)
   );
+  { const dropped = pool.filter((e) => !(e.artist && e.date && e.date >= today && !e.cancelled && inPatch(e.postcode)));
+    const why = (e) => !e.artist ? 'no name' : !e.date ? 'no date' : e.date < today ? 'past' : e.cancelled ? 'cancelled' : 'outside patch';
+    const t = {}; for (const e of dropped) { const k = `${e.source}:${why(e)}`; t[k] = (t[k] || 0) + 1; }
+    console.log(`pre-filter dropped ${dropped.length}: ${Object.entries(t).map(([k, v]) => `${k} ${v}`).join(', ')}`); }
 
   // Scope gate: gigs, club nights, comedy, theatre — nothing else.
   const beforeScope = events.length;
@@ -1239,6 +1248,7 @@ async function main() {
     let t = String(name || '').toLowerCase()
       .replace(/\(.*?\)|\[.*?\]/g, ' ')           // bracketed asides
       .replace(/["'’!]/g, '')                      // P!NK → pnk, Bruce's → bruces
+      .replace(/(^|\s)((?:[a-z]\.){2,})/g, (m, p, q) => p + q.replace(/\./g, '')) // L.A. Guns → la guns
       .replace(/&/g, ' and ')
       .replace(/[^a-z0-9]+/g, ' ')
       .split(' ')
@@ -1259,8 +1269,12 @@ async function main() {
   // within 3 hours (doors vs start drift — not 2pm vs 7pm).
   const mins = (t) => (t ? +t.slice(0, 2) * 60 + +t.slice(3, 5) : null);
   const compatible = (a, b) => {
-    if (a.source === b.source) return false;
     const ta = mins(a.time), tb = mins(b.time);
+    if (a.source === b.source) {
+      // same source twice = two performances, UNLESS it's the identical
+      // event posted twice (Fatsoma co-promoter listings): same name, same time
+      return norm(a.artist) === norm(b.artist) && ta != null && ta === tb;
+    }
     return ta == null || tb == null || Math.abs(ta - tb) <= 180;
   };
   const byId = new Map();
@@ -1306,7 +1320,7 @@ async function main() {
       merged++;
       // fill missing facts from the duplicate (facts only — never media)
       if (!best.time && other.time) best.time = other.time;
-      if (best.price == null && other.price != null) { best.price = other.price; best.priceMax = other.priceMax; best.priceText = other.priceText; }
+      if (best.price == null && other.price != null) { best.price = other.price; best.priceMax = other.priceMax; best.priceText = other.priceText; best.feeIncluded = other.feeIncluded; }
       if (!best.infoUrl && other.infoUrl) best.infoUrl = other.infoUrl;
       if (!best.ticketUrl && other.ticketUrl) best.ticketUrl = other.ticketUrl;
       if (!best.minage && other.minage) best.minage = other.minage;
@@ -1323,6 +1337,9 @@ async function main() {
     out.push(ev);
   }
   console.log(`dedupe: ${events.length} → ${out.length} (${merged} duplicate listings merged)`);
+  const tally = (arr) => Object.entries(arr.reduce((m, e) => ((m[e.source] = (m[e.source] || 0) + 1), m), {})).map(([k, v]) => `${k} ${v}`).join(', ');
+  console.log(`by source — before dedupe: ${tally(events)}`);
+  console.log(`by source — after dedupe:  ${tally(out)}`);
   out.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
 
   // derive venue registry from surviving events
@@ -1339,6 +1356,20 @@ async function main() {
       });
     }
   }
+
+  // Venue-set posters (schema v11): a verified venue's own artwork for its listing.
+  // Public read via the anon key; failure = no overrides, never an error.
+  try {
+    const SUPA = 'https://kslfuoevureckvwbojai.supabase.co', KEY = 'sb_publishable_PNpVPMASYoQWrOU5q1mO7A_FjxI-91s';
+    const res = await fetch(`${SUPA}/rest/v1/venue_media?select=event_id,img_url`, { headers: { apikey: KEY, authorization: `Bearer ${KEY}` } });
+    if (res.ok) {
+      const rows = await res.json();
+      const byId = new Map(out.map((e) => [e.id, e]));
+      let applied = 0;
+      for (const r of rows) { const e = byId.get(r.event_id); if (e && r.img_url) { e.img = r.img_url; e.imgBy = 'venue'; applied++; } }
+      if (applied) console.log(`venue posters applied: ${applied}`);
+    }
+  } catch (e) { /* offline or table missing — fine */ }
 
   const feed = {
     version: 1,

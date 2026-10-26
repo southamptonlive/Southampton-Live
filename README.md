@@ -13,6 +13,12 @@ aggregated from public venue pages and ticket outlets.
 | `.github/workflows/refresh-listings.yml` | GitHub Actions workflow: rebuilds the feed every 3 h and deploys to SiteGround over FTPS. |
 | `classify-events.mjs` + `genre-overrides.json` | Artist-level genre knowledge layer (34-genre vocabulary; never guesses). |
 | `privacy.html`, `terms.html`, `about.html` | Legal and about pages, shipped with every deploy. |
+| `check-feed.mjs` | No-fiction + shape + link checks on `events.json`. Runs in CI after the build; a failure stops the deploy. |
+| `render-pages.mjs` | Pre-renders real HTML for every event (`pages/e/`), venue (`pages/v/`), day (`pages/d/`), `tonight.html`, `this-weekend.html`, `sitemap.xml`, plus public `.ics` calendar feeds in `cal/`. Written for search engines and calendar apps; the app stays the product. |
+| `pages-state.json` | Renderer memory: merged-id redirects and the 30-day "this show has happened" pages. Committed by the workflow. |
+| `.htaccess`, `robots.txt` | No-cache headers for html/json, extensionless URLs (`/tonight` → `tonight.html`), `.ics` MIME type. |
+| `about/free/index.html` | "How this stays free" — the public promises page. |
+| `supabase-patch-v*.sql`, `supabase-functions/` | Database patches (run in the Supabase SQL editor, in order) and the `going-ics` edge function (personal calendar feed). |
 
 ## How the data works
 
@@ -59,8 +65,17 @@ invented data is never shown.
 
 ```bash
 node build-events.mjs        # writes a fresh events.json (Node 18+)
+node check-feed.mjs          # no-fiction checks — exits 1 if anything invented or broken slipped in
+node render-pages.mjs        # pre-renders pages/, cal/, sitemap (needs events.json)
 python3 -m http.server 8000  # any static server; then open http://localhost:8000
 ```
+
+Honesty rules the code enforces (see `check-feed.mjs`): unknown time = no time
+(never "TBC", never a default 7pm — calendar entries become all-day); unknown
+price = no price; `feeIncluded` is only set where the source says what its price
+means (Fatsoma = with fees, Skiddle = face value), otherwise the app says
+"check for fees"; no accessibility, capacity or availability claims anywhere —
+we have no verified source for them; the scene board shows real posts only.
 
 Deploy: the workflow in `.github/workflows/` rebuilds the feed every 3 hours
 (and on every push to `main`), commits the refreshed listings, and deploys
