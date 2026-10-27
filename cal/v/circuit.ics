@@ -7,11 +7,11 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-2ed8dcbe-4b9@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261027T230000
 SUMMARY:DND x OASIS : BASHOWEEN
 LOCATION:Circuit\, 127 Above Bar St\, Southampton SO14 7FN\, SO14 7FN
 URL:https://southampton.live/e/dnd-x-oasis-bashoween-fat-2ed8dcbe-4b9.html
-DESCRIPTION:Club night\n£7.50–£16.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/veo1ep3j/dnd-x-oasis-bashoween\nDetails can change — check with the venue.
+DESCRIPTION:Club night\n£7.50–£19.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/veo1ep3j/dnd-x-oasis-bashoween\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR

@@ -6,17 +6,8 @@ X-WR-CALNAME:Mayflower Theatre — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:mayf-six-2026-10-27-2000@southampton.live
-DTSTAMP:20261027T152530Z
-DTSTART;TZID=Europe/London:20261027T200000
-SUMMARY:SIX
-LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
-URL:https://southampton.live/e/six-mayf-six-2026-10-27-2000.html
-DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52409/52410\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:mayf-six-2026-10-28-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261028T170000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -25,7 +16,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-28-2000@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261028T200000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -34,7 +25,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-29-2000@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261029T200000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -43,7 +34,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-30-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261030T170000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -52,7 +43,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-30-2000@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261030T200000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -61,7 +52,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-theatre-tours-2026-10-31-0900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261031T090000
 SUMMARY:Theatre Tours
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -70,7 +61,7 @@ DESCRIPTION:Theatre\n£15\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-31-1600@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261031T160000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -79,7 +70,7 @@ DESCRIPTION:Theatre\n£55–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-six-2026-10-31-2000@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261031T200000
 SUMMARY:SIX
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -88,7 +79,7 @@ DESCRIPTION:Theatre\n£40–£50\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-richard-ayoade-2026-11-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261101T193000
 SUMMARY:Richard Ayoade
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -97,7 +88,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261103T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -106,7 +97,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261104T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -115,7 +106,7 @@ DESCRIPTION:Theatre\n£33.50–£42.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-05-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261105T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -124,7 +115,7 @@ DESCRIPTION:Theatre\n£33–£42.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-06-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261106T140000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -133,16 +124,16 @@ DESCRIPTION:Theatre\n£34–£42.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261106T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/the-choir-of-man-mayf-the-choir-of-man-2026-11-06-1930.html
-DESCRIPTION:Theatre\n£42–£48.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52837/52880\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£43–£48.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52837/52880\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-07-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261107T140000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -151,7 +142,7 @@ DESCRIPTION:Theatre\n£50–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3b18eb15-f04@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261107T160000
 SUMMARY:Southampton Fireworks 2026 – The POP EXPLOSION!
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -160,16 +151,16 @@ DESCRIPTION:Gig\n£0–£38.50\nListed via Fatsoma\nTickets: https://www.fatsoma
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261107T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/the-choir-of-man-mayf-the-choir-of-man-2026-11-07-1930.html
-DESCRIPTION:Theatre\n£40–£51\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52837/52891\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£47–£51\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52837/52891\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-bill-bailey-2026-11-08-1500@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261108T150000
 SUMMARY:Bill Bailey
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -178,7 +169,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-bill-bailey-2026-11-08-2000@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261108T200000
 SUMMARY:Bill Bailey
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -187,7 +178,7 @@ DESCRIPTION:Comedy\n£50\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-harry-enfield-and-no-chums-2026-11-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261109T193000
 SUMMARY:Harry Enfield and No Chums
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -196,7 +187,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-wno-schools-concert-2026-11-11-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261111T130000
 SUMMARY:WNO Schools Concert
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -205,7 +196,7 @@ DESCRIPTION:Gig\nListed via Mayflower Theatre\nTickets: https://www.mayflower.or
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-wno-family-concert-marvellous-musi-2026-11-11-1830@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261111T183000
 SUMMARY:WNO Family Concert: Marvellous Musical Mythology
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -214,25 +205,25 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-bluebeard-s-castle-and-oedipus-rex-2026-11-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261112T193000
 SUMMARY:Bluebeard's Castle and Oedipus Rex
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/bluebeards-castle-and-oedipus-rex-mayf-bluebeard-s-castle-and-oedipus-rex-2026-11-12-1930.html
-DESCRIPTION:Theatre\n£16–£46.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53963/53966\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£15–£42.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53963/53966\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-la-boh-me-2026-11-13-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:La bohème
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/la-boheme-mayf-la-boh-me-2026-11-13-1900.html
-DESCRIPTION:Theatre\n£47.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53963/53969\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£49.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53963/53969\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-what-s-love-got-to-do-with-it-2026-11-14-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261114T193000
 SUMMARY:What's Love Got To Do With It?
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -241,7 +232,7 @@ DESCRIPTION:Gig\n£28.50–£38.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jools-holland-2026-11-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261115T193000
 SUMMARY:Jools Holland
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -250,7 +241,7 @@ DESCRIPTION:Gig\n£60\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261117T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -259,16 +250,16 @@ DESCRIPTION:Theatre\n£56–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-18-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261118T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/operation-mincemeat-mayf-operation-mincemeat-2026-11-18-1400.html
-DESCRIPTION:Theatre\n£53–£62.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52072/52081\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£51–£62.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52072/52081\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-18-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261118T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -277,7 +268,7 @@ DESCRIPTION:Theatre\n£59–£69.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-19-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261119T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -286,7 +277,7 @@ DESCRIPTION:Theatre\n£51–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261119T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -295,7 +286,7 @@ DESCRIPTION:Theatre\n£58.50–£62.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261120T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -304,7 +295,7 @@ DESCRIPTION:Theatre\n£61.50–£62.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-21-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261121T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -313,7 +304,7 @@ DESCRIPTION:Theatre\n£62.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-21-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261121T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -322,25 +313,25 @@ DESCRIPTION:Theatre\n£61–£74.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261123T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jersey-boys-mayf-jersey-boys-2026-11-23-1930.html
-DESCRIPTION:Theatre\n£51–£60.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52941\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£51–£61.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52941\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261124T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jersey-boys-mayf-jersey-boys-2026-11-24-1930.html
-DESCRIPTION:Theatre\n£29.50–£60.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52987\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£29.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52987\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261125T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -349,16 +340,16 @@ DESCRIPTION:Theatre\n£29.50–£55.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-26-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261126T140000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jersey-boys-mayf-jersey-boys-2026-11-26-1400.html
-DESCRIPTION:Theatre\n£66.50–£68.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52989\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£65.50–£68.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52989\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261126T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -367,7 +358,7 @@ DESCRIPTION:Theatre\n£29.50–£55.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261127T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -376,7 +367,7 @@ DESCRIPTION:Theatre\n£55–£68.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-theatre-tours-2026-11-28-0900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261128T090000
 SUMMARY:Theatre Tours
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -385,16 +376,16 @@ DESCRIPTION:Theatre\nListed via Mayflower Theatre\nTickets: https://www.mayflowe
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-28-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261128T140000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jersey-boys-mayf-jersey-boys-2026-11-28-1400.html
-DESCRIPTION:Theatre\n£66–£67.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52992\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£67.50–£68.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52940/52992\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jersey-boys-2026-11-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261128T193000
 SUMMARY:Jersey Boys
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -403,7 +394,7 @@ DESCRIPTION:Theatre\n£53.50–£67.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-at-the-movies-2026-11-29-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261129T190000
 SUMMARY:Christmas at the Movies
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -412,16 +403,16 @@ DESCRIPTION:Gig\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-romeo-juliet-2026-12-03-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261203T190000
 SUMMARY:Romeo & Juliet
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/romeo-juliet-mayf-romeo-juliet-2026-12-03-1900.html
-DESCRIPTION:Theatre\n£39–£58\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53489\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£42.50–£59\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53489\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-romeo-juliet-2026-12-04-1330@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261204T133000
 SUMMARY:Romeo & Juliet
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -430,7 +421,7 @@ DESCRIPTION:Theatre\n£37–£52\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-romeo-juliet-2026-12-04-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261204T190000
 SUMMARY:Romeo & Juliet
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -439,25 +430,25 @@ DESCRIPTION:Theatre\n£39–£58\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-romeo-juliet-2026-12-05-1330@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261205T133000
 SUMMARY:Romeo & Juliet
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/romeo-juliet-mayf-romeo-juliet-2026-12-05-1330.html
-DESCRIPTION:Theatre\n£39–£58\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53492\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£42–£59\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53492\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-romeo-juliet-2026-12-05-1830@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261205T183000
 SUMMARY:Romeo & Juliet
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/romeo-juliet-mayf-romeo-juliet-2026-12-05-1830.html
-DESCRIPTION:Theatre\n£39–£58\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53493\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£41–£58\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53488/53493\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-12-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261212T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -466,7 +457,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-12-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261212T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -475,7 +466,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-13-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261213T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -484,7 +475,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-13-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261213T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -493,7 +484,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-15-1330@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261215T133000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -502,7 +493,7 @@ DESCRIPTION:Theatre\n£19.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-15-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261215T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -511,7 +502,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-16-1330@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261216T133000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -520,7 +511,7 @@ DESCRIPTION:Theatre\n£19.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-16-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261216T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -529,7 +520,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-17-1330@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261217T133000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -538,7 +529,7 @@ DESCRIPTION:Theatre\n£19.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-17-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261217T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -547,16 +538,16 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-19-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261219T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/robin-hood-mayf-robin-hood-2026-12-19-1400.html
-DESCRIPTION:Theatre\n£47.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53220/53240\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£48.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53220/53240\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-19-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -565,7 +556,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-20-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261220T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -574,7 +565,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-20-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261220T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -583,7 +574,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-21-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261221T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -592,7 +583,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-21-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261221T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -601,7 +592,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-22-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261222T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -610,7 +601,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-22-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261222T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -619,7 +610,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-23-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261223T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -628,7 +619,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-23-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261223T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -637,7 +628,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-24-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261224T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -646,7 +637,7 @@ DESCRIPTION:Theatre\n£48.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-24-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261224T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -655,7 +646,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-26-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261226T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -664,7 +655,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-26-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261226T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -673,7 +664,7 @@ DESCRIPTION:Theatre\n£19.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-27-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261227T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -682,7 +673,7 @@ DESCRIPTION:Theatre\n£24.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-27-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261227T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -691,7 +682,7 @@ DESCRIPTION:Theatre\n£19.50–£58.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-28-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261228T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -700,7 +691,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-28-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261228T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -709,7 +700,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-29-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261229T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -718,7 +709,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-29-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261229T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -727,7 +718,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-30-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261230T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -736,7 +727,7 @@ DESCRIPTION:Theatre\n£19.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-30-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261230T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -745,7 +736,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-31-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261231T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -754,7 +745,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2026-12-31-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20261231T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -763,7 +754,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2027-01-02-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270102T140000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -772,7 +763,7 @@ DESCRIPTION:Theatre\n£19.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2027-01-02-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270102T190000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -781,7 +772,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2027-01-03-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270103T130000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -790,7 +781,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-robin-hood-2027-01-03-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270103T170000
 SUMMARY:Robin Hood
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -799,7 +790,7 @@ DESCRIPTION:Theatre\n£19.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270106T193000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -808,7 +799,7 @@ DESCRIPTION:Theatre\n£32.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-07-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270107T140000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -817,16 +808,16 @@ DESCRIPTION:Theatre\n£22.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270107T193000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/paranormal-activity-mayf-paranormal-activity-2027-01-07-1930.html
-DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53665/53668\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£22.50–£45.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53665/53668\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270108T193000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -835,7 +826,7 @@ DESCRIPTION:Theatre\n£24.50–£55.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-09-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270109T140000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -844,7 +835,7 @@ DESCRIPTION:Theatre\n£40–£56\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-paranormal-activity-2027-01-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270109T193000
 SUMMARY:Paranormal Activity
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -853,7 +844,7 @@ DESCRIPTION:Theatre\n£40–£56\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270111T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -862,7 +853,7 @@ DESCRIPTION:Theatre\n£41.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270112T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -871,7 +862,7 @@ DESCRIPTION:Theatre\n£42.50–£52.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-13-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270113T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -880,7 +871,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-14-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270114T140000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -889,7 +880,7 @@ DESCRIPTION:Theatre\n£34.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-14-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270114T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -898,7 +889,7 @@ DESCRIPTION:Theatre\n£29.50–£55.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270115T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -907,7 +898,7 @@ DESCRIPTION:Theatre\n£53.50–£61.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-16-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270116T140000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -916,7 +907,7 @@ DESCRIPTION:Theatre\n£60–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mean-girls-2027-01-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270116T193000
 SUMMARY:Mean Girls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -925,16 +916,16 @@ DESCRIPTION:Theatre\n£57.50–£61.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270119T193000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/blood-brothers-mayf-blood-brothers-2027-01-19-1930.html
-DESCRIPTION:Theatre\n£35.50–£56\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52496/52497\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£38.50–£56\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52496/52497\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-20-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270120T140000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -943,7 +934,7 @@ DESCRIPTION:Theatre\n£24.50–£52.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270120T193000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -952,7 +943,7 @@ DESCRIPTION:Theatre\n£29.50–£50.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-21-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270121T140000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -961,7 +952,7 @@ DESCRIPTION:Theatre\n£24.50–£52.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-21-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270121T193000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -970,7 +961,7 @@ DESCRIPTION:Theatre\n£24.50–£57\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-22-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270122T193000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -979,7 +970,7 @@ DESCRIPTION:Theatre\n£29.50–£57\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-23-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270123T140000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -988,16 +979,16 @@ DESCRIPTION:Theatre\n£52.50–£57\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-blood-brothers-2027-01-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270123T193000
 SUMMARY:Blood Brothers
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/blood-brothers-mayf-blood-brothers-2027-01-23-1930.html
-DESCRIPTION:Theatre\n£29.50–£55.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52496/52504\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£45–£55.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/52496/52504\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270125T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1006,7 +997,7 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270126T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1015,7 +1006,7 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270127T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1024,7 +1015,7 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-28-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270128T140000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1033,7 +1024,7 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270128T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1042,7 +1033,7 @@ DESCRIPTION:Theatre\n£25.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270129T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1051,7 +1042,7 @@ DESCRIPTION:Theatre\n£29.50–£57.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-30-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270130T140000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1060,7 +1051,7 @@ DESCRIPTION:Theatre\n£48.50–£57.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-annie-2027-01-30-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270130T193000
 SUMMARY:Annie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1069,7 +1060,7 @@ DESCRIPTION:Theatre\n£35.50–£57.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-music-through-the-decades-2027-01-31-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270131T193000
 SUMMARY:Music Through the Decades
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1078,7 +1069,7 @@ DESCRIPTION:Gig\n£22.50\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270202T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1087,7 +1078,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270203T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1096,7 +1087,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-04-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270204T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1105,7 +1096,7 @@ DESCRIPTION:Theatre\n£31.50–£76.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270204T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1114,7 +1105,7 @@ DESCRIPTION:Theatre\n£33–£66\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-05-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270205T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1123,7 +1114,7 @@ DESCRIPTION:Theatre\n£42–£75\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-06-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270206T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1132,7 +1123,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270206T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1141,7 +1132,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-07-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270207T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1150,7 +1141,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270209T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1159,7 +1150,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270210T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1168,7 +1159,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-11-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270211T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1177,7 +1168,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270211T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1186,7 +1177,7 @@ DESCRIPTION:Theatre\n£24–£68.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270212T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1195,7 +1186,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-13-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270213T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1204,7 +1195,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-13-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270213T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1213,7 +1204,7 @@ DESCRIPTION:Theatre\n£29–£76\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-14-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270214T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1222,7 +1213,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270216T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1231,7 +1222,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270217T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1240,7 +1231,7 @@ DESCRIPTION:Theatre\n£30–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-18-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270218T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1249,7 +1240,7 @@ DESCRIPTION:Theatre\n£24–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-18-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270218T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1258,7 +1249,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270219T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1267,7 +1258,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-20-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270220T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1276,7 +1267,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270220T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1285,7 +1276,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-21-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270221T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1294,7 +1285,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270223T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1303,7 +1294,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270224T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1312,7 +1303,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-25-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270225T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1321,7 +1312,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270225T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1330,7 +1321,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270226T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1339,7 +1330,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-27-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270227T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1348,7 +1339,7 @@ DESCRIPTION:Theatre\n£34–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270227T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1357,7 +1348,7 @@ DESCRIPTION:Theatre\n£29–£71.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-28-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270228T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1366,7 +1357,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270303T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1375,7 +1366,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-04-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270304T140000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1384,7 +1375,7 @@ DESCRIPTION:Theatre\n£10–£39.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270304T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1393,7 +1384,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-05-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270305T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1402,7 +1393,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-06-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270306T140000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1411,7 +1402,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270306T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1420,7 +1411,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270309T193000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1429,7 +1420,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270310T193000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1438,16 +1429,16 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-11-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270311T140000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/cinderella-mayf-cinderella-2027-03-11-1400.html
-DESCRIPTION:Theatre\n£26.50–£56.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53542\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£26.50–£57.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53542\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270311T193000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1456,16 +1447,16 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270312T193000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/cinderella-mayf-cinderella-2027-03-12-1930.html
-DESCRIPTION:Theatre\n£29.50–£58\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53544\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£29.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53544\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-13-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270313T140000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1474,16 +1465,16 @@ DESCRIPTION:Theatre\n£29.50–£59\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-2027-03-13-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270313T193000
 SUMMARY:Cinderella
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/cinderella-mayf-cinderella-2027-03-13-1930.html
-DESCRIPTION:Theatre\n£29.50–£56.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53546\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£29.50–£57.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53539/53546\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270315T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1492,7 +1483,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270316T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1501,7 +1492,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270317T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1510,7 +1501,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-18-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270318T140000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1519,7 +1510,7 @@ DESCRIPTION:Theatre\n£22.50–£42.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-18-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270318T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1528,7 +1519,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270319T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1537,7 +1528,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-20-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270320T140000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1546,7 +1537,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270320T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1555,7 +1546,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-best-of-bond-2027-03-21-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270321T190000
 SUMMARY:The Best of Bond
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1564,7 +1555,7 @@ DESCRIPTION:Gig\n£36.50–£52\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-s-o-paulo-dance-company-2027-03-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270323T193000
 SUMMARY:São Paulo Dance Company
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1573,7 +1564,7 @@ DESCRIPTION:Theatre\n£16.50–£38.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-s-o-paulo-dance-company-2027-03-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270324T193000
 SUMMARY:São Paulo Dance Company
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1582,7 +1573,7 @@ DESCRIPTION:Theatre\n£16.50–£38.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270325T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1591,7 +1582,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270326T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1600,7 +1591,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270327T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1609,16 +1600,16 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-03-30-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270330T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/cats-mayf-cats-2027-03-30-1930.html
-DESCRIPTION:Theatre\n£30–£57\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53500/53502\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£30–£58.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53500/53502\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-03-31-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270331T140000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1627,7 +1618,7 @@ DESCRIPTION:Theatre\n£25–£49\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-03-31-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270331T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1636,7 +1627,7 @@ DESCRIPTION:Theatre\n£30–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-01-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270401T140000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1645,16 +1636,16 @@ DESCRIPTION:Theatre\n£25–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270401T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/cats-mayf-cats-2027-04-01-1930.html
-DESCRIPTION:Theatre\n£25–£65.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53500/53505\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£68.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53500/53505\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270402T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1663,7 +1654,7 @@ DESCRIPTION:Theatre\n£32–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-03-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270403T140000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1672,7 +1663,7 @@ DESCRIPTION:Theatre\n£25–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270403T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1681,7 +1672,7 @@ DESCRIPTION:Theatre\n£25–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-05-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270405T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1690,7 +1681,7 @@ DESCRIPTION:Theatre\n£25–£57\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270406T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1699,7 +1690,7 @@ DESCRIPTION:Theatre\n£25–£57\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270407T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1708,7 +1699,7 @@ DESCRIPTION:Theatre\n£25–£57\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-08-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270408T140000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1717,7 +1708,7 @@ DESCRIPTION:Theatre\n£25–£69\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270408T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1726,7 +1717,7 @@ DESCRIPTION:Theatre\n£25–£57\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270409T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1735,7 +1726,7 @@ DESCRIPTION:Theatre\n£25–£67\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-10-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270410T140000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1744,7 +1735,7 @@ DESCRIPTION:Theatre\n£25–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cats-2027-04-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270410T193000
 SUMMARY:CATS
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1753,7 +1744,7 @@ DESCRIPTION:Theatre\n£25–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-allstars-the-music-of-abba-2027-04-11-1430@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270411T143000
 SUMMARY:ALLSTARS: The Music of ABBA
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1762,7 +1753,7 @@ DESCRIPTION:Gig\n£50–£80\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-allstars-the-music-of-abba-2027-04-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270411T193000
 SUMMARY:ALLSTARS: The Music of ABBA
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1771,7 +1762,7 @@ DESCRIPTION:Gig\n£35–£80\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-14-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270414T193000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1780,7 +1771,7 @@ DESCRIPTION:Theatre\n£12–£49.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-15-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270415T140000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1789,7 +1780,7 @@ DESCRIPTION:Theatre\n£12–£40.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270415T193000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1798,7 +1789,7 @@ DESCRIPTION:Theatre\n£12–£49.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270416T193000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1807,7 +1798,7 @@ DESCRIPTION:Theatre\n£12–£49.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-brb-the-maiden-of-venice-company-c-2027-04-17-1045@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270417T104500
 SUMMARY:BRB The Maiden of Venice Company Class
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1816,7 +1807,7 @@ DESCRIPTION:Theatre\n£15\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-17-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270417T140000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1825,7 +1816,7 @@ DESCRIPTION:Theatre\n£12–£49.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-maiden-of-venice-2027-04-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270417T193000
 SUMMARY:The Maiden of Venice
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1834,7 +1825,7 @@ DESCRIPTION:Theatre\n£12–£49.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270419T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1843,7 +1834,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270420T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1852,7 +1843,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-21-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270421T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1861,7 +1852,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-22-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270422T140000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1870,7 +1861,7 @@ DESCRIPTION:Theatre\n£23.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-22-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270422T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1879,7 +1870,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270423T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1888,7 +1879,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-24-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270424T140000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1897,7 +1888,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mousetrap-2027-04-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270424T193000
 SUMMARY:The Mousetrap
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1906,7 +1897,7 @@ DESCRIPTION:Theatre\n£22.50–£44.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-al-murray-the-pub-landlord-2027-04-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270425T193000
 SUMMARY:Al Murray The Pub Landlord
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1915,7 +1906,7 @@ DESCRIPTION:Comedy\n£35–£65\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270427T193000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1924,7 +1915,7 @@ DESCRIPTION:Theatre\n£52.50–£56.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-28-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270428T140000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1933,7 +1924,7 @@ DESCRIPTION:Theatre\n£32.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270428T193000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1942,7 +1933,7 @@ DESCRIPTION:Theatre\n£51.50–£56.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-29-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270429T140000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1951,16 +1942,16 @@ DESCRIPTION:Theatre\n£32.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270429T193000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/hadestown-mayf-hadestown-2027-04-29-1930.html
-DESCRIPTION:Theatre\n£46.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54181/54187\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£48.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54181/54187\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-04-30-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270430T193000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1969,7 +1960,7 @@ DESCRIPTION:Theatre\n£36.50–£70.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-05-01-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270501T140000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1978,16 +1969,16 @@ DESCRIPTION:Theatre\n£78.50–£80.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-hadestown-2027-05-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270501T193000
 SUMMARY:Hadestown
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/hadestown-mayf-hadestown-2027-05-01-1930.html
-DESCRIPTION:Theatre\n£70–£76\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54181/54190\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£70–£77.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54181/54190\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-johannes-radebe-2027-05-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270502T193000
 SUMMARY:Johannes Radebe
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1996,7 +1987,7 @@ DESCRIPTION:Theatre\n£42–£72\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270504T193000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2005,7 +1996,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-05-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270505T193000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2014,7 +2005,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-06-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270506T140000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2023,7 +2014,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270506T193000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2032,7 +2023,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270507T193000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2041,7 +2032,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-08-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270508T140000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2050,7 +2041,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-everybody-s-talking-about-jamie-2027-05-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270508T193000
 SUMMARY:Everybody's Talking About Jamie
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2059,7 +2050,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-steve-steinman-s-bat-out-of-hell-5-2027-05-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270509T193000
 SUMMARY:Steve Steinman’s Bat Out of Hell 50th Anniversary Concert
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2068,7 +2059,7 @@ DESCRIPTION:Gig\n£28.50–£49.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270511T193000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2077,7 +2068,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-12-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270512T140000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2086,7 +2077,7 @@ DESCRIPTION:Theatre\n£22.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270512T193000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2095,7 +2086,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-13-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270513T140000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2104,7 +2095,7 @@ DESCRIPTION:Theatre\n£22.50–£39.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-13-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270513T193000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2113,7 +2104,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-14-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270514T193000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2122,7 +2113,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-15-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270515T140000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2131,7 +2122,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-curious-incident-of-the-dog-in-2027-05-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270515T193000
 SUMMARY:The Curious Incident of the Dog in the Night-Time
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2140,7 +2131,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-guitar-superstars-2027-05-16-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270516T190000
 SUMMARY:Guitar Superstars
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2149,7 +2140,7 @@ DESCRIPTION:Gig\n£30–£50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-it-s-a-beautiful-noise-the-definit-2027-05-18-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270518T190000
 SUMMARY:It's a Beautiful Noise: The Definitive Tribute to Neil Diamond
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2158,7 +2149,7 @@ DESCRIPTION:Gig\n£32.50–£37.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-it-s-a-sin-2027-05-20-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270520T193000
 SUMMARY:It's A Sin
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2167,7 +2158,7 @@ DESCRIPTION:Theatre\n£38.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-it-s-a-sin-2027-05-21-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270521T193000
 SUMMARY:It's A Sin
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2176,7 +2167,7 @@ DESCRIPTION:Theatre\n£26.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-it-s-a-sin-2027-05-22-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270522T140000
 SUMMARY:It's A Sin
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2185,7 +2176,7 @@ DESCRIPTION:Theatre\n£32.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-it-s-a-sin-2027-05-22-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270522T193000
 SUMMARY:It's A Sin
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2194,7 +2185,7 @@ DESCRIPTION:Theatre\n£26.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-nigel-kennedy-2027-05-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270523T193000
 SUMMARY:Nigel Kennedy
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2203,7 +2194,7 @@ DESCRIPTION:Gig\n£55\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270525T193000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2212,7 +2203,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-26-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270526T140000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2221,7 +2212,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270526T193000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2230,7 +2221,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-27-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270527T140000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2239,7 +2230,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-27-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270527T193000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2248,34 +2239,34 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270528T193000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/singin-in-the-rain-mayf-singin-in-the-rain-2027-05-28-1930.html
-DESCRIPTION:Theatre\n£39.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54042\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£34.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54042\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-29-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270529T140000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/singin-in-the-rain-mayf-singin-in-the-rain-2027-05-29-1400.html
-DESCRIPTION:Theatre\n£39.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54043\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£34.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54043\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-singin-in-the-rain-2027-05-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270529T193000
 SUMMARY:Singin' in the Rain
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/singin-in-the-rain-mayf-singin-in-the-rain-2027-05-29-1930.html
-DESCRIPTION:Theatre\n£39.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54044\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£34.50–£59.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54036/54044\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-G5vHZ_fhVZJwE@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270602T193000
 SUMMARY:Sound of The 60's Live - Hosted By Tony Blackburn OBE
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2284,7 +2275,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sounds-of-the-60s-live-2027-06-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270602T193000
 SUMMARY:Sounds Of The 60s Live
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2293,7 +2284,7 @@ DESCRIPTION:Gig\n£32.50–£48.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-dog-man-the-musical-2027-06-04-1800@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270604T180000
 SUMMARY:Dog Man: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2302,7 +2293,7 @@ DESCRIPTION:Theatre\n£18–£29.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-dog-man-the-musical-2027-06-05-1030@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270605T103000
 SUMMARY:Dog Man: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2311,7 +2302,7 @@ DESCRIPTION:Theatre\n£18–£29.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-dog-man-the-musical-2027-06-05-1430@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270605T143000
 SUMMARY:Dog Man: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2320,7 +2311,7 @@ DESCRIPTION:Theatre\n£18–£29.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-dog-man-the-musical-2027-06-05-1800@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270605T180000
 SUMMARY:Dog Man: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2329,7 +2320,7 @@ DESCRIPTION:Theatre\n£18–£29.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270608T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2338,7 +2329,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270609T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2347,7 +2338,7 @@ DESCRIPTION:Theatre\n£24–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-10-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270610T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2356,7 +2347,7 @@ DESCRIPTION:Theatre\n£24–£71\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270610T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2365,7 +2356,7 @@ DESCRIPTION:Theatre\n£30–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270611T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2374,7 +2365,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-12-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270612T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2383,7 +2374,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-12-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270612T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2392,7 +2383,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-13-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270613T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2401,7 +2392,7 @@ DESCRIPTION:Theatre\n£34–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270615T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2410,7 +2401,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270616T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2419,7 +2410,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-17-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270617T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2428,7 +2419,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270617T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2437,7 +2428,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-18-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270618T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2446,7 +2437,7 @@ DESCRIPTION:Theatre\n£34–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-19-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270619T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2455,7 +2446,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-19-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270619T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2464,7 +2455,7 @@ DESCRIPTION:Theatre\n£29–£77\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-20-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270620T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2473,7 +2464,7 @@ DESCRIPTION:Theatre\n£29–£75\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-22-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270622T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2482,7 +2473,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270623T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2491,7 +2482,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-24-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270624T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2500,7 +2491,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270624T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2509,7 +2500,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270625T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2518,7 +2509,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-26-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270626T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2527,7 +2518,7 @@ DESCRIPTION:Theatre\n£34–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-26-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270626T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2536,7 +2527,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-27-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270627T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2545,7 +2536,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270629T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2554,7 +2545,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-06-30-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270630T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2563,7 +2554,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-07-01-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270701T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2572,7 +2563,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-07-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270701T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2581,7 +2572,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-07-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270702T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2590,7 +2581,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-07-03-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270703T140000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2599,7 +2590,7 @@ DESCRIPTION:Theatre\n£34–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-back-to-the-future-the-musical-2027-07-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270703T193000
 SUMMARY:Back to the Future The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2608,7 +2599,7 @@ DESCRIPTION:Theatre\n£29–£79\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-06-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270706T193000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2617,7 +2608,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-07-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270707T140000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2626,7 +2617,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270707T193000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2635,7 +2626,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-08-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270708T140000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2644,7 +2635,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270708T193000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2653,7 +2644,7 @@ DESCRIPTION:Theatre\n£24.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270709T193000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2662,16 +2653,16 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-10-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270710T140000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/pretty-woman-the-musical-mayf-pretty-woman-the-musical-2027-07-10-1400.html
-DESCRIPTION:Theatre\n£34.50–£59\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54005/54012\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£38–£62.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54005/54012\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pretty-woman-the-musical-2027-07-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270710T193000
 SUMMARY:Pretty Woman: The Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2680,7 +2671,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-13-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270713T193000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2689,7 +2680,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-14-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270714T140000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2698,7 +2689,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-14-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270714T193000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2707,7 +2698,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-15-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270715T140000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2716,7 +2707,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270715T193000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2725,7 +2716,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270716T193000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2734,7 +2725,7 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-17-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270717T140000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2743,7 +2734,7 @@ DESCRIPTION:Theatre\n£34.50–£56\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-grease-the-musical-2027-07-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270717T193000
 SUMMARY:Grease the Musical
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2752,25 +2743,25 @@ DESCRIPTION:Theatre\n£34.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270901T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-01-1930.html
-DESCRIPTION:Theatre\n£25–£69.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54105\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£71\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54105\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-02-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270902T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-02-1400.html
-DESCRIPTION:Theatre\n£25–£71\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54102\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£73.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54102\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270902T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2779,16 +2770,16 @@ DESCRIPTION:Theatre\n£25–£66.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270903T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-03-1930.html
-DESCRIPTION:Theatre\n£25–£78.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54106\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£82.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54106\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-04-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270904T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2797,25 +2788,25 @@ DESCRIPTION:Theatre\n£39.50–£89.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270904T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-04-1930.html
-DESCRIPTION:Theatre\n£25–£82.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54108\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£84\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54108\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-05-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270905T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-05-1400.html
-DESCRIPTION:Theatre\n£25–£77\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54109\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£82.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54109\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270907T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2824,61 +2815,61 @@ DESCRIPTION:Theatre\n£25–£56\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-08-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270908T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-08-1400.html
-DESCRIPTION:Theatre\n£25–£62.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54111\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£67.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54111\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270908T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-08-1930.html
-DESCRIPTION:Theatre\n£25–£54\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54112\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£55.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54112\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-09-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270909T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-09-1400.html
-DESCRIPTION:Theatre\n£25–£64\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54113\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£66\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54113\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270909T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-09-1930.html
-DESCRIPTION:Theatre\n£25–£66.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54114\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£69\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54114\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270910T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-10-1930.html
-DESCRIPTION:Theatre\n£25–£77.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54115\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£82\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54115\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-11-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270911T140000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-11-1400.html
-DESCRIPTION:Theatre\n£25–£83.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54116\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£87.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/54081/54116\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jesus-christ-superstar-2027-09-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270911T193000
 SUMMARY:Jesus Christ Superstar
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2887,25 +2878,25 @@ DESCRIPTION:Theatre\n£25–£89.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-15-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270915T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/starlight-express-mayf-starlight-express-2027-09-15-1930.html
-DESCRIPTION:Theatre\n£25–£73\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53913\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£75\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53913\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-16-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270916T140000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/starlight-express-mayf-starlight-express-2027-09-16-1400.html
-DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53934\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£63\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53934\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-16-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270916T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2914,7 +2905,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-17-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270917T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2923,16 +2914,16 @@ DESCRIPTION:Theatre\n£25–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-18-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270918T140000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/starlight-express-mayf-starlight-express-2027-09-18-1400.html
-DESCRIPTION:Theatre\n£25–£77.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53937\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£25–£80.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53937\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-18-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270918T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2941,16 +2932,16 @@ DESCRIPTION:Theatre\n£25–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-19-1300@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270919T130000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
 URL:https://southampton.live/e/starlight-express-mayf-starlight-express-2027-09-19-1300.html
-DESCRIPTION:Theatre\n£32–£70.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53939\nDetails can change — check with the venue.
+DESCRIPTION:Theatre\n£32–£72.50\nListed via Mayflower Theatre\nTickets: https://ticketing.mayflower.org.uk/53908/53939\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-19-1830@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270919T183000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2959,7 +2950,7 @@ DESCRIPTION:Theatre\n£25–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-21-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270921T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2968,7 +2959,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-22-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270922T140000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2977,7 +2968,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-22-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270922T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2986,7 +2977,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-23-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270923T140000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -2995,7 +2986,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-23-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270923T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3004,7 +2995,7 @@ DESCRIPTION:Theatre\n£25–£60\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-24-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270924T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3013,7 +3004,7 @@ DESCRIPTION:Theatre\n£25–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-25-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270925T140000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3022,7 +3013,7 @@ DESCRIPTION:Theatre\n£32–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-starlight-express-2027-09-25-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270925T193000
 SUMMARY:Starlight Express
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3031,7 +3022,7 @@ DESCRIPTION:Theatre\n£25–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-09-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270928T193000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3040,7 +3031,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-09-29-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270929T140000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3049,7 +3040,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-09-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270929T193000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3058,7 +3049,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-09-30-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270930T140000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3067,7 +3058,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-09-30-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20270930T193000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3076,7 +3067,7 @@ DESCRIPTION:Theatre\n£29.50–£54.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-10-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271001T193000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3085,7 +3076,7 @@ DESCRIPTION:Theatre\n£32.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-10-02-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271002T140000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3094,7 +3085,7 @@ DESCRIPTION:Theatre\n£32.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-just-for-one-day-2027-10-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271002T193000
 SUMMARY:Just For One Day
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3103,7 +3094,7 @@ DESCRIPTION:Theatre\n£32.50–£59.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-star-wars-50th-anniversary-2027-10-03-1700@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271003T170000
 SUMMARY:Star Wars: 50th Anniversary
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3112,7 +3103,7 @@ DESCRIPTION:Gig\n£30–£52\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-sensational-60s-experience-2027-11-02-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271102T190000
 SUMMARY:The Sensational 60s Experience
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3121,7 +3112,7 @@ DESCRIPTION:Gig\n£32–£36.50\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-tom-allen-2027-11-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20271128T193000
 SUMMARY:Tom Allen
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3130,7 +3121,7 @@ DESCRIPTION:Comedy\n£33.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-22-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280222T190000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3139,7 +3130,7 @@ DESCRIPTION:Theatre\n£15–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-23-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280223T140000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3148,7 +3139,7 @@ DESCRIPTION:Theatre\n£15–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-23-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280223T190000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3157,7 +3148,7 @@ DESCRIPTION:Theatre\n£15–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-24-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280224T140000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3166,7 +3157,7 @@ DESCRIPTION:Theatre\n£15–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-24-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280224T190000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3175,7 +3166,7 @@ DESCRIPTION:Theatre\n£15–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-25-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280225T190000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3184,7 +3175,7 @@ DESCRIPTION:Theatre\n£20–£59\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-26-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280226T140000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3193,7 +3184,7 @@ DESCRIPTION:Theatre\n£20–£59\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ballet-shoes-2028-02-26-1900@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280226T190000
 SUMMARY:Ballet Shoes
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3202,7 +3193,7 @@ DESCRIPTION:Theatre\n£20–£59\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-02-28-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280228T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3211,7 +3202,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-02-29-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280229T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3220,7 +3211,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-01-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280301T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3229,7 +3220,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-02-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280302T140000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3238,7 +3229,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-02-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280302T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3247,7 +3238,7 @@ DESCRIPTION:Theatre\n£29.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-03-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280303T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3256,7 +3247,7 @@ DESCRIPTION:Theatre\n£32.50–£56.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-04-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280304T140000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3265,7 +3256,7 @@ DESCRIPTION:Theatre\n£32.50–£56.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-sister-act-2028-03-04-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280304T193000
 SUMMARY:Sister Act
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3274,7 +3265,7 @@ DESCRIPTION:Theatre\n£32.50–£56.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-07-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280307T193000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3283,7 +3274,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-08-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280308T140000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3292,7 +3283,7 @@ DESCRIPTION:Theatre\n£20–£40\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-08-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280308T193000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3301,7 +3292,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-09-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280309T140000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3310,7 +3301,7 @@ DESCRIPTION:Theatre\n£20–£40\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-09-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280309T193000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3319,7 +3310,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-10-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280310T193000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3328,7 +3319,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-11-1400@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280311T140000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -3337,7 +3328,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-an-inspector-calls-2028-03-11-1930@southampton.live
-DTSTAMP:20261027T152530Z
+DTSTAMP:20261027T221803Z
 DTSTART;TZID=Europe/London:20280311T193000
 SUMMARY:An Inspector Calls
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
