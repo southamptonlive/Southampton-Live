@@ -34,8 +34,8 @@
   <url><loc>https://southampton.live/v/the-point.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/hangarfarm.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/centralhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/funky-flamingo.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/sobar.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/funky-flamingo.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/popworld.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/rubys.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/st-denys-church.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -52,7 +52,6 @@
   <url><loc>https://southampton.live/v/deluxe-one.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/orange-rooms.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/st-denys-social.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/d/2026-10-26.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-10-27.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-10-28.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-10-29.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -348,13 +347,6 @@
   <url><loc>https://southampton.live/d/2028-03-10.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-03-11.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-07-29.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://southampton.live/e/the-hobbit-pub-invasion-of-the-societies-fat-da49016b-b2d.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/the-ugly-sg-43342212.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/pina-palau-sg-43210831.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/international-halloween-social-fat-f708c22b-2dc.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/sold-out-southampton-asoc-halloween-house-party-fat-ce445ca5-f27.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/sold-out-southampton-punjabi-soc-halloween-house-party-fat-4ff8efa9-209.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/sold-out-desi-beatz-southampton-halloween-house-party-trilog-fat-d389058d-5ee.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/juvy-under-18s-halloween-tour-tues-27-october-southampton-sk-42827925.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/boxxed-off-southampton-postponed-fat-fedb15fb-fea.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/tortured-demon-sg-43281976.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>

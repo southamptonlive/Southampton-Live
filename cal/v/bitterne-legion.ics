@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-cdd4e7c9-050@southampton.live
-DTSTAMP:20261026T224546Z
+DTSTAMP:20261027T003012Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:RBL Bitterne Music Night - Red Light Spies // Waldo Salt // Charlie Smith // D'Kenzion
 LOCATION:Bitterne British Legion\, 237 Upper Deacon Rd\, Southampton SO19 5JR\, SO19 5JR

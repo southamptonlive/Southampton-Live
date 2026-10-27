@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-26T22:45:46.250Z",
+ "generated": "2026-10-27T00:30:12.503Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 425
+   "events": 423
   },
   {
    "id": "mitc",
@@ -282,16 +282,16 @@
    "address": "St Mary Street, Southampton"
   },
   {
-   "id": "funky-flamingo",
-   "name": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
    "address": "Southampton"
+  },
+  {
+   "id": "funky-flamingo",
+   "name": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
    "id": "popworld",
@@ -391,224 +391,6 @@
   }
  ],
  "events": [
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-da49016b-b2d",
-   "artist": "The Hobbit Pub Invasion of the societies!",
-   "venueId": "hobbit",
-   "venueName": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-26",
-   "time": "17:00",
-   "price": 3,
-   "priceMax": 4,
-   "priceText": "£3–£4",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/nsk8fg2j/the-hobbit-pub-invasion-of-the-societies",
-   "infoUrl": "https://www.fatsoma.com/e/nsk8fg2j/the-hobbit-pub-invasion-of-the-societies",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43342212",
-   "artist": "The Ugly",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-26",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43342212-ugly-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43342212-ugly-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43210831",
-   "artist": "Pina Palau",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-26",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43210831-pina-palau-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43210831-pina-palau-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-f708c22b-2dc",
-   "artist": "🎃🌍 INTERNATIONAL HALLOWEEN SOCIAL 🌍🎃",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-26",
-   "time": "22:00",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "world",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/vkp601v7/international-halloween-social",
-   "infoUrl": "https://www.fatsoma.com/e/vkp601v7/international-halloween-social",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "world"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-ce445ca5-f27",
-   "artist": "[SOLD OUT] Southampton ASOC : HALLOWEEN HOUSE PARTY!",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-26",
-   "time": "22:30",
-   "price": 6,
-   "priceMax": 11,
-   "priceText": "£6–£11",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/mkskqh97/sold-out-southampton-asoc-halloween-house-party",
-   "infoUrl": "https://www.fatsoma.com/e/mkskqh97/sold-out-southampton-asoc-halloween-house-party",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-4ff8efa9-209",
-   "artist": "[SOLD OUT] Southampton Punjabi Soc : HALLOWEEN HOUSE PARTY!",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-26",
-   "time": "22:30",
-   "price": 7,
-   "priceMax": 11,
-   "priceText": "£7–£11",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/l3x41rec/sold-out-southampton-punjabi-soc-halloween-house-party",
-   "infoUrl": "https://www.fatsoma.com/e/l3x41rec/sold-out-southampton-punjabi-soc-halloween-house-party",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-d389058d-5ee",
-   "artist": "[SOLD OUT] Desi Beatz Southampton : HALLOWEEN HOUSE PARTY! | TRILOGY SOUTHAMPTON",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-26",
-   "time": "23:00",
-   "price": 6,
-   "priceMax": 15.4,
-   "priceText": "£6–£15.40",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/sreavjhf/sold-out-desi-beatz-southampton-halloween-house-party-trilogy-southampton",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
   {
    "type": "club",
    "tags": [
