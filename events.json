@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-28T12:59:13.178Z",
+ "generated": "2026-10-28T14:21:58.188Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 430
+   "events": 429
   },
   {
    "id": "mitc",
@@ -300,6 +300,12 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
+  },
+  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -310,12 +316,6 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -10679,7 +10679,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_0426c656_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 0,
+   "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
    "source": "skiddle",
@@ -11297,20 +11297,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-3ab688a1-d5c",
+   "id": "fat-943df342-890",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 4.99,
-   "priceMax": 26.4,
-   "priceText": "£4.99–£26.40",
+   "price": 6.99,
+   "priceMax": 12.09,
+   "priceText": "£6.99–£12.09",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -14123,7 +14123,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/8/2/2455590_c08542f1_so3-collective-christmas-party-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/",
-   "going": 0,
+   "going": 2,
    "minage": "18",
    "desc": "It's been three years since our last SO3 Christmas Party, so we thought it was about time we brought it back!",
    "source": "skiddle",
@@ -23957,6 +23957,34 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-1AdbZ_4Gkw93VJk",
+   "artist": "4am Kru",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-03-19",
+   "time": "18:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "jungle",
+   "img": "https://s1.ticketm.net/dam/a/bda/d244d7b2-fb97-4b0e-b10d-344af7553bda_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/4am-kru-southampton-19-03-2027/event/3600655C974B4986",
+   "infoUrl": "https://www.ticketmaster.co.uk/4am-kru-southampton-19-03-2027/event/3600655C974B4986",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genres": [
+    "jungle"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QLFJY9Ph5ZZMZJqU",
    "artist": "The View",
    "venueId": "the-1865",
@@ -24007,34 +24035,6 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-1AdbZ_4Gkw93VJk",
-   "artist": "4am Kru",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2027-03-19",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "jungle",
-   "img": "https://s1.ticketm.net/dam/a/bda/d244d7b2-fb97-4b0e-b10d-344af7553bda_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/4am-kru-southampton-19-03-2027/event/3600655C974B4986",
-   "infoUrl": "https://www.ticketmaster.co.uk/4am-kru-southampton-19-03-2027/event/3600655C974B4986",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "jungle"
    ]
   },
   {
@@ -31876,33 +31876,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sk-43049613",
-   "artist": "Generation Grunge",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2027-09-18",
-   "time": "18:00",
-   "price": 22.5,
-   "priceMax": 22.5,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/c/9/2453341_83469331_generation-grunge_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge/43049613/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge/43049613/",
-   "going": 0,
-   "minage": "14",
-   "desc": "Generation Grunge hits EngineRooms Southampton!",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sk-43118014",
    "artist": "Generation Grunge UK tour - Nirvanah - Pearl Scam - Angry Hair",
    "venueId": "engine",
@@ -31920,6 +31893,33 @@
    "going": 0,
    "minage": "16",
    "desc": "Generation Grunge brings it's electric live show to Southampton with special guests, Nirvanah, Pearl Scam and Angry Hair",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genres": [
+    "rock"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sk-43049613",
+   "artist": "Generation Grunge",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-09-18",
+   "time": "18:00",
+   "price": 22.5,
+   "priceMax": 22.5,
+   "priceText": null,
+   "genre": "rock",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/c/9/2453341_83469331_generation-grunge_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge/43049613/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Generation-Grunge/43049613/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Generation Grunge hits EngineRooms Southampton!",
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [

@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42513985@southampton.live
-DTSTAMP:20261028T125913Z
+DTSTAMP:20261028T142158Z
 DTSTART;TZID=Europe/London:20261031T170000
 SUMMARY:Dave Pearce Trance Anthems Halloween with Signum
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£15\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-6b6771e7-b86@southampton.live
-DTSTAMP:20261028T125913Z
+DTSTAMP:20261028T142158Z
 DTSTART;TZID=Europe/London:20261120T230000
 SUMMARY:Kaleidoscope Trance and Techno
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42424548@southampton.live
-DTSTAMP:20261028T125913Z
+DTSTAMP:20261028T142158Z
 DTSTART;TZID=Europe/London:20261226T200000
 SUMMARY:EngineRooms Presents: Paul Oakenfold & Seb Fontaine BOXING DAY
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£10–£17.50\nListed via Skiddle\nTickets: https://www
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42467362@southampton.live
-DTSTAMP:20261028T125913Z
+DTSTAMP:20261028T142158Z
 DTSTART;TZID=Europe/London:20270213T150000
 SUMMARY:Trance Day Party Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
