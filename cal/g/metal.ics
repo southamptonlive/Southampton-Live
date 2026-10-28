@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42669219@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261029T223000
 SUMMARY:Taking Back Thursdays: Clowning Around Halloween Special
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-205b378a-f1a@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261031T223000
 SUMMARY:Apocalypse Southampton - 🎃 Halloween 🎃 - Metal // Emo // Alternative
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£5–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q2t5nkinz8ZlYRsW@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261111T183000
 SUMMARY:Soil + Finger Eleven + Adema
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669306@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261112T223000
 SUMMARY:Taking Back Thursdays: MIDWEST EMO
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42463502@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261121T180000
 SUMMARY:Wormrot + Support
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669967@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261126T223000
 SUMMARY:Taking Back Thursdays: MySpace Core
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d4511196-a7b@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Winter Metal Meltdown - Southampton
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\n£30.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-41917438@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261128T180000
 SUMMARY:Moretallica | Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QNSXOl28_EQT84-u@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261129T190000
 SUMMARY:Xentrix: Cross-Atlantic Carnage
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42670370@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261210T223000
 SUMMARY:Taking Back Thursdays: Merry AXEMAS
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42414993@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Nightwish Tribute band Night-ish in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -106,7 +106,7 @@ DESCRIPTION:Gig\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42815887@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261220T180000
 SUMMARY:Heavy Jams Merry Metal XMAS
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -115,7 +115,7 @@ DESCRIPTION:Gig\nFree\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QOw3pbJD6OvOdigt@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270205T190000
 SUMMARY:Tool Shed – A Tribute to Tool
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -124,7 +124,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42400774@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270215T190000
 SUMMARY:Shred Fest
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\n£33\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42491717@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270216T190000
 SUMMARY:As Everything Unfolds
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -142,7 +142,7 @@ DESCRIPTION:Gig\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G6ukNNgbE@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270225T190000
 SUMMARY:Saxon - Gods Of Thunder
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -151,7 +151,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:br-alcest-2027-03-16@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270316T193000
 SUMMARY:Alcest
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -160,7 +160,7 @@ DESCRIPTION:Gig\n£30.25\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42666691@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270605T190000
 SUMMARY:Mosh Spice (Spice Girls Metal Tribute)- The Joiners\, Southampton
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -169,7 +169,7 @@ DESCRIPTION:Gig\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QbdQrGMWR8ZwPxvO@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270807T190000
 SUMMARY:Type Of Negative + Pantera A.D.
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -178,7 +178,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtZWhroecMTUqUPi@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20271127T190000
 SUMMARY:Ed Force One + Priest Unleashed
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

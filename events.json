@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-28T14:21:58.188Z",
+ "generated": "2026-10-28T15:53:40.794Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 35
+   "events": 36
   },
   {
    "id": "skiddle:The-Joiners",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 429
+   "events": 430
   },
   {
    "id": "mitc",
@@ -300,12 +300,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -316,6 +310,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -720,7 +720,7 @@
    ],
    "hot": false,
    "id": "sk-42664658",
-   "artist": "Halloween Asylum",
+   "artist": "Halloween Asylum - NOW IN SUBURBIA SOUTHAMPTON",
    "venueId": "suburbia",
    "venueName": "Suburbia Southampton",
    "postcode": "SO14 0JD",
@@ -731,18 +731,49 @@
    "priceText": "£5–£12.50",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/8/0/f/2322477_aa108746_halloween-asylum_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum/42664658/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum/42664658/",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum---NOW-IN-SUBURBIA-SOUTHAMPTON/42664658/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum---NOW-IN-SUBURBIA-SOUTHAMPTON/42664658/",
    "going": 0,
    "minage": "18",
-   "desc": "The Official Asylum Halloween Special hits Southampton EngineRooms! Don't miss the UK's biggest Halloween event this Wednesday October 28th.",
+   "desc": "THIS EVENT IS NOW IN SUBURBIA SOUTHAMPTON 27-29 ONLSOW ROAD, SO14 0JD",
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
    ],
-   "status": "postponed"
+   "hot": false,
+   "id": "fat-817fe0c3-130",
+   "artist": "SOUTHAMPTON HALLOWEEN 🎃 - THE ASYLUM - Sold out 10 years running! Southampton's Biggest",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-28",
+   "time": "23:00",
+   "price": 5.99,
+   "priceMax": 14.29,
+   "priceText": "£5.99–£14.29",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/2nj1nt4w/southampton-halloween-the-asylum-sold-out-10-years-running-southampton-s-biggest",
+   "infoUrl": "https://www.fatsoma.com/e/2nj1nt4w/southampton-halloween-the-asylum-sold-out-10-years-running-southampton-s-biggest",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
   },
   {
    "type": "club",
@@ -773,6 +804,38 @@
    "sourceRun": "fatsoma",
    "genres": [
     "latin"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "halloween"
+   ],
+   "hot": false,
+   "id": "fat-1dfd942c-7e2",
+   "artist": "SOUTHAMPTON HALLOWEEN 🎃 - THE ASYLUM - SELLS OUT EVERY YEAR 👻",
+   "venueId": "suburbia",
+   "venueName": "Suburbia",
+   "postcode": "SO14 0JD",
+   "date": "2026-10-28",
+   "time": "23:00",
+   "price": 6.99,
+   "priceMax": 14.29,
+   "priceText": "£6.99–£14.29",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/5tvnpds9/southampton-halloween-the-asylum-sells-out-every-year",
+   "infoUrl": "https://www.fatsoma.com/e/5tvnpds9/southampton-halloween-the-asylum-sells-out-every-year",
+   "going": null,
+   "minage": "18+",
+   "status": "postponed",
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -7732,36 +7795,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-2e445134-b9b",
-   "artist": "🐫 Hump Wednesdays 🐫",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-11-18",
-   "time": "22:00",
-   "price": 5,
-   "priceMax": 6,
-   "priceText": "£5–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/4le9ut17/hump-wednesdays",
-   "infoUrl": "https://www.fatsoma.com/e/4le9ut17/hump-wednesdays",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -8303,38 +8336,6 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "fat-df60781a-506",
-   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-20",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/7gvp0ott/bingo-cabaret-cocktails-prizes-to-be-won",
-   "infoUrl": "https://www.fatsoma.com/e/7gvp0ott/bingo-cabaret-cocktails-prizes-to-be-won",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -10679,7 +10680,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/f/a/2348496_0426c656_full-stack-presents-dark-arts_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Full-Stack-Presents-Dark-Arts/42793371/",
-   "going": 4,
+   "going": 0,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
    "source": "skiddle",
@@ -11297,20 +11298,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
+   "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
+   "price": 4.99,
+   "priceMax": 26.4,
+   "priceText": "£4.99–£26.40",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -14123,7 +14124,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/a/8/2/2455590_c08542f1_so3-collective-christmas-party-2026_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/SO3-Collective-Christmas-Party-2026/43118288/",
-   "going": 2,
+   "going": 0,
    "minage": "18",
    "desc": "It's been three years since our last SO3 Christmas Party, so we thought it was about time we brought it back!",
    "source": "skiddle",
@@ -18222,7 +18223,7 @@
    "priceMax": 18.7,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/11/62/84_Original.jpg?v=3",
+   "img": "https://i.ticketweb.com/i/00/13/11/62/84_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/beatallica-the-brook-tickets/14403654",
    "infoUrl": "https://www.the-brook.com/tm-event/beatallica/",
    "going": 0,
@@ -19923,7 +19924,7 @@
    "priceMax": 20.35,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/11/63/74_Original.jpg?v=4",
+   "img": "https://i.ticketweb.com/i/00/13/11/63/74_Original.jpg?v=6",
    "ticketUrl": "https://www.ticketweb.uk/event/metallica-reloaded-the-brook-tickets/14403724",
    "infoUrl": "https://www.the-brook.com/tm-event/metallica-reloaded/",
    "going": 0,
@@ -26399,6 +26400,33 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-43126199",
+   "artist": "Swiftogeddon - the REPUTATION special",
+   "venueId": "suburbia",
+   "venueName": "Suburbia Southampton",
+   "postcode": "SO14 0JD",
+   "date": "2027-04-23",
+   "time": "23:00",
+   "price": 10,
+   "priceMax": 12,
+   "priceText": "£10–£12",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/1/3/2458139_ec3de37d_swiftogeddon-the-reputation-special_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---the-REPUTATION-special/43126199/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Swiftogeddon---the-REPUTATION-special/43126199/",
+   "going": 0,
+   "minage": "18",
+   "desc": "The club night that worships at the altar of Taylor Swift proudly presents a series of Reputation-themed specials celebrating 10 years since release.",
+   "source": "skiddle",
+   "sourceRun": "skiddle:Suburbia-Southampton",
+   "genres": [
+    "electronic"
    ]
   },
   {

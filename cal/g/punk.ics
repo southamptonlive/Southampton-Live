@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42669219@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261029T223000
 SUMMARY:Taking Back Thursdays: Clowning Around Halloween Special
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-e51a930e-ccb@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261106T150000
 SUMMARY:DOOMED - POP PUNK TAKEOVER
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QhgYCnnXH8ZVLzAD@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261107T190000
 SUMMARY:London Calling Play The Clash “Should I Stay or Should I Go” Tour
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433783@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Petrol Girls
@@ -44,7 +44,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669306@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261112T223000
 SUMMARY:Taking Back Thursdays: MIDWEST EMO
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -53,7 +53,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42623059@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261114T180000
 SUMMARY:TuffAF Presents: Compounds
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -62,7 +62,7 @@ DESCRIPTION:Gig\n£8\nListed via Skiddle\nTickets: https://www.skiddle.com/whats
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QKOzaiKyMYZlBS5s@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261120T190000
 SUMMARY:The Undertones: 50th Anniversary Show + special guest Ruts DC
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -71,7 +71,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669967@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261126T223000
 SUMMARY:Taking Back Thursdays: MySpace Core
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -80,7 +80,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42670370@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261210T223000
 SUMMARY:Taking Back Thursdays: Merry AXEMAS
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -89,7 +89,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42679972@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261219T180000
 SUMMARY:Suburbia Presents: Blink Daze Alternative XMAS Party
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -98,7 +98,7 @@ DESCRIPTION:Gig\n£0–£3\nListed via Skiddle\nTickets: https://www.skiddle.com
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42732508@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270212T180000
 SUMMARY:Marky Ramone's Blitzkrieg
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -107,7 +107,7 @@ DESCRIPTION:Gig\n£32–£37\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42674969@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270226T180000
 SUMMARY:Mad Caddies
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -116,7 +116,7 @@ DESCRIPTION:Gig\n£28\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qr_ag0BQW8vqAzzs@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20270520T190000
 SUMMARY:John Lydon - I could be wrong\, I could be right
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -125,7 +125,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Ql7AgLGhc7u0Yo1-@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20271016T190000
 SUMMARY:BRUCE FOXTON '50 years of The Jam' Tour
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -134,7 +134,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42822139@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:Ruts DC Prestents The Ruts
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -143,7 +143,7 @@ DESCRIPTION:Gig\n£27.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QngBzmcmsdtT-6f6@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:The Ruts '50 Years of Ruts music 1977-2027'
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

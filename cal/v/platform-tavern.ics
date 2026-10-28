@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-a79113d6-943@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261103T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (3rd November)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rh
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-6d43ad6b-9e0@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261117T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (17th November)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/fq
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-da13721f-209@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261201T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (1st December)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dx
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43476730@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261210T200000
 SUMMARY:Lost Post
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-10269a4b-b6b@southampton.live
-DTSTAMP:20261028T142158Z
+DTSTAMP:20261028T155340Z
 DTSTART;TZID=Europe/London:20261215T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (15th December)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
