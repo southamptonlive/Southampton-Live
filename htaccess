@@ -1,0 +1,37 @@
+# Southampton.Live — caching rules (deployed with every build)
+# The app is one HTML file that changes on every deploy and a JSON feed that
+# changes every 3 hours. Both must be re-checked on every visit; the browser
+# can keep them but must ask the server "still current?" (ETag/Last-Modified
+# make that a cheap 304 when nothing changed). Images, fonts and icons are
+# content-addressed by the app (?v=N) and can be cached for a long time.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|json|webmanifest)$">
+    Header set Cache-Control "no-cache, must-revalidate"
+    Header unset Expires
+  </FilesMatch>
+  <FilesMatch "\.(png|jpe?g|svg|ico|woff2?)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>
+
+# App tabs have real addresses (T12): the app is served for these paths and picks
+# the tab from the URL. /venues is NOT here — it is a pre-rendered page (venues.html).
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # /venues is BOTH a page and a folder (venues/photos/). Serve the page explicitly,
+  # with or without a trailing slash, before Apache's folder handling can redirect.
+  RewriteRule ^venues/?$ venues.html [L]
+  RewriteRule ^(whats-on|dates|scene|profile)/$ /$1 [R=301,L]
+  RewriteRule ^(whats-on|dates|scene|profile)$ index.html [L]
+</IfModule>
+
+# Pre-rendered pages: serve /tonight, /venues, /e/<slug>, /v/<venue>, /d/<date> without ".html"
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L]
+</IfModule>
+# Calendar feeds
+AddType text/calendar .ics
