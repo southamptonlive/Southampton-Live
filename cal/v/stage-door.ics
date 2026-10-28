@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-fb55d216-c76@southampton.live
-DTSTAMP:20261028T155340Z
+DTSTAMP:20261028T202002Z
 DTSTART;TZID=Europe/London:20261105T200000
 SUMMARY:Tez Ilyas: Tez Things I Hate About You - Southampton**
 LOCATION:The Stage Door\, 78 West Marlands Road\, Southampton\, SO14 7FW
