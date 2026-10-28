@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42502156@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261127T230000
 SUMMARY:WHE Presents: 4am Kru + Support
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£10–£25\nListed via Skiddle\nTickets: https://www.sk
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43260565@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261201T190000
 SUMMARY:Rum Jungle
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42604107@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:Suburbia & CodeName Amen Presents: Bladerunner Pure Jungle
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£8–£12.50\nListed via Skiddle\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43028018@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261219T223000
 SUMMARY:DJ Joker Presents: Jungle Bells
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -42,12 +42,12 @@ URL:https://southampton.live/e/dj-joker-presents-jungle-bells-sk-43028018.html
 DESCRIPTION:Club night\n£0–£5\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/DJ-Joker-Presents-Jungle-Bells/43028018/\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-43475401@southampton.live
-DTSTAMP:20261028T095211Z
-DTSTART;TZID=Europe/London:20270319T183000
+UID:tm-1AdbZ_4Gkw93VJk@southampton.live
+DTSTAMP:20261028T125913Z
+DTSTART;TZID=Europe/London:20270319T193000
 SUMMARY:4am Kru
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
-URL:https://southampton.live/e/4am-kru-sg-43475401.html
-DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43475401-4am-kru-at-enginerooms\nDetails can change — check with the venue.
+URL:https://southampton.live/e/4am-kru-tm-1AdbZ_4Gkw93VJk.html
+DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/4am-kru-southampton-19-03-2027/event/3600655C974B4986\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR

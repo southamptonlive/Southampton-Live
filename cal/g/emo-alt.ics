@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42669219@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261029T223000
 SUMMARY:Taking Back Thursdays: Clowning Around Halloween Special
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-205b378a-f1a@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261031T223000
 SUMMARY:Apocalypse Southampton - 🎃 Halloween 🎃 - Metal // Emo // Alternative
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£5–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-e51a930e-ccb@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261106T150000
 SUMMARY:DOOMED - POP PUNK TAKEOVER
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669306@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261112T223000
 SUMMARY:Taking Back Thursdays: MIDWEST EMO
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42669967@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261126T223000
 SUMMARY:Taking Back Thursdays: MySpace Core
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42393294@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261205T180000
 SUMMARY:Emo Fest Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£18–£21\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42670370@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261210T223000
 SUMMARY:Taking Back Thursdays: Merry AXEMAS
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£0–£3\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f9d1945e-9a3@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20261212T183000
 SUMMARY:Jimmy Herrity. 12/12/26 - St Denys Church\, Southampton.
 LOCATION:St Denys Church\, Dundee Rd\, Southampton SO17 2ND\, SO17 2ND
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\n£13.20–£16.50\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42467362@southampton.live
-DTSTAMP:20261028T095211Z
+DTSTAMP:20261028T125913Z
 DTSTART;TZID=Europe/London:20270213T150000
 SUMMARY:Trance Day Party Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
