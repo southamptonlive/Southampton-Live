@@ -434,8 +434,7 @@ function normSkiddle(ev, appId = null) {
     minage: ev.minage ? String(ev.minage) : null,
     desc: desc || null,
     cancelled: ev.cancelled === '1' || ev.cancelled === 1,
-    feeIncluded: false, // Skiddle entryprice is face value; booking fee added at checkout
-    source: 'skiddle',
+    source: 'skiddle', // fee status unknown: the page does not say whether booking fee is included
     _venue: { name: (appId ? v.name : cv.name), postcode: pc, address: (cv?.address || String(v.address || '').trim()) || null },
   };
 }
@@ -1089,9 +1088,13 @@ async function skiddleApi() {
   const KEY = process.env.SKIDDLE_API_KEY;
   if (!KEY) throw new Error('skipped — apply free at skiddle.com/api, add SKIDDLE_API_KEY secret');
   const events = [];
+  const seenIds = new Set();
+  // One query per Skiddle category we list (their documented eventcode filter), so
+  // tours, dating, food and the rest never use up our pages or our rate limit.
+  for (const code of ['LIVE', 'CLUB', 'FEST', 'COMEDY', 'THEATRE']) {
   let offset = 0, total = 1;
-  while (offset < total && offset < 500) {
-    const u = `https://www.skiddle.com/api/v1/events/search/?api_key=${KEY}&latitude=50.9097&longitude=-1.4044&radius=15&order=date&limit=100&offset=${offset}&description=1`;
+  while (offset < total && offset < 1000) {
+    const u = `https://www.skiddle.com/api/v1/events/search/?api_key=${KEY}&latitude=50.9097&longitude=-1.4044&radius=15&eventcode=${code}&order=date&limit=100&offset=${offset}&description=1`;
     const res = await fetch(u, { headers: { 'user-agent': UA } });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const d = await res.json();
@@ -1099,40 +1102,59 @@ async function skiddleApi() {
     const rows = d.results || [];
     if (!rows.length) break;
     for (const ev of rows) {
+      if (seenIds.has(ev.id)) continue; seenIds.add(ev.id);
       const pc = String(ev.venue?.postcode || '').toUpperCase().replace(/^S0(\d)/, 'SO$1').trim();
       if (!/^SO\d{1,2}/.test(pc)) continue;
       const v = canonVenue(deent(ev.venue?.name || ''), pc);
       if (!v.postcode) v.postcode = pc;
       const name = deent(ev.eventname || '').trim();
       if (!name || !ev.date) continue;
+      // Scope by Skiddle's own category: LIVE / CLUB / FEST / COMEDY / THEATRE / DANCE only.
+      // TOUR, DATE, FOOD, BARPUB, SEASONAL, EXHIB… are out, whatever the blurb says.
+      const skType = SKIDDLE_TYPE[ev.EventCode];
+      if (!skType) continue;
       const genreNames = (ev.genres || []).map((g) => String(g.name || '')).filter(Boolean);
       const ghay = `${name} ${genreNames.join(' ')} ${deent(ev.description || '').slice(0, 200)}`;
-      const price = ev.entryprice ? (String(ev.entryprice).match(/([\d.]+)/) ? parseFloat(String(ev.entryprice).match(/([\d.]+)/)[1]) : null) : null;
+      // Price: the API's ticketpricing {minPrice,maxPrice} is the stated figure; entryprice is often blank.
+      const tp = ev.ticketpricing || {};
+      const pMin = Number.isFinite(+tp.minPrice) && tp.minPrice !== '' && tp.minPrice != null ? +tp.minPrice : null;
+      const pMax = Number.isFinite(+tp.maxPrice) && tp.maxPrice !== '' && tp.maxPrice != null ? +tp.maxPrice : null;
+      const fromEntry = ev.entryprice ? (String(ev.entryprice).match(/([\d.]+)/) ? parseFloat(String(ev.entryprice).match(/([\d.]+)/)[1]) : null) : null;
+      const price = pMin != null ? pMin : fromEntry;
+      const priceMax = pMax != null ? pMax : price;
+      const fmtM = (x) => (Number.isInteger(x) ? String(x) : x.toFixed(2));
+      const priceText = price === 0 && !(priceMax > 0) ? 'Free' : (priceMax != null && price != null && priceMax > price ? `£${fmtM(price)}–£${fmtM(priceMax)}` : null);
+      const doors = ev.openingtimes?.doorsopen || null; // a stated doors time, so the app may say "Doors"
+      const lineup = (ev.artists || []).map((a) => deent(String(a?.name || '')).trim()).filter((x) => x && x.toLowerCase() !== name.toLowerCase()).slice(0, 6);
       events.push({
-        type: inferType(ghay, '', ev.EventCode || 'LIVE'),
+        type: skType === 'gig' && /\b(comedy|comedian|stand[-\s]?up)\b/i.test(name) ? 'comedy' : skType,
         tags: [...new Set([...genreNames.map((g) => g.toLowerCase()).slice(0, 3), ...inferTags(name, '', price)])].slice(0, 4),
         hot: false,
         id: 'sk-' + ev.id,
         artist: name,
         venueId: v.id, venueName: v.name, postcode: v.postcode,
         date: ev.date,
-        time: ev.openingtimes?.doorsopen || ev.starttime || null,
-        price, priceMax: price,
-        priceText: /free/i.test(String(ev.entryprice || '')) ? 'Free' : null,
+        time: doors || ev.starttime || null,
+        doorsTime: !!doors,
+        lineup,
+        price, priceMax, priceText,
         genre: inferGenre(ghay, '', ev.EventCode || 'LIVE'),
         img: ev.largeimageurl || ev.imageurl || null, // licensed via the API programme
         ticketUrl: ev.link || null, infoUrl: ev.link || null,
         going: parseInt(ev.goingtocount || 0, 10) || 0,
-        minage: ev.MinAge || null,
+        minage: ev.minage ? String(ev.minage) : null,
         desc: deent(String(ev.description || '')).replace(/\s+/g, ' ').trim().slice(0, 280) || null,
-        cancelled: false,
-        feeIncluded: false,
+        cancelled: String(ev.cancelled) === '1',
+        status: ev.rescheduledDate ? 'rescheduled' : null,
+        skiddleGenres: (ev.genres || []).map((g) => String(g.name || '')).filter(Boolean).slice(0, 3), // Skiddle's own words, shown as credited data
+        // fee status: the API does not say whether its price includes the booking fee → unknown
         source: 'skiddle',
         _venue: { name: v.name, postcode: v.postcode, address: deent(ev.venue?.address || '') || null },
       });
     }
     offset += rows.length;
     await sleep(1200);
+  }
   }
   if (!events.length) throw new Error('no in-patch events from API');
   return { url: 'https://www.skiddle.com', events };
@@ -1231,6 +1253,9 @@ async function main() {
   let corrected = 0;
   for (const e of events) if (applyOverrides(e)) corrected++;
   console.log(`knowledge layer: ${OVERRIDES.length} rules, ${corrected} events corrected`);
+  // Second scope pass: the knowledge layer can mark an act as not-music (type "other",
+  // e.g. spoken word, film). Those leave here unless the listing itself says music.
+  { const before = events.length; events = events.filter(inScope); if (events.length < before) console.log(`scope (after knowledge layer): dropped ${before - events.length}`); }
 
   // dedupe v2: one gig, one card.
   //  1. exact source id

@@ -64,7 +64,7 @@ try {
   const m = JSON.parse(readFileSync(join(ROOT, 'venue-photos.json'), 'utf8'));
   for (const ph of m.photos || []) if (ph.venue && ph.file) (VENUE_PHOTOS[ph.venue] = VENUE_PHOTOS[ph.venue] || []).push(ph);
 } catch (e) { /* no manifest, no photos */ }
-const venuePhotoHtml = (vid, cls = 'vimg') => { const ph = (VENUE_PHOTOS[vid] || [])[0]; return ph ? `<figure class="vphoto"><img class="${cls}" src="/${esc(ph.file)}" alt="" loading="lazy"><figcaption>${esc(ph.credit || 'Photo: the venue')}</figcaption></figure>` : ''; };
+const venuePhotoHtml = (vid, cls = 'vimg') => { const ph = (VENUE_PHOTOS[vid] || [])[0]; return ph ? `<figure class="vphoto"><img class="${cls}" src="/${esc(ph.file)}" alt="" loading="lazy"></figure>` : ''; };
 const dayPath = (iso) => `/d/${iso}.html`;
 
 const events = (feed.events || []).filter((e) => e.date && e.artist).sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
@@ -173,7 +173,7 @@ ${artBlock(e)}
 ${e.desc ? `<p>${esc(e.desc)}</p>` : ''}
 ${e.ticketUrl ? `<a class="btn" href="${esc(e.ticketUrl)}" rel="noopener">${price === 'Free' ? 'Free entry — details' : 'Get tickets'} ↗</a>` : ''}
 <a class="btn ghost" href="/#/e/${esc(e.id)}">Open in the guide</a>
-<p class="src">Listing via ${esc(SOURCES[e.source] || e.source || 'the venue')}${e.infoUrl ? ` · <a href="${esc(e.infoUrl)}" rel="noopener">event page</a>` : ''} · ${e.price != null ? 'advertised price — booking fees may be added at checkout · ' : ''}details can change — check before travelling.</p>
+<p class="src">Listing via ${e.source === 'skiddle' ? `<a href="${esc(e.infoUrl || 'https://www.skiddle.com')}" rel="noopener"><img src="/skiddle-logo.svg" alt="" style="height:13px;vertical-align:-2px;margin-right:4px" onerror="this.remove()">Skiddle</a>${(e.skiddleGenres || []).length ? ` · Skiddle genres: ${e.skiddleGenres.map(esc).join(', ')}` : ''}` : esc(SOURCES[e.source] || e.source || 'the venue')}${e.infoUrl ? ` · <a href="${esc(e.infoUrl)}" rel="noopener">event page</a>` : ''} · ${e.price != null ? 'advertised price — booking fees may be added at checkout · ' : ''}details can change — check before travelling.</p>
 ${more.length ? `<h2>More at ${esc(vn)}</h2>${more.map(rowHTML).join('')}` : ''}`;
   return shell({ title, desc, canonical: eventPath(e), body, og: { type: 'event', image: e.img || undefined }, jsonld, noindex: past });
 }
