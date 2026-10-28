@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-28T05:46:35.638Z",
+ "generated": "2026-10-28T09:52:11.802Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 268
+   "events": 270
   }
  ],
  "venues": [
@@ -282,16 +282,16 @@
    "address": "Waterloo Buildings, 55 London Rd, Southampton SO15 2AD"
   },
   {
-   "id": "funky-flamingo",
-   "name": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
-  },
-  {
    "id": "sobar",
    "name": "The Sobar",
    "postcode": "SO14 0JZ",
    "address": "Southampton"
+  },
+  {
+   "id": "funky-flamingo",
+   "name": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
    "id": "popworld",
@@ -466,7 +466,6 @@
    "going": 121,
    "minage": "14",
    "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -737,7 +736,6 @@
    "going": 28,
    "minage": "18",
    "desc": "The Official Asylum Halloween Special hits Southampton EngineRooms! Don't miss the UK's biggest Halloween event this Wednesday October 28th.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -798,7 +796,6 @@
    "going": 0,
    "minage": "18",
    "desc": "Industrial noise project from Bristol, Lost and Found Society make their Southampton Debut headlining at Suburbia later next month!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -1122,7 +1119,6 @@
    "going": 5,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt all night! Get weird with Clowning Around at Taking Back Thursdays. Fancy dress strongly encouraged!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -1624,7 +1620,6 @@
    "going": 9,
    "minage": "18",
    "desc": "Poland Event Party brings DJ Killer to Suburbia",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -1754,7 +1749,6 @@
    "going": 120,
    "minage": "18",
    "desc": "F*CK ME ITS HALLOWEEN RETURNS TO ENGINEROOMS THIS OCTOBER!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -2142,7 +2136,6 @@
    "going": 191,
    "minage": "18",
    "desc": "Dave Pearce heads back to EngineRooms Southampton this October with Signum!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -2828,7 +2821,6 @@
    "going": 6,
    "minage": "18",
    "desc": "SOUTHAMPTON... YOUR WORST NIGHTMARE IS COMING. This Halloween, Suburbia transforms into a night of pure chaos...",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -2895,7 +2887,6 @@
    "going": 622,
    "minage": "18",
    "desc": "The south Coasts biggest halloween Drum & Bass Party is back !",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -3472,7 +3463,6 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton best \"Comedy Open Mic Night\" in Hampshire Wednesday 4th November",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -3620,7 +3610,6 @@
    "going": 0,
    "minage": "18",
    "desc": "The Motion Boyz are stepping out with their first ever event and we’re bringing a MIDWEEK SHUTDOWN Southampton has NEVER seen before.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -4484,7 +4473,6 @@
    "going": 411,
    "minage": "18",
    "desc": "Kings of the Rollers bring The Holy Grail UK Tour to Engine Rooms, Southampton. Serum, Voltage & Bladerunner deliver raw, heavy D&B.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -4695,7 +4683,6 @@
    "going": 70,
    "minage": "14",
    "desc": "The Dualers head to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -4981,7 +4968,6 @@
    "going": 31,
    "minage": "18",
    "desc": "Night of Legend Kalwi & Remi - DJ X Meen - DJ Madsson - DJ Dante - DJ Michale K",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -5124,7 +5110,6 @@
    "going": 30,
    "minage": "14",
    "desc": "Anna Von Hausswolff heads to EngineRooms Southampton this November!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -5352,7 +5337,7 @@
    "priceMax": 19.8,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=4",
+   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=5",
    "ticketUrl": "https://www.ticketweb.uk/event/overpass-the-brook-tickets/14079544",
    "infoUrl": "https://www.the-brook.com/tm-event/overpass/",
    "going": 0,
@@ -5419,7 +5404,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -5818,7 +5802,6 @@
    "going": 72,
    "minage": "14",
    "desc": "Echo & The Bunnymen are heading to EngineRooms Southampton on Thursday November 12th!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -6082,7 +6065,6 @@
    "going": 1,
    "minage": "18",
    "desc": "A night built for the emo, metalcore, nu metal, pop punk & alt crowd. Midwest Emo Night hits Suburbia Southampton, 10.30pm till late.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -6144,7 +6126,6 @@
    "going": 111,
    "minage": "14",
    "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -6497,7 +6478,6 @@
    "going": 0,
    "minage": "18",
    "desc": "We're taking over Suburbia for a night dedicated to the deeper, rolling side of drum and bass. Headlining is Harley D",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -6704,7 +6684,6 @@
    "going": 5,
    "minage": "14",
    "desc": "TuffAF Promotions presents Compounds live at Suburbia with Exhilaro , Averted and Vinaya. Saturday 14th November, 6 - 10PM.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -7021,7 +7000,6 @@
    "going": 5,
    "minage": "18",
    "desc": "The legendary Swiftie club night is back for a massive 20-year celebration!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -7109,7 +7087,6 @@
    "going": 0,
    "minage": "18",
    "desc": "My Black Poison, Dead Rubber Dolls, The Medz, and Reawaken live at The Hobbit, Southampton",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Hobbit",
    "genreGuess": true,
@@ -7807,7 +7784,6 @@
    "going": 0,
    "minage": null,
    "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -8125,7 +8101,6 @@
    "going": 45,
    "minage": "14",
    "desc": "Beatles Complete - A Tribute To The Fab Four comes to EngineRooms!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -8296,7 +8271,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Papillon",
    "genres": [
@@ -8425,7 +8399,6 @@
    "going": 130,
    "minage": "18",
    "desc": "Head to Suburbia this November to see one of the biggest names in Drum & Bass perform an intimate show in Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -8605,7 +8578,6 @@
    "going": 43,
    "minage": "18",
    "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -8636,7 +8608,6 @@
    "going": 3,
    "minage": "18",
    "desc": "Bed By 10: The Ultimate 30+ Clubbing Experience!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -8696,7 +8667,6 @@
    "going": 40,
    "minage": "14",
    "desc": "True Steel Promotions and Byker Grave Bookings, in association with Doomstar Booking is proud to present WORMROT live at Suburbia Southampton.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -8724,7 +8694,6 @@
    "going": 24,
    "minage": "14",
    "desc": "Back by popular demand 'Definitely, Oasis' returns to Southampton",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
@@ -8754,7 +8723,6 @@
    "going": 1,
    "minage": null,
    "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -9071,7 +9039,6 @@
    "going": 0,
    "minage": "18",
    "desc": "The UK's biggest Reggaeton Party is coming back to Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -9217,7 +9184,6 @@
    "going": 12,
    "minage": "14",
    "desc": "The Jam UK head to EngineRooms this November for a legendary live gig!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -9685,7 +9651,6 @@
    "going": 28,
    "minage": "14",
    "desc": "Uncle Acid & The Deadbeats head to EngineRooms Southampton with support from The Wytches!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -10004,7 +9969,6 @@
    "going": 2,
    "minage": "14",
    "desc": "The Crawling are heading to Suburbia Southampton this November!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -10212,7 +10176,6 @@
    "going": 1,
    "minage": "18",
    "desc": "Emo, metalcore, nu metal, pop punk & alt anthems all night. nostalgia guaranteed",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -10359,7 +10322,6 @@
    "going": 33,
    "minage": "14",
    "desc": "One of the fastest rising bands in the country Myriad hit The Joiners this November for a headline gig to finish of a MASSIVE year for the band!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
@@ -10659,7 +10621,6 @@
    "going": 4,
    "minage": "18",
    "desc": "Southampton... you've been waiting. We're back and this time we're teaming up with Shattered Waves Audio and Events to bring you DARK ARTS",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -10719,7 +10680,6 @@
    "going": 510,
    "minage": "18",
    "desc": "4am Kru return to EngineRooms this November!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -10979,7 +10939,6 @@
    "going": 101,
    "minage": "14",
    "desc": "Head to EngineRooms this November to hear all your favourite songs made by one of the most iconic bands to have ever lived!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -11007,7 +10966,6 @@
    "going": 6,
    "minage": "14",
    "desc": "Soton Slamdown returns with UK-INVASION! Featuring Maximise Bestiality, Pighead & Parasitic Encephalitis. Three brutal acts, one savage night.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -11388,7 +11346,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Heavy Jams: A full play through of Linkin Park's Hybrid Theory at Suburbia.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -12233,7 +12190,6 @@
    "going": 102,
    "minage": "14",
    "desc": "The Wurzels return to EngineRooms Southampton this December!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -12261,7 +12217,6 @@
    "going": 2,
    "minage": "8",
    "desc": "Irelands hottest band, The Tumbling Paddies are coming back to the UK. Songs include The Way I am, Pretty Girl and Closing Time.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-1865",
    "genres": [
@@ -12404,7 +12359,6 @@
    "going": 20,
    "minage": "18",
    "desc": "Suburbia & CodeName Amen are teaming up this December bringing you Bladerunner Pure Jungle",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -12697,7 +12651,6 @@
    "going": 99,
    "minage": "14",
    "desc": "Emo Fest returns to EngineRooms Southampton this December!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -12725,7 +12678,6 @@
    "going": 70,
    "minage": "18",
    "desc": "MC Devvo is heading to Southampton this December to celebrate 20 years of MC Devvo!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -12897,7 +12849,6 @@
    "going": 113,
    "minage": "18",
    "desc": "Basslayerz return to Southampton this December for a high intensity headline show!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -13792,7 +13743,6 @@
    "going": 0,
    "minage": "18",
    "desc": "Merry Axemas Horror Christmas takeover of Taking Back Thursdays! Emo/metalcore/nu metal/pop punk/alt. Fancy dress: Horror/Xmas. 10 Dec, Suburbia",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -13881,7 +13831,6 @@
    "going": 55,
    "minage": "18",
    "desc": "Martin Kemp is coming to EngineRooms!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -14026,7 +13975,6 @@
    "going": 0,
    "minage": "18",
    "desc": "Backlash: Drum & Bass at Suburbia. Fri 11 Dec, 8pm-1am. Huge DJ & MC line-up, bottle comp, free entry to be won.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -14117,7 +14065,6 @@
    "going": 2,
    "minage": "18",
    "desc": "It's been three years since our last SO3 Christmas Party, so we thought it was about time we brought it back!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -14353,7 +14300,6 @@
    "going": 19,
    "minage": "14",
    "desc": "Arctic Numpties bring the ultimate Arctic Monkeys tribute to EngineRooms, serving up all the indie anthems, sharp riffs, and singalong classics.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -14899,7 +14845,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -14930,7 +14875,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Papillon",
    "genres": [
@@ -15076,7 +15020,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Papillon",
    "genres": [
@@ -15199,7 +15142,6 @@
    "going": 11,
    "minage": "14",
    "desc": "Massaoke head to EngineRooms Southampton this December!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -15229,7 +15171,6 @@
    "going": 0,
    "minage": null,
    "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -15490,7 +15431,6 @@
    "going": 19,
    "minage": "14",
    "desc": "Our annual Alternative Xmas Party is back! Blink Daze bring the nostalgic anthems to Suburbia Southampton.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -15521,7 +15461,6 @@
    "going": 6,
    "minage": "14",
    "desc": "The Madchester Experience is back in Southampton for a big CHRISTMAS PARTY!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -15552,7 +15491,6 @@
    "going": 0,
    "minage": null,
    "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -15814,7 +15752,6 @@
    "going": 4,
    "minage": "18",
    "desc": "Get ready for Jungle Bells! Join DJ Joker vs DJ Active at Suburbia for a festive Drum & Bass night on Saturday 19th December",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -15929,7 +15866,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Heavy Jams: Merry Metal Xmas. A Christmas heavy metal open jam session at Suburbia",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -16477,7 +16413,6 @@
    "going": 76,
    "minage": "18",
    "desc": "One of the biggest names in Trance, Paul Oakenfold heads to EngineRooms this Boxing Day!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -16505,7 +16440,6 @@
    "going": 3,
    "minage": "18",
    "desc": "BOXING DAY MULTI-GENRE MADNESS WAVZ Audio x Sounds Down South are joining forces for a huge Boxing Day takeover at Suburbia Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -17023,7 +16957,6 @@
    "going": 2,
    "minage": null,
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -17082,7 +17015,6 @@
    "going": 14,
    "minage": "18",
    "desc": "Bring in the new year with your FUTURE FOCUS Family",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -17113,7 +17045,6 @@
    "going": 4,
    "minage": "18",
    "desc": "Celebrate New Year's Eve with Future Focus at Suburbia. Countdown to 2027 with an unforgettable night of music, energy and surprises.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -17598,7 +17529,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Southampton's longest running indie comedy night. SUITB shows are fun, laid-back, and seriously funny.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Papillon",
    "genres": [
@@ -18210,7 +18140,6 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 20th January 2027",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -18403,7 +18332,6 @@
    "going": 1,
    "minage": "14",
    "desc": "Thunderstruck are heading to EngineRooms Southampton on Friday January 22nd 2027 for a high energy AC/DC tribute show!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -18900,7 +18828,6 @@
    "going": 14,
    "minage": "18",
    "desc": "Prohibition Party returns to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -19041,7 +18968,6 @@
    "going": 8,
    "minage": "14",
    "desc": "Michael Mathers - Eminem Tribute returns to Suburbia Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -19240,7 +19166,6 @@
    "going": 11,
    "minage": "18",
    "desc": "R&B Orchestra heads back to EngineRooms next January!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -19884,7 +19809,6 @@
    "going": 64,
    "minage": "14",
    "desc": "Fat Dog head to EngineRooms Southampton on February 6th 2027 for a huge live show!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -20000,7 +19924,6 @@
    "going": 0,
    "minage": null,
    "desc": "Max Fulham & Friends in Southampton",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -20056,7 +19979,6 @@
    "going": 1,
    "minage": "14",
    "desc": "Jacek Stachursky hits EngineRooms Southampton this Sunday February 7th!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -20252,7 +20174,6 @@
    "going": 19,
    "minage": "14",
    "desc": "Spanish Love Songs head to EngineRooms Southampton this Feb!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -20336,7 +20257,6 @@
    "going": 14,
    "minage": "14",
    "desc": "Marky Ramone's Blitzkrieg hits EngineRooms Southampton on Friday 12th February 2027 for a huge live show!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -20451,7 +20371,6 @@
    "going": 0,
    "minage": null,
    "desc": "An Evening of Comedy with Bobby Davro at The Attic in Southampton- Friday 12th February",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -20591,7 +20510,6 @@
    "going": 20,
    "minage": "18",
    "desc": "Head to EngineRooms Southampton for a Trance Day party of the ages!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -20878,7 +20796,6 @@
    "going": 4,
    "minage": "14",
    "desc": "Head to EngineRooms on the 15th of February!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -20962,7 +20879,6 @@
    "going": 29,
    "minage": "14",
    "desc": "As Everything Unfolds hit EngineRooms Southampton",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -21021,7 +20937,6 @@
    "going": 0,
    "minage": null,
    "desc": "Southampton \"Comedy Open Mic Night\" near me at The Attic Wednesday 17th February",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -21352,7 +21267,6 @@
    "going": 25,
    "minage": "14",
    "desc": "Green Haze return to EngineRooms this February with Nirvanah!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -21411,7 +21325,6 @@
    "going": 0,
    "minage": null,
    "desc": "Abi Clarke \"Just Tell Me When It’s Over\" at The Attic in Southampton Friday 19th February 2027",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -21523,7 +21436,6 @@
    "going": 133,
    "minage": "4",
    "desc": "CATSEYE: the ultimate KATSEYE tribute experience live at EngineRooms, Southampton on Saturday 20th February 2027. All the hits, and fierce energy.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -21887,7 +21799,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Hammerdown presents... Froglord plus special guests Ael-Fierlen!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -22061,7 +21972,6 @@
    "going": 95,
    "minage": "14",
    "desc": "Punk rock legends Mad Caddies are bringing their infectious ska-punk energy to EngineRooms Southampton next year!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -22230,7 +22140,6 @@
    "going": 0,
    "minage": null,
    "desc": "Iain Lee \"Imposter Syndrome\" - at The Attic in Southampton Saturday 27th February Matinee Show",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -22430,7 +22339,6 @@
    "going": 11,
    "minage": "14",
    "desc": "Frankie Stew & Harvey Gunn head to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -22798,7 +22706,6 @@
    "going": 0,
    "minage": "18",
    "desc": "On A Mission lands back at EngineRooms for a massive rewind event with some of the names that pioneered the scene we all know and love!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -22912,7 +22819,6 @@
    "going": 90,
    "minage": "14",
    "desc": "The original voice of Kasabian Tom Meighan returns to EngineRooms for an intimate show.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -23139,7 +23045,6 @@
    "going": 76,
    "minage": "14",
    "desc": "Movements are heading to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -23333,7 +23238,6 @@
    "going": 43,
    "minage": "14",
    "desc": "PEELING FLESH, SNUFFED ON SIGHT, CORPSE PILE, GIRL OF GLASS HIT ENGINEROOMS SOUTHAMPTON THIS MARCH!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -23476,7 +23380,6 @@
    "going": 0,
    "minage": "18",
    "desc": "Expect music from Hamilton, Grease, Dirty Dancing, High School Musical, Wicked & Mamma Mia to The Greatest Showman, Frozen & Six.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
@@ -23590,7 +23493,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -23704,7 +23606,6 @@
    "going": 7,
    "minage": "14",
    "desc": "Polish Hip-Hop/Rap artist Cypis is heading to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -24154,7 +24055,6 @@
    "going": 0,
    "minage": null,
    "desc": "Stand up comedy in Southampton with headliner Laura Lexx - Friday 19th March At The Attic Southampton",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -24268,7 +24168,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Hammerdown and Obsidian Gathering presents... Black Altar plus special guests Necro Ritual!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genreGuess": true,
@@ -24547,7 +24446,6 @@
    "going": 0,
    "minage": "16",
    "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -24718,7 +24616,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Coldplay It Again, Oasis Here Now, and Stereoconics are coming to Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -25545,7 +25442,6 @@
    "going": 3,
    "minage": "14",
    "desc": "Cardinal Black are heading back to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -25714,7 +25610,6 @@
    "going": 0,
    "minage": null,
    "desc": "Tom Lawrinson \"Speak of the Devil\" at The Attic in Southampton Tuesday 13th April 2027",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -25797,7 +25692,6 @@
    "going": 21,
    "minage": "14",
    "desc": "Dinosaur Pile Up hit EngineRooms Southampton this April!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -25938,7 +25832,6 @@
    "going": 15,
    "minage": "14",
    "desc": "The Smyths return to EngineRooms Southampton this April",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -26134,7 +26027,6 @@
    "going": 10,
    "minage": "14",
    "desc": "Head to EngineRooms for an intimate evening with Ocean Colour Scene Frontman/Songwriter Simon Fowler",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -26497,7 +26389,6 @@
    "going": 0,
    "minage": "18",
    "desc": "The Old Skool Day Rave is coming to Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -26774,7 +26665,6 @@
    "going": 2,
    "minage": "14",
    "desc": "The Big Indie Fest returns to EngineRooms Southampton once again!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -27106,7 +26996,6 @@
    "going": 6,
    "minage": "14",
    "desc": "Too Much Too Young hits EngineRooms Southampton this Friday 7th May 2027 for a huge smash hit ska theatre experience!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -27188,7 +27077,6 @@
    "going": 9,
    "minage": "14",
    "desc": "Man/Woman/Chainsaw head to EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -27244,7 +27132,6 @@
    "going": 0,
    "minage": "16",
    "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -27606,7 +27493,6 @@
    "going": 5,
    "minage": "14",
    "desc": "The Reggae Orchestra brings a breathtaking live music experience to EngineRooms Southampton on Saturday 15th May!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -27920,7 +27806,6 @@
    "going": 0,
    "minage": null,
    "desc": "President Obonjo \"Revolution\"comes to The Attic in Southampton Thursday 20th May",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -28005,7 +27890,6 @@
    "going": 6,
    "minage": "14",
    "desc": "The Eminem Experience heads to EngineRooms Southampton for an explosive live tribute to one of hip-hop's most iconic artists!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -28090,7 +27974,6 @@
    "going": 0,
    "minage": null,
    "desc": "Bob Mills Headlining a night of Stand up comedy at The Attic in Southampton- Friday 21st May",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -28228,7 +28111,6 @@
    "going": 0,
    "minage": null,
    "desc": "The ultimate tribute to the Red Hot Chilli Peppers at The Attic in Southampton - Saturday 22nd May 2027",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -28588,7 +28470,6 @@
    "going": 6,
    "minage": "14",
    "desc": "Get ready to vibe with smooth Sade hits live in Southampton-an unforgettable night of soul and chill!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -28842,7 +28723,6 @@
    "going": 115,
    "minage": "14",
    "desc": "An immersive live tribute experience to one of the most innovative bands of all time.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -29038,7 +28918,6 @@
    "going": 33,
    "minage": null,
    "desc": "Head to EngineRooms for an intimate evening with a true musical icon, Paul Young.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -29096,7 +28975,6 @@
    "going": 0,
    "minage": "18",
    "desc": "Mosh Spice is the world's first metal tribute to the Spice Girls, a high energy mashup of pop anthems and headbanging metal attitude.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
@@ -30196,7 +30074,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -30745,7 +30622,6 @@
    "going": 0,
    "minage": null,
    "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -30831,7 +30707,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Alfie Moore Tour Warm Up Show comes to The Attic in Southampton Saturday 17th July 2027 - Evening Show",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genres": [
@@ -31846,7 +31721,6 @@
    "going": 0,
    "minage": null,
    "desc": "Tom Houghton Brand New Hilarious Tour \"How The Mighty\" comes to The Attic in Southampton Friday 17th September",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -31902,7 +31776,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Generation Grunge hits EngineRooms Southampton!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -31930,7 +31803,6 @@
    "going": 0,
    "minage": "16",
    "desc": "Generation Grunge brings it's electric live show to Southampton with special guests, Nirvanah, Pearl Scam and Angry Hair",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
@@ -32450,7 +32322,6 @@
    "going": 0,
    "minage": null,
    "desc": "Joey Page \"All I Wanna Do Is Just Have A Good Time\"comes to The Attic in Southampton Thursday 30th September",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-Attic-Southampton",
    "genreGuess": true,
@@ -32744,6 +32615,35 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-1AgZk4pGkd8_FS8",
+   "artist": "The Chats",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-10-13",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/134/697091de-7c6d-429e-a8d4-239bf0210134_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/the-chats-southampton-13-10-2027/event/35006556D0648CD0",
+   "infoUrl": "https://www.ticketmaster.co.uk/the-chats-southampton-13-10-2027/event/35006556D0648CD0",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18Ql78WhqZQwFiONpa",
    "artist": "Dr Feelgood & Nine Below Zero",
    "venueId": "the-1865",
@@ -32845,7 +32745,6 @@
    "going": 1,
    "minage": "14",
    "desc": "Thinking About Your Love An Evening of Stories and Songs with Kenny Thomas",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,
@@ -32874,7 +32773,6 @@
    "going": 0,
    "minage": "18",
    "desc": "This tour is about taking the music that exploded out of a movement and bringing it onto a stage in 2027 with all its urgency and relevance intact.",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:The-1865",
    "genres": [
@@ -32989,7 +32887,6 @@
    "going": 0,
    "minage": "14",
    "desc": "Lightning Seeds are coming to EngineRooms!",
-   "feeIncluded": false,
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
    "genreGuess": true,

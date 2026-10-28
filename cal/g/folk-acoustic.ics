@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:br-mad-dog-mcrea-dusk-till-dawn-tour-2026-10-31@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261031T193000
 SUMMARY:Mad Dog Mcrea - DUSK TILL DAWN TOUR
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£23.10\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a79113d6-943@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261103T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (3rd November)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rh
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-6d43ad6b-9e0@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261117T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (17th November)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/fq
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-da13721f-209@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261201T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (1st December)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dx
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42476319@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261204T180000
 SUMMARY:The Wurzels
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£21\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-41654545@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261204T190000
 SUMMARY:The Tumbling Paddies
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£25\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-cdd4e7c9-050@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:RBL Bitterne Music Night - Red Light Spies // Waldo Salt // Charlie Smith // D'Kenzion
 LOCATION:Bitterne British Legion\, 237 Upper Deacon Rd\, Southampton SO19 5JR\, SO19 5JR
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mgr
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-10269a4b-b6b@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261215T180000
 SUMMARY:Open Mic Night @ The Platform Tavern (15th December)
 LOCATION:Platform Tavern\, Town Quay\, Southampton\, SO14 2NY
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ib
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43290585@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270123T190000
 SUMMARY:Chuck Ragan
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:br-martyn-joseph-2027-01-31@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270131T193000
 SUMMARY:Martyn Joseph
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -97,7 +97,7 @@ DESCRIPTION:Gig\n£26.40\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42428546@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270418T180000
 SUMMARY:Simon Fowler  The Ocean Colour Scene Songbook... and beyond
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -106,7 +106,7 @@ DESCRIPTION:Gig\n£31.50–£75\nListed via Skiddle\nTickets: https://www.skiddl
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G62w6yoz9@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270428T190000
 SUMMARY:Richard Thompson - Hippies\, Thugs and Heroes - Band Tour 2027
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP

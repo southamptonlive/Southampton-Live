@@ -34,8 +34,8 @@
   <url><loc>https://southampton.live/v/hangarfarm.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/centralhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/trilogy.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/funky-flamingo.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/sobar.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/funky-flamingo.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/popworld.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/rubys.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/st-denys-church.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -316,6 +316,7 @@
   <url><loc>https://southampton.live/d/2027-10-07.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-10-08.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-10-09.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2027-10-13.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-10-15.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-10-16.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-10-17.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -1476,6 +1477,7 @@
   <url><loc>https://southampton.live/e/micky-overman-sg-43408569.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/michael-mania-tm-1AdbZ_dGkSsNb0M.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/matt-bragg-mayf-matt-bragg-2027-10-09-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/the-chats-tm-1AgZk4pGkd8_FS8.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/dr-feelgood-nine-below-zero-tm-LvZ18Ql78WhqZQwFiONpa.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/bruce-foxton-50-years-of-the-jam-tour-tm-LvZ18Ql7AgLGhc7u0Yo1-.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/elo-again-moved-from-8th-january-br-elo-again-moved-from-8th-january-2027-10-16.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>

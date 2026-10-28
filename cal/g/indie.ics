@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-3a628292-71f@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261029T220000
 SUMMARY:WTF IS INDIE? HALLOWEEN SPECIAL! 🎃
 LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0a381fa7-813@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261105T220000
 SUMMARY:WTF IS INDIE? CATFISH SPECIAL! 🐊🐊🐊
 LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QbhTjHNZcOZl0SrJ@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261106T180000
 SUMMARY:Southampton - The 1865 - Indiepalooza - "the UK's BEST Indie Festival"
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-dbb5b1dd-266@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261112T220000
 SUMMARY:WTF IS INDIE? THE SMITHS SPECIAL! 🥀🥀🥀
 LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-b0e20a61-f8b@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261119T220000
 SUMMARY:WTF IS INDIE? RADIOHEAD SPECIAL! 📻📻📻
 LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42415287@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261121T190000
 SUMMARY:Definitely Oasis - Southampton
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£16\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-5fe3a282-5ac@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261126T220000
 SUMMARY:WTF IS INDIE? THE BEATLES SPECIAL! 👨👨👨👨
 LOCATION:Jesters\, 114-118 Bevois Valley Rd\, Southampton SO14 0JZ\, SO14 0JZ
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZk8MGke0zdSu@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Embrace - Celebrating 30 Years
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d4511196-a7b@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Winter Metal Meltdown - Southampton
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\n£30.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e
 END:VEVENT
 BEGIN:VEVENT
 UID:br-jesus-jones-35-year-anniversary-of-doubt-2026-11-29@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261129T193000
 SUMMARY:Jesus Jones 35 Year Anniversary of Doubt
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -97,7 +97,7 @@ DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42171164@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20261212T190000
 SUMMARY:Arctic Numpties
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -106,7 +106,7 @@ DESCRIPTION:Gig\n£18.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q_9oDUC2vZZw_Nn4@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270123T190000
 SUMMARY:Kings of Lyon & UK Strokes & Razorlite
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -115,7 +115,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QhsZ4eRo98ZHIPfW@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270221T190000
 SUMMARY:An Evening With Steve Cradock
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -124,7 +124,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZk3bGkd4T6W4@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270312T190000
 SUMMARY:The Editors
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42698903@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270430T180000
 SUMMARY:The Big Indie Fest
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -142,7 +142,7 @@ DESCRIPTION:Gig\n£18–£21\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QO63Mi1jKZZ0dv5v@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20270605T190000
 SUMMARY:Chris Difford: An Intimate Evening with the Co-Founder of Squeeze
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -151,7 +151,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtPfemFTO1FXUt3c@southampton.live
-DTSTAMP:20261028T054635Z
+DTSTAMP:20261028T095211Z
 DTSTART;TZID=Europe/London:20271103T190000
 SUMMARY:Clint Boon (Inspiral Carpets)
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
