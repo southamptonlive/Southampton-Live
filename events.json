@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-29T10:03:35.644Z",
+ "generated": "2026-10-29T10:12:38.630Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 196
+   "events": 197
   },
   {
    "id": "ticketmaster",
@@ -312,12 +312,6 @@
    "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -328,6 +322,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "medbar",
@@ -8552,7 +8552,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "going": 0,
+   "going": 1,
    "minage": null,
    "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
    "source": "skiddle",
@@ -19000,7 +19000,7 @@
    "priceMax": 30.25,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/11/87/24_Original.jpg?v=12",
+   "img": "https://i.ticketweb.com/i/00/13/11/87/24_Original.jpg?v=13",
    "ticketUrl": "https://www.ticketweb.uk/event/all-the-queens-men-the-brook-tickets/14406194",
    "infoUrl": "https://www.the-brook.com/tm-event/all-the-queens-men/",
    "going": 0,
@@ -22368,6 +22368,38 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "r&b",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-a7ef6cd7-f83",
+   "artist": "Southampton U, ME & RNB & SLOW JAMZ special",
+   "venueId": "rubys",
+   "venueName": "Ruby's at the Grand",
+   "postcode": "SO14 3AS",
+   "date": "2027-02-27",
+   "time": "21:30",
+   "price": 11,
+   "priceMax": 55,
+   "priceText": "£11–£55",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/g7mt3js9/southampton-u-me-rnb-slow-jamz-special",
+   "infoUrl": "https://www.fatsoma.com/e/g7mt3js9/southampton-u-me-rnb-slow-jamz-special",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -22805,9 +22837,9 @@
    "time": "20:00",
    "doors": "20:00",
    "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 19,
-   "priceMax": 22,
-   "priceText": "£19–£22",
+   "price": 10,
+   "priceMax": 10,
+   "priceText": null,
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/5/3/2457778_fcfeb3c7_on-a-mission-rewind-line-up-tba-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---LINE-UP-TBA/43125232/",
@@ -23977,9 +24009,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-03-18",
    "time": "19:00",
-   "price": 35.2,
+   "price": 30.8,
    "priceMax": 83.6,
-   "priceText": "£35.20–£83.60",
+   "priceText": "£30.80–£83.60",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/11/62/64_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/jam-baxter-the-brook-tickets/14403634",

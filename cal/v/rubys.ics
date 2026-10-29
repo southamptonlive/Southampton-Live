@@ -7,11 +7,20 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-838bf519-171@southampton.live
-DTSTAMP:20261029T100335Z
+DTSTAMP:20261029T101238Z
 DTSTART;TZID=Europe/London:20261031T213000
 SUMMARY:Southampton SATURDAY 31st October U\, ME & RNB NIGHTMARE ON OXFORD STREET
 LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS
 URL:https://southampton.live/e/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxfo-fat-838bf519-171.html
 DESCRIPTION:Club night\n£11–£165\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/1keojf7p/southampton-saturday-31st-october-u-me-rnb-nightmare-on-oxford-street\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-a7ef6cd7-f83@southampton.live
+DTSTAMP:20261029T101238Z
+DTSTART;TZID=Europe/London:20270227T213000
+SUMMARY:Southampton U\, ME & RNB & SLOW JAMZ special
+LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS
+URL:https://southampton.live/e/southampton-u-me-rnb-slow-jamz-special-fat-a7ef6cd7-f83.html
+DESCRIPTION:Club night\n£11–£55\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/g7mt3js9/southampton-u-me-rnb-slow-jamz-special\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR
