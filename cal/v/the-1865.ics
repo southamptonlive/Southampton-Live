@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:tm-LvZ18QhVBquzKG8ZVyHs7@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261029T190000
 SUMMARY:Elvis Returns
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QpIt54J6D8ZlV-yO@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261030T190000
 SUMMARY:Pendragon
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q9IPgh-CXOZlKw5K@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261031T190000
 SUMMARY:Space Ten Neurotic Fairytales Tour 2026 Plus Special Guests
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qj2LU1fGVYv54Fyy@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261101T190000
 SUMMARY:Landmarq and Kite Parade
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43045983@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261106T180000
 SUMMARY:The Kopycat Killers
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QbMsv1TfRYZyiPVF@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261106T180000
 SUMMARY:Indiepalooza Tribute - Killers v Monkeys v Fender v Oasis v Kasabian
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QbhTjHNZcOZl0SrJ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261106T180000
 SUMMARY:Southampton - The 1865 - Indiepalooza - "the UK's BEST Indie Festival"
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QhgYCnnXH8ZVLzAD@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261107T190000
 SUMMARY:London Calling Play The Clash “Should I Stay or Should I Go” Tour
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q9r5mtJqb8ZyR-pz@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261108T190000
 SUMMARY:EyeHateGod
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q2t5nkinz8ZlYRsW@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261111T183000
 SUMMARY:Soil + Finger Eleven + Adema
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -97,7 +97,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QfADFR9d78Z0BSdV@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261112T190000
 SUMMARY:The Rezillos
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -106,7 +106,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qp0VetQDVOZwgIxl@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:Creedence Clearwater Review
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -115,7 +115,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qj1zdFZTsOZzGmAk@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261114T190000
 SUMMARY:Kid Kapichi
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -124,7 +124,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qjn9LaPqmOZztBTg@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261115T190000
 SUMMARY:Blank Manuskript
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QraKYM4EQZvqgU-Q@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261116T190000
 SUMMARY:The Temperance Movement
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -142,7 +142,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QLia6yII8Yv193Mk@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261119T190000
 SUMMARY:Forevanescence\, Bring Me The Horizon UK & Sabotage
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -151,7 +151,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QKOzaiKyMYZlBS5s@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261120T190000
 SUMMARY:The Undertones: 50th Anniversary Show + special guest Ruts DC
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -160,7 +160,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-4mrj5Gb8vO_ZW6@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261121T190000
 SUMMARY:The Clause
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -169,7 +169,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43155678@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261122T190000
 SUMMARY:Tribulation
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -178,7 +178,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QjVRk37SmYZzZDSE@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261122T190000
 SUMMARY:SOEN
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -187,7 +187,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q0WUHs6OChz4VTmZ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261124T190000
 SUMMARY:Hawklords
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -196,7 +196,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q_sgsaxFQ8ZlEcsv@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Stiff Bizkit
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -205,7 +205,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q_o0fJ_xw8Zy53ii@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261128T190000
 SUMMARY:Limehouse Lizzy
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -214,7 +214,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QNSXOl28_EQT84-u@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261129T190000
 SUMMARY:Xentrix: Cross-Atlantic Carnage
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -223,7 +223,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qj8hqpfsgYZ0EJE8@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261130T190000
 SUMMARY:Westside Cowboy
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -232,7 +232,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QN85-vjRKOZzUl4k@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261202T190000
 SUMMARY:The Fell w/ Billy Sheehan
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -241,7 +241,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-41654545@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261204T190000
 SUMMARY:The Tumbling Paddies
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -250,7 +250,7 @@ DESCRIPTION:Gig\n£25\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QpNiQ2isMOZlMAjX@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261205T190000
 SUMMARY:Colosseum + Soft Machine
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -259,7 +259,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QJSGpEorQAmT8Bnx@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261206T190000
 SUMMARY:Keyside
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -268,7 +268,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qq_KWap2u8ZzBm_Q@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261208T190000
 SUMMARY:The Mike Keneally report & Dave Cureton
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -277,7 +277,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QOM9dcH0M8Zz55my@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261209T190000
 SUMMARY:Mostly Autumn
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -286,7 +286,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QoDXmLGZo8ZtDP3t@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261211T190000
 SUMMARY:Fleetwood Collective: A Tribute to Fleetwood Mac
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -295,7 +295,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QqbOLP1SVZZJwLF7@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261212T190000
 SUMMARY:Sevendust
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -304,7 +304,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43328381@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261213T120000
 SUMMARY:The Pop Kids
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -313,7 +313,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QP_4O4PTPjSzDrV7@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261213T120000
 SUMMARY:Popkids Southampton - Christmas Wonderland
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -322,7 +322,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QOhX1kILPYZzwUZ6@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261213T190000
 SUMMARY:Love Distraction
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -331,7 +331,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QLwZdfbyM8v12S6o@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261217T190000
 SUMMARY:The Cureheads\, Siouxsie & The Budgiees
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -340,7 +340,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43462814@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261218T203000
 SUMMARY:DJ Stevie C
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -349,7 +349,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QizZzwjfQXtFNN9d@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261218T203000
 SUMMARY:Boogie Wonderland
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -358,7 +358,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43403739@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Professor Elemental
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -367,7 +367,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtlUCbX32fV-o3Y1@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Not A Band + Prof. Elemental
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -376,7 +376,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qfnl2ONLJYZ0tcsL@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261220T190000
 SUMMARY:Haze + Tiger Moth Tales
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -385,7 +385,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QOw4tCi21OZ0K0--@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261223T190000
 SUMMARY:Abba Angels
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -394,7 +394,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43127742@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270108T190000
 SUMMARY:Discharge
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -403,7 +403,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qj_R6NQpzOvGOUgQ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270108T190000
 SUMMARY:The Sound of the Apocalypse 2
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -412,7 +412,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q4VTQS-kSYZlj-JJ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270109T190000
 SUMMARY:Wrong Jovi
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -421,7 +421,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qx58Uq5bT8ZM-63E@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270115T190000
 SUMMARY:Diva Purple
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -430,7 +430,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-TMhdvh98vOdSd0@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270116T190000
 SUMMARY:Coda - A Tribute To Led Zeppelin
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -439,7 +439,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QJqRU-JlEBWfJAEl@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270117T190000
 SUMMARY:Bram Stoker Vs The Book of Revelations
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -448,7 +448,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-lSbzukSOvOHM86@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270122T190000
 SUMMARY:Stipe
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -457,7 +457,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q_9oDUC2vZZw_Nn4@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270123T190000
 SUMMARY:Kings of Lyon & UK Strokes & Razorlite
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -466,7 +466,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QcimCpsHhx5vsDCw@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270129T190000
 SUMMARY:Take Me Back: The Offspin\, Green 182\, Some 41
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -475,7 +475,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q4VsUCiH2ZZycH9W@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270130T190000
 SUMMARY:Electrik Live Orchestra
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -484,7 +484,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Ql47ZpbRBF3ZHV0H@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270203T190000
 SUMMARY:Anthony Gomes
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -493,7 +493,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QOw3pbJD6OvOdigt@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270205T190000
 SUMMARY:Tool Shed – A Tribute to Tool
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -502,7 +502,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q_jDXIBvm8Zygx2q@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270206T190000
 SUMMARY:The Devout: UK Depeche Mode Tribute
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -511,7 +511,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QlRPIwD5_jbOKbNX@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270207T190000
 SUMMARY:Zopp + Z Machine
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -520,7 +520,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QLwG9QEDrOZMkqsZ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270212T190000
 SUMMARY:Anti Nowhere League
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -529,7 +529,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43295411@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270213T190000
 SUMMARY:Maet Live and The Never Neverland Express
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -538,7 +538,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QN8C75wszOvG0M-H@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270213T190000
 SUMMARY:Meat Loaf Tribute: Maet LIVE
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -547,7 +547,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qnguzh4YA3kHsbcW@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270220T190000
 SUMMARY:A Night for Jason
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -556,7 +556,7 @@ DESCRIPTION:Gig\n£11\nListed via Ticketmaster\nTickets: https://www.universe.co
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QhsZ4eRo98ZHIPfW@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270221T190000
 SUMMARY:An Evening With Steve Cradock
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -565,7 +565,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43436411@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Lawrence Chaney
@@ -575,7 +575,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QhnMpnDxxZZV4Q2N@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270227T190000
 SUMMARY:The Duran Duran Experience
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -584,7 +584,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43388304@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270228T190000
 SUMMARY:John Otway
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -593,7 +593,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43388179@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270228T190000
 SUMMARY:John Otway And Wild Willy Barrett
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -602,7 +602,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QIOLQ0k_SBOGFlDz@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270228T190000
 SUMMARY:Otway and Barrett ‘ s Hit Anniversary Tour
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -611,7 +611,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QPMNc1tcHXRMAoCp@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270305T190000
 SUMMARY:Absolute Bowie
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -620,7 +620,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-TRxSb7KZZzodrV@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270306T190000
 SUMMARY:TX2
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -629,7 +629,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QIHPaBU2EHhr8qO8@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270307T190000
 SUMMARY:The Pineapple Thief
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -638,7 +638,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QxTv-6zzBZZzWywq@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270310T193000
 SUMMARY:Henge
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -647,7 +647,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiWqoCojtpXr_HIJ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270311T190000
 SUMMARY:Dream State
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -656,7 +656,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-leLmxhQYvOKvTX@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270312T190000
 SUMMARY:Motorheadache
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -665,7 +665,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QQv2YpyhyOZwjzAo@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270313T120000
 SUMMARY:March Of The Mods
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -674,7 +674,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiW4Ti8_1fx0tPMJ@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270316T190000
 SUMMARY:Brooke Combe
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -683,7 +683,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QrNdkA4jnOZM8LPj@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270317T190000
 SUMMARY:The Lilacs
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -692,7 +692,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QLFJY9Ph5ZZMZJqU@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270319T190000
 SUMMARY:The View
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -701,7 +701,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtP9ZDCqpszU5Heg@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270320T190000
 SUMMARY:Seattle's Finest
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -710,7 +710,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QPNqHAo4tl8Qsv6k@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270326T190000
 SUMMARY:UK Subs
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -719,7 +719,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QxnhSXMuQ8Z0BW90@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270409T190000
 SUMMARY:Poizon Tribute UK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -728,7 +728,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-TwVqmAsZZ0dXaA@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270410T190000
 SUMMARY:Oasis Supernova
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -737,7 +737,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43331863@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270415T190000
 SUMMARY:Vicky Jackson as PINK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -746,7 +746,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QPNswV4RrVld5LDW@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270415T190000
 SUMMARY:Vicky Jackson as P!NK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -755,7 +755,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-g8rw6SSOZzBwPz@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270417T190000
 SUMMARY:Dressed To Kill - A Tribute To Kiss
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -764,7 +764,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q--NbMZOvZZJL9Eu@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270418T190000
 SUMMARY:U2BABY
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -773,7 +773,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qnl66dhbTe3O6R1N@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270422T190000
 SUMMARY:Mr Punch (Marillion tribute)
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -782,7 +782,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QEGAWgvUO_ye7zhG@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270423T190000
 SUMMARY:DC/UK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -791,7 +791,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtLHl69I0xmfh7ct@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270425T190000
 SUMMARY:Moving Pictures
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -800,7 +800,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qngp7LBi_5f4m3Q4@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270501T120000
 SUMMARY:Wanderlust
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -809,7 +809,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QlRjZQVQLJeU6GV1@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270509T190000
 SUMMARY:Bleech 9:3
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -818,7 +818,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q-lFjCxhQYZ0KvuM@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270515T190000
 SUMMARY:Whitesnake UK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -827,7 +827,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiX1R24FHi8DA-79@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270516T190000
 SUMMARY:Rust For Glory - A Tribute To Neil Young
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -836,7 +836,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QnZ8ugHdTDMIZCFa@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270518T190000
 SUMMARY:Hang Massive
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -845,7 +845,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Qr_ag0BQW8vqAzzs@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270520T190000
 SUMMARY:John Lydon - I could be wrong\, I could be right
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -854,7 +854,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43470068@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270523T190000
 SUMMARY:The Emerald Dawn
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -863,7 +863,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43392704@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270529T190000
 SUMMARY:The Stone Garden
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -872,7 +872,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QIg08Q_GQJ4uZFQX@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270529T190000
 SUMMARY:The Gods of Grunge Tour ft. STONEGARDEN & The Smashed In Pumpkins
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -881,7 +881,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QirhphQaLsB2CtZo@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270604T190000
 SUMMARY:Black Flag
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -890,7 +890,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QO63Mi1jKZZ0dv5v@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270605T190000
 SUMMARY:Chris Difford: An Intimate Evening with the Co-Founder of Squeeze
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -899,7 +899,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QE658qVoXzE2zG31@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270612T190000
 SUMMARY:Crazy Diamond - Pink Floyd Tribute
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -908,7 +908,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QLIlER33v8v16Rlg@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270618T190000
 SUMMARY:Know Your Enemy + Queens of the Klone Age
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -917,7 +917,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QEkULxmzm9agWEcr@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270626T190000
 SUMMARY:The Take That Experience / Wannabe
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -926,7 +926,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43410438@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Viper Soup Complex
@@ -936,7 +936,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QltG4kuKW_A_hC8B@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270627T190000
 SUMMARY:Spriggan Mist
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -945,7 +945,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QxA4vDABkZZM3iOW@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270703T190000
 SUMMARY:Re Verve & Ocean Cover Scene
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -954,7 +954,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QrrGh_-bRZZMp1aH@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270709T190000
 SUMMARY:Fontaines YC & Two door cinema clone
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -963,7 +963,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QceS8bV7ZMh0z_Qs@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270716T190000
 SUMMARY:Motley Crude
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -972,7 +972,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiwD0oQpfQQ9B80T@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270717T190000
 SUMMARY:Ultimate Leppard
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -981,7 +981,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QnPqhYCeTAQjsVIp@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270718T190000
 SUMMARY:Overhead + Damanek
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -990,7 +990,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QNfFKOdrrZZzlAbi@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270731T190000
 SUMMARY:Faith No Man + Alice in Chains UK
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -999,7 +999,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QbdQrGMWR8ZwPxvO@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270807T190000
 SUMMARY:Type Of Negative + Pantera A.D.
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1008,7 +1008,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QNy_k906G6xtWq5d@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270821T190000
 SUMMARY:A Foreigner's Journey
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1017,7 +1017,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiS-Uxj1La5J-WNF@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270903T190000
 SUMMARY:Johnny Cash Roadshow
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1026,7 +1026,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QirzXUTCoIxBsWc6@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270911T190000
 SUMMARY:Sounds of Seattle
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1035,7 +1035,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QNnlCoZbo8v1deKM@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270918T190000
 SUMMARY:Speaking in Tongues (Talking Heads tribute)
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1044,7 +1044,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtkkokPcrSI9JYcj@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270925T190000
 SUMMARY:Just Radiohead
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1053,7 +1053,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QccW73d97Aq-boye@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271001T190000
 SUMMARY:Guns 2 Roses
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1062,7 +1062,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AgZk4pGkd8_FS8@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271013T190000
 SUMMARY:The Chats
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1071,7 +1071,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Ql78WhqZQwFiONpa@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271015T190000
 SUMMARY:Dr Feelgood & Nine Below Zero
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1080,7 +1080,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Ql7AgLGhc7u0Yo1-@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271016T190000
 SUMMARY:BRUCE FOXTON '50 years of The Jam' Tour
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1089,7 +1089,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42822139@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:Ruts DC Prestents The Ruts
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1098,7 +1098,7 @@ DESCRIPTION:Gig\n£27.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QngBzmcmsdtT-6f6@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:The Ruts '50 Years of Ruts music 1977-2027'
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1107,7 +1107,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtPfemFTO1FXUt3c@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271103T190000
 SUMMARY:Clint Boon (Inspiral Carpets)
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1116,7 +1116,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtZWhroecMTUqUPi@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271127T190000
 SUMMARY:Ed Force One + Priest Unleashed
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1125,7 +1125,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43468541@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20271210T190000
 SUMMARY:Space Cowboy
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -1134,7 +1134,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43380734@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20280729T190000
 SUMMARY:A Foreigners Journey
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

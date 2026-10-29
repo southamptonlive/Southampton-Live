@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-41411151@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20261107T180000
 SUMMARY:The Dualers
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£29.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42674969@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270226T180000
 SUMMARY:Mad Caddies
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\n£28\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-c8a67586-f7f@southampton.live
-DTSTAMP:20261029T092704Z
+DTSTAMP:20261029T100335Z
 DTSTART;TZID=Europe/London:20270403T150000
 SUMMARY:Ska Day Party: Southampton 🎺
 LOCATION:Trilogy\, Waterloo Buildings\, 55 London Rd\, Southampton SO15 2AD\, SO15 2AD

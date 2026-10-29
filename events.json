@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-29T09:27:04.901Z",
+ "generated": "2026-10-29T10:03:35.644Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -312,6 +312,12 @@
    "address": "3-4 Vernon Walk, Southampton SO15 2EJ"
   },
   {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
+  },
+  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -322,12 +328,6 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
-  },
-  {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "medbar",
@@ -8552,7 +8552,7 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "going": 1,
+   "going": 0,
    "minage": null,
    "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
    "source": "skiddle",
@@ -17752,9 +17752,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-01-14",
    "time": "19:30",
-   "price": 29.5,
+   "price": 43.5,
    "priceMax": 55.5,
-   "priceText": "£29.50–£55.50",
+   "priceText": "£43.50–£55.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/07/MG-2026-09-Tour-Web-Banners-62551SGA-Southampton-Event-Card-960x600px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52243/52249",
@@ -22805,9 +22805,9 @@
    "time": "20:00",
    "doors": "20:00",
    "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
+   "price": 19,
+   "priceMax": 22,
+   "priceText": "£19–£22",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/e/5/3/2457778_fcfeb3c7_on-a-mission-rewind-line-up-tba-_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---LINE-UP-TBA/43125232/",
