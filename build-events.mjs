@@ -405,9 +405,9 @@ function normSkiddle(ev, appId = null) {
   const v = ev.venue || {};
   const cv = appId ? null : canonVenue(v.name, v.postcode);
   const pc = (cv?.postcode || String(v.postcode || '').toUpperCase().trim());
-  const time =
-    ev.openingtimes?.doorsopen ||
-    (ev.startdate ? String(ev.startdate).slice(11, 16) : '19:30');
+  // doors is a labelled field on Skiddle; start is the unlabelled ISO time. Never a default.
+  const doors = ev.openingtimes?.doorsopen || null;
+  const time = ev.startdate && String(ev.startdate).includes('T') ? String(ev.startdate).slice(11, 16) : null;
   const { price, priceMax, priceText } = priceFrom(ev);
   const desc = deent(ev.description).replace(/\s+/g, ' ').trim().slice(0, 280);
   const nm = deent(ev.eventname);
@@ -423,6 +423,7 @@ function normSkiddle(ev, appId = null) {
     postcode: pc,
     date: ev.date || String(ev.startdate || '').slice(0, 10),
     time,
+    doors, doorsText: doors ? 'openingtimes.doorsopen (Skiddle)' : undefined,
     price,
     priceMax: priceMax == null ? null : priceMax,
     priceText,
@@ -533,7 +534,7 @@ async function brook() {
       venueName: host.name,
       postcode: host.postcode,
       date,
-      time: '19:30',
+      time: null,   // filled from the show page below; never a default
       price: bprice,
       priceMax: bprice,
       priceText: pm ? null : priceD || null,
@@ -550,7 +551,42 @@ async function brook() {
     });
   }
   if (!events.length) throw new Error('no event cards parsed');
+  // Show pages: the-brook.com states "Doors: 7:00 PM / Show: 7:30 PM", a price range,
+  // "Age 18+" and "Zero Fees on Tickets". We copy exactly what each page says.
+  let detailed = 0;
+  for (const ev of events) {
+    if (!ev.infoUrl) continue;
+    try {
+      const d = brookDetails(await fetchText(ev.infoUrl));
+      if (d.doors) { ev.doors = d.doors.t; ev.doorsText = d.doors.text; }
+      if (d.show) ev.time = d.show.t;
+      if (d.price) { ev.price = d.price[0]; ev.priceMax = d.price[1] ?? d.price[0]; ev.priceText = d.price[1] != null && d.price[1] > d.price[0] ? `£${fmtGBP(d.price[0])}–£${fmtGBP(d.price[1])}` : null; }
+      if (d.age) ev.minage = d.age;
+      if (d.zeroFees) ev.feeIncluded = true; // "Zero Fees on Tickets" — their words
+      detailed++;
+    } catch (e) { /* card facts stand; nothing invented */ }
+    await sleep(700);
+  }
+  console.log(`(brook: ${detailed}/${events.length} show pages read)`);
   return { url: BROOK_URL, events };
+}
+const fmtGBP = (x) => (Number.isInteger(x) ? String(x) : x.toFixed(2));
+function brookDetails(html) {
+  const text = html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/g, ' ').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ');
+  const to24 = (h, m, ap) => { let H = parseInt(h, 10); const M = m ? parseInt(m, 10) : 0; if (ap) { ap = ap.toLowerCase(); if (ap === 'pm' && H < 12) H += 12; if (ap === 'am' && H === 12) H = 0; } return `${String(H).padStart(2, '0')}:${String(M).padStart(2, '0')}`; };
+  const T = '(\\d{1,2})(?::(\\d{2}))?\\s*(am|pm)?';
+  const doorsM = text.match(new RegExp(`(Doors(?:\\s*open)?\\s*:?\\s*${T})`, 'i'));
+  const showM = text.match(new RegExp(`((?:Show|Start|Starts|Stage\\s*time|On\\s*stage)\\s*:?\\s*${T})`, 'i'));
+  const rangeM = text.match(/£\s*(\d+(?:\.\d{2})?)\s*(?:-|–|to)\s*£?\s*(\d+(?:\.\d{2})?)/);
+  const singleM = text.match(/£\s*(\d+(?:\.\d{2})?)/);
+  const ageM = text.match(/Age\s*:?\s*(\d{1,2}\+(?:\s*\([^)]{0,40}\))?)/i);
+  return {
+    doors: doorsM ? { t: to24(doorsM[2], doorsM[3], doorsM[4]), text: doorsM[1].trim() } : null,
+    show: showM ? { t: to24(showM[2], showM[3], showM[4]), text: showM[1].trim() } : null,
+    price: rangeM ? [parseFloat(rangeM[1]), parseFloat(rangeM[2])] : singleM ? [parseFloat(singleM[1])] : null,
+    age: ageM ? ageM[1].replace(/\s+/g, ' ').replace('(14+Accompanied)', '(14+ accompanied)') : null,
+    zeroFees: /zero\s*fees/i.test(text),
+  };
 }
 
 /* ---------- source: Songkick metro area (JSON-LD, covers every venue) ---------- */
@@ -1134,8 +1170,8 @@ async function skiddleApi() {
         artist: name,
         venueId: v.id, venueName: v.name, postcode: v.postcode,
         date: ev.date,
-        time: doors || ev.starttime || null,
-        doorsTime: !!doors,
+        time: ev.starttime || null,
+        doors, doorsText: doors ? 'openingtimes.doorsopen (Skiddle API)' : undefined,
         lineup,
         price, priceMax, priceText,
         genre: inferGenre(ghay, '', ev.EventCode || 'LIVE'),
@@ -1294,7 +1330,7 @@ async function main() {
   // within 3 hours (doors vs start drift — not 2pm vs 7pm).
   const mins = (t) => (t ? +t.slice(0, 2) * 60 + +t.slice(3, 5) : null);
   const compatible = (a, b) => {
-    const ta = mins(a.time), tb = mins(b.time);
+    const ta = mins(a.time || a.doors), tb = mins(b.time || b.doors); // the stated clock time, whichever label it has
     if (a.source === b.source) {
       // same source twice = two performances, UNLESS it's the identical
       // event posted twice (Fatsoma co-promoter listings): same name, same time
@@ -1344,7 +1380,7 @@ async function main() {
     for (const other of g.slice(1)) {
       merged++;
       // fill missing facts from the duplicate (facts only — never media)
-      if (!best.time && other.time) best.time = other.time;
+      if (!best.time && other.time && !best.doors) best.time = other.time; // bare time only; doors/doorsText never cross sources
       if (best.price == null && other.price != null) { best.price = other.price; best.priceMax = other.priceMax; best.priceText = other.priceText; best.feeIncluded = other.feeIncluded; }
       if (!best.infoUrl && other.infoUrl) best.infoUrl = other.infoUrl;
       if (!best.ticketUrl && other.ticketUrl) best.ticketUrl = other.ticketUrl;
@@ -1365,7 +1401,7 @@ async function main() {
   const tally = (arr) => Object.entries(arr.reduce((m, e) => ((m[e.source] = (m[e.source] || 0) + 1), m), {})).map(([k, v]) => `${k} ${v}`).join(', ');
   console.log(`by source — before dedupe: ${tally(events)}`);
   console.log(`by source — after dedupe:  ${tally(out)}`);
-  out.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
+  out.sort((a, b) => (a.date + (a.time || a.doors || '')).localeCompare(b.date + (b.time || b.doors || '')));
 
   // derive venue registry from surviving events
   const venues = new Map();

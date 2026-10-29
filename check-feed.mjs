@@ -29,6 +29,10 @@ for (const e of ev) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(e.date) || e.date < TODAY) fail(`bad/past date ${e.date}: ${tag}`);
   if (e.time != null && !/^\d{2}:\d{2}$/.test(e.time)) fail(`bad time ${e.time}: ${tag}`);
   if (e.feeIncluded != null && typeof e.feeIncluded !== 'boolean') fail(`bad feeIncluded: ${tag}`);
+  // "Doors" may only be shown where the source said doors: the robot records the source phrase.
+  if (e.doors != null && !/^\d{2}:\d{2}$/.test(e.doors)) fail(`bad doors ${e.doors}: ${tag}`);
+  if (e.doors != null && !/doors|entry from|doorsopen/i.test(String(e.doorsText || ''))) fail(`doors time without a source phrase saying doors: ${tag}`);
+  if (e.doorsText && e.doors == null) fail(`doorsText without doors: ${tag}`);
   if (!TYPES.has(e.type)) fail(`bad type ${e.type}: ${tag}`);
   if (!Array.isArray(e.genres) || !e.genres.length || !e.genres.every((g) => GEN.has(g)) || e.genre !== e.genres[0]) fail(`bad genres ${JSON.stringify(e.genres)}: ${tag}`);
   if (e.price == null && e.priceText != null) fail(`priceText without price (invented?): ${tag}`);
@@ -44,7 +48,7 @@ for (const e of ev) {
 // same-source, same bill, same date+venue+time = a dedupe miss
 const seenBill = new Map();
 for (const e of ev) {
-  const k = `${e.source}|${e.venueId}|${e.date}|${e.time}|${String(e.artist).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()}`;
+  const k = `${e.source}|${e.venueId}|${e.date}|${e.time || e.doors}|${String(e.artist).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()}`;
   if (seenBill.has(k)) fail(`same-source duplicate: ${e.id} vs ${seenBill.get(k)}`); else seenBill.set(k, e.id);
 }
 // per-source sanity: a source that returned ok but 0 events is suspicious

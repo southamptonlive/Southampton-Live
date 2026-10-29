@@ -58,6 +58,10 @@ const venueName = (e) => (venueById.get(e.venueId) || {}).name || e.venueName ||
 const venueAddr = (e) => { const v = venueById.get(e.venueId) || {}; return [v.address, v.postcode || e.postcode].filter(Boolean).join(', '); };
 const eventPath = (e) => `/e/${slugify(e.artist)}-${e.id}.html`;
 const venuePath = (vid) => `/v/${vid}.html`;
+// Time wording: "Doors" only where the source said doors (e.doors); bare time otherwise.
+const timeText = (e) => (e.doors && e.time && e.doors !== e.time) ? `Doors ${e.doors} · Show ${e.time}` : e.doors ? `Doors ${e.doors}` : (e.time || '');
+const shortTime = (e) => e.time || (e.doors ? `Doors ${e.doors}` : '');
+const startTime = (e) => e.time || e.doors || null; // for calendars/structured data: the stated clock time
 // venue photos manifest (optional): shown on venue pages and the /venues list only
 let VENUE_PHOTOS = {};
 try {
@@ -131,7 +135,7 @@ function artBlock(e) {
   return `<div class="art" style="background:linear-gradient(155deg,hsl(${hue},80%,42%),hsl(${(hue + 40) % 360},70%,22%))">${esc(e.artist)}</div>`;
 }
 function rowHTML(e) {
-  const bits = [TYPES[e.type] || 'Event', venueName(e), fmtShort(e.date) + (e.time ? ' · ' + e.time : ''), priceLabel(e)].filter(Boolean);
+  const bits = [TYPES[e.type] || 'Event', venueName(e), fmtShort(e.date) + (shortTime(e) ? ' · ' + shortTime(e) : ''), priceLabel(e)].filter(Boolean);
   return `<a class="row" href="${eventPath(e)}"><b>${esc(e.artist)}</b><span>${esc(bits.join(' · '))}</span></a>`;
 }
 function listByDay(list) {
@@ -144,11 +148,11 @@ function listByDay(list) {
 function eventPage(e, past = false) {
   const vn = venueName(e), addr = venueAddr(e), price = priceLabel(e), genres = knownGenres(e);
   const title = `${e.artist} — ${vn}, Southampton · ${fmtShort(e.date)}${price ? ' · ' + (price === 'Free' ? 'Free' : 'from ' + fmtMoney(e.price)) : ''}`;
-  const descBits = [TYPES[e.type] || 'Event', vn, fmtDate(e.date), e.time ? `${e.time}` : null, price, genres.map((g) => GENRES[g]).join(', ') || null].filter(Boolean);
+  const descBits = [TYPES[e.type] || 'Event', vn, fmtDate(e.date), timeText(e) || null, price, genres.map((g) => GENRES[g]).join(', ') || null].filter(Boolean);
   const desc = `${e.artist} at ${vn}, Southampton — ${descBits.slice(1).join(' · ')}. Listed on Southampton.Live, credited to ${SOURCES[e.source] || e.source || 'the venue'}.`;
   const jsonld = {
     '@context': 'https://schema.org', '@type': e.type === 'comedy' ? 'ComedyEvent' : e.type === 'theatre' ? 'TheaterEvent' : 'MusicEvent',
-    name: e.artist, startDate: e.time ? `${e.date}T${e.time}:00` : e.date,
+    name: e.artist, startDate: startTime(e) ? `${e.date}T${startTime(e)}:00` : e.date,
     eventStatus: e.status === 'postponed' ? 'https://schema.org/EventPostponed' : e.status === 'rescheduled' ? 'https://schema.org/EventRescheduled' : 'https://schema.org/EventScheduled',
     eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
     location: { '@type': 'Place', name: vn, address: { '@type': 'PostalAddress', streetAddress: (venueById.get(e.venueId) || {}).address || undefined, addressLocality: 'Southampton', postalCode: (venueById.get(e.venueId) || {}).postcode || e.postcode || undefined, addressCountry: 'GB' } },
@@ -166,7 +170,7 @@ ${past ? `<div class="note">This show has happened. Here's what's coming up at $
 ${e.status ? `<div class="note">${esc(e.status.toUpperCase())} — the promoter has flagged this event. Check with the venue before travelling.</div>` : ''}
 <p class="meta">${esc(TYPES[e.type] || 'Event')} — <a href="${venuePath(e.venueId)}">${esc(vn)}</a></p>
 <h1>${esc(e.artist)}</h1>
-<p class="meta"><b>${esc(fmtDate(e.date))}</b>${e.time ? ` · ${esc(e.time)}` : ''}</p>
+<p class="meta"><b>${esc(fmtDate(e.date))}</b>${timeText(e) ? ` · ${esc(timeText(e))}` : ''}</p>
 ${addr ? `<p class="meta">${esc(addr)}</p>` : ''}
 <div class="pills">${price ? `<span class="pill">${esc(price)}${e.feeIncluded === true ? ' incl. fees' : e.feeIncluded === false ? ' + booking fee' : ''}</span>` : ''}${e.minage ? `<span class="pill">${esc(e.minage)}</span>` : ''}${genres.map((g) => `<span class="pill">${esc(GENRES[g])}</span>`).join('')}</div>
 ${artBlock(e)}
@@ -192,13 +196,13 @@ function icsFeed(name, list) {
   for (const e of list) {
     const d = e.date.replace(/-/g, '');
     lines.push('BEGIN:VEVENT', `UID:${e.id}@southampton.live`, `DTSTAMP:${new Date(feed.generated).toISOString().replace(/[-:]/g, '').slice(0, 15)}Z`);
-    if (e.time) { lines.push(`DTSTART;TZID=Europe/London:${d}T${e.time.replace(':', '')}00`); }
+    if (startTime(e)) { lines.push(`DTSTART;TZID=Europe/London:${d}T${startTime(e).replace(':', '')}00`); }
     else { // unknown time → all-day, never a made-up hour
       const next = new Date(e.date + 'T12:00:00'); next.setDate(next.getDate() + 1);
       lines.push(`DTSTART;VALUE=DATE:${d}`, `DTEND;VALUE=DATE:${localISO(next).replace(/-/g, '')}`);
     }
     lines.push(`SUMMARY:${icsEsc(e.artist)}`, `LOCATION:${icsEsc([venueName(e), venueAddr(e)].filter(Boolean).join(', '))}`, `URL:${SITE}${eventPath(e)}`,
-      `DESCRIPTION:${icsEsc([TYPES[e.type] || 'Event', priceLabel(e), e.time ? null : 'Start time not yet published', `Listed via ${SOURCES[e.source] || e.source}`, e.ticketUrl ? `Tickets: ${e.ticketUrl}` : null, 'Details can change — check with the venue.'].filter(Boolean).join('\n'))}`, 'END:VEVENT');
+      `DESCRIPTION:${icsEsc([TYPES[e.type] || 'Event', priceLabel(e), startTime(e) ? null : 'Start time not yet published', `Listed via ${SOURCES[e.source] || e.source}`, e.ticketUrl ? `Tickets: ${e.ticketUrl}` : null, 'Details can change — check with the venue.'].filter(Boolean).join('\n'))}`, 'END:VEVENT');
   }
   lines.push('END:VCALENDAR');
   return lines.join('\r\n') + '\r\n';
