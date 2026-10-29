@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43244698@southampton.live
-DTSTAMP:20261029T101238Z
+DTSTAMP:20261029T183335Z
 DTSTART;TZID=Europe/London:20270227T193000
 SUMMARY:Rachel Parris
 LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43456835@southampton.live
-DTSTAMP:20261029T101238Z
+DTSTAMP:20261029T183335Z
 DTSTART;TZID=Europe/London:20270514T193000
 SUMMARY:John Kearns
 LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43263531@southampton.live
-DTSTAMP:20261029T101238Z
+DTSTAMP:20261029T183335Z
 DTSTART;TZID=Europe/London:20270619T193000
 SUMMARY:Ed Byrne
 LOCATION:The Point\, Eastleigh\, Leigh Road\, Eastleigh\, SO50 9DE
