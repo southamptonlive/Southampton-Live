@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Vinilo — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43484397@southampton.live
+DTSTAMP:20261029T092704Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:This Is The Kit
+LOCATION:Vinilo\, 43 - 47 Queensway\, SO14 3BL
+URL:https://southampton.live/e/this-is-the-kit-sg-43484397.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43484397-this-is-the-kit-at-vinilo\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
