@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42485729@southampton.live
-DTSTAMP:20261028T202002Z
+DTSTAMP:20261029T010115Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Myriad @ The Joiners!
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:br-johnny-cash-roadshow-still-walking-the-l-2027-02-26@southampton.live
-DTSTAMP:20261028T202002Z
+DTSTAMP:20261029T010115Z
 DTSTART;TZID=Europe/London:20270226T193000
 SUMMARY:Johnny Cash Roadshow - Still Walking The Line At 95
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-johnny-cash-roadshow-2027-05-27-1945@southampton.live
-DTSTAMP:20261028T202002Z
+DTSTAMP:20261029T010115Z
 DTSTART;TZID=Europe/London:20270527T194500
 SUMMARY:Johnny Cash Roadshow
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\n£25.50–£31.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QiS-Uxj1La5J-WNF@southampton.live
-DTSTAMP:20261028T202002Z
+DTSTAMP:20261029T010115Z
 DTSTART;TZID=Europe/London:20270903T190000
 SUMMARY:Johnny Cash Roadshow
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

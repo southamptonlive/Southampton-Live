@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-28T20:20:02.095Z",
+ "generated": "2026-10-29T01:01:15.036Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 64
+   "events": 63
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -57,7 +57,7 @@
    "id": "skiddle:The-Loft-Southampton",
    "label": "Skiddle · The Loft Southampton",
    "ok": false,
-   "carried": 5,
+   "carried": 3,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 428
+   "events": 424
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 204
+   "events": 201
   },
   {
    "id": "ticketmaster",
@@ -300,12 +300,6 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "rubys",
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
@@ -316,6 +310,12 @@
    "name": "St Denys Church",
    "postcode": "SO17 2ND",
    "address": "Dundee Rd, Southampton SO17 2ND"
+  },
+  {
+   "id": "stage-door",
+   "name": "The Stage Door",
+   "postcode": "SO14 7FW",
+   "address": "78 West Marlands Road, Southampton"
   },
   {
    "id": "crib",
@@ -372,12 +372,6 @@
    "address": "1 Oxford St, Southampton SO14 3DJ"
   },
   {
-   "id": "orange-rooms",
-   "name": "Orange Rooms",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
-  },
-  {
    "id": "st-denys-social",
    "name": "St Denys Social Club",
    "postcode": "SO17 2FP",
@@ -385,405 +379,6 @@
   }
  ],
  "events": [
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-df3f450c-474",
-   "artist": "Hobbit Wednesday Halloween takeover",
-   "venueId": "hobbit",
-   "venueName": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-28",
-   "time": "17:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/hilgt44e/hobbit-wednesday-halloween-takeover",
-   "infoUrl": "https://www.fatsoma.com/e/hilgt44e/hobbit-wednesday-halloween-takeover",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": true,
-   "id": "sk-42581812",
-   "artist": "Chali 2na & A-Skillz Live Band",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-10-28",
-   "time": "18:00",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "hip-hop",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/f/2/2301684_c8417d4f_chali-2na-a-skillz-live-band_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Chali-2na--A-Skillz-Live-Band/42581812/",
-   "going": 0,
-   "minage": "14",
-   "desc": "Chali 2na & A-Skillz head to EngineRooms Southampton this October!",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genres": [
-    "hip-hop"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QptQSABfO8Z0gpPM",
-   "artist": "LA Guns",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-10-28",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://s1.ticketm.net/dam/a/a2f/4c254a3e-6dc3-45f9-98d7-36a110390a2f_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/la-guns-tickets-GY1TBD?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/la-guns-tickets-GY1TBD?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43253128",
-   "artist": "Mould",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-10-28",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43253128-mould-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43243554",
-   "artist": "Shtëpi",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-10-28",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43243554-shtepi-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "other",
-   "tags": [
-    "free entry",
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-e5b2b91c-b7d",
-   "artist": "Karaoke & DJ from 8pm",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-10-28",
-   "time": "20:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/a224uylu/karaoke-dj-from-8pm",
-   "infoUrl": "https://www.fatsoma.com/e/a224uylu/karaoke-dj-from-8pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "other"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-3064c580-ab2",
-   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-10-28",
-   "time": "21:00",
-   "price": 1.5,
-   "priceMax": 6,
-   "priceText": "£1.50–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/w8qmba6f/bar150-win-a-100-bar-tab-every-wednesday",
-   "infoUrl": "https://www.fatsoma.com/e/w8qmba6f/bar150-win-a-100-bar-tab-every-wednesday",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-be5478ad-923",
-   "artist": "🐫 Hump Wednesdays 🐫 🧟‍♀️🎃👻 HALLOWEEN!! 🧛🏻‍♀️🧟🦇🐈‍⬛",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-10-28",
-   "time": "22:00",
-   "price": 5,
-   "priceMax": 7,
-   "priceText": "£5–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/x9yoc9k2/hump-wednesdays-halloween",
-   "infoUrl": "https://www.fatsoma.com/e/x9yoc9k2/hump-wednesdays-halloween",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-a05af5ac-99a",
-   "artist": "Fiesta Miércoles | Halloween Edition",
-   "venueId": "orange-rooms",
-   "venueName": "Orange Rooms",
-   "postcode": "SO15 2EJ",
-   "date": "2026-10-28",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 5.5,
-   "priceText": "£0–£5.50",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition",
-   "infoUrl": "https://www.fatsoma.com/e/a5th7kag/fiesta-miércoles-halloween-edition",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "latin",
-    "electronic",
-    "dance"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "sk-42664658",
-   "artist": "Halloween Asylum - NOW IN SUBURBIA SOUTHAMPTON",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-28",
-   "time": "23:00",
-   "price": 5,
-   "priceMax": 12.5,
-   "priceText": "£5–£12.50",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/0/f/2322477_aa108746_halloween-asylum_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum---NOW-IN-SUBURBIA-SOUTHAMPTON/42664658/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Halloween-Asylum---NOW-IN-SUBURBIA-SOUTHAMPTON/42664658/",
-   "going": 0,
-   "minage": "18",
-   "desc": "THIS EVENT IS NOW IN SUBURBIA SOUTHAMPTON 27-29 ONLSOW ROAD, SO14 0JD",
-   "source": "skiddle",
-   "sourceRun": "skiddle:Suburbia-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-817fe0c3-130",
-   "artist": "SOUTHAMPTON HALLOWEEN 🎃 - THE ASYLUM - Sold out 10 years running! Southampton's Biggest",
-   "venueId": "suburbia",
-   "venueName": "Suburbia",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-28",
-   "time": "23:00",
-   "price": 5.99,
-   "priceMax": 14.29,
-   "priceText": "£5.99–£14.29",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/2nj1nt4w/southampton-halloween-the-asylum-sold-out-10-years-running-southampton-s-biggest",
-   "infoUrl": "https://www.fatsoma.com/e/2nj1nt4w/southampton-halloween-the-asylum-sold-out-10-years-running-southampton-s-biggest",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-88d0c7a5-ad9",
-   "artist": "Bollynights Southampton - THE CRYPT - BOLLYWOOD HALLOWEEN",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-10-28",
-   "time": "23:00",
-   "price": 7,
-   "priceMax": 13.99,
-   "priceText": "£7–£13.99",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/mp4kkiaj/bollynights-southampton-the-crypt-bollywood-halloween",
-   "infoUrl": "https://www.fatsoma.com/e/mp4kkiaj/bollynights-southampton-the-crypt-bollywood-halloween",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-1dfd942c-7e2",
-   "artist": "SOUTHAMPTON HALLOWEEN 🎃 - THE ASYLUM - SELLS OUT EVERY YEAR 👻",
-   "venueId": "suburbia",
-   "venueName": "Suburbia",
-   "postcode": "SO14 0JD",
-   "date": "2026-10-28",
-   "time": "23:00",
-   "price": 6.99,
-   "priceMax": 14.29,
-   "priceText": "£6.99–£14.29",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/5tvnpds9/southampton-halloween-the-asylum-sells-out-every-year",
-   "infoUrl": "https://www.fatsoma.com/e/5tvnpds9/southampton-halloween-the-asylum-sells-out-every-year",
-   "going": null,
-   "minage": "18+",
-   "status": "postponed",
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
   {
    "type": "gig",
    "tags": [],
@@ -1933,16 +1528,16 @@
    "img": "https://d31fr2pwly4c4s.cloudfront.net/9/6/9/2335390_36063856_Raver-Tots-Halloween-Party-Southampton_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/",
-   "going": 17,
+   "going": 0,
    "minage": null,
    "desc": "Raver Tots is the Ultimate Family Dance Party Suitable for ALL AGES! Get ready for a spooktacular family rave featuring huge artists.",
    "source": "skiddle",
+   "sourceRun": "skiddle:clubs",
    "genres": [
     "electronic",
     "dance",
     "dnb"
-   ],
-   "_carriedSince": "2026-10-21T21:46:59.842Z"
+   ]
   },
   {
    "type": "theatre",
@@ -2005,30 +1600,30 @@
   {
    "type": "club",
    "tags": [],
-   "hot": false,
+   "hot": true,
    "id": "sk-42793199",
    "artist": "Nightmare In The Square",
-   "venueId": "guildhall-square-uk",
-   "venueName": "Guildhall Square, UK",
-   "postcode": "SO14 7FP",
+   "venueId": "guildhall-square",
+   "venueName": "Guildhall Square",
+   "postcode": "SO14 7LP",
    "date": "2026-10-31",
    "time": "16:00",
-   "price": 20,
-   "priceMax": 27.5,
-   "priceText": "£20–£27.50",
+   "price": 15,
+   "priceMax": 35,
+   "priceText": "£15–£35",
    "genre": "electronic",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/0/c/9/2348339_ae839865_nightmare-in-the-square_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/",
-   "going": 81,
+   "going": 0,
    "minage": "18",
    "desc": "High Tide and Riddle team up for their biggest show to date 'Nightmare On The Square', with a huge purpose-built 2,000 capacity marquee.",
    "source": "skiddle",
+   "sourceRun": "skiddle:clubs",
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-10-21T21:46:59.842Z"
+   ]
   },
   {
    "type": "club",
@@ -9567,9 +9162,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-24",
    "time": "19:30",
-   "price": 29.5,
+   "price": 49.5,
    "priceMax": 59.5,
-   "priceText": "£29.50–£59.50",
+   "priceText": "£49.50–£59.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52987",
@@ -11306,20 +10901,20 @@
    "type": "club",
    "tags": [],
    "hot": false,
-   "id": "fat-943df342-890",
+   "id": "fat-3ab688a1-d5c",
    "artist": "South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada",
    "venueId": "sobar",
    "venueName": "The Sobar",
    "postcode": "SO14 0JZ",
    "date": "2026-11-28",
    "time": "22:00",
-   "price": 6.99,
-   "priceMax": 12.09,
-   "priceText": "£6.99–£12.09",
+   "price": 4.99,
+   "priceMax": 26.4,
+   "priceText": "£4.99–£26.40",
    "genre": "latin",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
-   "infoUrl": "https://www.fatsoma.com/e/s2calfsj/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "ticketUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
+   "infoUrl": "https://www.fatsoma.com/e/gwarfbzu/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x-kannada",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -11425,34 +11020,6 @@
   },
   {
    "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QNSXOl28_EQT84-u",
-   "artist": "Xentrix: Cross-Atlantic Carnage",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-29",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "metal",
-   "img": "https://s1.ticketm.net/dam/a/782/dd73d6d8-1c56-458c-9099-d052a0e3f782_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "metal"
-   ]
-  },
-  {
-   "type": "gig",
    "tags": [
     "xmas"
    ],
@@ -11478,6 +11045,34 @@
    "sourceRun": "mayflower",
    "genres": [
     "other"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QNSXOl28_EQT84-u",
+   "artist": "Xentrix: Cross-Atlantic Carnage",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-11-29",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "metal",
+   "img": "https://s1.ticketm.net/dam/a/782/dd73d6d8-1c56-458c-9099-d052a0e3f782_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/xentrix-cross-atlantic-carnage-tickets-0CM4BV?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genres": [
+    "metal"
    ]
   },
   {
@@ -11661,35 +11256,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [
-    "jungle"
-   ],
-   "hot": false,
-   "id": "sg-43260565",
-   "artist": "Rum Jungle",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-12-01",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "jungle",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43260565-rum-jungle-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43260565-rum-jungle-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genres": [
-    "jungle"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [
     "free entry"
@@ -11807,20 +11373,20 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-17uOv0G61kQ8NpZ",
-   "artist": "Ash",
-   "venueId": "guildhall",
-   "venueName": "O2 Guildhall",
-   "postcode": "SO14 7LP",
+   "id": "tm-LvZ18QN85-vjRKOZzUl4k",
+   "artist": "The Fell w/ Billy Sheehan",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
    "date": "2026-12-02",
    "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/615/1d3c1a66-179d-4b9f-9ff9-84ed4164d615_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/ash-southampton-02-12-2026/event/360064A19A423580",
-   "infoUrl": "https://www.ticketmaster.co.uk/ash-southampton-02-12-2026/event/360064A19A423580",
+   "img": "https://s1.ticketm.net/dam/a/a1e/adf56441-b9a5-495f-8c10-030204696a1e_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/the-fell-w-billy-sheehan-tickets-120GS6?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/the-fell-w-billy-sheehan-tickets-120GS6?ref=ticketmaster",
    "going": null,
    "minage": null,
    "desc": null,
@@ -11836,20 +11402,20 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "tm-LvZ18QN85-vjRKOZzUl4k",
-   "artist": "The Fell w/ Billy Sheehan",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
+   "id": "tm-17uOv0G61kQ8NpZ",
+   "artist": "Ash",
+   "venueId": "guildhall",
+   "venueName": "O2 Guildhall",
+   "postcode": "SO14 7LP",
    "date": "2026-12-02",
    "time": "19:00",
    "price": null,
    "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/a1e/adf56441-b9a5-495f-8c10-030204696a1e_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/the-fell-w-billy-sheehan-tickets-120GS6?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-fell-w-billy-sheehan-tickets-120GS6?ref=ticketmaster",
+   "img": "https://s1.ticketm.net/dam/a/615/1d3c1a66-179d-4b9f-9ff9-84ed4164d615_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/ash-southampton-02-12-2026/event/360064A19A423580",
+   "infoUrl": "https://www.ticketmaster.co.uk/ash-southampton-02-12-2026/event/360064A19A423580",
    "going": null,
    "minage": null,
    "desc": null,
@@ -14807,6 +14373,34 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43483703",
+   "artist": "Scarlet Reading",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-12-15",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43483703-scarlet-reading-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43483703-scarlet-reading-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -18203,7 +17797,7 @@
    "priceMax": 18.7,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/11/62/84_Original.jpg?v=4",
+   "img": "https://i.ticketweb.com/i/00/13/11/62/84_Original.jpg?v=5",
    "ticketUrl": "https://www.ticketweb.uk/event/beatallica-the-brook-tickets/14403654",
    "infoUrl": "https://www.the-brook.com/tm-event/beatallica/",
    "going": 0,
