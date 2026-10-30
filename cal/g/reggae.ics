@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-bec9ccb7-cd4@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f95fd819-e63@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261106T183000
 SUMMARY:Reggae Roots Dance: Community Dance Part 2 feat. Jah Lion Movement
 LOCATION:St Denys Social Club\, 100 St Denys Road\, Southampton\, SO17 2FP
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d458a78f-738@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261107T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc58462c-fe8@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261114T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8c1aa27f-75a@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9f57af6a-d2f@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42610446@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20270515T190000
 SUMMARY:The Reggae Orchestra
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\n£18–£23\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42822139@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:Ruts DC Prestents The Ruts
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

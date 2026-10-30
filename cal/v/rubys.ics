@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-838bf519-171@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261031T213000
 SUMMARY:Southampton SATURDAY 31st October U\, ME & RNB NIGHTMARE ON OXFORD STREET
 LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£11–£165\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a7ef6cd7-f83@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20270227T213000
 SUMMARY:Southampton U\, ME & RNB & SLOW JAMZ special
 LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS

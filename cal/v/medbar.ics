@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-8a51a62a-56f@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261030T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-47d65e2a-6c1@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261031T160000
 SUMMARY:Halloween Day Time Clubbing
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£6–£9\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-bec9ccb7-cd4@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-e95a2208-6f4@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261104T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -43,7 +43,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-7e972460-cb8@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-7b82ac44-3e1@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261107T160000
 SUMMARY:Daytime Clubbing | 4pm-10pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d458a78f-738@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261107T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-643d2905-d94@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261111T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -79,7 +79,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-12007744-94b@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261113T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -88,7 +88,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-6d04c2ce-800@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261114T160000
 SUMMARY:Daytime Clubbing | 4pm-10pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc58462c-fe8@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261114T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -106,7 +106,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f8aea793-0dc@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261118T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -115,7 +115,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-203ca87a-c52@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261120T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -124,7 +124,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2df2bb0a-f86@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261121T160000
 SUMMARY:Daytime Clubbing | 4pm-10pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -133,7 +133,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8c1aa27f-75a@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -142,7 +142,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d9c8a151-6b3@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261125T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -151,7 +151,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc0939ff-3f7@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -160,7 +160,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8ec62d67-506@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261128T160000
 SUMMARY:Daytime Clubbing | 4pm-10pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -169,7 +169,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9f57af6a-d2f@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -178,7 +178,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2611718e-055@southampton.live
-DTSTAMP:20261030T100624Z
+DTSTAMP:20261030T180407Z
 DTSTART;TZID=Europe/London:20261231T200000
 SUMMARY:New Year's Eve Party!
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP

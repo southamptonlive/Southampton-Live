@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Royal British Legion Bitterne Branch — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43492200@southampton.live
+DTSTAMP:20261030T180407Z
+DTSTART;TZID=Europe/London:20261204T200000
+SUMMARY:Waldo Salt
+LOCATION:Royal British Legion Bitterne Branch\, 237 Upper Deacon Rd\, SO19 5JR
+URL:https://southampton.live/e/waldo-salt-sg-43492200.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43492200-waldo-salt-at-royal-british-legion-bitterne-branch\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
