@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-30T18:04:07.175Z",
+ "generated": "2026-10-30T22:25:23.072Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -77,9 +77,9 @@
   {
    "id": "thebrook",
    "label": "The Brook (the-brook.com)",
-   "ok": false,
-   "carried": 59,
-   "error": "no event cards parsed"
+   "url": "https://www.the-brook.com/",
+   "ok": true,
+   "events": 59
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 526
+   "events": 524
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 195
+   "events": 196
   },
   {
    "id": "ticketmaster",
@@ -168,6 +168,12 @@
    "address": "466 Portswood Road, Southampton"
   },
   {
+   "id": "heartbreakers",
+   "name": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "address": "20 Hanover Buildings, Southampton"
+  },
+  {
    "id": "turnersims",
    "name": "Turner Sims",
    "postcode": "SO17 1BJ",
@@ -184,12 +190,6 @@
    "name": "Eastleigh Working Men's Club",
    "postcode": "SO50 9FD",
    "address": "18 Upper Market Street, Eastleigh"
-  },
-  {
-   "id": "heartbreakers",
-   "name": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "address": "20 Hanover Buildings, Southampton"
   },
   {
    "id": "mast",
@@ -543,30 +543,32 @@
    ]
   },
   {
-   "type": "theatre",
+   "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "mayf-behind-enemy-lines-2026-10-30-1945",
-   "artist": "Behind Enemy Lines",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
+   "id": "tm-LvZ18QnJ_3ZBENPibGAjN",
+   "artist": "The South",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
    "date": "2026-10-30",
-   "time": "19:45",
+   "time": "19:30",
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/08/Event-Card-Website-W960px-x-H600px.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/shout-behind-enemy-lines-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-behind-enemy-lines-2026/",
-   "going": 0,
+   "genre": "indie",
+   "img": "https://s1.ticketm.net/dam/a/5c3/b4a96d21-e48e-4583-8112-dee85541a5c3_SOURCE",
+   "ticketUrl": "https://www.universe.com/events/the-south-tickets-K9QGXM?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/the-south-tickets-K9QGXM?ref=ticketmaster",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genreGuess": true,
    "genres": [
-    "theatre"
+    "indie"
    ]
   },
   {
@@ -604,38 +606,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-the-south-2026-10-30",
-   "artist": "The South",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-10-30",
-   "time": "20:00",
-   "price": 29.7,
-   "priceMax": 29.7,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/78/83/74_Original.jpg?v=10",
-   "ticketUrl": "https://www.ticketweb.uk/event/the-south-the-brook-tickets/14060644",
-   "infoUrl": "https://www.the-brook.com/tm-event/the-south/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43350001",
    "artist": "Christ-Stéphane Boizi",
    "venueId": "turnersims",
@@ -658,33 +628,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-six-2026-10-30-2000",
-   "artist": "SIX",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-30",
-   "time": "20:00",
-   "price": 40,
-   "priceMax": 58,
-   "priceText": "£40–£58",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52415",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -1425,8 +1368,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -2230,8 +2172,8 @@
    "date": "2026-11-01",
    "time": "19:30",
    "price": 34.5,
-   "priceMax": 49.5,
-   "priceText": "£34.50–£49.50",
+   "priceMax": 34.5,
+   "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/R_AYOADE_2026_MTS_960x600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54479/54480",
@@ -2890,8 +2832,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "comedy",
@@ -3112,9 +3053,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-06",
    "time": "14:00",
-   "price": 27,
+   "price": 34,
    "priceMax": 42.5,
-   "priceText": "£27–£42.50",
+   "priceText": "£34–£42.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52879",
@@ -3542,8 +3483,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -4082,8 +4022,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -4142,8 +4081,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -4660,11 +4598,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-11-10",
    "time": "20:00",
-   "price": 19.8,
-   "priceMax": 19.8,
+   "price": 27.5,
+   "priceMax": 27.5,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=5",
+   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=6",
    "ticketUrl": "https://www.ticketweb.uk/event/overpass-the-brook-tickets/14079544",
    "infoUrl": "https://www.the-brook.com/tm-event/overpass/",
    "going": 0,
@@ -4678,8 +4616,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -5084,8 +5021,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -5555,8 +5491,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -6150,8 +6085,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -6450,8 +6384,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -6915,8 +6848,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "other",
@@ -7186,8 +7118,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -7509,8 +7440,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -8217,9 +8147,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-21",
    "time": "19:30",
-   "price": 47.5,
+   "price": 61,
    "priceMax": 74.5,
-   "priceText": "£47.50–£74.50",
+   "priceText": "£61–£74.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52087",
@@ -8319,8 +8249,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -9036,8 +8965,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -9389,8 +9317,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -9812,8 +9739,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -10549,8 +10475,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -10820,8 +10745,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -11845,8 +11769,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -12226,8 +12149,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "comedy",
@@ -12461,8 +12383,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "comedy",
@@ -13427,8 +13348,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -13877,8 +13797,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -14647,8 +14566,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -15120,8 +15038,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -16584,8 +16501,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "club",
@@ -17180,8 +17096,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -17404,8 +17319,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17547,8 +17461,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -17695,8 +17608,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18168,8 +18080,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18196,6 +18107,38 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "rave",
+    "freshers"
+   ],
+   "hot": false,
+   "id": "fat-7234e99d-bbf",
+   "artist": "F*CK ME It's Refreshers | Southampton Freshers 2027",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-01-25",
+   "time": "22:30",
+   "price": 2,
+   "priceMax": 16.5,
+   "priceText": "£2–£16.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/8uzegwj5/f-ck-me-it-s-refreshers-southampton-freshers-2027",
+   "infoUrl": "https://www.fatsoma.com/e/8uzegwj5/f-ck-me-it-s-refreshers-southampton-freshers-2027",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -18506,8 +18449,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -18580,11 +18522,11 @@
    "postcode": "SO17 3QF",
    "date": "2027-01-29",
    "time": "19:30",
-   "price": 30.25,
+   "price": 33,
    "priceMax": 33,
-   "priceText": "£30.25–£33",
+   "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/11/87/24_Original.jpg?v=21",
+   "img": "https://i.ticketweb.com/i/00/13/11/87/24_Original.jpg?v=38",
    "ticketUrl": "https://www.ticketweb.uk/event/all-the-queens-men-the-brook-tickets/14406194",
    "infoUrl": "https://www.the-brook.com/tm-event/all-the-queens-men/",
    "going": 0,
@@ -18598,8 +18540,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -18945,8 +18886,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -18976,8 +18916,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -19431,8 +19370,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -19580,8 +19518,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -20066,8 +20003,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -20301,8 +20237,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -20563,8 +20498,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -20879,8 +20813,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21308,8 +21241,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21659,9 +21591,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-02-25",
    "time": "19:30",
-   "price": 24,
+   "price": 30,
    "priceMax": 65,
-   "priceText": "£24–£65",
+   "priceText": "£30–£65",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/04/Doubtfire-Event-Card.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/51887/51940",
@@ -21852,8 +21784,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "country"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -22690,8 +22621,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -22836,8 +22766,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -23521,8 +23450,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -23695,8 +23623,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -24213,8 +24140,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -24860,8 +24786,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -26149,8 +26074,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -26742,8 +26666,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -27136,8 +27059,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -27503,8 +27425,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -28138,8 +28059,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "jazz"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -31251,8 +31171,7 @@
    "sourceRun": "thebrook",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",
@@ -32806,8 +32725,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "gig",
@@ -33153,8 +33071,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-30T10:06:24.392Z"
+   ]
   },
   {
    "type": "theatre",

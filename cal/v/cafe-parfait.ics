@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-eee5e124-e97@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261030T230000
 SUMMARY:Halloween Friday 2026: BE AFRAID
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£5–£13.20\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-b54789a2-d39@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:Halloween Sat 31st Oct 2026: THE POSSESSION
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£7–£33\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-96e0fd7e-952@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261101T230000
 SUMMARY:Halloween Sunday 01.11.26: The Reckoning
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d63438e2-d82@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261106T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ed44f16b-4f2@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261107T230000
 SUMMARY:Saturdays at Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3aa0aa65-6ad@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261108T230000
 SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0183973b-0b3@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261113T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ef7c535a-7c5@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261114T230000
 SUMMARY:Saturdays at Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -79,7 +79,7 @@ DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d8c3a9fe-1e0@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261115T230000
 SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -88,7 +88,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-6b6771e7-b86@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261120T230000
 SUMMARY:Kaleidoscope Trance and Techno
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-5e2d4ec9-961@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261120T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -106,7 +106,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9e2d6ce8-c42@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:NO DIVIDE Presents RYAN KEARY - THE AFTERS
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -115,7 +115,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d22ee22c-84c@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261121T230000
 SUMMARY:Saturdays at Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -124,7 +124,7 @@ DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-efbe01f9-d75@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261122T230000
 SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -133,7 +133,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-54dbd5a3-4d8@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261127T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -142,7 +142,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-62e00d57-bd1@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261128T230000
 SUMMARY:Patron El Alto x Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -151,7 +151,7 @@ DESCRIPTION:Club night\n£0–£13.20\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-5482bb4a-b7d@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261129T230000
 SUMMARY:Sunday Funday! Half price drinks with a Sunday Funday Card!
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -160,7 +160,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2869b3f4-3e7@southampton.live
-DTSTAMP:20261030T180407Z
+DTSTAMP:20261030T222523Z
 DTSTART;TZID=Europe/London:20261212T160000
 SUMMARY:RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
