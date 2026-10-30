@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:mayf-the-singing-mermaid-2026-10-30-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261030T103000
 SUMMARY:The Singing Mermaid
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -16,7 +16,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-singing-mermaid-2026-10-30-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261030T133000
 SUMMARY:The Singing Mermaid
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -25,7 +25,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-behind-enemy-lines-2026-10-30-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261030T194500
 SUMMARY:Behind Enemy Lines
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -34,7 +34,7 @@ DESCRIPTION:Theatre\nListed via Mayflower Theatre\nTickets: https://www.mayflowe
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-singing-mermaid-2026-10-31-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261031T103000
 SUMMARY:The Singing Mermaid
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -43,7 +43,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-singing-mermaid-2026-10-31-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261031T133000
 SUMMARY:The Singing Mermaid
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -52,7 +52,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jeezus-2026-11-02-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261102T194500
 SUMMARY:JEEZUS!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -61,7 +61,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-larry-dean-2026-11-03-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261103T194500
 SUMMARY:Larry Dean
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -70,7 +70,7 @@ DESCRIPTION:Comedy\n£24.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jeezus-2026-11-03-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261103T194500
 SUMMARY:JEEZUS!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -79,7 +79,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2026-11-05-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261105T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -88,7 +88,7 @@ DESCRIPTION:Comedy\n£24\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-crush-2026-11-06-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261106T190000
 SUMMARY:Crush
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -97,7 +97,7 @@ DESCRIPTION:Theatre\n£10\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-glam-rock-show-2026-11-06-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261106T194500
 SUMMARY:The Glam Rock Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -106,7 +106,7 @@ DESCRIPTION:Gig\n£34\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-showstopper-2026-11-07-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261107T194500
 SUMMARY:Showstopper!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -115,7 +115,7 @@ DESCRIPTION:Theatre\n£24.50–£29\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-kathakali-2026-11-10-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261110T194500
 SUMMARY:Kathakali
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -124,7 +124,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-11-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261111T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -133,7 +133,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-maisie-adam-2026-11-11-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261111T194500
 SUMMARY:Maisie Adam
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -142,7 +142,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-12-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261112T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -151,7 +151,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-daniel-foxx-2026-11-12-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261112T194500
 SUMMARY:Daniel Foxx
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -160,7 +160,7 @@ DESCRIPTION:Comedy\n£21.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-13-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -169,7 +169,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-in-the-air-tonight-2026-11-13-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261113T194500
 SUMMARY:In the Air Tonight
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -178,7 +178,7 @@ DESCRIPTION:Gig\nListed via Mayflower Theatre\nTickets: https://www.mayflower.or
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-nick-cope-s-family-show-2026-11-14-1130@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261114T113000
 SUMMARY:Nick Cope's Family Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -187,7 +187,7 @@ DESCRIPTION:Theatre\n£19\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-nick-cope-s-family-show-2026-11-14-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261114T143000
 SUMMARY:Nick Cope's Family Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -196,7 +196,7 @@ DESCRIPTION:Theatre\nListed via Mayflower Theatre\nTickets: https://www.mayflowe
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-14-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261114T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -205,7 +205,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-16-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261116T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -214,7 +214,7 @@ DESCRIPTION:Theatre\n£20–£31.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-17-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261117T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -223,7 +223,7 @@ DESCRIPTION:Theatre\n£22.50–£28\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-18-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261118T143000
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -232,7 +232,7 @@ DESCRIPTION:Theatre\n£21.50–£34\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-18-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261118T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -241,7 +241,7 @@ DESCRIPTION:Theatre\n£28–£31.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-19-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261119T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -250,7 +250,7 @@ DESCRIPTION:Theatre\n£21.50–£33.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-20-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261120T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -259,7 +259,7 @@ DESCRIPTION:Theatre\n£21.50–£32.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-21-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261121T143000
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -268,7 +268,7 @@ DESCRIPTION:Theatre\n£22.50–£36.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-other-side-of-murder-2026-11-21-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261121T194500
 SUMMARY:The Other Side of Murder
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -277,7 +277,7 @@ DESCRIPTION:Theatre\n£22.50–£35\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-25-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261125T103000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -286,7 +286,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-25-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261125T133000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -295,7 +295,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-25-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261125T153000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -304,7 +304,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-26-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261126T103000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -313,7 +313,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-26-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261126T133000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -322,7 +322,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-26-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261126T153000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -331,7 +331,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-26-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261126T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -340,7 +340,7 @@ DESCRIPTION:Comedy\n£20.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-27-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261127T103000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -349,7 +349,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-27-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261127T133000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -358,7 +358,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-27-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261127T153000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -367,7 +367,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-27-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261127T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -376,7 +376,7 @@ DESCRIPTION:Comedy\n£21.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-28-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261128T103000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -385,7 +385,7 @@ DESCRIPTION:Theatre\nListed via Mayflower Theatre\nTickets: https://www.mayflowe
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-28-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261128T133000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -394,7 +394,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-lights-2026-11-28-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261128T153000
 SUMMARY:Christmas Lights
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -403,7 +403,7 @@ DESCRIPTION:Theatre\n£11\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-28-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261128T160000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -412,7 +412,7 @@ DESCRIPTION:Comedy\n£29\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-28-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261128T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -421,7 +421,7 @@ DESCRIPTION:Comedy\n£25.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-29-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261129T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -430,7 +430,7 @@ DESCRIPTION:Comedy\n£20.50–£24.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operacocktail-2026-12-01-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261201T190000
 SUMMARY:OperaCocktail
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -439,7 +439,7 @@ DESCRIPTION:Theatre\n£0–£6\nListed via Mayflower Theatre\nTickets: https://t
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-02-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261202T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -448,7 +448,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-solent-writers-networking-day-2026-12-02-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261202T100000
 SUMMARY:Solent Writers' Networking Day
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -457,7 +457,7 @@ DESCRIPTION:Theatre\n£7.50–£12.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-02-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261202T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -466,7 +466,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-02-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261202T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -475,7 +475,7 @@ DESCRIPTION:Comedy\n£22.50–£26.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-03-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261203T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -484,7 +484,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-03-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261203T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -493,7 +493,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-03-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261203T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -502,7 +502,7 @@ DESCRIPTION:Comedy\n£22.50–£28\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-04-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261204T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -511,7 +511,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-04-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261204T160000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -520,7 +520,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-04-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -529,7 +529,7 @@ DESCRIPTION:Comedy\n£27.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-05-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261205T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -538,7 +538,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-05-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261205T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -547,7 +547,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-05-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261205T160000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -556,7 +556,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-05-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261205T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -565,7 +565,7 @@ DESCRIPTION:Comedy\n£27.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-06-1130@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261206T113000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -574,7 +574,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-06-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261206T160000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -583,7 +583,7 @@ DESCRIPTION:Comedy\n£27.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-06-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261206T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -592,7 +592,7 @@ DESCRIPTION:Comedy\n£22.50–£24.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-08-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261208T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -601,7 +601,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-08-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261208T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -610,7 +610,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-08-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261208T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -619,7 +619,7 @@ DESCRIPTION:Comedy\n£22.50–£26.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-09-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261209T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -628,7 +628,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-09-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261209T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -637,7 +637,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-09-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261209T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -646,7 +646,7 @@ DESCRIPTION:Comedy\n£22.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-10-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261210T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -655,7 +655,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-10-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261210T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -664,7 +664,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-10-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261210T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -673,7 +673,7 @@ DESCRIPTION:Comedy\n£22.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-11-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261211T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -682,7 +682,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-11-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261211T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -691,7 +691,7 @@ DESCRIPTION:Comedy\n£27.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-12-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261212T100000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -700,7 +700,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-12-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261212T130000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -709,7 +709,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-very-hungry-caterpillar-christ-2026-12-12-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261212T160000
 SUMMARY:The Very Hungry Caterpillar Christmas Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -718,7 +718,7 @@ DESCRIPTION:Theatre\n£17.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-20-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261220T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -727,7 +727,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-21-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261221T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -736,7 +736,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-22-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261222T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -745,7 +745,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-23-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261223T130000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -754,7 +754,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-festive-afternoon-tea-2026-12-23-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261223T160000
 SUMMARY:Peter Pan Festive Afternoon Tea
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -763,7 +763,7 @@ DESCRIPTION:Theatre\n£14.50–£34.95\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-23-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261223T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -772,7 +772,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-24-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261224T130000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -781,7 +781,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-festive-afternoon-tea-2026-12-27-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261227T160000
 SUMMARY:Peter Pan Festive Afternoon Tea
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -790,7 +790,7 @@ DESCRIPTION:Theatre\n£14.50–£34.95\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-27-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261227T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -799,7 +799,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-28-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261228T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -808,7 +808,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-29-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261229T130000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -817,7 +817,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-30-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261230T130000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -826,7 +826,7 @@ DESCRIPTION:Theatre\n£19.50–£26.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-festive-afternoon-tea-2026-12-30-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261230T160000
 SUMMARY:Peter Pan Festive Afternoon Tea
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -835,7 +835,7 @@ DESCRIPTION:Theatre\n£14.50–£34.95\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-30-1730@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261230T173000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -844,7 +844,7 @@ DESCRIPTION:Theatre\n£19.50–£26.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-peter-pan-2026-12-31-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261231T130000
 SUMMARY:Peter Pan
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -853,7 +853,7 @@ DESCRIPTION:Theatre\n£19.50–£29.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2027-01-07-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270107T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -862,7 +862,7 @@ DESCRIPTION:Comedy\n£24.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jive-talkin-perform-the-bee-gees-2027-01-08-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270108T194500
 SUMMARY:Jive Talkin' Perform The Bee Gees
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -871,7 +871,7 @@ DESCRIPTION:Theatre\nListed via Mayflower Theatre\nTickets: https://www.mayflowe
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-supreme-queen-2027-01-09-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270109T194500
 SUMMARY:Supreme Queen
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -880,7 +880,7 @@ DESCRIPTION:Gig\n£34.50\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-witches-of-eastwick-2027-01-20-1930@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270120T193000
 SUMMARY:The Witches of Eastwick
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -889,7 +889,7 @@ DESCRIPTION:Theatre\n£19.50–£25\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-witches-of-eastwick-2027-01-21-1930@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270121T193000
 SUMMARY:The Witches of Eastwick
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -898,7 +898,7 @@ DESCRIPTION:Theatre\n£19.50–£25\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-witches-of-eastwick-2027-01-22-1930@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270122T193000
 SUMMARY:The Witches of Eastwick
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -907,7 +907,7 @@ DESCRIPTION:Theatre\n£19.50–£25\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-witches-of-eastwick-2027-01-23-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270123T143000
 SUMMARY:The Witches of Eastwick
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -916,7 +916,7 @@ DESCRIPTION:Theatre\n£19.50–£25\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-witches-of-eastwick-2027-01-23-1930@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270123T193000
 SUMMARY:The Witches of Eastwick
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -925,7 +925,7 @@ DESCRIPTION:Theatre\n£19.50–£25\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-dolly-parton-and-kenny-rogers--2027-01-26-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270126T194500
 SUMMARY:The Dolly Parton and Kenny Rogers Experience
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -934,7 +934,7 @@ DESCRIPTION:Gig\n£32\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-mersey-beatles-2027-01-27-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270127T194500
 SUMMARY:The Mersey Beatles
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -943,7 +943,7 @@ DESCRIPTION:Gig\n£31.50\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-turn-of-the-screw-2027-01-28-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270128T194500
 SUMMARY:The Turn of the Screw
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -952,7 +952,7 @@ DESCRIPTION:Theatre\n£16–£29\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-turn-of-the-screw-2027-01-29-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270129T194500
 SUMMARY:The Turn of the Screw
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -961,7 +961,7 @@ DESCRIPTION:Theatre\n£16–£29\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-turn-of-the-screw-2027-01-30-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270130T143000
 SUMMARY:The Turn of the Screw
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -970,7 +970,7 @@ DESCRIPTION:Theatre\n£16–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-turn-of-the-screw-2027-01-30-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270130T194500
 SUMMARY:The Turn of the Screw
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -979,7 +979,7 @@ DESCRIPTION:Theatre\n£16–£29\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-48-thoughts-per-minute-2027-02-02-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270202T190000
 SUMMARY:48 Thoughts Per Minute
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -988,7 +988,7 @@ DESCRIPTION:Theatre\n£15–£30\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-48-thoughts-per-minute-2027-02-03-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270203T190000
 SUMMARY:48 Thoughts Per Minute
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -997,7 +997,7 @@ DESCRIPTION:Theatre\n£15–£30\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ginger-johnson-2027-02-04-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270204T200000
 SUMMARY:Ginger Johnson
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1006,7 +1006,7 @@ DESCRIPTION:Comedy\n£29.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-09-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270209T194500
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1015,7 +1015,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-10-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270210T194500
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1024,7 +1024,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-11-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270211T194500
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1033,7 +1033,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-12-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270212T194500
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1042,7 +1042,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-13-1430@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270213T143000
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1051,7 +1051,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-oh-zeus-2027-02-13-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270213T194500
 SUMMARY:Oh Zeus!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1060,7 +1060,7 @@ DESCRIPTION:Theatre\n£20–£32\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-18-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270218T100000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1069,7 +1069,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-18-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270218T130000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1078,7 +1078,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-19-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270219T100000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1087,7 +1087,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-19-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270219T130000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1096,7 +1096,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-19-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270219T160000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1105,7 +1105,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-20-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270220T100000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1114,7 +1114,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-20-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270220T130000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1123,7 +1123,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pip-and-posy-live-on-stage-2027-02-20-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270220T160000
 SUMMARY:Pip and Posy Live On Stage
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1132,7 +1132,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-barry-steele-s-roy-orbison-story-2027-02-23-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270223T194500
 SUMMARY:Barry Steele's Roy Orbison Story
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1141,7 +1141,7 @@ DESCRIPTION:Gig\n£33\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-peter-serafinowicz-live-show-2027-02-24-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270224T194500
 SUMMARY:The Peter Serafinowicz Live Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1150,7 +1150,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2027-02-25-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270225T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1159,7 +1159,7 @@ DESCRIPTION:Comedy\n£24.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-fleetwood-revival-2027-02-26-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270226T194500
 SUMMARY:Fleetwood Revival
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1168,7 +1168,7 @@ DESCRIPTION:Gig\n£36\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-overtones-2027-02-27-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270227T194500
 SUMMARY:The Overtones
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1177,7 +1177,7 @@ DESCRIPTION:Gig\n£33–£37\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-elo-again-2027-03-05-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270305T194500
 SUMMARY:ELO Again
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1186,7 +1186,7 @@ DESCRIPTION:Gig\n£34.50\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-signatures-2027-03-06-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270306T194500
 SUMMARY:The Signatures
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1195,7 +1195,7 @@ DESCRIPTION:Gig\n£32\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-tatty-macleod-2027-03-10-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270310T194500
 SUMMARY:Tatty Macleod
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1204,7 +1204,7 @@ DESCRIPTION:Comedy\n£25\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-anonymous-lover-2027-03-19-1900@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270319T190000
 SUMMARY:The Anonymous Lover
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1213,7 +1213,7 @@ DESCRIPTION:Theatre\n£24.50–£32.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jason-and-the-argonauts-2027-03-20-1500@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270320T150000
 SUMMARY:Jason and the Argonauts
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1222,7 +1222,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-last-wild-2027-03-25-1800@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270325T180000
 SUMMARY:The Last Wild
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1231,7 +1231,7 @@ DESCRIPTION:Theatre\n£15\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-queenz-2027-03-27-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270327T153000
 SUMMARY:Queenz
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1240,7 +1240,7 @@ DESCRIPTION:Theatre\n£25.50–£32.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-queenz-2027-03-27-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270327T200000
 SUMMARY:Queenz
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1249,7 +1249,7 @@ DESCRIPTION:Theatre\n£25.50–£32.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-goldilocks-and-the-three-bears-the-2027-04-09-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270409T103000
 SUMMARY:Goldilocks and the Three Bears The Musical
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1258,7 +1258,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-goldilocks-and-the-three-bears-the-2027-04-09-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270409T133000
 SUMMARY:Goldilocks and the Three Bears The Musical
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1267,7 +1267,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-goldilocks-and-the-three-bears-the-2027-04-10-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270410T103000
 SUMMARY:Goldilocks and the Three Bears The Musical
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1276,7 +1276,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-goldilocks-and-the-three-bears-the-2027-04-10-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270410T133000
 SUMMARY:Goldilocks and the Three Bears The Musical
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1285,7 +1285,7 @@ DESCRIPTION:Theatre\n£17\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-21-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270521T103000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1294,7 +1294,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-21-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270521T133000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1303,7 +1303,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-22-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270522T103000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1312,7 +1312,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-22-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270522T133000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1321,7 +1321,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-22-1530@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270522T153000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1330,7 +1330,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-23-1030@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270523T103000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1339,7 +1339,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-zog-and-the-flying-doctors-2027-05-23-1330@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270523T133000
 SUMMARY:ZOG and the Flying Doctors
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1348,7 +1348,7 @@ DESCRIPTION:Theatre\n£20\nListed via Mayflower Theatre\nTickets: https://ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-johnny-cash-roadshow-2027-05-27-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270527T194500
 SUMMARY:Johnny Cash Roadshow
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1357,7 +1357,7 @@ DESCRIPTION:Gig\n£25.50–£31.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jack-skipper-2027-05-28-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270528T200000
 SUMMARY:Jack Skipper
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1366,7 +1366,7 @@ DESCRIPTION:Comedy\n£22\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mc-hammersmith-2027-07-20-1945@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270720T194500
 SUMMARY:MC Hammersmith
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1375,7 +1375,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-22-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270722T100000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1384,7 +1384,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-22-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270722T130000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1393,7 +1393,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-23-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270723T100000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1402,7 +1402,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-23-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270723T130000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1411,7 +1411,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-24-1000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270724T100000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1420,7 +1420,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-24-1300@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270724T130000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1429,7 +1429,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-smartest-giant-in-town-2027-07-24-1600@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20270724T160000
 SUMMARY:The Smartest Giant in Town
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1438,7 +1438,7 @@ DESCRIPTION:Theatre\n£19.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-matt-bragg-2027-10-09-2000@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20271009T200000
 SUMMARY:Matt Bragg
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU

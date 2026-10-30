@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-43026802@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261030T200000
 SUMMARY:Temple - Halloween After Dark
 LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d7aeab6b-464@southampton.live
-DTSTAMP:20261030T010459Z
+DTSTAMP:20261030T091551Z
 DTSTART;TZID=Europe/London:20261030T220000
 SUMMARY:HAVANA 🇨🇺 — REVOLUCION LATINA | Halloween Special Edition 🎃
 LOCATION:The Loft\, Bedford Place\, Southampton\, SO15 2EH
