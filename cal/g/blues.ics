@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-41634043@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:The Vintage Explosion
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£32.50\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jools-holland-2026-11-15-1930@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261115T193000
 SUMMARY:Jools Holland
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\n£60\nListed via Mayflower Theatre\nTickets: https://ticketing.
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Ql78WhqZQwFiONpa@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20271015T190000
 SUMMARY:Dr Feelgood & Nine Below Zero
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR

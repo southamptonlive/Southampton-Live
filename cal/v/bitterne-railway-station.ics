@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43449324@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261106T193000
 SUMMARY:Aubrey Blakeledge
 LOCATION:Bitterne Railway station\, Bitterne station MacNaghten Road Bitterne Hampshire\, SO18 1GG
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43449375@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261204T193000
 SUMMARY:Aubrey Blakeledge
 LOCATION:Bitterne Railway station\, Bitterne station MacNaghten Road Bitterne Hampshire\, SO18 1GG

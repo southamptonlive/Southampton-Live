@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-30T09:15:51.194Z",
+ "generated": "2026-10-30T10:06:24.392Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 530
+   "events": 533
   },
   {
    "id": "skiddle:api",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 269
+   "events": 270
   }
  ],
  "venues": [
@@ -17475,6 +17475,33 @@
    "type": "theatre",
    "tags": [],
    "hot": false,
+   "id": "mayf-theatre-tours-2027-01-16-0900",
+   "artist": "Theatre Tours",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-01-16",
+   "time": "09:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2024/03/Family-Theatre-Trail-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53404/54563",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
    "id": "mayf-mean-girls-2027-01-16-1400",
    "artist": "Mean Girls",
    "venueId": "mayflower",
@@ -19459,6 +19486,33 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
+   "id": "mayf-theatre-tours-2027-02-06-0900",
+   "artist": "Theatre Tours",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-02-06",
+   "time": "09:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2024/03/Family-Theatre-Trail-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53404/54564",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
    ]
   },
   {
@@ -22570,6 +22624,33 @@
    "type": "theatre",
    "tags": [],
    "hot": false,
+   "id": "mayf-theatre-tours-2027-03-06-0900",
+   "artist": "Theatre Tours",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2027-03-06",
+   "time": "09:00",
+   "price": 15,
+   "priceMax": 15,
+   "priceText": null,
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2024/03/Family-Theatre-Trail-960x600-1.jpg?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/53404/54565",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/public-tours/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [],
+   "hot": false,
    "id": "mayf-pride-prejudice-sort-of-2027-03-06-1400",
    "artist": "Pride & Prejudice* (*sort of)",
    "venueId": "mayflower",
@@ -23666,9 +23747,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-03-18",
    "time": "19:00",
-   "price": 35.2,
-   "priceMax": 83.6,
-   "priceText": "£35.20–£83.60",
+   "price": 22,
+   "priceMax": 22,
+   "priceText": null,
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/11/62/64_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/jam-baxter-the-brook-tickets/14403634",
@@ -26553,6 +26634,35 @@
    "desc": "The Big Indie Fest returns to EngineRooms Southampton once again!",
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QccTJ3v70byBDDLU",
+   "artist": "From The Jam",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-04-30",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://images.universe.com/c370ef15-8868-4fc1-a725-e2b5953b707f/-/resize/1200x/-/crop/1200x1200/0,245/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/from-the-jam-tickets-KF4TG0?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/from-the-jam-tickets-KF4TG0?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genreGuess": true,
    "genres": [
     "indie"
    ]

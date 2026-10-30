@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sk-42502156@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261127T230000
 SUMMARY:WHE Presents: 4am Kru + Support
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£10–£25\nListed via Skiddle\nTickets: https://www.sk
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43260565@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261201T190000
 SUMMARY:Rum Jungle
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42604107@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:Suburbia & CodeName Amen Presents: Bladerunner Pure Jungle
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£8–£12.50\nListed via Skiddle\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43028018@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20261219T223000
 SUMMARY:DJ Joker Presents: Jungle Bells
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£5\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AdbZ_4Gkw93VJk@southampton.live
-DTSTAMP:20261030T091551Z
+DTSTAMP:20261030T100624Z
 DTSTART;TZID=Europe/London:20270319T183000
 SUMMARY:4am Kru
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
