@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-feb72aa9-b5d@southampton.live
-DTSTAMP:20261029T183335Z
+DTSTAMP:20261030T010459Z
 DTSTART;TZID=Europe/London:20261030T173000
 SUMMARY:🎶 Club Classics Orchestra Presents: R&B Orchestra 🎶
 LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
@@ -15,26 +15,17 @@ URL:https://southampton.live/e/club-classics-orchestra-presents-rb-orchestra-fat
 DESCRIPTION:Gig\n£16.50–£329.97\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2cmncbgc/club-classics-orchestra-presents-r-b-orchestra\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:sk-42718277@southampton.live
-DTSTAMP:20261029T183335Z
+UID:fat-5cf05758-62d@southampton.live
+DTSTAMP:20261030T010459Z
 DTSTART;TZID=Europe/London:20261031T123000
 SUMMARY:Raver Tots Halloween Party Southampton
 LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
-URL:https://southampton.live/e/raver-tots-halloween-party-southampton-sk-42718277.html
-DESCRIPTION:Club night\n£15–£19\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Guildhall-Square/Raver-Tots-Halloween-Party-Southampton/42718277/\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
-UID:sk-42793199@southampton.live
-DTSTAMP:20261029T183335Z
-DTSTART;TZID=Europe/London:20261031T160000
-SUMMARY:Nightmare In The Square
-LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
-URL:https://southampton.live/e/nightmare-in-the-square-sk-42793199.html
-DESCRIPTION:Club night\n£15–£35\nListed via Skiddle\nTickets: https://www.skiddle.com/whats-on/Southampton/Guildhall-Square%2C-UK/Nightmare-In-The-Square/42793199/\nDetails can change — check with the venue.
+URL:https://southampton.live/e/raver-tots-halloween-party-southampton-fat-5cf05758-62d.html
+DESCRIPTION:Gig\n£16.50–£20.90\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/3t8554an/raver-tots-halloween-party-southampton\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-b9878b59-1a6@southampton.live
-DTSTAMP:20261029T183335Z
+DTSTAMP:20261030T010459Z
 DTSTART;TZID=Europe/London:20261031T160000
 SUMMARY:High Tide & Riddle Halloween Rave - Eats Everything\, Danny Howard\, Di Chiara Brothers & Scott Steer
 LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
