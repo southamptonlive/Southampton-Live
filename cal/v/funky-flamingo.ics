@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-eb646d5c-44f@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261031T210000
 SUMMARY:Southampton: DEMON TIME HALLOWEEN SPECIAL
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£6–£8\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-598a86a0-3b7@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261031T210000
 SUMMARY:DEMON TIME HALLOWEEN PARTY
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d35c145e-85e@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:SOUTHAMPTON £10 BOTTLE OF VODKA & V.I.P TABLE: DEMON TIME
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a61d80f4-0f0@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261031T220000
 SUMMARY:HALLOWEEN £10 BOTTLE OF VODKA & V.I.P TABLE (MINIMUM 6 people required to claim bottle & table) Entry not included
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9a4eeeea-b3a@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261127T223000
 SUMMARY:SOUTHAMPTON THIS IS R.U.M: TERMINAL 4 / SAVVY / TEESHOW / DJ LARNI
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Vinilo Record Store — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43494161@southampton.live
+DTSTAMP:20261031T123438Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:The Big Moon
+LOCATION:Vinilo Record Store\, 43-47 Queensway\, SO14 3BL
+URL:https://southampton.live/e/the-big-moon-sg-43494161.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43494161-big-moon-at-vinilo-record-store\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:mayf-richard-ayoade-2026-11-01-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261101T193000
 SUMMARY:Richard Ayoade
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -16,7 +16,7 @@ DESCRIPTION:Comedy\n£34.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jeezus-2026-11-02-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261102T194500
 SUMMARY:JEEZUS!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -25,7 +25,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-03-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261103T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -34,7 +34,7 @@ DESCRIPTION:Theatre\n£25–£45\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-larry-dean-2026-11-03-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261103T194500
 SUMMARY:Larry Dean
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -43,7 +43,7 @@ DESCRIPTION:Comedy\n£24.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jeezus-2026-11-03-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261103T194500
 SUMMARY:JEEZUS!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -52,7 +52,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42492042@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261104T190000
 SUMMARY:Hampshire Open Mic Comedy Night
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -61,7 +61,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-04-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261104T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -70,7 +70,7 @@ DESCRIPTION:Theatre\n£33.50–£42.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-05-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261105T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -79,7 +79,7 @@ DESCRIPTION:Theatre\n£33–£42.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2026-11-05-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261105T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -88,7 +88,7 @@ DESCRIPTION:Comedy\n£24\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fb55d216-c76@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261105T200000
 SUMMARY:Tez Ilyas: Tez Things I Hate About You - Southampton**
 LOCATION:The Stage Door\, 78 West Marlands Road\, Southampton\, SO14 7FW
@@ -97,7 +97,7 @@ DESCRIPTION:Comedy\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/c9r8k
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-06-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261106T140000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -106,7 +106,7 @@ DESCRIPTION:Theatre\n£34–£42.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-06-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261106T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -115,7 +115,7 @@ DESCRIPTION:Theatre\n£43–£48.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-07-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261107T140000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -124,7 +124,7 @@ DESCRIPTION:Theatre\n£49–£54\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-choir-of-man-2026-11-07-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261107T193000
 SUMMARY:The Choir of Man
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -133,7 +133,7 @@ DESCRIPTION:Theatre\n£47–£51\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-bill-bailey-2026-11-08-1500@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261108T150000
 SUMMARY:Bill Bailey
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -142,7 +142,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-bill-bailey-2026-11-08-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261108T200000
 SUMMARY:Bill Bailey
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -151,7 +151,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-harry-enfield-and-no-chums-2026-11-09-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261109T193000
 SUMMARY:Harry Enfield and No Chums
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -160,7 +160,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-98f34861-02e@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261110T193000
 SUMMARY:Comedy At Heartbreakers
 LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
@@ -169,7 +169,7 @@ DESCRIPTION:Comedy\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42639198@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261110T194500
 SUMMARY:Andrew Lawrence "So right\, it's wrong"
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -178,7 +178,7 @@ DESCRIPTION:Comedy\n£18\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-11-1900@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261111T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -187,7 +187,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-maisie-adam-2026-11-11-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261111T194500
 SUMMARY:Maisie Adam
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -196,7 +196,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-12-1900@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261112T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -205,7 +205,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-daniel-foxx-2026-11-12-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261112T194500
 SUMMARY:Daniel Foxx
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -214,7 +214,7 @@ DESCRIPTION:Comedy\n£21.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-13-1900@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -223,7 +223,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-unfriend-2026-11-14-1900@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261114T190000
 SUMMARY:The Unfriend
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -232,7 +232,7 @@ DESCRIPTION:Comedy\n£14\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-17-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261117T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -241,7 +241,7 @@ DESCRIPTION:Theatre\n£56–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-18-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261118T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -250,7 +250,7 @@ DESCRIPTION:Theatre\n£51–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-18-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261118T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -259,7 +259,7 @@ DESCRIPTION:Theatre\n£59–£69.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-19-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261119T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -268,7 +268,7 @@ DESCRIPTION:Theatre\n£51–£62.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42437557@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261119T190000
 SUMMARY:Alasdair Beckett-King at The Attic in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -277,7 +277,7 @@ DESCRIPTION:Comedy\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-19-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261119T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -286,7 +286,7 @@ DESCRIPTION:Theatre\n£58.50–£62.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-20-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261120T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -295,7 +295,7 @@ DESCRIPTION:Theatre\n£61.50–£62.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42681834@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261120T200000
 SUMMARY:Stand Up Comedy with Bella Hull\, Tom Ward and Joey Page
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -304,7 +304,7 @@ DESCRIPTION:Comedy\n£22.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-21-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261121T140000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -313,7 +313,7 @@ DESCRIPTION:Theatre\n£62.50\nListed via Mayflower Theatre\nTickets: https://tic
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42492040@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261121T190000
 SUMMARY:Dominic Frisby on Tour! in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -322,7 +322,7 @@ DESCRIPTION:Comedy\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-operation-mincemeat-2026-11-21-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261121T193000
 SUMMARY:Operation Mincemeat
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -331,7 +331,7 @@ DESCRIPTION:Theatre\n£61–£74.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-26-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261126T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -340,7 +340,7 @@ DESCRIPTION:Comedy\n£20.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-27-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261127T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -349,7 +349,7 @@ DESCRIPTION:Comedy\n£21.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-28-1600@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261128T160000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -358,7 +358,7 @@ DESCRIPTION:Comedy\n£29\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-28-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261128T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -367,7 +367,7 @@ DESCRIPTION:Comedy\n£25.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-11-29-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261129T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -376,7 +376,7 @@ DESCRIPTION:Comedy\n£20.50–£26\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-02-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261202T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -385,7 +385,7 @@ DESCRIPTION:Comedy\n£22.50–£26.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-03-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261203T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -394,7 +394,7 @@ DESCRIPTION:Comedy\n£22.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-04-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261204T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -403,7 +403,7 @@ DESCRIPTION:Comedy\n£29\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-05-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261205T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -412,7 +412,7 @@ DESCRIPTION:Comedy\n£29\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-06-1600@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261206T160000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -421,7 +421,7 @@ DESCRIPTION:Comedy\n£27.50–£29\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-06-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261206T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -430,7 +430,7 @@ DESCRIPTION:Comedy\n£22.50–£24.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-509ed00d-11c@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261208T193000
 SUMMARY:Comedy At Heartbreakers
 LOCATION:Heartbreakers\, 20 Hanover Buildings\, Southampton\, SO14 1JX
@@ -439,7 +439,7 @@ DESCRIPTION:Comedy\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-08-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261208T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -448,7 +448,7 @@ DESCRIPTION:Comedy\n£22.50–£26.50\nListed via Mayflower Theatre\nTickets: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-09-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261209T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -457,7 +457,7 @@ DESCRIPTION:Comedy\n£21–£29\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-10-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261210T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -466,7 +466,7 @@ DESCRIPTION:Comedy\n£21–£29\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-cinderella-a-very-happy-ending-2026-12-11-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261211T200000
 SUMMARY:Cinderella... a VERY Happy Ending!
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -475,7 +475,7 @@ DESCRIPTION:Comedy\n£29\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42611270@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261216T193000
 SUMMARY:Open Mic Comedy Night Special near me
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -484,7 +484,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43123091@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261216T200000
 SUMMARY:Stand Up Comedy with Paul McCaffrey\, Robert White & Rob Deering
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -493,7 +493,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43123094@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261217T200000
 SUMMARY:Stand Up Comedy ft Angelos Epithemiou\, Danny Ward & James Ellis
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -502,7 +502,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42532872@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261218T190000
 SUMMARY:A Jerry Christmas with Frank Sanazi & The Iraq Pack
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -511,7 +511,7 @@ DESCRIPTION:Comedy\n£19\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2027-01-07-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270107T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -520,7 +520,7 @@ DESCRIPTION:Comedy\n£24.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43123095@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270108T200000
 SUMMARY:Stand Up Comedy with Michael Fabbri\, Jeff Innocent & Paul Sinha
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -529,7 +529,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42800786@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270120T193000
 SUMMARY:Open Mic Comedy Night near me
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -538,7 +538,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-02-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270202T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -547,7 +547,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-03-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270203T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -556,7 +556,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-04-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270204T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -565,7 +565,7 @@ DESCRIPTION:Theatre\n£31.50–£76.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-04-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270204T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -574,7 +574,7 @@ DESCRIPTION:Theatre\n£33–£66\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-ginger-johnson-2027-02-04-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270204T200000
 SUMMARY:Ginger Johnson
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -583,7 +583,7 @@ DESCRIPTION:Comedy\n£29.75\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-05-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270205T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -592,7 +592,7 @@ DESCRIPTION:Theatre\n£42–£75\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-06-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270206T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -601,7 +601,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-06-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270206T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -610,7 +610,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42498034@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270206T194500
 SUMMARY:Max Fulham & Friends in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -619,7 +619,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-07-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270207T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -628,7 +628,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-09-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270209T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -637,7 +637,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-10-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270210T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -646,7 +646,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-11-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270211T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -655,7 +655,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-11-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270211T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -664,7 +664,7 @@ DESCRIPTION:Theatre\n£24–£68.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-12-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270212T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -673,7 +673,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050987@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270212T194500
 SUMMARY:Bobby Davro at The Attic in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -682,7 +682,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-13-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270213T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -691,7 +691,7 @@ DESCRIPTION:Theatre\n£29–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-13-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270213T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -700,7 +700,7 @@ DESCRIPTION:Theatre\n£29–£76\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-14-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270214T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -709,7 +709,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-16-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270216T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -718,7 +718,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43125681@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270217T193000
 SUMMARY:Open Mic Comedy Night near me
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -727,7 +727,7 @@ DESCRIPTION:Comedy\n£6\nListed via Skiddle\nTickets: https://www.skiddle.com/wh
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-17-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270217T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -736,7 +736,7 @@ DESCRIPTION:Theatre\n£30–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-18-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270218T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -745,7 +745,7 @@ DESCRIPTION:Theatre\n£24–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-18-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270218T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -754,7 +754,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-19-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270219T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -763,7 +763,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050968@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270219T194500
 SUMMARY:Abi Clarke stand up comedy tour
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -772,7 +772,7 @@ DESCRIPTION:Comedy\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-20-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270220T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -781,7 +781,7 @@ DESCRIPTION:Theatre\n£37.50–£80.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-20-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270220T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -790,7 +790,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-21-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270221T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -799,7 +799,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-23-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270223T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -808,7 +808,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-24-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270224T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -817,7 +817,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-peter-serafinowicz-live-show-2027-02-24-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270224T194500
 SUMMARY:The Peter Serafinowicz Live Show
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -826,7 +826,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-25-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270225T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -835,7 +835,7 @@ DESCRIPTION:Theatre\n£24–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-25-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270225T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -844,7 +844,7 @@ DESCRIPTION:Theatre\n£30–£65\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-stitches-comedy-club-2027-02-25-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270225T200000
 SUMMARY:Stitches Comedy Club
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -853,7 +853,7 @@ DESCRIPTION:Comedy\n£24.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-26-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270226T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -862,7 +862,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-27-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270227T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -871,7 +871,7 @@ DESCRIPTION:Theatre\n£34–£80.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-27-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270227T193000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -880,7 +880,7 @@ DESCRIPTION:Theatre\n£29–£71.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mrs-doubtfire-2027-02-28-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270228T140000
 SUMMARY:Mrs. Doubtfire
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -889,7 +889,7 @@ DESCRIPTION:Theatre\n£29–£70\nListed via Mayflower Theatre\nTickets: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-03-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270303T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -898,7 +898,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-04-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270304T140000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -907,7 +907,7 @@ DESCRIPTION:Theatre\n£10–£39.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-04-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270304T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -916,7 +916,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-05-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270305T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -925,7 +925,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-06-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270306T140000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -934,7 +934,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-pride-prejudice-sort-of-2027-03-06-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270306T193000
 SUMMARY:Pride & Prejudice* (*sort of)
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -943,7 +943,7 @@ DESCRIPTION:Theatre\n£10–£44.50\nListed via Mayflower Theatre\nTickets: http
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-tatty-macleod-2027-03-10-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270310T194500
 SUMMARY:Tatty Macleod
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -952,7 +952,7 @@ DESCRIPTION:Comedy\n£25\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42724346@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270312T194500
 SUMMARY:Chris Cantrill Stand up Comedy Tour in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -961,7 +961,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-15-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270315T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -970,7 +970,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-16-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270316T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -979,7 +979,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-17-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270317T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -988,7 +988,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-18-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270318T140000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -997,7 +997,7 @@ DESCRIPTION:Theatre\n£22.50–£42.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-18-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270318T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1006,7 +1006,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-19-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270319T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1015,7 +1015,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43050972@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270319T194500
 SUMMARY:Stand up comedy in Southampton with headliner Laura Lexx
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1024,7 +1024,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-20-1400@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270320T140000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1033,7 +1033,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-the-full-monty-2027-03-20-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270320T193000
 SUMMARY:The Full Monty
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1042,7 +1042,7 @@ DESCRIPTION:Theatre\n£27.50–£49.50\nListed via Mayflower Theatre\nTickets: h
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42624052@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270325T193000
 SUMMARY:200% Badgers (Badgers vs Hedgehogs) with Matt Hobs
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1051,7 +1051,7 @@ DESCRIPTION:Comedy\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-25-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270325T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1060,7 +1060,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-26-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270326T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1069,7 +1069,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-alan-carr-2027-03-27-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270327T193000
 SUMMARY:Alan Carr
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1078,7 +1078,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-al-murray-the-pub-landlord-2027-04-25-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270425T193000
 SUMMARY:Al Murray The Pub Landlord
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -1087,7 +1087,7 @@ DESCRIPTION:Comedy\n£35–£65\nListed via Mayflower Theatre\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mark-steel-2027-05-07-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270507T194500
 SUMMARY:Mark Steel
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1096,7 +1096,7 @@ DESCRIPTION:Comedy\n£24\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42681120@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270508T194500
 SUMMARY:A Night with Frank Sanazi & Sol Bernstein in Southampton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1105,7 +1105,7 @@ DESCRIPTION:Comedy\n£17.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43125695@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270521T194500
 SUMMARY:Stand up comedy in Southampton with Headliner Bob Mills Southamp
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1114,7 +1114,7 @@ DESCRIPTION:Comedy\n£16.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-jack-skipper-2027-05-28-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270528T200000
 SUMMARY:Jack Skipper
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1123,7 +1123,7 @@ DESCRIPTION:Comedy\n£22\nListed via Mayflower Theatre\nTickets: https://ticketi
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42604561@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270703T170000
 SUMMARY:Mark Simmons - W.I.P - Early evening (matinee) show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1132,7 +1132,7 @@ DESCRIPTION:Comedy\n£15\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42616632@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270717T164500
 SUMMARY:Alfie Moore - New Comedy Tour Warm Up Show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1141,7 +1141,7 @@ DESCRIPTION:Comedy\n£17\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42616640@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270717T200000
 SUMMARY:Alfie Moore - New Comedy Tour Warm Up Show
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -1150,7 +1150,7 @@ DESCRIPTION:Comedy\n£17\nListed via Skiddle\nTickets: https://www.skiddle.com/w
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-mc-hammersmith-2027-07-20-1945@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270720T194500
 SUMMARY:MC Hammersmith
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1159,7 +1159,7 @@ DESCRIPTION:Comedy\nListed via Mayflower Theatre\nTickets: https://www.mayflower
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-matt-bragg-2027-10-09-2000@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20271009T200000
 SUMMARY:Matt Bragg
 LOCATION:MAST Mayflower Studios\, Above Bar Street\, Southampton\, SO14 7DU
@@ -1168,7 +1168,7 @@ DESCRIPTION:Comedy\n£20.50\nListed via Mayflower Theatre\nTickets: https://tick
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-tom-allen-2027-11-28-1930@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20271128T193000
 SUMMARY:Tom Allen
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE

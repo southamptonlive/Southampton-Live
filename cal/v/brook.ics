@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:br-mad-dog-mcrea-dusk-till-dawn-tour-2026-10-31@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261031T193000
 SUMMARY:Mad Dog Mcrea - DUSK TILL DAWN TOUR
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£11–£16.50\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-noasis-2026-11-06@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261106T210000
 SUMMARY:Noasis
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-ben-poole-railway-inn-2026-11-07@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261107T200000
 SUMMARY:Ben Poole @ Railway Inn
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-dirty-dc-special-bon-scott-brian-johnson-2026-11-07@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261107T203000
 SUMMARY:Dirty DC - Special Bon Scott / Brian Johnson Show
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-overpass-2026-11-10@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261110T200000
 SUMMARY:overpass
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-chris-payn-the-parade-2026-11-12@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261112T190000
 SUMMARY:Chris Payn & The Parade
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-the-allergies-beneath-this-sun-live-tour-2026-11-13@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261113T193000
 SUMMARY:The Allergies - 'Beneath This Sun' Live Tour
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -70,7 +70,7 @@ DESCRIPTION:Gig\n£20.35\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-bon-giovi-2026-11-14@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261114T200000
 SUMMARY:Bon Giovi
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -79,7 +79,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-the-wannadies-2026-11-15@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261115T200000
 SUMMARY:The Wannadies
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -88,7 +88,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-dan-patlansky-2026-11-18@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261118T200000
 SUMMARY:Dan Patlansky
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -97,16 +97,16 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-listening-room-live-sessions-2026-11-19@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261119T193000
 SUMMARY:Listening Room - Live Sessions
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
 URL:https://southampton.live/e/listening-room-live-sessions-br-listening-room-live-sessions-2026-11-19.html
-DESCRIPTION:Gig\n£29.70\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/listening-room-live-the-brook-tickets/14306014\nDetails can change — check with the venue.
+DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketweb.uk/event/listening-room-live-the-brook-tickets/14306014\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-the-barefoot-bandit-special-guests-2026-11-20@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261120T193000
 SUMMARY:The Barefoot Bandit + Special Guests
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -115,7 +115,7 @@ DESCRIPTION:Gig\n£13.20\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-42742024@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261121T193000
 SUMMARY:Oh My God! It's The Church
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -124,7 +124,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:br-omg-it-s-the-church-2026-11-21@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261121T203000
 SUMMARY:OMG It's the Church
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -133,7 +133,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-evergrey-2026-11-25@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261125T190000
 SUMMARY:Evergrey
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -142,7 +142,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-elles-bailey-2026-11-26@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261126T193000
 SUMMARY:Elles Bailey
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -151,7 +151,7 @@ DESCRIPTION:Gig\n£30.25\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d4511196-a7b@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Winter Metal Meltdown - Southampton
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -160,7 +160,7 @@ DESCRIPTION:Gig\n£30.80\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e
 END:VEVENT
 BEGIN:VEVENT
 UID:br-girlschool-2026-11-27@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261127T193000
 SUMMARY:Girlschool
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -169,7 +169,7 @@ DESCRIPTION:Gig\n£30.80\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-los-pacaminos-featuring-paul-young-2026-11-28@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261128T201500
 SUMMARY:Los Pacaminos Featuring Paul Young
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -178,7 +178,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-jesus-jones-35-year-anniversary-of-doubt-2026-11-29@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261129T203000
 SUMMARY:Jesus Jones 35 Year Anniversary of Doubt
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -187,7 +187,7 @@ DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-legend-a-tribute-to-bob-marley-2026-12-04@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261204T201000
 SUMMARY:Legend - A Tribute To Bob Marley
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -196,7 +196,7 @@ DESCRIPTION:Gig\n£19.80\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-mainly-madness-2026-12-05@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261205T200000
 SUMMARY:Mainly Madness
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -205,7 +205,7 @@ DESCRIPTION:Gig\n£11–£16.50\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-jamie-and-the-falcons-2026-12-06@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261206T193000
 SUMMARY:Jamie and The Falcons
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -214,7 +214,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-cloudbusting-the-music-of-kate-bush-2026-12-11@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261211T203000
 SUMMARY:Cloudbusting: The Music of Kate Bush.
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -223,7 +223,7 @@ DESCRIPTION:Gig\n£11–£16.50\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-t-rextasy-2026-12-12@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261212T203000
 SUMMARY:T.Rextasy
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -232,7 +232,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-foo-forgers-with-special-guests-foo-farm-2026-12-18@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261218T193000
 SUMMARY:Foo Forgers with special guests Foo Farmers
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -241,7 +241,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43425112@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Loonee Tunes
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -250,7 +250,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:br-loonee-toons-christmas-party-2026-12-19@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261219T200000
 SUMMARY:Loonee Toons - Christmas Party
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -259,7 +259,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-n-y-e-with-the-underdogs-2026-12-31@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20261231T203000
 SUMMARY:N.Y.E. With The Underdogs
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -268,7 +268,7 @@ DESCRIPTION:Gig\n£11–£16.50\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-money-for-nothing-2027-01-09@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270109T203000
 SUMMARY:Money For Nothing
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -277,7 +277,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-oye-santana-derick-clapton-the-dynamos-2027-01-15@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270115T193000
 SUMMARY:Oye Santana + Derick Clapton & The Dynamos
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -286,7 +286,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-fleetwood-bac-2027-01-16@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270116T201500
 SUMMARY:Fleetwood Bac
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -295,7 +295,7 @@ DESCRIPTION:Gig\n£23.10\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-beatallica-2027-01-20@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270120T193000
 SUMMARY:Beatallica
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -304,7 +304,7 @@ DESCRIPTION:Gig\n£18.70\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-hi-on-maiden-2027-01-23@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270123T203000
 SUMMARY:Hi-On Maiden
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -313,7 +313,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-bywater-call-2027-01-28@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270128T200000
 SUMMARY:Bywater Call
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -322,7 +322,7 @@ DESCRIPTION:Gig\n£28.60\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-all-the-queen-s-men-2027-01-29@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270129T193000
 SUMMARY:All The Queen's Men...
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -331,7 +331,7 @@ DESCRIPTION:Gig\n£33\nListed via the-brook.com\nTickets: https://www.ticketweb.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-no-jacket-required-2027-01-30@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270130T200000
 SUMMARY:No Jacket Required
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -340,7 +340,7 @@ DESCRIPTION:Gig\n£23.10\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-martyn-joseph-2027-01-31@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270131T190000
 SUMMARY:Martyn Joseph
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -349,7 +349,7 @@ DESCRIPTION:Gig\n£2–£32\nListed via the-brook.com\nTickets: https://www.tick
 END:VEVENT
 BEGIN:VEVENT
 UID:br-antarctic-monkeys-2027-02-05@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270205T193000
 SUMMARY:Antarctic Monkeys
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -358,7 +358,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-metallica-reloaded-2027-02-06@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270206T192000
 SUMMARY:Metallica Reloaded
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -367,7 +367,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-bifr-st-the-final-farewell-2027-02-12@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270212T193000
 SUMMARY:BIFRÖST — THE FINAL FAREWELL
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -376,7 +376,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-ariel-posen-2027-02-15@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270215T193000
 SUMMARY:Ariel Posen
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -385,7 +385,7 @@ DESCRIPTION:Gig\n£24.75\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-beaux-gris-gris-the-apocalypse-2027-02-18@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270218T193000
 SUMMARY:Beaux Gris Gris & The Apocalypse
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -394,7 +394,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-downloaded-2027-02-20@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270220T193000
 SUMMARY:Downloaded
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -403,7 +403,7 @@ DESCRIPTION:Gig\n£19.25\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43466417@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:Charlotte Carpenter
@@ -413,7 +413,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:br-johnny-cash-roadshow-still-walking-the-l-2027-02-26@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270226T203000
 SUMMARY:Johnny Cash Roadshow - Still Walking The Line At 95
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -422,7 +422,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-signs-of-the-swarm-2027-03-06@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270306T180000
 SUMMARY:Signs of the Swarm
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -431,7 +431,7 @@ DESCRIPTION:Gig\n£24.20\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-steve-n-seagulls-2027-03-08@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270308T193000
 SUMMARY:Steve 'n' Seagulls
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -440,7 +440,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-alcest-2027-03-16@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270316T190000
 SUMMARY:Alcest
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -449,7 +449,7 @@ DESCRIPTION:Gig\n£30.25\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-jam-baxter-2027-03-18@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270318T190000
 SUMMARY:Jam Baxter
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -458,7 +458,7 @@ DESCRIPTION:Gig\n£22\nListed via the-brook.com\nTickets: https://www.ticketweb.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-eddie-9v-2027-03-24@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270324T193000
 SUMMARY:Eddie 9V
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -467,7 +467,7 @@ DESCRIPTION:Gig\n£27.50\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-quo-connection-2027-04-03@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270403T200000
 SUMMARY:Quo Connection
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -476,7 +476,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-deeper-purple-machine-head-tour-2027-2027-04-22@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270422T200000
 SUMMARY:Deeper Purple – Machine Head Tour 2027
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -485,7 +485,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-brave-rival-2027-05-01@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270501T190000
 SUMMARY:Brave Rival
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -494,7 +494,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-toby-lee-2027-05-09@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270509T190000
 SUMMARY:Toby Lee
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -503,7 +503,7 @@ DESCRIPTION:Gig\n£29.70\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-arkayla-2027-05-15@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270515T190000
 SUMMARY:Arkayla
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -512,7 +512,7 @@ DESCRIPTION:Gig\n£19.25\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-johnny-hates-jazz-the-shattered-dreams-t-2027-05-22@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270522T193000
 SUMMARY:Johnny Hates Jazz - The Shattered Dreams Tour
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -521,7 +521,7 @@ DESCRIPTION:Gig\n£29.15\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-curved-air-farewell-tour-2026-2027-09-02@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20270902T190000
 SUMMARY:Curved Air Farewell Tour 2026
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -530,7 +530,7 @@ DESCRIPTION:Gig\n£16.50–£22\nListed via the-brook.com\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:br-elo-again-moved-from-8th-january-2027-10-16@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20271016T201500
 SUMMARY:ELO Again (Moved from 8th January)
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -539,7 +539,7 @@ DESCRIPTION:Gig\n£24.20\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:br-the-brook-gift-vouchers-2027-12-30@southampton.live
-DTSTAMP:20261031T054612Z
+DTSTAMP:20261031T123438Z
 DTSTART;TZID=Europe/London:20271230T000000
 SUMMARY:THE BROOK GIFT VOUCHERS
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
