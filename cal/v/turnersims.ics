@@ -6,17 +6,8 @@ X-WR-CALNAME:Turner Sims — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:sg-43350001@southampton.live
-DTSTAMP:20261030T222523Z
-DTSTART;TZID=Europe/London:20261030T200000
-SUMMARY:Christ-Stéphane Boizi
-LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
-URL:https://southampton.live/e/christ-stephane-boizi-sg-43350001.html
-DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43350001-christstephane-boizi-at-turner-sims-concert-hall-university-of-southampton\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:tm-1AdbZ_8GkV5W9D2@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;TZID=Europe/London:20261101T183000
 SUMMARY:Recomposed by Max Richter: Vivaldi\, The Four Seasons
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -25,7 +16,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43315417@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Soumik Datta
@@ -35,7 +26,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43300181@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Thibaut Garcia
@@ -45,7 +36,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43238868@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Jesca Hoop
@@ -55,7 +46,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140480@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;TZID=Europe/London:20261219T140000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -64,7 +55,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140484@southampton.live
-DTSTAMP:20261030T222523Z
+DTSTAMP:20261031T054612Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
