@@ -6,21 +6,22 @@ X-WR-CALNAME:Guildhall Square — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:fat-5cf05758-62d@southampton.live
-DTSTAMP:20261031T123438Z
-DTSTART;TZID=Europe/London:20261031T123000
-SUMMARY:Raver Tots Halloween Party Southampton
+UID:sg-43424934@southampton.live
+DTSTAMP:20261031T192312Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Eats Everything
 LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
-URL:https://southampton.live/e/raver-tots-halloween-party-southampton-fat-5cf05758-62d.html
-DESCRIPTION:Gig\n£16.50–£20.90\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/3t8554an/raver-tots-halloween-party-southampton\nDetails can change — check with the venue.
+URL:https://southampton.live/e/eats-everything-sg-43424934.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43424934-eats-everything-at-guildhall-square\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-b9878b59-1a6@southampton.live
-DTSTAMP:20261031T123438Z
+DTSTAMP:20261031T192312Z
 DTSTART;TZID=Europe/London:20261031T160000
-SUMMARY:High Tide & Riddle Halloween Rave - Eats Everything\, Danny Howard\, Di Chiara Brothers & Scott Steer
+SUMMARY:High Tide & Riddle Halloween - SOLD OUT ONLINE (100 TICKETS ON THE DOOR)
 LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
-URL:https://southampton.live/e/high-tide-riddle-halloween-rave-eats-everything-danny-howard-fat-b9878b59-1a6.html
-DESCRIPTION:Club night\n£16.50–£38.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer\nDetails can change — check with the venue.
+URL:https://southampton.live/e/high-tide-riddle-halloween-sold-out-online-100-tickets-on-th-fat-b9878b59-1a6.html
+DESCRIPTION:Club night\n£16.50–£38.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-sold-out-online-100-tickets-on-the-door\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR

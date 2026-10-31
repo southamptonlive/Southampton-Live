@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-10-31T12:34:38.181Z",
+ "generated": "2026-10-31T19:23:12.480Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 523
+   "events": 521
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 185
+   "events": 183
   },
   {
    "id": "ticketmaster",
@@ -401,6 +401,33 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43424934",
+   "artist": "Eats Everything",
+   "venueId": "guildhall-square",
+   "venueName": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "date": "2026-10-31",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "house",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43424934-eats-everything-at-guildhall-square",
+   "infoUrl": "https://www.songkick.com/concerts/43424934-eats-everything-at-guildhall-square",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genres": [
+    "house"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-43433560",
    "artist": "Nic",
    "venueId": "joiners",
@@ -489,69 +516,6 @@
   {
    "type": "gig",
    "tags": [
-    "drum & bass",
-    "garage",
-    "house",
-    "rave"
-   ],
-   "hot": false,
-   "id": "fat-5cf05758-62d",
-   "artist": "Raver Tots Halloween Party Southampton",
-   "venueId": "guildhall-square",
-   "venueName": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "date": "2026-10-31",
-   "time": "12:30",
-   "price": 16.5,
-   "priceMax": 20.9,
-   "priceText": "£16.50–£20.90",
-   "genre": "dnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/3t8554an/raver-tots-halloween-party-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/3t8554an/raver-tots-halloween-party-southampton",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "dnb",
-    "house",
-    "electronic"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-singing-mermaid-2026-10-31-1330",
-   "artist": "The Singing Mermaid",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-10-31",
-   "time": "13:30",
-   "price": 17,
-   "priceMax": 17,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/12/960px-x-600px.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53354/53359",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-singing-mermaid-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [
     "halloween"
    ],
    "hot": false,
@@ -578,65 +542,6 @@
    "sourceRun": "fatsoma",
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "rave",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-b9878b59-1a6",
-   "artist": "High Tide & Riddle Halloween Rave - Eats Everything, Danny Howard, Di Chiara Brothers & Scott Steer",
-   "venueId": "guildhall-square",
-   "venueName": "Guildhall Square",
-   "postcode": "SO14 7LP",
-   "date": "2026-10-31",
-   "time": "16:00",
-   "price": 16.5,
-   "priceMax": 38.5,
-   "priceText": "£16.50–£38.50",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
-   "infoUrl": "https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-rave-eats-everything-danny-howard-di-chiara-brothers-scott-steer",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-six-2026-10-31-1600",
-   "artist": "SIX",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-10-31",
-   "time": "16:00",
-   "price": 55,
-   "priceMax": 60,
-   "priceText": "£55–£60",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2024/05/SIXT25155_MAYFLOWER_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52409/52416",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/six-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -674,10 +579,42 @@
   {
    "type": "club",
    "tags": [
-    "trance",
     "halloween"
    ],
    "hot": false,
+   "id": "fat-b9878b59-1a6",
+   "artist": "High Tide & Riddle Halloween - SOLD OUT ONLINE (100 TICKETS ON THE DOOR)",
+   "venueId": "guildhall-square",
+   "venueName": "Guildhall Square",
+   "postcode": "SO14 7LP",
+   "date": "2026-10-31",
+   "time": "16:00",
+   "price": 16.5,
+   "priceMax": 38.5,
+   "priceText": "£16.50–£38.50",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-sold-out-online-100-tickets-on-the-door",
+   "infoUrl": "https://www.fatsoma.com/e/dspyl9pt/high-tide-riddle-halloween-sold-out-online-100-tickets-on-the-door",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "trance",
+    "halloween"
+   ],
+   "hot": true,
    "id": "sk-42513985",
    "artist": "Dave Pearce Trance Anthems Halloween with Signum",
    "venueId": "engine",
@@ -9561,12 +9498,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-28",
    "time": "16:00",
-   "price": 29,
-   "priceMax": 29,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/5_MAST-Web-Event-Card-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53093/53098",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/cinderella-a-very-happy-ending-2026/",
    "going": 0,
    "minage": null,
