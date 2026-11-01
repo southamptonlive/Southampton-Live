@@ -6,27 +6,8 @@ X-WR-CALNAME:House in Southampton — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:sg-43424934@southampton.live
-DTSTAMP:20261031T192312Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Eats Everything
-LOCATION:Guildhall Square\, Guildhall Square\, Southampton\, SO14 7LP
-URL:https://southampton.live/e/eats-everything-sg-43424934.html
-DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43424934-eats-everything-at-guildhall-square\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
-UID:fat-0be38d99-5ac@southampton.live
-DTSTAMP:20261031T192312Z
-DTSTART;TZID=Europe/London:20261031T100000
-SUMMARY:THE MAD HOUSE HALLOWEEN EVENT
-LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
-URL:https://southampton.live/e/the-mad-house-halloween-event-fat-0be38d99-5ac.html
-DESCRIPTION:Club night\n£0–£2\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/pgobz05i/the-mad-house-halloween-event\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:sk-43018159@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261104T220000
 SUMMARY:MidWeek Motion
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -35,7 +16,7 @@ DESCRIPTION:Club night\n£3–£5\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-79ad11f2-20b@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261106T210000
 SUMMARY:FRIDAY - MIDNIGHT MADDNESS
 LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
@@ -44,7 +25,7 @@ DESCRIPTION:Club night\n£0–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d63438e2-d82@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261106T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -53,7 +34,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-43d17b48-ae8@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261113T210000
 SUMMARY:FRIDAY - MIDNIGHT MADDNESS
 LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
@@ -62,7 +43,7 @@ DESCRIPTION:Club night\n£0–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0183973b-0b3@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261113T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -71,7 +52,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-987b8089-426@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261120T210000
 SUMMARY:FRIDAY - MIDNIGHT MADDNESS
 LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
@@ -80,7 +61,7 @@ DESCRIPTION:Club night\n£0–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-5e2d4ec9-961@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261120T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -89,7 +70,7 @@ DESCRIPTION:Club night\n£0–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-831ac875-287@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261127T210000
 SUMMARY:FRIDAY - MIDNIGHT MADDNESS
 LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
@@ -98,7 +79,7 @@ DESCRIPTION:Club night\n£0–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-54dbd5a3-4d8@southampton.live
-DTSTAMP:20261031T192312Z
+DTSTAMP:20261101T001251Z
 DTSTART;TZID=Europe/London:20261127T230000
 SUMMARY:Feel . Good . Friday @ Cafe Parfait
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
