@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-ba3b614f-c96@southampton.live
-DTSTAMP:20261104T172027Z
+DTSTAMP:20261104T234439Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -16,16 +16,25 @@ DESCRIPTION:Club night\n£8–£33\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-006818f9-fac@southampton.live
-DTSTAMP:20261104T172027Z
+DTSTAMP:20261104T234439Z
 DTSTART;TZID=Europe/London:20261106T230000
 SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
 URL:https://southampton.live/e/southampton-diwali-x-fake-wedding-party-fat-006818f9-fac.html
-DESCRIPTION:Club night\n£6–£33\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
+DESCRIPTION:Club night\n£6–£44\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-df18bd64-29c@southampton.live
+DTSTAMP:20261104T234439Z
+DTSTART;TZID=Europe/London:20261123T220000
+SUMMARY:DesiBeatz Southampton Presents : DESI 023
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/desibeatz-southampton-presents-desi-023-fat-df18bd64-29c.html
+DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/y2yfropg/desibeatz-southampton-presents-desi-023\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3ab688a1-d5c@southampton.live
-DTSTAMP:20261104T172027Z
+DTSTAMP:20261104T234439Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -34,7 +43,7 @@ DESCRIPTION:Club night\n£4.99–£26.40\nListed via Fatsoma\nTickets: https://w
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ec63696c-188@southampton.live
-DTSTAMP:20261104T172027Z
+DTSTAMP:20261104T234439Z
 DTSTART;TZID=Europe/London:20270502T030000
 SUMMARY:R.U.M IN THE SUN : 10 YEARS OF R.U.M IN THE SUN
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -43,7 +52,7 @@ DESCRIPTION:Gig\n£6.95–£15.35\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0badd251-fd4@southampton.live
-DTSTAMP:20261104T172027Z
+DTSTAMP:20261104T234439Z
 DTSTART;TZID=Europe/London:20270930T230000
 SUMMARY:Southampton Freshers 2027 Welcome Party
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
