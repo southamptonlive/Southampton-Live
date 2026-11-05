@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Mail Room Bar and Kitchen — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-09a79342-6a9@southampton.live
+DTSTAMP:20261105T172926Z
+DTSTART;TZID=Europe/London:20261121T200000
+SUMMARY:La Casa Loca X Mailrooms
+LOCATION:Mail Room Bar and Kitchen\, 37 Oxford St\, Southampton SO14 3FD\, SO14 3FD
+URL:https://southampton.live/e/la-casa-loca-x-mailrooms-fat-09a79342-6a9.html
+DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/2q8wf9t0/la-casa-loca-x-mailrooms\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
