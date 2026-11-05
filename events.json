@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-05T17:29:26.463Z",
+ "generated": "2026-11-05T23:43:31.805Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -50,7 +50,7 @@
    "id": "skiddle:The-Attic-Southampton",
    "label": "Skiddle · The Attic Southampton",
    "ok": false,
-   "carried": 25,
+   "carried": 0,
    "error": "no SSR eventsData (soft-blocked?)"
   },
   {
@@ -79,14 +79,14 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 59
+   "events": 58
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 410
+   "events": 411
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 529
+   "events": 527
   },
   {
    "id": "skiddle:api",
@@ -318,12 +318,6 @@
    "address": "Dundee Rd, Southampton SO17 2ND"
   },
   {
-   "id": "stage-door",
-   "name": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "address": "78 West Marlands Road, Southampton"
-  },
-  {
    "id": "medbar",
    "name": "Medbar",
    "postcode": "SO14 3DP",
@@ -380,122 +374,31 @@
  ],
  "events": [
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-choir-of-man-2026-11-05-1930",
-   "artist": "The Choir of Man",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-05",
-   "time": "19:30",
-   "price": 24,
-   "priceMax": 42.5,
-   "priceText": "£24–£42.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52878",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-choir-of-man-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre",
-    "comedy"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-conor-mclain-2026-11-05",
-   "artist": "Conor Mclain",
+   "id": "sg-43102678",
+   "artist": "Conor McLain",
    "venueId": "papillon",
    "venueName": "Papillon",
    "postcode": "SO15 1GG",
    "date": "2026-11-05",
-   "time": "20:00",
-   "price": 11,
-   "priceMax": 16.5,
-   "priceText": "£11–£16.50",
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/38/99/93_Original.jpg?v=5",
-   "ticketUrl": "https://www.ticketweb.uk/event/conor-mclain-papillon-papillon-tickets/14786823",
-   "infoUrl": "https://www.the-brook.com/tm-event/conor-mclain-papillon/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "mayf-stitches-comedy-club-2026-11-05-2000",
-   "artist": "Stitches Comedy Club",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-05",
-   "time": "20:00",
-   "price": 24,
-   "priceMax": 24,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2026/02/Stitches-Southampton-Nov26-EVENT-CARD-960X600-no-date.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53725/53730",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/stitches-comedy-club-nov-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "fat-fb55d216-c76",
-   "artist": "Tez Ilyas: Tez Things I Hate About You - Southampton**",
-   "venueId": "stage-door",
-   "venueName": "The Stage Door",
-   "postcode": "SO14 7FW",
-   "date": "2026-11-05",
-   "time": "20:00",
+   "time": "19:30",
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "comedy",
+   "genre": "indie",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/c9r8kwm5/tez-ilyas-tez-things-i-hate-about-you-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/c9r8kwm5/tez-ilyas-tez-things-i-hate-about-you-southampton",
-   "going": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43102678-conor-mclain-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43102678-conor-mclain-at-papillon",
+   "going": 0,
    "minage": null,
-   "status": null,
    "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
    "genres": [
-    "comedy"
+    "indie"
    ]
   },
   {
@@ -1106,8 +1009,8 @@
    "date": "2026-11-06",
    "time": "22:00",
    "price": 8,
-   "priceMax": 33,
-   "priceText": "£8–£33",
+   "priceMax": 46.2,
+   "priceText": "£8–£46.20",
    "genre": "latin",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton",
@@ -2175,36 +2078,6 @@
    "genres": [
     "comedy"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42639198",
-   "artist": "Andrew Lawrence \"So right, it's wrong\"",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-10",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 18,
-   "priceMax": 18,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/e/9/2316691_b9fd4244_andrew-lawrence-so-right-it-s-wrong-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Andrew-Lawrence-So-right-its-wrong/42639198/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Andrew-Lawrence-So-right-its-wrong/42639198/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Andrew Lawrence \"So right, it’s wrong\" tour coming to Southampton Tuesday 10th November",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "theatre",
@@ -4254,9 +4127,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-17",
    "time": "19:30",
-   "price": 34.5,
+   "price": 56,
    "priceMax": 62.5,
-   "priceText": "£34.50–£62.50",
+   "priceText": "£56–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52074",
@@ -4423,8 +4296,8 @@
    "date": "2026-11-18",
    "time": "19:30",
    "price": 59,
-   "priceMax": 69.5,
-   "priceText": "£59–£69.50",
+   "priceMax": 62.5,
+   "priceText": "£59–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52082",
@@ -4648,38 +4521,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42437557",
-   "artist": "Alasdair Beckett-King at The Attic in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-19",
-   "time": "19:00",
-   "doors": "19:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/b/2/1/2268366_f3996079_alasdair-beckett-king-at-the-attic-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alasdair-Beckett-King-at-The-Attic-in-Southampton/42437557/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alasdair-Beckett-King-at-The-Attic-in-Southampton/42437557/",
-   "going": 0,
-   "minage": null,
-   "desc": "Stand up Comedian Alasdair Beckett-King \"King of Crumbs\" Tour",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -4820,6 +4661,33 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre",
+    "comedy"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43225570",
+   "artist": "Alasdair Beckett-King",
+   "venueId": "attic",
+   "venueName": "The Attic",
+   "postcode": "SO40 9HQ",
+   "date": "2026-11-19",
+   "time": "19:45",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "comedy",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43225570-alasdair-beckettking-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43225570-alasdair-beckettking-at-attic",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genres": [
     "comedy"
    ]
   },
@@ -5608,38 +5476,6 @@
    "genres": [
     "indie"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42492040",
-   "artist": "Dominic Frisby on Tour! in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "doors": "19:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/3/4/2282437_6efbb509_dominic-frisby-on-tour-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Dominic-Frisby-on-Tour-in-Southampton/42492040/",
-   "going": 0,
-   "minage": null,
-   "desc": "Dominic Frisby is on Tour! Stand-Up Comedy at The Attic in Southampton Saturday 21st November",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -10791,9 +10627,9 @@
    "postcode": "SO14 7DU",
    "date": "2026-12-09",
    "time": "20:00",
-   "price": 21,
+   "price": 29,
    "priceMax": 29,
-   "priceText": "£21–£29",
+   "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/5_MAST-Web-Event-Card-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53093/53108",
@@ -12292,39 +12128,6 @@
   {
    "type": "comedy",
    "tags": [
-    "open mic",
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42611270",
-   "artist": "Open Mic Comedy Night Special near me",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-16",
-   "time": "19:30",
-   "doors": "19:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/8/6/2310206_a99e97a4_open-mic-comedy-night-special-near-me_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-Special-near-me/42611270/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-Special-near-me/42611270/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Southampton \"Comedy Open Mic Night\" Special near me Wednesday 16th December",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
-   "type": "comedy",
-   "tags": [
     "indie",
     "comedy"
    ],
@@ -12624,38 +12427,6 @@
    "genres": [
     "other"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "xmas"
-   ],
-   "hot": false,
-   "id": "sk-42532872",
-   "artist": "A Jerry Christmas with Frank Sanazi & The Iraq Pack",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "doors": "19:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 19,
-   "priceMax": 19,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/1/b/2292807_4d9d7be4_a-jerry-christmas-with-frank-sanazi-the-iraq-pack_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Jerry-Christmas-with-Frank-Sanazi--The-Iraq-Pack/42532872/",
-   "going": 0,
-   "minage": null,
-   "desc": "A Jerry Christmas with Frank Sanazi & The Iraq Pack in Southampton Friday 18th December",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -12987,38 +12758,6 @@
    "genres": [
     "indie"
    ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sk-42414993",
-   "artist": "Nightwish Tribute band Night-ish in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2026-12-19",
-   "time": "19:00",
-   "doors": "19:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "metal",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/8/7/2261826_154af252_nightwish-tribute-band-night-ish-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Nightwish-Tribute-band-Night-ish-in-Southampton/42414993/",
-   "going": 0,
-   "minage": null,
-   "desc": "Nightwish Tribute band Night-ish in Southampton - Saturday 19th December",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "metal"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -15981,39 +15720,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "open mic",
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42800786",
-   "artist": "Open Mic Comedy Night near me",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-01-20",
-   "time": "19:30",
-   "doors": "19:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/d/b/7/2350159_fdb93806_open-mic-comedy-night-near-me_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-near-me/42800786/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-near-me/42800786/",
-   "going": 0,
-   "minage": null,
-   "desc": "Southampton \"Comedy Open Mic Night\" near me at The Wednesday 20th January 2027",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -18098,36 +17804,6 @@
    "type": "comedy",
    "tags": [],
    "hot": false,
-   "id": "sk-42498034",
-   "artist": "Max Fulham & Friends in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-06",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/9/c/6/2283554_6dccf27f_max-fulham-friends-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Max-Fulham--Friends-in-Southampton/42498034/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Max-Fulham--Friends-in-Southampton/42498034/",
-   "going": 0,
-   "minage": null,
-   "desc": "Max Fulham & Friends in Southampton",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
    "id": "mayf-rhys-james-2027-02-06-2000",
    "artist": "Rhys James",
    "venueId": "mast",
@@ -18633,38 +18309,6 @@
     "theatre",
     "comedy"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-43050987",
-   "artist": "Bobby Davro at The Attic in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-12",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 23.5,
-   "priceMax": 23.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/4/2453431_6db3c628_bobby-davro-at-the-attic-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Bobby-Davro-at-The-Attic-in-Southampton/43050987/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Bobby-Davro-at-The-Attic-in-Southampton/43050987/",
-   "going": 0,
-   "minage": null,
-   "desc": "An Evening of Comedy with Bobby Davro at The Attic in Southampton- Friday 12th February",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "theatre",
@@ -19245,39 +18889,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "open mic",
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-43125681",
-   "artist": "Open Mic Comedy Night near me",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-17",
-   "time": "19:30",
-   "doors": "19:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 6,
-   "priceMax": 6,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/a/f/2457945_cbf9f2b1_open-mic-comedy-night-near-me_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-near-me/43125681/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Open-Mic-Comedy-Night-near-me/43125681/",
-   "going": 0,
-   "minage": null,
-   "desc": "Southampton \"Comedy Open Mic Night\" near me at The Attic Wednesday 17th February",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -19586,6 +19197,34 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43457980",
+   "artist": "Abi Clarke",
+   "venueId": "attic",
+   "venueName": "The Attic",
+   "postcode": "SO40 9HQ",
+   "date": "2027-02-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43457980-abi-clarke-at-attic",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -19612,38 +19251,6 @@
     "theatre",
     "comedy"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-43050968",
-   "artist": "Abi Clarke stand up comedy tour",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-19",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/4/b/2453412_a130d33a_abi-clarke-stand-up-comedy-tour_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Abi-Clarke-stand-up-comedy-tour/43050968/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Abi-Clarke-stand-up-comedy-tour/43050968/",
-   "going": 0,
-   "minage": null,
-   "desc": "Abi Clarke \"Just Tell Me When It’s Over\" at The Attic in Southampton Friday 19th February 2027",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "theatre",
@@ -20444,37 +20051,6 @@
     "theatre",
     "comedy"
    ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42800788",
-   "artist": "Iain Lee \"Imposter Syndrome\"",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-02-27",
-   "time": "17:00",
-   "doors": "17:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 17,
-   "priceMax": 17,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/2/1/2350161_44c348c6_iain-lee-imposter-syndrome-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Iain-Lee-Imposter-Syndrome/42800788/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Iain-Lee-Imposter-Syndrome/42800788/",
-   "going": 0,
-   "minage": null,
-   "desc": "Iain Lee \"Imposter Syndrome\" - at The Attic in Southampton Saturday 27th February Matinee Show",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -21403,6 +20979,34 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sg-43502276",
+   "artist": "Shoreline",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-03-09",
+   "time": null,
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43502276-shoreline-at-engine-rooms",
+   "infoUrl": "https://www.songkick.com/concerts/43502276-shoreline-at-engine-rooms",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sk-42736679",
    "artist": "Movements",
    "venueId": "engine",
@@ -21879,38 +21483,6 @@
    "genres": [
     "theatre"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42724346",
-   "artist": "Chris Cantrill Stand up Comedy Tour in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-03-12",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/9/d/2338253_7397cd75_chris-cantrill-stand-up-comedy-tour-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Chris-Cantrill-Stand-up-Comedy-Tour-in-Southampton/42724346/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Chris-Cantrill-Stand-up-Comedy-Tour-in-Southampton/42724346/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Chris Cantrill stand up comedy \"Rewilding\" Tour at The Attic - Friday 12th March",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -22428,38 +22000,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-43050972",
-   "artist": "Stand up comedy in Southampton with headliner Laura Lexx",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-03-19",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/f/6/f/2453416_f6a1cceb_stand-up-comedy-in-southampton-with-headliner-laura-lexx_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-headliner-Laura-Lexx/43050972/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-headliner-Laura-Lexx/43050972/",
-   "going": 0,
-   "minage": null,
-   "desc": "Stand up comedy in Southampton with headliner Laura Lexx - Friday 19th March At The Attic Southampton",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -22827,36 +22367,6 @@
    "genres": [
     "theatre"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42624052",
-   "artist": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-03-25",
-   "time": "19:30",
-   "doors": "19:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 12,
-   "priceMax": 12,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/6/5/2314309_a235439e_200-badgers-badgers-vs-hedgehogs-with-matt-hobs_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/200-Badgers-Badgers-vs-Hedgehogs-with-Matt-Hobs/42624052/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/200-Badgers-Badgers-vs-Hedgehogs-with-Matt-Hobs/42624052/",
-   "going": 0,
-   "minage": "16",
-   "desc": "200% Badgers (Badgers vs Hedgehogs) with Matt Hobs at The Attic in Southampton - Thursday 25th March",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "comedy",
@@ -24060,37 +23570,6 @@
    "genres": [
     "indie"
    ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42800783",
-   "artist": "Tom Lawrinson \"Speak of the Devil\"",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-04-13",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 16,
-   "priceMax": 16,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/7/e/2350156_76b7fe76_tom-lawrinson-speak-of-the-devil-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Tom-Lawrinson-Speak-of-the-Devil/42800783/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Tom-Lawrinson-Speak-of-the-Devil/42800783/",
-   "going": 0,
-   "minage": null,
-   "desc": "Tom Lawrinson \"Speak of the Devil\" at The Attic in Southampton Tuesday 13th April 2027",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "theatre",
@@ -25750,36 +25229,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42681120",
-   "artist": "A Night with Frank Sanazi & Sol Bernstein in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-05-08",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 17.5,
-   "priceMax": 17.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/e/b/2327993_a2d37b70_a-night-with-frank-sanazi-sol-bernstein-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Night-with-Frank-Sanazi--Sol-Bernstein-in-Southampton/42681120/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/A-Night-with-Frank-Sanazi--Sol-Bernstein-in-Southampton/42681120/",
-   "going": 0,
-   "minage": "16",
-   "desc": "A Night with Frank Sanazi & Sol Bernstein \"Swing & Shtick - It's all forgotten now!\" in Southampton Saturday 8th May",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -26435,37 +25884,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-43125697",
-   "artist": "President Obonjo \"Revolution\" in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-05-20",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 18.5,
-   "priceMax": 18.5,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/e/7/2457960_633b6157_president-obonjo-revolution-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/President-Obonjo-Revolution-in-Southampton/43125697/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/President-Obonjo-Revolution-in-Southampton/43125697/",
-   "going": 0,
-   "minage": null,
-   "desc": "President Obonjo \"Revolution\"comes to The Attic in Southampton Thursday 20th May",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -26606,38 +26024,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-43125695",
-   "artist": "Stand up comedy in Southampton with Headliner Bob Mills Southamp",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-05-21",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 16.5,
-   "priceMax": 16.5,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/d/9/0/2457958_3a12dbc1_stand-up-comedy-in-southampton-with-headliner-bob-mills-southamp_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-Headliner-Bob-Mills-Southamp/43125695/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Stand-up-comedy-in-Southampton-with-Headliner-Bob-Mills-Southamp/43125695/",
-   "going": 0,
-   "minage": null,
-   "desc": "Bob Mills Headlining a night of Stand up comedy at The Attic in Southampton- Friday 21st May",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -26744,39 +26130,6 @@
    "genres": [
     "theatre"
    ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "tribute"
-   ],
-   "hot": false,
-   "id": "sk-43125683",
-   "artist": "Red Hot Tribute Peppers at The Attic in Southampton",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-05-22",
-   "time": "19:30",
-   "doors": "19:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/6/7/2457947_dea0d46b_red-hot-tribute-peppers-at-the-attic-in-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Red-Hot-Tribute-Peppers-at-The-Attic-in-Southampton/43125683/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Red-Hot-Tribute-Peppers-at-The-Attic-in-Southampton/43125683/",
-   "going": 0,
-   "minage": null,
-   "desc": "The ultimate tribute to the Red Hot Chilli Peppers at The Attic in Southampton - Saturday 22nd May 2027",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -27235,12 +26588,12 @@
    "postcode": "SO14 7DU",
    "date": "2027-05-28",
    "time": "20:00",
-   "price": 22,
-   "priceMax": 22,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2026/09/JS_NothingHeavy_960x600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54750/54751",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/jack-skipper-nothing-heavy-2027/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/jack-skipper-nothing-heavy-2027/",
    "going": 0,
    "minage": null,
@@ -28811,38 +28164,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42604561",
-   "artist": "Mark Simmons - W.I.P - Early evening (matinee) show",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-07-03",
-   "time": "17:00",
-   "doors": "17:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 15,
-   "priceMax": 15,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/1/b/e/2308019_dc18daf1_mark-simmons-w-i-p-early-evening-matinee-show_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Mark-Simmons---WIP---Early-evening-matinee-show/42604561/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Mark-Simmons---WIP---Early-evening-matinee-show/42604561/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Edinburgh Comedy preview from Mark Simmons - Saturday 3rd July 2027",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -29362,38 +28683,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42616632",
-   "artist": "Alfie Moore - New Comedy Tour Warm Up Show",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-07-17",
-   "time": "16:45",
-   "doors": "16:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 17,
-   "priceMax": 17,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/9/0/2311970_2c736c7e_alfie-moore-new-comedy-tour-warm-up-show_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616632/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616632/",
-   "going": 0,
-   "minage": null,
-   "desc": "Alfie Moore Tour Warm Up Show at The Attic in Southampton Saturday 17th July 2027 - Early Evening Show",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -29448,38 +28737,6 @@
    "genres": [
     "theatre"
    ]
-  },
-  {
-   "type": "comedy",
-   "tags": [
-    "comedy"
-   ],
-   "hot": false,
-   "id": "sk-42616640",
-   "artist": "Alfie Moore - New Comedy Tour Warm Up Show",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-07-17",
-   "time": "20:00",
-   "doors": "20:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 17,
-   "priceMax": 17,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/5/2/d/2311978_11514196_Alfie-Moore---New-Comedy-Tour-Warm-Up-Show_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616640/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Alfie-Moore---New-Comedy-Tour-Warm-Up-Show/42616640/",
-   "going": 0,
-   "minage": "16",
-   "desc": "Alfie Moore Tour Warm Up Show comes to The Attic in Southampton Saturday 17th July 2027 - Evening Show",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genres": [
-    "comedy"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "gig",
@@ -30508,32 +29765,29 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sk-43125686",
-   "artist": "Tom Houghton \"How The Mighty\" Southampton",
+   "id": "sg-43499651",
+   "artist": "Tom Houghton",
    "venueId": "attic",
-   "venueName": "The Attic Southampton",
+   "venueName": "The Attic",
    "postcode": "SO40 9HQ",
    "date": "2027-09-17",
    "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 25,
-   "priceMax": 25,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Tom-Houghton-How-The-Mighty-Southampton/43125686/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Tom-Houghton-How-The-Mighty-Southampton/43125686/",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43499651-tom-houghton-at-attic",
+   "infoUrl": "https://www.songkick.com/concerts/43499651-tom-houghton-at-attic",
    "going": 0,
    "minage": null,
-   "desc": "Tom Houghton Brand New Hilarious Tour \"How The Mighty\" comes to The Attic in Southampton Friday 17th September",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
+   ]
   },
   {
    "type": "theatre",
@@ -31111,37 +30365,6 @@
    "genres": [
     "theatre"
    ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-43125692",
-   "artist": "Joey Page \"All I Wanna Do Is Just Have A Good Time\"",
-   "venueId": "attic",
-   "venueName": "The Attic Southampton",
-   "postcode": "SO40 9HQ",
-   "date": "2027-09-30",
-   "time": "19:45",
-   "doors": "19:45",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/6/6/6/2457955_8125a2ba_joey-page-all-i-wanna-do-is-just-have-a-good-time-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Joey-Page-All-I-Wanna-Do-Is-Just-Have-A-Good-Time/43125692/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-Attic-Southampton/Joey-Page-All-I-Wanna-Do-Is-Just-Have-A-Good-Time/43125692/",
-   "going": 0,
-   "minage": null,
-   "desc": "Joey Page \"All I Wanna Do Is Just Have A Good Time\"comes to The Attic in Southampton Thursday 30th September",
-   "source": "skiddle",
-   "sourceRun": "skiddle:The-Attic-Southampton",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ],
-   "_carriedSince": "2026-10-29T18:33:35.768Z"
   },
   {
    "type": "club",
