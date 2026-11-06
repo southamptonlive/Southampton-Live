@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-06T16:50:54.242Z",
+ "generated": "2026-11-06T23:12:52.659Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -37,7 +37,7 @@
    "label": "Skiddle · The 1865",
    "url": "https://www.skiddle.com/whats-on/Southampton/The-1865/",
    "ok": true,
-   "events": 5
+   "events": 6
   },
   {
    "id": "skiddle:Papillon",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 530
+   "events": 527
   },
   {
    "id": "skiddle:api",
@@ -121,7 +121,7 @@
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 215
+   "events": 217
   }
  ],
  "venues": [
@@ -614,33 +614,6 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-crush-2026-11-06-1900",
-   "artist": "Crush",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-06",
-   "time": "19:00",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/08/960x600.png?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54570/54571",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/shout-crush-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -697,120 +670,29 @@
    ]
   },
   {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-choir-of-man-2026-11-06-1930",
-   "artist": "The Choir of Man",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-06",
-   "time": "19:30",
-   "price": 43,
-   "priceMax": 48.5,
-   "priceText": "£43–£48.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52880",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-choir-of-man-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre",
-    "comedy"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "rock"
-   ],
-   "hot": false,
-   "id": "mayf-the-glam-rock-show-2026-11-06-1945",
-   "artist": "The Glam Rock Show",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-06",
-   "time": "19:45",
-   "price": 34,
-   "priceMax": 34,
-   "priceText": null,
-   "genre": "rock",
-   "img": "https://images.mayflower.org.uk/uploads/2026/06/TheGlamRockShow-Event-Card-960x600-entertainers-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54256/54257",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-glam-rock-show-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "fat-06d5047b-cfe",
-   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-06",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ubse3eq5/bingo-cabaret-cocktails-prizes-to-be-won",
-   "infoUrl": "https://www.fatsoma.com/e/ubse3eq5/bingo-cabaret-cocktails-prizes-to-be-won",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-noasis-2026-11-06",
+   "id": "tm-LvZ18QntPYCmmCJUcc79P",
    "artist": "Noasis",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-11-06",
-   "time": "21:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/59/83/33_Original.jpg?v=6",
-   "ticketUrl": "https://www.ticketweb.uk/event/noasis-the-brook-tickets/14994893",
-   "infoUrl": "https://www.the-brook.com/tm-event/noasis/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/noasis-tickets-80SNF3?ref=ticketmaster",
+   "going": null,
+   "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -956,8 +838,8 @@
    "date": "2026-11-06",
    "time": "23:00",
    "price": 6,
-   "priceMax": 44,
-   "priceText": "£6–£44",
+   "priceMax": 49.5,
+   "priceText": "£6–£49.50",
    "genre": "latin",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party",
@@ -986,8 +868,8 @@
    "date": "2026-11-06",
    "time": "23:00",
    "price": 8,
-   "priceMax": 46.2,
-   "priceText": "£8–£46.20",
+   "priceMax": 13.19,
+   "priceText": "£8–£13.19",
    "genre": "latin",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton",
@@ -1899,6 +1781,37 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-overpass-2026-11-10",
+   "artist": "overpass",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "price": 16.5,
+   "priceMax": 22,
+   "priceText": "£16.50–£22",
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=8",
+   "ticketUrl": "https://www.ticketweb.uk/event/overpass-the-brook-tickets/14079544",
+   "infoUrl": "https://www.the-brook.com/tm-event/overpass/",
+   "going": 0,
+   "minage": "18+ (14+ accompanied)",
+   "desc": null,
+   "source": "thebrook",
+   "doors": "19:00",
+   "doorsText": "Doors: 7:00 PM",
+   "feeIncluded": true,
+   "sourceRun": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "comedy",
    "tags": [
     "free entry",
@@ -1956,37 +1869,6 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-overpass-2026-11-10",
-   "artist": "overpass",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "price": 27.5,
-   "priceMax": 27.5,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=6",
-   "ticketUrl": "https://www.ticketweb.uk/event/overpass-the-brook-tickets/14079544",
-   "infoUrl": "https://www.the-brook.com/tm-event/overpass/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -2699,34 +2581,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-43186032",
-   "artist": "Beardyman",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43328835",
    "artist": "Arthur Smith",
    "venueId": "attic",
@@ -2862,6 +2716,34 @@
    "sourceRun": "thebrook",
    "genres": [
     "hip-hop"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43186032",
+   "artist": "Beardyman",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
+   "infoUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -3984,8 +3866,8 @@
    "date": "2026-11-17",
    "time": "19:30",
    "price": 56,
-   "priceMax": 69.5,
-   "priceText": "£56–£69.50",
+   "priceMax": 62.5,
+   "priceText": "£56–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52074",
@@ -7327,6 +7209,38 @@
   },
   {
    "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-27e01cd5-453",
+   "artist": "BLACK FRIDAY - 50p J BOMBS - £1 CANS - £2 DOUBLES - 100 FREE ENTRY TICKETS - OPEN UNTILL 3AM",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 9,
+   "priceText": "£0–£9",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/mz8oj8em/black-friday-50p-j-bombs-1-cans-2-doubles-100-free-entry-tickets-open-untill-3am",
+   "infoUrl": "https://www.fatsoma.com/e/mz8oj8em/black-friday-50p-j-bombs-1-cans-2-doubles-100-free-entry-tickets-open-untill-3am",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [],
    "hot": false,
    "id": "sk-42793371",
@@ -7574,8 +7488,8 @@
    "date": "2026-11-28",
    "time": "16:00",
    "price": 20.5,
-   "priceMax": 29,
-   "priceText": "£20.50–£29",
+   "priceMax": 20.5,
+   "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/5_MAST-Web-Event-Card-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53093/53098",
@@ -14206,7 +14120,7 @@
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
    "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/",
    "going": 0,
-   "minage": null,
+   "minage": "18",
    "desc": "The south Coasts biggest New Years Eve Drum & Bass Party is back !",
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
@@ -14405,6 +14319,37 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "rave"
+   ],
+   "hot": true,
+   "id": "sk-43148116",
+   "artist": "Switch x Minimal",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2027-01-02",
+   "time": "19:00",
+   "doors": "19:00",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 11,
+   "priceMax": 20,
+   "priceText": "£11–£20",
+   "genre": "electronic",
+   "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Switch-x-Minimal/43148116/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/The-1865/Switch-x-Minimal/43148116/",
+   "going": 0,
+   "minage": "16",
+   "desc": "Southampton's biggest under 18s rave. 500 of you will gather to see switches debut with Minimal Eventss",
+   "source": "skiddle",
+   "sourceRun": "skiddle:The-1865",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -14429,37 +14374,6 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "rave"
-   ],
-   "hot": false,
-   "id": "fat-f268cd56-60f",
-   "artist": "SWITCH X MINIMAL",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2027-01-02",
-   "time": "19:00",
-   "price": 12.1,
-   "priceMax": 12.1,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/kkezdsuf/switch-x-minimal",
-   "infoUrl": "https://www.fatsoma.com/e/kkezdsuf/switch-x-minimal",
-   "going": null,
-   "minage": "16+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -20218,6 +20132,38 @@
   },
   {
    "type": "gig",
+   "tags": [
+    "acoustic"
+   ],
+   "hot": false,
+   "id": "br-king-king-acoustic-2027-03-01",
+   "artist": "King King Acoustic",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-03-01",
+   "time": "19:30",
+   "price": 29.15,
+   "priceMax": 29.15,
+   "priceText": null,
+   "genre": "blues",
+   "img": "https://i.ticketweb.com/i/00/13/13/79/84_Original.jpg?v=8",
+   "ticketUrl": "https://www.ticketweb.uk/event/king-king-acoustic-the-brook-tickets/14429104",
+   "infoUrl": "https://www.the-brook.com/tm-event/king-king/",
+   "going": 0,
+   "minage": "18+ (14+ accompanied)",
+   "desc": null,
+   "source": "thebrook",
+   "doors": "19:00",
+   "doorsText": "Doors: 7:00 PM",
+   "feeIncluded": true,
+   "sourceRun": "thebrook",
+   "genres": [
+    "blues"
+   ]
+  },
+  {
+   "type": "gig",
    "tags": [],
    "hot": false,
    "id": "sg-43151866",
@@ -22843,9 +22789,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-04-03",
    "time": "20:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "price": 19.8,
+   "priceMax": 19.8,
+   "priceText": null,
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/42/85/23_Original.jpg?v=4",
    "ticketUrl": "https://www.ticketweb.uk/event/quo-connection-the-brook-tickets/14828773",
@@ -24132,9 +24078,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-04-22",
    "time": "20:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "price": 19.25,
+   "priceMax": 19.25,
+   "priceText": null,
    "genre": "rock",
    "img": "https://i.ticketweb.com/i/00/13/03/35/14_Original.jpg?v=8",
    "ticketUrl": "https://www.ticketweb.uk/event/deeper-purple-machine-head-the-brook-tickets/14317704",
