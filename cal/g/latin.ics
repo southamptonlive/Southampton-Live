@@ -6,17 +6,8 @@ X-WR-CALNAME:Latin in Southampton — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:fat-ba3b614f-c96@southampton.live
-DTSTAMP:20261106T065105Z
-DTSTART;TZID=Europe/London:20261106T220000
-SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
-LOCATION:The Sobar\, Southampton\, SO14 0JZ
-URL:https://southampton.live/e/bollywood-x-desi-diwali-night-bollywood-diwali-night-southam-fat-ba3b614f-c96.html
-DESCRIPTION:Club night\n£8–£46.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:fat-9001b82b-cad@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261106T220000
 SUMMARY:BOLLYWOOD DIWALI NIGHT
 LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
@@ -25,7 +16,7 @@ DESCRIPTION:Club night\n£4–£7.50\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-006818f9-fac@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261106T230000
 SUMMARY:SOUTHAMPTON DIWALI X FAKE WEDDING PARTY
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -33,8 +24,26 @@ URL:https://southampton.live/e/southampton-diwali-x-fake-wedding-party-fat-00681
 DESCRIPTION:Club night\n£6–£44\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/cx1diysu/southampton-diwali-x-fake-wedding-party\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
+UID:fat-ba3b614f-c96@southampton.live
+DTSTAMP:20261106T165054Z
+DTSTART;TZID=Europe/London:20261106T230000
+SUMMARY:BOLLYWOOD x DESI DIWALI NIGHT | Bollywood Diwali Night Southampton
+LOCATION:The Sobar\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/bollywood-x-desi-diwali-night-bollywood-diwali-night-southam-fat-ba3b614f-c96.html
+DESCRIPTION:Club night\n£8–£46.20\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ex5lr3hj/bollywood-x-desi-diwali-night-bollywood-diwali-night-southampton\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-88cc46b7-c5b@southampton.live
+DTSTAMP:20261106T165054Z
+DTSTART;TZID=Europe/London:20261113T230000
+SUMMARY:DesiBeatz Southamptom : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26
+LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
+URL:https://southampton.live/e/desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-fat-88cc46b7-c5b.html
+DESCRIPTION:Club night\n£11–£17.60\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/qc4ba4ur/desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
 UID:sk-42719298@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261121T223000
 SUMMARY:Reggaeton Party (Southampton) November 2026
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -43,7 +52,7 @@ DESCRIPTION:Club night\n£7–£9\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-1af4b94e-7d4@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:Southampton Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -52,7 +61,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-df18bd64-29c@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:DesiBeatz Southampton Presents : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -61,7 +70,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0da04718-9a2@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:UOP Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -70,7 +79,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3ab688a1-d5c@southampton.live
-DTSTAMP:20261106T065105Z
+DTSTAMP:20261106T165054Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
