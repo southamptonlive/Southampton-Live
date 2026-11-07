@@ -8,20 +8,20 @@
   <url><loc>https://southampton.live/about/free/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://southampton.live/privacy.html</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
   <url><loc>https://southampton.live/terms.html</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
-  <url><loc>https://southampton.live/v/hobbit.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/engine.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/suburbia.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/joiners.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/the-1865.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/papillon.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/brook.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/heartbreakers.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/engine.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/thornden-hall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/the-1865.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/joiners.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/mayflower.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/turnersims.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/mast.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/papillon.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/attic.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/suburbia.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/guildhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/hobbit.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/bitterne-railway-station.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/royal-british-legion-bitterne-branch.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/loco-club.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -344,7 +344,6 @@
   <url><loc>https://southampton.live/d/2028-07-29.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/e/marty-wilde-sg-42951606.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/gaz-brookfield-sg-43433108.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/the-choir-of-man-mayf-the-choir-of-man-2026-11-07-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/southampton-fireworks-2026-the-pop-explosion-fat-3b18eb15-f04.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/daytime-clubbing-4pm-10pm-fat-7b82ac44-3e1.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-dualers-sk-41411151.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
