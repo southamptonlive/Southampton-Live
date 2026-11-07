@@ -6,17 +6,8 @@ X-WR-CALNAME:CRIB — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:fat-9001b82b-cad@southampton.live
-DTSTAMP:20261106T231252Z
-DTSTART;TZID=Europe/London:20261106T220000
-SUMMARY:BOLLYWOOD DIWALI NIGHT
-LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
-URL:https://southampton.live/e/bollywood-diwali-night-fat-9001b82b-cad.html
-DESCRIPTION:Club night\n£4–£7.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/rk3aos37/bollywood-diwali-night\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:fat-5f92bc9a-0ac@southampton.live
-DTSTAMP:20261106T231252Z
+DTSTAMP:20261107T060317Z
 DTSTART;TZID=Europe/London:20261114T210000
 SUMMARY:Countdown to Albania: Southampton — Afrobeats Getaway x CRIB
 LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
@@ -25,7 +16,7 @@ DESCRIPTION:Club night\n£5\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9735fab1-94f@southampton.live
-DTSTAMP:20261106T231252Z
+DTSTAMP:20261107T060317Z
 DTSTART;TZID=Europe/London:20261204T210000
 SUMMARY:CLUB KOKO - ALL WHITE PARTY
 LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
