@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-08T18:00:36.869Z",
+ "generated": "2026-11-08T22:09:50.551Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 523
+   "events": 522
   },
   {
    "id": "skiddle:api",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 162
+   "events": 161
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 211
+   "events": 212
   }
  ],
  "venues": [
@@ -483,10 +483,10 @@
    ]
   },
   {
-   "type": "comedy",
+   "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "mayf-bill-bailey-2026-11-08-2000",
+   "id": "sg-42911647",
    "artist": "Bill Bailey",
    "venueId": "mayflower",
    "venueName": "Mayflower Theatre",
@@ -496,17 +496,18 @@
    "price": null,
    "priceMax": null,
    "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/BB-Vaudevillean-960x600-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/bill-bailey-2026/",
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/42911647-bill-bailey-at-mayflower-theatre",
+   "infoUrl": "https://www.songkick.com/concerts/42911647-bill-bailey-at-mayflower-theatre",
    "going": 0,
    "minage": null,
    "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
    "genres": [
-    "comedy"
+    "indie"
    ]
   },
   {
@@ -1820,7 +1821,7 @@
    ],
    "hot": false,
    "id": "fat-88cc46b7-c5b",
-   "artist": "DesiBeatz Southamptom : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26",
+   "artist": "[95% SOLD OUT] DesiBeatz Southamptom : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26",
    "venueId": "engine",
    "venueName": "Engine Rooms",
    "postcode": "SO15 1GZ",
@@ -1831,8 +1832,8 @@
    "priceText": "£11–£17.60",
    "genre": "house",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/qc4ba4ur/desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
-   "infoUrl": "https://www.fatsoma.com/e/qc4ba4ur/desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
+   "ticketUrl": "https://www.fatsoma.com/e/qc4ba4ur/95-sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
+   "infoUrl": "https://www.fatsoma.com/e/qc4ba4ur/95-sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -3634,17 +3635,17 @@
    "tags": [],
    "hot": false,
    "id": "br-dessie-magee-venue-upgrade-2026-11-20",
-   "artist": "DESSIE MAGEE (Venue Upgrade)",
+   "artist": "Dessie Magee (Venue Upgrade)",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-11-20",
    "time": "20:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "price": 18.5,
+   "priceMax": 18.5,
+   "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/13/89/44_Original.jpg?v=6",
+   "img": "https://i.ticketweb.com/i/00/13/13/89/44_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/dessie-magee-venue-upgrade-the-brook-tickets/14430004",
    "infoUrl": "https://www.the-brook.com/tm-event/dessie-magee-venue-upgrade/",
    "going": 0,
@@ -5227,9 +5228,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-25",
    "time": "19:30",
-   "price": 29.5,
+   "price": 52.5,
    "priceMax": 57.5,
-   "priceText": "£29.50–£57.50",
+   "priceText": "£52.50–£57.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/11/JB_SOUTHAMPTON_ON-SALE-ASSETS_OCT25_960x600-events-card-2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52940/52988",
