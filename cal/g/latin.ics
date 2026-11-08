@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-88cc46b7-c5b@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261113T230000
 SUMMARY:DesiBeatz Southamptom : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£11–£17.60\nListed via Fatsoma\nTickets: https://www
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42719298@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261121T223000
 SUMMARY:Reggaeton Party (Southampton) November 2026
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£7–£9\nListed via Skiddle\nTickets: https://www.skid
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-1af4b94e-7d4@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:Southampton Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-df18bd64-29c@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:DesiBeatz Southampton Presents : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0da04718-9a2@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:UOP Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3ab688a1-d5c@southampton.live
-DTSTAMP:20261108T004103Z
+DTSTAMP:20261108T102801Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
