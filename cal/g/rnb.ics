@@ -6,26 +6,8 @@ X-WR-CALNAME:R&B in Southampton — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:fat-134553fe-af3@southampton.live
-DTSTAMP:20261107T193043Z
-DTSTART;TZID=Europe/London:20261107T220000
-SUMMARY:ESSENCE: Southampton's only R&B\, HIP HOP\, AFROBEATS\, BASHMENTSaturday night.
-LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
-URL:https://southampton.live/e/essence-southamptons-only-rb-hip-hop-afrobeats-bashmentsatur-fat-134553fe-af3.html
-DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/ak50oc80/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
-UID:fat-eb1c1b61-b4f@southampton.live
-DTSTAMP:20261107T193043Z
-DTSTART;TZID=Europe/London:20261107T220000
-SUMMARY:ESSENCE: Southampton's only R&B\, HIP HOP\, AFROBEAT\, BASHMENT Saturday night.
-LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
-URL:https://southampton.live/e/essence-southamptons-only-rb-hip-hop-afrobeat-bashment-satur-fat-eb1c1b61-b4f.html
-DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/sfdcc9za/essence-southampton-s-only-r-b-hip-hop-afrobeat-bashment-saturday-night\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:fat-12007744-94b@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20261113T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +16,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-203ca87a-c52@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20261120T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -43,7 +25,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc0939ff-3f7@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -52,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-2869b3f4-3e7@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20261212T160000
 SUMMARY:RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB
 LOCATION:Café Parfait\, 194 Above Bar Street\, Southampton\, SO14 7DW
@@ -61,7 +43,7 @@ DESCRIPTION:Club night\n£17.60–£82.50\nListed via Fatsoma\nTickets: https://
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42642297@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20270130T190000
 SUMMARY:R&B Orchestra Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -70,7 +52,7 @@ DESCRIPTION:Gig\n£21–£23\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-a7ef6cd7-f83@southampton.live
-DTSTAMP:20261107T193043Z
+DTSTAMP:20261108T004103Z
 DTSTART;TZID=Europe/London:20270227T213000
 SUMMARY:Southampton U\, ME & RNB & SLOW JAMZ special
 LOCATION:Ruby's at the Grand\, South Western House\, Southampton\, SO14 3AS

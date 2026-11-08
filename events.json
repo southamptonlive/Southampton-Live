@@ -1,50 +1,50 @@
 {
  "version": 1,
- "generated": "2026-11-07T19:30:43.644Z",
+ "generated": "2026-11-08T00:41:03.676Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
   {
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
-   "ok": false,
-   "carried": 1,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/",
+   "ok": true,
+   "events": 1
   },
   {
    "id": "skiddle:EngineRooms",
    "label": "Skiddle · EngineRooms",
-   "ok": false,
-   "carried": 62,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
+   "ok": true,
+   "events": 61
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
-   "ok": false,
-   "carried": 29,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
+   "ok": true,
+   "events": 31
   },
   {
    "id": "skiddle:The-Joiners",
    "label": "Skiddle · The Joiners",
-   "ok": false,
-   "carried": 3,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/",
+   "ok": true,
+   "events": 3
   },
   {
    "id": "skiddle:The-1865",
    "label": "Skiddle · The 1865",
-   "ok": false,
-   "carried": 5,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-1865/",
+   "ok": true,
+   "events": 6
   },
   {
    "id": "skiddle:Papillon",
    "label": "Skiddle · Papillon",
-   "ok": false,
-   "carried": 4,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/Papillon/",
+   "ok": true,
+   "events": 4
   },
   {
    "id": "skiddle:The-Attic-Southampton",
@@ -79,7 +79,7 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 59
+   "events": 57
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 526
+   "events": 524
   },
   {
    "id": "skiddle:api",
@@ -114,17 +114,53 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 170
+   "events": 168
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 215
+   "events": 214
   }
  ],
  "venues": [
+  {
+   "id": "hobbit",
+   "name": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "address": "134 Bevois Valley Road, Southampton"
+  },
+  {
+   "id": "engine",
+   "name": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "address": "West Quay Road, Southampton"
+  },
+  {
+   "id": "suburbia",
+   "name": "Suburbia",
+   "postcode": "SO14 0JD",
+   "address": "55 London Road, Southampton"
+  },
+  {
+   "id": "joiners",
+   "name": "The Joiners",
+   "postcode": "SO14 1NS",
+   "address": "141 St Mary Street, Southampton"
+  },
+  {
+   "id": "the-1865",
+   "name": "The 1865",
+   "postcode": "SO14 3AR",
+   "address": "Brunswick Square"
+  },
+  {
+   "id": "papillon",
+   "name": "Papillon",
+   "postcode": "SO15 1GG",
+   "address": "Commercial Road"
+  },
   {
    "id": "brook",
    "name": "The Brook",
@@ -136,30 +172,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "engine",
-   "name": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "address": "West Quay Road, Southampton"
-  },
-  {
-   "id": "thornden-hall",
-   "name": "Thornden Hall",
-   "postcode": "SO53 2DW",
-   "address": "Winchester Road, Chandler's Ford"
-  },
-  {
-   "id": "the-1865",
-   "name": "The 1865",
-   "postcode": "SO14 3AR",
-   "address": "Brunswick Square, Southampton"
-  },
-  {
-   "id": "joiners",
-   "name": "The Joiners",
-   "postcode": "SO14 1NS",
-   "address": "141 St Mary Street, Southampton"
   },
   {
    "id": "mayflower",
@@ -180,34 +192,16 @@
    "address": "Above Bar Street, Southampton"
   },
   {
-   "id": "papillon",
-   "name": "Papillon",
-   "postcode": "SO15 1GG",
-   "address": "West Quay Road, Southampton"
-  },
-  {
    "id": "attic",
    "name": "The Attic",
    "postcode": "SO40 9HQ",
    "address": "Totton, Southampton"
   },
   {
-   "id": "suburbia",
-   "name": "Suburbia",
-   "postcode": "SO14 0JD",
-   "address": "55 London Road, Southampton"
-  },
-  {
    "id": "guildhall",
    "name": "O2 Guildhall",
    "postcode": "SO14 7LP",
    "address": "West Marlands Road, Southampton"
-  },
-  {
-   "id": "hobbit",
-   "name": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "address": "134 Bevois Valley Road, Southampton"
   },
   {
    "id": "bitterne-railway-station",
@@ -280,6 +274,12 @@
    "name": "Central Hall",
    "postcode": "SO14 1NF",
    "address": "St Mary Street, Southampton"
+  },
+  {
+   "id": "thornden-hall",
+   "name": "Thornden Hall",
+   "postcode": "SO53 2DW",
+   "address": "Winchester Road, Chandler's Ford"
   },
   {
    "id": "trilogy",
@@ -371,551 +371,6 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "sg-42951606",
-   "artist": "Marty Wilde",
-   "venueId": "thornden-hall",
-   "venueName": "Thornden Hall",
-   "postcode": "SO53 2DW",
-   "date": "2026-11-07",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42951606-marty-wilde-at-thornden-hall",
-   "infoUrl": "https://www.songkick.com/concerts/42951606-marty-wilde-at-thornden-hall",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433108",
-   "artist": "Gaz Brookfield",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-11-07",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433108-gaz-brookfield-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43433108-gaz-brookfield-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-3b18eb15-f04",
-   "artist": "Southampton Fireworks 2026 – The POP EXPLOSION!",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-07",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 38.5,
-   "priceText": "£0–£38.50",
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/v5zxpx5f/southampton-fireworks-2026-the-pop-explosion",
-   "infoUrl": "https://www.fatsoma.com/e/v5zxpx5f/southampton-fireworks-2026-the-pop-explosion",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-7b82ac44-3e1",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-07",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/546d27tu/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/546d27tu/daytime-clubbing-4pm-10pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-41411151",
-   "artist": "The Dualers",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-07",
-   "time": "18:00",
-   "doors": "18:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 29.5,
-   "priceMax": 29.5,
-   "priceText": null,
-   "genre": "ska",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/3/f/7/2119680_12ebf546_the-dualers_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Dualers/41411151/",
-   "going": 0,
-   "minage": "14",
-   "desc": "The Dualers head to EngineRooms Southampton!",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genres": [
-    "ska"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QhgYCnnXH8ZVLzAD",
-   "artist": "London Calling Play The Clash “Should I Stay or Should I Go” Tour",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-07",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://s1.ticketm.net/dam/a/4b5/c70f88eb-244e-4496-a123-45b3deeaf4b5_SOURCE",
-   "ticketUrl": "https://www.universe.com/events/london-calling-play-the-clash-should-i-stay-or-should-i-go-tour-tickets-N231M0?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/london-calling-play-the-clash-should-i-stay-or-should-i-go-tour-tickets-N231M0?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "punk"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43197882",
-   "artist": "King No-One",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-11-07",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43197882-king-noone-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43197882-king-noone-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-choir-of-man-2026-11-07-1930",
-   "artist": "The Choir of Man",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-07",
-   "time": "19:30",
-   "price": 47,
-   "priceMax": 51,
-   "priceText": "£47–£51",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/COM25005_SAMPTON_960x600pxls.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52837/52891",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-choir-of-man-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre",
-    "comedy"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-showstopper-2026-11-07-1945",
-   "artist": "Showstopper!",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-07",
-   "time": "19:45",
-   "price": 24.5,
-   "priceMax": 29,
-   "priceText": "£24.50–£29",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/05/ST-Key-Art-960-x-600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54160/54162",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/showstopper-the-improvised-musical-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-ben-poole-railway-inn-2026-11-07",
-   "artist": "Ben Poole @ Railway Inn",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-07",
-   "time": "20:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/82/88/54_Original.jpg?v=14",
-   "ticketUrl": "https://www.ticketweb.uk/event/ben-poole-railway-inn-the-railway-inn-tickets/14105604",
-   "infoUrl": "https://www.the-brook.com/tm-event/ben-poole-railway-inn/",
-   "going": 0,
-   "minage": "18+",
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-57e80d2b-515",
-   "artist": "🍆 The Big One - Cocktails 2-4-1 🍹",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-07",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 7,
-   "priceText": "£4–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/6pif6hzc/the-big-one-cocktails-2-4-1",
-   "infoUrl": "https://www.fatsoma.com/e/6pif6hzc/the-big-one-cocktails-2-4-1",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-dirty-dc-special-bon-scott-brian-johnson-2026-11-07",
-   "artist": "Dirty DC - Special Bon Scott / Brian Johnson Show",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-07",
-   "time": "20:30",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
-   "genre": "rock",
-   "img": "https://i.ticketweb.com/i/00/12/92/78/84_Original.jpg?v=6",
-   "ticketUrl": "https://www.ticketweb.uk/event/dirty-dc-special-the-brook-tickets/14209424",
-   "infoUrl": "https://www.the-brook.com/tm-event/dirty-dc-special-bon-scott-brian-johnson-show/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:00",
-   "doorsText": "Doors: 7:00 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genres": [
-    "rock"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "tribute"
-   ],
-   "hot": false,
-   "id": "fat-5b38974b-fbe",
-   "artist": "SATURDAY SESSIONS",
-   "venueId": "popworld",
-   "venueName": "Popworld",
-   "postcode": "SO15 2EH",
-   "date": "2026-11-07",
-   "time": "21:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/tcldv21f/saturday-sessions",
-   "infoUrl": "https://www.fatsoma.com/e/tcldv21f/saturday-sessions",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "hip hop",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-134553fe-af3",
-   "artist": "ESSENCE: Southampton's only R&B, HIP HOP, AFROBEATS, BASHMENTSaturday night.",
-   "venueId": "funky-flamingo",
-   "venueName": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "date": "2026-11-07",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "hip-hop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ak50oc80/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/ak50oc80/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "hip-hop",
-    "rnb",
-    "afrobeat"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "hip hop",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-eb1c1b61-b4f",
-   "artist": "ESSENCE: Southampton's only R&B, HIP HOP, AFROBEAT, BASHMENT Saturday night.",
-   "venueId": "funky-flamingo",
-   "venueName": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "date": "2026-11-07",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 6,
-   "priceText": "£0–£6",
-   "genre": "hip-hop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/sfdcc9za/essence-southampton-s-only-r-b-hip-hop-afrobeat-bashment-saturday-night",
-   "infoUrl": "https://www.fatsoma.com/e/sfdcc9za/essence-southampton-s-only-r-b-hip-hop-afrobeat-bashment-saturday-night",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "hip-hop",
-    "rnb",
-    "afrobeat"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-d458a78f-738",
-   "artist": "Afro Kulture | Urban Room",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-07",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "afrobeat",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/5kmhesnt/afro-kulture-urban-room",
-   "infoUrl": "https://www.fatsoma.com/e/5kmhesnt/afro-kulture-urban-room",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "afrobeat",
-    "reggae"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42437843",
-   "artist": "Energy Saturday VOL. 4 SOUTHAMPTON",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-07",
-   "time": "22:30",
-   "doors": "22:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 25,
-   "priceMax": 35,
-   "priceText": "£25–£35",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/3/d/2268625_2247ba6a_energy-saturday-vol-4-southampton_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Energy-Saturday-VOL-4-SOUTHAMPTON/42437843/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Energy-Saturday-VOL-4-SOUTHAMPTON/42437843/",
-   "going": 0,
-   "minage": "18",
-   "desc": "Night of Legend Kalwi & Remi - DJ X Meen - DJ Madsson - DJ Dante - DJ Michale K",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genres": [
-    "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-ed44f16b-4f2",
-   "artist": "Saturdays at Cafe Parfait",
-   "venueId": "cafe-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-11-07",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 13.2,
-   "priceText": "£0–£13.20",
-   "genre": "afrobeat",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ub758lyu/saturdays-at-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/ub758lyu/saturdays-at-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "afrobeat",
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
    "id": "sg-43300181",
    "artist": "Thibaut Garcia",
    "venueId": "turnersims",
@@ -995,8 +450,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -1666,8 +1120,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -1936,8 +1389,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -2000,8 +1452,7 @@
     "soul",
     "blues",
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -2357,8 +1808,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -2599,8 +2049,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -2950,8 +2399,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -3013,8 +2461,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -4036,8 +3483,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -4208,8 +3654,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -4371,8 +3816,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -4555,8 +3999,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -4586,8 +4029,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -4647,8 +4089,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -4677,8 +4118,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -5092,8 +4532,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "latin"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -5185,8 +4624,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -5744,8 +5182,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -6067,8 +5504,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -6281,8 +5717,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -6400,8 +5835,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "country"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -6738,8 +6172,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -6799,8 +6232,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -7034,8 +6466,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -7065,8 +6496,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -7486,8 +6916,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -8394,8 +7823,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -8424,8 +7852,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -8539,8 +7966,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -9016,8 +8442,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "emo-alt"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -9047,8 +8472,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -9223,8 +8647,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "dnb"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -10161,8 +9584,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -10222,8 +9644,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "dance"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -10342,8 +9763,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "comedy",
@@ -10499,8 +9919,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -10737,8 +10156,7 @@
    "genres": [
     "indie",
     "dance"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -11380,8 +10798,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -11524,8 +10941,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -11621,8 +11037,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "other"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -11948,8 +11363,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -11982,8 +11396,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -12279,8 +11692,7 @@
     "dnb",
     "jungle",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -12426,8 +11838,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -13008,8 +12419,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "trance"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -13039,8 +12449,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -13679,8 +13088,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -13715,8 +13123,7 @@
     "dnb",
     "punk",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -13748,8 +13155,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "club",
@@ -13902,8 +13308,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -14389,8 +13794,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -15206,8 +14610,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -15797,8 +15200,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -15970,8 +15372,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -16231,8 +15632,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -16263,8 +15663,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rnb"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -16718,8 +16117,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -16887,8 +16285,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -17035,8 +16432,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -17211,8 +16607,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -17437,8 +16832,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17550,8 +16944,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -17782,8 +17175,7 @@
     "trance",
     "emo-alt",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -18044,8 +17436,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -18133,8 +17524,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18220,8 +17610,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18529,8 +17918,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -18700,8 +18088,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -19155,8 +18542,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -19303,8 +18689,7 @@
     "punk",
     "ska",
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -19679,8 +19064,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -20083,8 +19467,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -20227,8 +19610,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -20462,8 +19844,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -20686,8 +20067,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -20831,8 +20211,7 @@
    "genres": [
     "theatre",
     "disco"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -21003,8 +20382,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -21349,8 +20727,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -21579,8 +20956,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -22006,8 +21382,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -22925,8 +22300,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -23178,8 +22552,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -23293,8 +22666,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -23490,8 +22862,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -23860,8 +23231,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -23920,8 +23290,7 @@
    "genres": [
     "electronic",
     "dance"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -24227,8 +23596,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -24623,8 +23991,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "theatre"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -24763,8 +24130,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -25185,8 +24551,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "reggae"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -25560,8 +24925,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -26115,8 +25479,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "soul"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -26372,8 +25735,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -26569,8 +25931,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "theatre"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "theatre",
@@ -26629,8 +25990,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -28758,8 +28118,7 @@
    "genres": [
     "indie",
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -29472,8 +28831,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -29502,8 +28860,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -30573,8 +29930,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -30635,8 +29991,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -30666,8 +30021,7 @@
    "genres": [
     "punk",
     "reggae"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
@@ -30783,8 +30137,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-07T13:06:06.412Z"
+   ]
   },
   {
    "type": "gig",
