@@ -8,19 +8,19 @@
   <url><loc>https://southampton.live/about/free/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://southampton.live/privacy.html</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
   <url><loc>https://southampton.live/terms.html</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
-  <url><loc>https://southampton.live/v/hobbit.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/engine.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/suburbia.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/joiners.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/the-1865.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/papillon.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/brook.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/heartbreakers.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/engine.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/joiners.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/the-1865.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/mast.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/papillon.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/attic.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/suburbia.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/guildhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/mayflower.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/turnersims.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/mast.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/attic.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/v/guildhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/hobbit.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/bitterne-railway-station.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/royal-british-legion-bitterne-branch.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/loco-club.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -48,7 +48,6 @@
   <url><loc>https://southampton.live/v/deluxe-one.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/mail-room-bar-and-kitchen.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/jesters.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-  <url><loc>https://southampton.live/d/2026-11-08.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-11-09.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-11-10.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2026-11-11.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -341,13 +340,6 @@
   <url><loc>https://southampton.live/d/2028-03-10.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-03-11.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-07-29.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://southampton.live/e/thibaut-garcia-sg-43300181.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/bill-bailey-sg-43059520.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/anna-von-hausswolff-sk-42433548.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/eyehategod-tm-LvZ18Q9r5mtJqb8ZyR-pz.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/bill-bailey-sg-42911647.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/karaoke-sundays-free-entry-before-midnight-fat-55596a90-ef4.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/sunday-funday-half-price-drinks-with-a-sunday-funday-card-fat-3aa0aa65-6ad.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/cootie-catcher-sg-43168577.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/harry-enfield-and-no-chums-mayf-harry-enfield-and-no-chums-2026-11-09-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/flamy-grant-sg-43434131.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
