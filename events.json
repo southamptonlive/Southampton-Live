@@ -1,50 +1,50 @@
 {
  "version": 1,
- "generated": "2026-11-09T06:34:16.593Z",
+ "generated": "2026-11-09T19:53:34.426Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
   {
    "id": "skiddle:The-Hobbit",
    "label": "Skiddle · The Hobbit",
-   "ok": false,
-   "carried": 1,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-Hobbit/",
+   "ok": true,
+   "events": 1
   },
   {
    "id": "skiddle:EngineRooms",
    "label": "Skiddle · EngineRooms",
-   "ok": false,
-   "carried": 59,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
+   "ok": true,
+   "events": 62
   },
   {
    "id": "skiddle:Suburbia-Southampton",
    "label": "Skiddle · Suburbia Southampton",
-   "ok": false,
-   "carried": 29,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
+   "ok": true,
+   "events": 31
   },
   {
    "id": "skiddle:The-Joiners",
    "label": "Skiddle · The Joiners",
-   "ok": false,
-   "carried": 3,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-Joiners/",
+   "ok": true,
+   "events": 3
   },
   {
    "id": "skiddle:The-1865",
    "label": "Skiddle · The 1865",
-   "ok": false,
-   "carried": 5,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/The-1865/",
+   "ok": true,
+   "events": 6
   },
   {
    "id": "skiddle:Papillon",
    "label": "Skiddle · Papillon",
-   "ok": false,
-   "carried": 4,
-   "error": "no SSR eventsData (soft-blocked?)"
+   "url": "https://www.skiddle.com/whats-on/Southampton/Papillon/",
+   "ok": true,
+   "events": 4
   },
   {
    "id": "skiddle:The-Attic-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 398
+   "events": 402
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 522
+   "events": 520
   },
   {
    "id": "skiddle:api",
@@ -114,17 +114,53 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 159
+   "events": 163
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 211
+   "events": 213
   }
  ],
  "venues": [
+  {
+   "id": "hobbit",
+   "name": "The Hobbit",
+   "postcode": "SO14 0JZ",
+   "address": "134 Bevois Valley Road, Southampton"
+  },
+  {
+   "id": "engine",
+   "name": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "address": "West Quay Road, Southampton"
+  },
+  {
+   "id": "suburbia",
+   "name": "Suburbia",
+   "postcode": "SO14 0JD",
+   "address": "55 London Road, Southampton"
+  },
+  {
+   "id": "joiners",
+   "name": "The Joiners",
+   "postcode": "SO14 1NS",
+   "address": "141 St Mary Street, Southampton"
+  },
+  {
+   "id": "the-1865",
+   "name": "The 1865",
+   "postcode": "SO14 3AR",
+   "address": "Brunswick Square"
+  },
+  {
+   "id": "papillon",
+   "name": "Papillon",
+   "postcode": "SO15 1GG",
+   "address": "Commercial Road"
+  },
   {
    "id": "brook",
    "name": "The Brook",
@@ -138,46 +174,16 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "engine",
-   "name": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "address": "West Quay Road, Southampton"
-  },
-  {
-   "id": "joiners",
-   "name": "The Joiners",
-   "postcode": "SO14 1NS",
-   "address": "141 St Mary Street, Southampton"
-  },
-  {
-   "id": "the-1865",
-   "name": "The 1865",
-   "postcode": "SO14 3AR",
-   "address": "Brunswick Square, Southampton"
-  },
-  {
    "id": "mast",
    "name": "MAST Mayflower Studios",
    "postcode": "SO14 7DU",
    "address": "Above Bar Street, Southampton"
   },
   {
-   "id": "papillon",
-   "name": "Papillon",
-   "postcode": "SO15 1GG",
-   "address": "West Quay Road, Southampton"
-  },
-  {
    "id": "attic",
    "name": "The Attic",
    "postcode": "SO40 9HQ",
    "address": "Totton, Southampton"
-  },
-  {
-   "id": "suburbia",
-   "name": "Suburbia",
-   "postcode": "SO14 0JD",
-   "address": "55 London Road, Southampton"
   },
   {
    "id": "guildhall",
@@ -196,12 +202,6 @@
    "name": "Turner Sims",
    "postcode": "SO17 1BJ",
    "address": "University of Southampton"
-  },
-  {
-   "id": "hobbit",
-   "name": "The Hobbit",
-   "postcode": "SO14 0JZ",
-   "address": "134 Bevois Valley Road, Southampton"
   },
   {
    "id": "bitterne-railway-station",
@@ -393,34 +393,6 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-harry-enfield-and-no-chums-2026-11-09-1930",
-   "artist": "Harry Enfield and No Chums",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-09",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/10/HARRY-ENFIELD-640x400-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/harry-enfield-and-no-chums-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/harry-enfield-and-no-chums-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "comedy",
-    "other"
    ]
   },
   {
@@ -751,12 +723,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-11",
    "time": "19:00",
-   "price": 14,
-   "priceMax": 14,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/SUP-The-Unfriend-event-masthead.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54514/54515",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
    "going": 0,
    "minage": null,
@@ -914,8 +886,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -988,12 +959,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-12",
    "time": "19:00",
-   "price": 14,
-   "priceMax": 14,
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/SUP-The-Unfriend-event-masthead.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54514/54516",
+   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
    "going": 0,
    "minage": null,
@@ -1184,8 +1155,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -1248,8 +1218,7 @@
     "soul",
     "blues",
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -1605,8 +1574,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -1701,6 +1669,38 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-9f112614-11d",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo",
+   "venueName": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "date": "2026-11-14",
+   "time": "00:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/1av5ecf5/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/1av5ecf5/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "rnb"
    ]
   },
   {
@@ -1847,8 +1847,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -2198,8 +2197,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -2261,8 +2259,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -2766,11 +2763,11 @@
    "postcode": "SO17 3QF",
    "date": "2026-11-18",
    "time": "20:00",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "price": 23,
+   "priceMax": 25,
+   "priceText": "£23–£25",
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/44/89/83_Original.jpg?v=4",
+   "img": "https://i.ticketweb.com/i/00/13/44/89/83_Original.jpg?v=5",
    "ticketUrl": "https://www.ticketweb.uk/event/dan-patlansky-the-brook-tickets/14848913",
    "infoUrl": "https://www.the-brook.com/tm-event/dan-patlansky/",
    "going": 0,
@@ -2939,6 +2936,36 @@
   {
    "type": "gig",
    "tags": [],
+   "hot": true,
+   "id": "sk-43167829",
+   "artist": "Mammoth",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "doors": "19:00",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 25,
+   "priceMax": 25,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/b/f/b/2468958_324df059_mammoth_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mammoth/43167829/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Mammoth/43167829/",
+   "going": 0,
+   "minage": "14",
+   "desc": "Mammoth head to EngineRooms Southampton!",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
    "hot": false,
    "id": "tm-LvZ18QLia6yII8Yv193Mk",
    "artist": "Forevanescence, Bring Me The Horizon UK & Sabotage",
@@ -2983,6 +3010,34 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43348291-north-at-joiners",
    "infoUrl": "https://www.songkick.com/concerts/43348291-north-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43506670",
+   "artist": "Thrailkill",
+   "venueId": "engine",
+   "venueName": "Engine Rooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43506670-thrailkill-at-enginerooms",
+   "infoUrl": "https://www.songkick.com/concerts/43506670-thrailkill-at-enginerooms",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -3284,8 +3339,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -3428,8 +3482,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -3591,8 +3644,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -3747,6 +3799,36 @@
   },
   {
    "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "sk-42425021",
+   "artist": "Bed By 10",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "doors": "16:00",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 20,
+   "priceMax": 20,
+   "priceText": null,
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
    "tags": [
     "tribute"
    ],
@@ -3775,39 +3857,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42425021",
-   "artist": "Bed By 10",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-21",
-   "time": "16:00",
-   "doors": "16:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/c/7/9/2264453_5883391b_bed-by-10_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Bed-By-10/42425021/",
-   "going": 0,
-   "minage": "18",
-   "desc": "Bed By 10 returns to EngineRooms Southampton this November!",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -3867,8 +3917,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -3897,8 +3946,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -4173,7 +4221,7 @@
    "priceMax": 22,
    "priceText": "£16.50–£22",
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/70/32/04_Original.jpg?v=14",
+   "img": "https://i.ticketweb.com/i/00/12/70/32/04_Original.jpg?v=15",
    "ticketUrl": "https://www.ticketweb.uk/event/omg-its-the-church-the-brook-tickets/13945024",
    "infoUrl": "https://www.the-brook.com/tm-event/omg-its-the-church/",
    "going": 0,
@@ -4312,8 +4360,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "latin"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -4405,8 +4452,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -4964,8 +5010,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -5287,8 +5332,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -5501,8 +5545,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -5620,8 +5663,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "country"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -5958,8 +6000,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -6019,8 +6060,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -6254,8 +6294,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -6285,8 +6324,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -6706,8 +6744,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -7614,8 +7651,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -7644,8 +7680,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -7759,8 +7794,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -8236,8 +8270,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "emo-alt"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -8267,8 +8300,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -8443,8 +8475,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "dnb"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -9381,8 +9412,7 @@
     "metal",
     "emo-alt",
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -9442,8 +9472,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "dance"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -9562,8 +9591,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "comedy",
@@ -9719,8 +9747,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -9957,8 +9984,7 @@
    "genres": [
     "indie",
     "dance"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -10441,9 +10467,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-12-15",
    "time": "13:30",
-   "price": 32.5,
+   "price": 22.5,
    "priceMax": 39.5,
-   "priceText": "£32.50–£39.50",
+   "priceText": "£22.50–£39.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/12/MTSX171-Event-Card-960x600-FINAL.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53220/53234",
@@ -10600,8 +10626,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -10698,9 +10723,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-12-17",
    "time": "19:00",
-   "price": 25.5,
+   "price": 19.5,
    "priceMax": 49.5,
-   "priceText": "£25.50–£49.50",
+   "priceText": "£19.50–£49.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/12/MTSX171-Event-Card-960x600-FINAL.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53220/53239",
@@ -10744,8 +10769,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -10841,8 +10865,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "other"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -11168,8 +11191,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -11202,8 +11224,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -11499,8 +11520,7 @@
     "dnb",
     "jungle",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -11646,8 +11666,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -12215,8 +12234,8 @@
    "doors": "20:00",
    "doorsText": "openingtimes.doorsopen (Skiddle)",
    "price": 10,
-   "priceMax": 17.5,
-   "priceText": "£10–£17.50",
+   "priceMax": 20,
+   "priceText": "£10–£20",
    "genre": "trance",
    "img": "https://d31fr2pwly4c4s.cloudfront.net/f/8/e/2264385_e0c1f874_enginerooms-southampton-secret-boxing-day-headliner_1024.jpg",
    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/EngineRooms-Presents-Paul-Oakenfold--Seb-Fontaine-BOXING-DAY/42424548/",
@@ -12228,8 +12247,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "trance"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -12259,8 +12277,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -12899,8 +12916,7 @@
    "genres": [
     "dnb",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -12935,8 +12951,7 @@
     "dnb",
     "punk",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -12968,8 +12983,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "club",
@@ -13001,6 +13015,38 @@
    "genres": [
     "electronic",
     "dance"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-d571952f-139",
+   "artist": "Loose x Ritmo New Years party",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-12-31",
+   "time": "20:00",
+   "price": 7,
+   "priceMax": 22,
+   "priceText": "£7–£22",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/n0723m8h/loose-x-ritmo-new-years-party",
+   "infoUrl": "https://www.fatsoma.com/e/n0723m8h/loose-x-ritmo-new-years-party",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -13067,6 +13113,41 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "emo",
+    "metal",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-c628b7cb-2ac",
+   "artist": "Apocalypse Southampton - NEW YEARS EVE!",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-12-31",
+   "time": "22:00",
+   "price": 6,
+   "priceMax": 11,
+   "priceText": "£6–£11",
+   "genre": "metal",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/tnqx5aou/apocalypse-southampton-new-years-eve",
+   "infoUrl": "https://www.fatsoma.com/e/tnqx5aou/apocalypse-southampton-new-years-eve",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "metal",
+    "emo-alt",
+    "dance"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -13122,8 +13203,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -13609,8 +13689,7 @@
    "sourceRun": "skiddle:Papillon",
    "genres": [
     "comedy"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -14426,8 +14505,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -15017,8 +15095,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -15190,8 +15267,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -15451,8 +15527,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -15483,8 +15558,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rnb"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -15611,9 +15685,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-01-31",
    "time": "19:00",
-   "price": 2,
-   "priceMax": 32,
-   "priceText": "£2–£32",
+   "price": 26.4,
+   "priceMax": 26.4,
+   "priceText": null,
    "genre": "folk-acoustic",
    "img": "https://i.ticketweb.com/i/00/13/62/66/53_Original.jpg?v=7",
    "ticketUrl": "https://www.ticketweb.uk/event/martyn-joseph-the-brook-tickets/15029203",
@@ -15938,8 +16012,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -16107,8 +16180,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -16255,8 +16327,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -16431,8 +16502,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -16657,8 +16727,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -16770,8 +16839,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -17002,8 +17070,7 @@
     "trance",
     "emo-alt",
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -17210,6 +17277,37 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "sk-43169483",
+   "artist": "Roaming Raven Witch Market",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-02-14",
+   "time": "11:00",
+   "doors": "11:00",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "electronic",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/d/6/6/2469289_15bc7303_roaming-raven-witch-market_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Roaming-Raven-Witch-Market/43169483/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Roaming-Raven-Witch-Market/43169483/",
+   "going": 0,
+   "minage": null,
+   "desc": "Roaming Raven Witch Market",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -17264,8 +17362,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -17353,8 +17450,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17440,8 +17536,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -17749,8 +17844,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -17920,8 +18014,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -18375,8 +18468,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -18523,8 +18615,7 @@
     "punk",
     "ska",
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -18899,8 +18990,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -19000,9 +19090,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-03-01",
    "time": "19:30",
-   "price": 2,
-   "priceMax": 32,
-   "priceText": "£2–£32",
+   "price": 29.15,
+   "priceMax": 29.15,
+   "priceText": null,
    "genre": "blues",
    "img": "https://i.ticketweb.com/i/00/13/13/79/84_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/king-king-acoustic-the-brook-tickets/14429104",
@@ -19303,8 +19393,7 @@
    "genreGuess": true,
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -19447,8 +19536,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -19682,8 +19770,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -19906,8 +19993,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -20051,8 +20137,7 @@
    "genres": [
     "theatre",
     "disco"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -20223,8 +20308,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -20569,8 +20653,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "jungle"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -20799,8 +20882,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -21226,8 +21308,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -21760,6 +21841,34 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43506766",
+   "artist": "Hallan",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2027-04-07",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43506766-hallan-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43506766-hallan-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -21797,9 +21906,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-04-08",
    "time": "14:00",
-   "price": 30,
+   "price": 25,
    "priceMax": 69,
-   "priceText": "£30–£69",
+   "priceText": "£25–£69",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/01/8500_73_CATS_MOON_Southampton_600x375px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53500/53512",
@@ -22145,8 +22254,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -22398,8 +22506,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -22513,8 +22620,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -22710,8 +22816,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "folk-acoustic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -22893,9 +22998,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-04-22",
    "time": "14:00",
-   "price": 23.5,
+   "price": 19.5,
    "priceMax": 39.5,
-   "priceText": "£23.50–£39.50",
+   "priceText": "£19.50–£39.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/8764_08_MT_Southampton_eventCard_960x600px_V2.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54485/54490",
@@ -23001,6 +23106,36 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "sk-43169415",
+   "artist": "Pleasure Boys | Southampton",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-04-23",
+   "time": "18:00",
+   "doors": "18:00",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 10,
+   "priceMax": 35,
+   "priceText": "£10–£35",
+   "genre": "indie",
+   "img": "https://d1plawd8huk6hh.cloudfront.net/assets/default400.png",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Pleasure-Boys--Southampton/43169415/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/Pleasure-Boys--Southampton/43169415/",
+   "going": 0,
+   "minage": "18",
+   "desc": "The boys are back! Make sure to head to EngineRooms for the craziest beach party you have ever seen",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "tm-LvZ18QEGAWgvUO_ye7zhG",
    "artist": "DC/UK",
    "venueId": "the-1865",
@@ -23080,8 +23215,7 @@
    "sourceRun": "skiddle:Suburbia-Southampton",
    "genres": [
     "electronic"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -23140,8 +23274,7 @@
    "genres": [
     "electronic",
     "dance"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -23348,9 +23481,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-04-28",
    "time": "19:30",
-   "price": 51.5,
+   "price": 24.5,
    "priceMax": 56.5,
-   "priceText": "£51.50–£56.50",
+   "priceText": "£24.50–£56.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/Hadestown-Southampton-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54181/54185",
@@ -23447,8 +23580,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -23490,9 +23622,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-04-30",
    "time": "19:30",
-   "price": 66,
+   "price": 36.5,
    "priceMax": 70.5,
-   "priceText": "£66–£70.50",
+   "priceText": "£36.50–£70.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/Hadestown-Southampton-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54181/54188",
@@ -23843,8 +23975,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "theatre"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -23983,8 +24114,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -24405,8 +24535,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "reggae"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -24780,8 +24909,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "hip-hop"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -25335,8 +25463,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "soul"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -25592,8 +25719,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -25789,8 +25915,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "theatre"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "theatre",
@@ -25849,8 +25974,7 @@
    "sourceRun": "skiddle:The-Joiners",
    "genres": [
     "metal"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -26000,9 +26124,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-06-10",
    "time": "19:30",
-   "price": 30,
+   "price": 24,
    "priceMax": 65,
-   "priceText": "£30–£65",
+   "priceText": "£24–£65",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52613",
@@ -26167,9 +26291,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-06-13",
    "time": "14:00",
-   "price": 34,
+   "price": 29,
    "priceMax": 80.5,
-   "priceText": "£34–£80.50",
+   "priceText": "£29–£80.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52617",
@@ -26359,9 +26483,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-06-18",
    "time": "19:30",
-   "price": 34,
+   "price": 29,
    "priceMax": 70,
-   "priceText": "£34–£70",
+   "priceText": "£29–£70",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52622",
@@ -26630,9 +26754,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-06-26",
    "time": "14:00",
-   "price": 34,
+   "price": 29,
    "priceMax": 80.5,
-   "priceText": "£34–£80.50",
+   "priceText": "£29–£80.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52631",
@@ -26966,9 +27090,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-07-03",
    "time": "14:00",
-   "price": 34,
+   "price": 29,
    "priceMax": 80.5,
-   "priceText": "£34–£80.50",
+   "priceText": "£29–£80.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BTTF_960x600_Full.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52555/52639",
@@ -27296,9 +27420,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-07-10",
    "time": "19:30",
-   "price": 36.5,
+   "price": 29.5,
    "priceMax": 58.5,
-   "priceText": "£36.50–£58.50",
+   "priceText": "£29.50–£58.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/PW_Generic_600x375.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54005/54013",
@@ -27978,8 +28102,7 @@
    "genres": [
     "indie",
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -28692,8 +28815,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -28722,8 +28844,7 @@
    "sourceRun": "skiddle:EngineRooms",
    "genres": [
     "rock"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -29793,8 +29914,7 @@
    "sourceRun": "skiddle:The-1865",
    "genres": [
     "punk"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -29855,8 +29975,67 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "tm-LvZ18QmwUGZc-rFCWcO78",
+   "artist": "Newton Faulkner's 20 Year Anniversary Tour of 'Hands Built By Robots'",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-10-19",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/newton-faulkners-20-year-anniversary-tour-of-hands-built-by-robots-tickets-4YR1GW?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/newton-faulkners-20-year-anniversary-tour-of-hands-built-by-robots-tickets-4YR1GW?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-newton-faulkner-2027-10-19",
+   "artist": "Newton Faulkner",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-10-19",
+   "time": "19:30",
+   "price": 38.5,
+   "priceMax": 71.5,
+   "priceText": "£38.50–£71.50",
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/13/40/34_Original.jpg?v=6",
+   "ticketUrl": "https://www.ticketweb.uk/event/newton-faulkner-the-brook-tickets/14424724",
+   "infoUrl": "https://www.the-brook.com/tm-event/newton-faulkner/",
+   "going": 0,
+   "minage": "18+ (14+ accompanied)",
+   "desc": null,
+   "source": "thebrook",
+   "doors": "19:00",
+   "doorsText": "Doors: 7:00 PM",
+   "feeIncluded": true,
+   "sourceRun": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
   },
   {
    "type": "gig",
@@ -29886,8 +30065,7 @@
    "genres": [
     "punk",
     "reggae"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -30003,8 +30181,7 @@
    "genreGuess": true,
    "genres": [
     "indie"
-   ],
-   "_carriedSince": "2026-11-08T22:09:50.551Z"
+   ]
   },
   {
    "type": "gig",
@@ -30169,37 +30346,6 @@
    "desc": null,
    "source": "songkick",
    "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-the-brook-gift-vouchers-2027-12-30",
-   "artist": "THE BROOK GIFT VOUCHERS",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2027-12-30",
-   "time": "00:00",
-   "price": 2,
-   "priceMax": 32,
-   "priceText": "£2–£32",
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/31/27/93_Original.jpg?v=12",
-   "ticketUrl": "https://www.ticketweb.uk/event/the-brook-gift-vouchers-the-brook-tickets/13559683",
-   "infoUrl": "https://www.the-brook.com/tm-event/the-brook-gift-vouchers/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "thebrook",
-   "doors": "00:00",
-   "doorsText": "Doors: 12:00 AM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
    "genreGuess": true,
    "genres": [
     "indie"
