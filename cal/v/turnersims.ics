@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43238868@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Jesca Hoop
@@ -17,7 +17,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140480@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20261219T140000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -26,7 +26,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140484@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ

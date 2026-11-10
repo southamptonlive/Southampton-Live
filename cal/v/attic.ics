@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43328835@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20261113T190000
 SUMMARY:Arthur Smith
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43041883@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20261114T190000
 SUMMARY:Jacob Hawley
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -25,7 +25,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43225570@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20261119T194500
 SUMMARY:Alasdair Beckett-King
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -34,7 +34,7 @@ DESCRIPTION:Comedy\nListed via Songkick\nTickets: https://www.songkick.com/conce
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43457980@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20270219T190000
 SUMMARY:Abi Clarke
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -43,7 +43,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43312745@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Patrick Monahan
@@ -53,7 +53,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43499651@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20270917T194500
 SUMMARY:Tom Houghton
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ
@@ -62,7 +62,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43408569@southampton.live
-DTSTAMP:20261110T145756Z
+DTSTAMP:20261110T212230Z
 DTSTART;TZID=Europe/London:20271007T190000
 SUMMARY:Micky Overman
 LOCATION:The Attic\, Totton\, Southampton\, SO40 9HQ

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-10T14:57:56.404Z",
+ "generated": "2026-11-10T21:22:30.430Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -79,14 +79,14 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 58
+   "events": 57
   },
   {
    "id": "songkick:metro",
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 401
+   "events": 403
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 520
+   "events": 519
   },
   {
    "id": "skiddle:api",
@@ -405,28 +405,26 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-overpass-2026-11-10",
-   "artist": "overpass",
+   "id": "tm-1AdbZ_eGkXNDN8L",
+   "artist": "Overpass",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-11-10",
-   "time": "19:30",
-   "price": 16.5,
-   "priceMax": 22,
-   "priceText": "£16.50–£22",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/80/68/34_Original.jpg?v=8",
-   "ticketUrl": "https://www.ticketweb.uk/event/overpass-the-brook-tickets/14079544",
-   "infoUrl": "https://www.the-brook.com/tm-event/overpass/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
+   "img": "https://s1.ticketm.net/dam/a/245/8784b195-b81d-4751-9c05-af6888790245_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/overpass-southampton-10-11-2026/event/3600642FA3EE341F",
+   "infoUrl": "https://www.ticketmaster.co.uk/overpass-southampton-10-11-2026/event/3600642FA3EE341F",
+   "going": null,
+   "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "doors": "19:00",
-   "doorsText": "Doors: 7:00 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -463,33 +461,6 @@
    "sourceRun": "fatsoma",
    "genres": [
     "comedy"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-kathakali-2026-11-10-1945",
-   "artist": "Kathakali",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-10",
-   "time": "19:45",
-   "price": 17.5,
-   "priceMax": 17.5,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/03/MAB_0890.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53858/53859",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/kathakali-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
    ]
   },
   {
@@ -701,12 +672,12 @@
    "postcode": "SO14 7DU",
    "date": "2026-11-11",
    "time": "19:00",
-   "price": null,
-   "priceMax": null,
+   "price": 14,
+   "priceMax": 14,
    "priceText": null,
    "genre": "comedy",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/SUP-The-Unfriend-event-masthead.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54514/54515",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
    "going": 0,
    "minage": null,
@@ -1491,12 +1462,11 @@
    "type": "club",
    "tags": [
     "free entry",
-    "house",
-    "tribute"
+    "disco"
    ],
    "hot": false,
    "id": "fat-43d17b48-ae8",
-   "artist": "FRIDAY - MIDNIGHT MADDNESS",
+   "artist": "TONIGHTS THE NIGHT",
    "venueId": "popworld",
    "venueName": "Popworld",
    "postcode": "SO15 2EH",
@@ -1505,10 +1475,10 @@
    "price": 0,
    "priceMax": 4,
    "priceText": "£0–£4",
-   "genre": "house",
+   "genre": "disco",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/o2glefel/friday-midnight-maddness",
-   "infoUrl": "https://www.fatsoma.com/e/o2glefel/friday-midnight-maddness",
+   "ticketUrl": "https://www.fatsoma.com/e/o2glefel/tonights-the-night",
+   "infoUrl": "https://www.fatsoma.com/e/o2glefel/tonights-the-night",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -1517,7 +1487,7 @@
    "source": "fatsoma",
    "sourceRun": "fatsoma",
    "genres": [
-    "house"
+    "disco"
    ]
   },
   {
@@ -2121,11 +2091,11 @@
    "type": "club",
    "tags": [
     "free entry",
-    "tribute"
+    "disco"
    ],
    "hot": false,
    "id": "fat-f23cae08-a7b",
-   "artist": "SATURDAY SESSIONS",
+   "artist": "TONIGHTS THE NIGHT",
    "venueId": "popworld",
    "venueName": "Popworld",
    "postcode": "SO15 2EH",
@@ -2134,10 +2104,10 @@
    "price": 0,
    "priceMax": 6,
    "priceText": "£0–£6",
-   "genre": "electronic",
+   "genre": "disco",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/kfekzjao/saturday-sessions",
-   "infoUrl": "https://www.fatsoma.com/e/kfekzjao/saturday-sessions",
+   "ticketUrl": "https://www.fatsoma.com/e/kfekzjao/tonights-the-night",
+   "infoUrl": "https://www.fatsoma.com/e/kfekzjao/tonights-the-night",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -2145,9 +2115,8 @@
    "feeIncluded": true,
    "source": "fatsoma",
    "sourceRun": "fatsoma",
-   "genreGuess": true,
    "genres": [
-    "electronic"
+    "disco"
    ]
   },
   {
@@ -6369,7 +6338,7 @@
   {
    "type": "gig",
    "tags": [],
-   "hot": false,
+   "hot": true,
    "id": "sk-41917438",
    "artist": "Moretallica | Southampton",
    "venueId": "engine",
@@ -8550,7 +8519,7 @@
   {
    "type": "club",
    "tags": [],
-   "hot": false,
+   "hot": true,
    "id": "sk-42823950",
    "artist": "Basslayerz | Southampton",
    "venueId": "engine",
@@ -11246,9 +11215,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-12-19",
    "time": "14:00",
-   "price": 24.5,
+   "price": 48.5,
    "priceMax": 59.5,
-   "priceText": "£24.50–£59.50",
+   "priceText": "£48.50–£59.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/12/MTSX171-Event-Card-960x600-FINAL.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53220/53240",
@@ -17005,7 +16974,7 @@
    "tags": [],
    "hot": false,
    "id": "br-bifr-st-the-final-farewell-2027-02-12",
-   "artist": "BIFRÖST — THE FINAL FAREWELL",
+   "artist": "BIFRÖST — The Final Farewell",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
@@ -17015,7 +16984,7 @@
    "priceMax": 22,
    "priceText": "£16.50–£22",
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/07/78/34_Original.jpg?v=7",
+   "img": "https://i.ticketweb.com/i/00/13/07/78/34_Original.jpg?v=8",
    "ticketUrl": "https://www.ticketweb.uk/event/bifrst-the-final-farewell-the-brook-tickets/14364744",
    "infoUrl": "https://www.the-brook.com/tm-event/bifrost-the-final-farewell/",
    "going": 0,
@@ -25372,6 +25341,34 @@
    "status": null,
    "source": "ticketmaster",
    "sourceRun": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43509425",
+   "artist": "Dutch Mustard",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-05-23",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43509425-dutch-mustard-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43509425-dutch-mustard-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
    "genreGuess": true,
    "genres": [
     "indie"
