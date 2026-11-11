@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43186032@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261113T193000
 SUMMARY:Beardyman
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433874@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Harakiri for the Sky
@@ -26,7 +26,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42681834@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261120T200000
 SUMMARY:Stand Up Comedy with Bella Hull\, Tom Ward and Joey Page
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -35,7 +35,7 @@ DESCRIPTION:Comedy\n£22.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AgZk3pGkeRCwmK@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261122T193000
 SUMMARY:The Guest List
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -43,17 +43,8 @@ URL:https://southampton.live/e/the-guest-list-tm-1AgZk3pGkeRCwmK.html
 DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.uk/the-guest-list-southampton-22-11-2026/event/35006496AF3B2B93\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-43340306@southampton.live
-DTSTAMP:20261111T062545Z
-DTSTART;TZID=Europe/London:20261209T193000
-SUMMARY:Buzzcocks
-LOCATION:Papillon\, Commercial Road\, SO15 1GG
-URL:https://southampton.live/e/buzzcocks-sg-43340306.html
-DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43340306-buzzcocks-at-papillon\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:sk-43123091@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261216T200000
 SUMMARY:Stand Up Comedy with Paul McCaffrey\, Robert White & Rob Deering
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -62,7 +53,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43123094@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261217T200000
 SUMMARY:Stand Up Comedy ft Angelos Epithemiou\, Danny Ward & James Ellis
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -71,7 +62,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d571952f-139@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20261231T200000
 SUMMARY:Loose x Ritmo New Years party
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -80,7 +71,7 @@ DESCRIPTION:Club night\n£7–£22\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43123095@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20270108T200000
 SUMMARY:Stand Up Comedy with Michael Fabbri\, Jeff Innocent & Paul Sinha
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -89,7 +80,7 @@ DESCRIPTION:Comedy\n£23.50\nListed via Skiddle\nTickets: https://www.skiddle.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43290585@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20270123T190000
 SUMMARY:Chuck Ragan
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -98,7 +89,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43490433@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Ingested
@@ -108,7 +99,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43455254@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:Beans on Toast
@@ -118,7 +109,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43476998@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;TZID=Europe/London:20270305T200000
 SUMMARY:Black Water County
 LOCATION:Papillon\, Commercial Road\, SO15 1GG
@@ -127,7 +118,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43436569@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Anna Erhard
@@ -137,7 +128,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433023@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Utah Saints
@@ -147,7 +138,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433278@southampton.live
-DTSTAMP:20261111T062545Z
+DTSTAMP:20261111T171255Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Ibibio Sound Machine
