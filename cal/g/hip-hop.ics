@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:br-the-allergies-beneath-this-sun-live-tour-2026-11-13@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20261113T193000
 SUMMARY:The Allergies - 'Beneath This Sun' Live Tour
 LOCATION:The Brook\, 466 Portswood Road\, Southampton\, SO17 3QF
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\n£20.35\nListed via the-brook.com\nTickets: https://www.ticketw
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-12007744-94b@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20261113T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-203ca87a-c52@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20261120T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-fc0939ff-3f7@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:Urban Room Fridays | Upstairs
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42612504@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20270129T180000
 SUMMARY:Michael Mathers - Eminem Tribute
 LOCATION:Suburbia\, 55 London Road\, Southampton\, SO14 0JD
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£10\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42490261@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20270313T180000
 SUMMARY:WHE Live & Poland Event Party Presents: CYPIS
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\n£10–£20\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42504843@southampton.live
-DTSTAMP:20261112T004805Z
+DTSTAMP:20261112T111440Z
 DTSTART;TZID=Europe/London:20270521T190000
 SUMMARY:The Eminem Experience in Southampton
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ

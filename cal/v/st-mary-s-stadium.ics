@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:St Mary's Stadium — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:sg-43513582@southampton.live
+DTSTAMP:20261112T111440Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Rhythm Of The 90s
+LOCATION:St Mary's Stadium\, Britannia Road\, SO14 5FP
+URL:https://southampton.live/e/rhythm-of-the-90s-sg-43513582.html
+DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43513582-rhythm-of-the-90s-at-st-marys-stadium\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
