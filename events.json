@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-11T17:12:55.152Z",
+ "generated": "2026-11-12T00:48:05.589Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 62
+   "events": 63
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 406
+   "events": 398
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 520
+   "events": 517
   },
   {
    "id": "skiddle:api",
@@ -172,12 +172,6 @@
    "name": "Heartbreakers",
    "postcode": "SO14 1JX",
    "address": "20 Hanover Buildings, Southampton"
-  },
-  {
-   "id": "mast",
-   "name": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "address": "Above Bar Street, Southampton"
   },
   {
    "id": "attic",
@@ -258,12 +252,6 @@
    "address": "43 - 47 Queensway"
   },
   {
-   "id": "the-point",
-   "name": "The Point, Eastleigh",
-   "postcode": "SO50 9DE",
-   "address": "Leigh Road, Eastleigh"
-  },
-  {
    "id": "hangarfarm",
    "name": "Hanger Farm Arts Centre",
    "postcode": "SO40 8FT",
@@ -280,6 +268,18 @@
    "name": "Thornden Hall",
    "postcode": "SO53 2DW",
    "address": "Winchester Road, Chandler's Ford"
+  },
+  {
+   "id": "the-point",
+   "name": "The Point, Eastleigh",
+   "postcode": "SO50 9DE",
+   "address": "Leigh Road, Eastleigh"
+  },
+  {
+   "id": "mast",
+   "name": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "address": "Above Bar Street, Southampton"
   },
   {
    "id": "trilogy",
@@ -364,275 +364,9 @@
    "name": "Mail Room Bar and Kitchen",
    "postcode": "SO14 3FD",
    "address": "37 Oxford St, Southampton SO14 3FD"
-  },
-  {
-   "id": "orange-rooms",
-   "name": "Orange Rooms",
-   "postcode": "SO15 2EJ",
-   "address": "1-2 Vernon Walk, Southampton SO15 2EJ"
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433783",
-   "artist": "Petrol Girls",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-11-11",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "punk",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43433783-petrol-girls-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genres": [
-    "punk"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43433210",
-   "artist": "Bonfire Radicals",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-11-11",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43433210-bonfire-radicals-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43433210-bonfire-radicals-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Q2t5nkinz8ZlYRsW",
-   "artist": "Soil + Finger Eleven + Adema",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-11",
-   "time": "18:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "metal",
-   "img": "https://images.universe.com/71f60781-23d8-4a1b-8f2d-14681d66144d/-/resize/1200x/-/crop/1200x1200/0,17/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
-   "ticketUrl": "https://www.universe.com/events/soil-finger-eleven-adema-tickets-9JPZDR?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/soil-finger-eleven-adema-tickets-9JPZDR?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "metal"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-wno-family-concert-marvellous-musi-2026-11-11-1830",
-   "artist": "WNO Family Concert: Marvellous Musical Mythology",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-11",
-   "time": "18:30",
-   "price": 20,
-   "priceMax": 20,
-   "priceText": null,
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/05/Family-Concert-Illustration-960-x-600px.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53963/53965",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/wno-family-concert-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-unfriend-2026-11-11-1900",
-   "artist": "The Unfriend",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-11",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2026/07/SUP-The-Unfriend-event-masthead.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-maisie-adam-2026-11-11-1945",
-   "artist": "Maisie Adam",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-11",
-   "time": "19:45",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2025/12/ma_whatsherface_1920x1080_Image_Title-scaled-e1766145320591.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/maisie-adam-whatsherface-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/maisie-adam-whatsherface-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
-   "type": "other",
-   "tags": [
-    "free entry",
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-643d2905-d94",
-   "artist": "Karaoke & DJ from 8pm",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-11",
-   "time": "20:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "other",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/s9kzizrp/karaoke-dj-from-8pm",
-   "infoUrl": "https://www.fatsoma.com/e/s9kzizrp/karaoke-dj-from-8pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "other"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "karaoke"
-   ],
-   "hot": false,
-   "id": "fat-05eb01e3-90b",
-   "artist": "BAR150 - Win a £100 Bar Tab! Every Wednesday",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-11",
-   "time": "21:00",
-   "price": 1.5,
-   "priceMax": 6,
-   "priceText": "£1.50–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/66em4d8t/bar150-win-a-100-bar-tab-every-wednesday",
-   "infoUrl": "https://www.fatsoma.com/e/66em4d8t/bar150-win-a-100-bar-tab-every-wednesday",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-07910eba-88d",
-   "artist": "Fiesta Miércoles | International Party 🍊",
-   "venueId": "orange-rooms",
-   "venueName": "Orange Rooms",
-   "postcode": "SO15 2EJ",
-   "date": "2026-11-11",
-   "time": "22:00",
-   "price": 0,
-   "priceMax": 5.5,
-   "priceText": "£0–£5.50",
-   "genre": "latin",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/jz57tkak/fiesta-miércoles-international-party",
-   "infoUrl": "https://www.fatsoma.com/e/jz57tkak/fiesta-miércoles-international-party",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "latin",
-    "electronic"
-   ]
-  },
   {
    "type": "gig",
    "tags": [],
@@ -816,7 +550,7 @@
    "priceMax": 22,
    "priceText": "£16.50–£22",
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/64/51/13_Original.jpg?v=16",
+   "img": "https://i.ticketweb.com/i/00/13/64/51/13_Original.jpg?v=17",
    "ticketUrl": "https://www.ticketweb.uk/event/chris-payn-the-parade-the-brook-tickets/15048093",
    "infoUrl": "https://www.the-brook.com/tm-event/chris-payn-the-parade/",
    "going": 0,
@@ -2427,8 +2161,8 @@
    "date": "2026-11-18",
    "time": "14:00",
    "price": 41.5,
-   "priceMax": 69.5,
-   "priceText": "£41.50–£69.50",
+   "priceMax": 62.5,
+   "priceText": "£41.50–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52081",
@@ -2510,8 +2244,8 @@
    "date": "2026-11-18",
    "time": "19:30",
    "price": 47.5,
-   "priceMax": 62.5,
-   "priceText": "£47.50–£62.50",
+   "priceMax": 69.5,
+   "priceText": "£47.50–£69.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52082",
@@ -2920,8 +2654,8 @@
    "date": "2026-11-19",
    "time": "19:30",
    "price": 46.5,
-   "priceMax": 62.5,
-   "priceText": "£46.50–£62.50",
+   "priceMax": 72.5,
+   "priceText": "£46.50–£72.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52084",
@@ -8015,34 +7749,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43503380",
-   "artist": "Turno",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-12-05",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43503380-turno-at-sobar",
-   "infoUrl": "https://www.songkick.com/concerts/43503380-turno-at-sobar",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [
     "xmas"
@@ -8184,6 +7890,38 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "drum & bass"
+   ],
+   "hot": false,
+   "id": "fat-f15a6dc9-37a",
+   "artist": "Concrete & Sobar Present: TURNO",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-12-05",
+   "time": "17:00",
+   "price": 6,
+   "priceMax": 16.5,
+   "priceText": "£6–£16.50",
+   "genre": "dnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/en5ywsjs/concrete-sobar-present-turno",
+   "infoUrl": "https://www.fatsoma.com/e/en5ywsjs/concrete-sobar-present-turno",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "dnb",
+    "electronic"
    ]
   },
   {
@@ -9038,7 +8776,7 @@
    ],
    "hot": false,
    "id": "fat-47452271-680",
-   "artist": "🐫 Hump Wednesdays 🐫 Christmas Jumper Party 🎄",
+   "artist": "🐫 Hump Wednesdays 🐫 Christmas Party! 🎄",
    "venueId": "trilogy",
    "venueName": "Trilogy",
    "postcode": "SO15 2AD",
@@ -9049,8 +8787,8 @@
    "priceText": "£5–£6",
    "genre": "electronic",
    "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/ige0685l/hump-wednesdays-christmas-jumper-party",
-   "infoUrl": "https://www.fatsoma.com/e/ige0685l/hump-wednesdays-christmas-jumper-party",
+   "ticketUrl": "https://www.fatsoma.com/e/ige0685l/hump-wednesdays-christmas-party",
+   "infoUrl": "https://www.fatsoma.com/e/ige0685l/hump-wednesdays-christmas-party",
    "going": null,
    "minage": "18+",
    "status": null,
@@ -13962,9 +13700,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-01-14",
    "time": "19:30",
-   "price": 24.5,
+   "price": 45.5,
    "priceMax": 55.5,
-   "priceText": "£24.50–£55.50",
+   "priceText": "£45.50–£55.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/07/MG-2026-09-Tour-Web-Banners-62551SGA-Southampton-Event-Card-960x600px.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52243/52249",
@@ -18052,6 +17790,39 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "sk-43167845",
+   "artist": "RNB MANIA | Southampton's Galentines R&B Fest",
+   "venueId": "engine",
+   "venueName": "EngineRooms",
+   "postcode": "SO15 1GZ",
+   "date": "2027-02-20",
+   "time": "18:30",
+   "doors": "18:30",
+   "doorsText": "openingtimes.doorsopen (Skiddle)",
+   "price": 0,
+   "priceMax": 0,
+   "priceText": "Free",
+   "genre": "rnb",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/8/5/6/2468971_8ee27854_rnb-mania-southampton-s-galentines-r-b-fest_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-Galentines-RB-Fest/43167845/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/RNB-MANIA--Southamptons-Galentines-RB-Fest/43167845/",
+   "going": 0,
+   "minage": "18",
+   "desc": "Is your playlist full of 90s & 00s R&B? Come vibe with us as we return to EngineRooms on the 20th February for our Galentines special!",
+   "source": "skiddle",
+   "sourceRun": "skiddle:EngineRooms",
+   "genres": [
+    "rnb",
+    "dance"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -18793,34 +18564,6 @@
    "status": null,
    "source": "ticketmaster",
    "sourceRun": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43244698",
-   "artist": "Rachel Parris",
-   "venueId": "the-point",
-   "venueName": "The Point, Eastleigh",
-   "postcode": "SO50 9DE",
-   "date": "2027-02-27",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43244698-rachel-parris-at-point",
-   "infoUrl": "https://www.songkick.com/concerts/43244698-rachel-parris-at-point",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -23603,9 +23346,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-04-28",
    "time": "19:30",
-   "price": 24.5,
+   "price": 51.5,
    "priceMax": 56.5,
-   "priceText": "£24.50–£56.50",
+   "priceText": "£51.50–£56.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/05/Hadestown-Southampton-960x600-1.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54181/54185",

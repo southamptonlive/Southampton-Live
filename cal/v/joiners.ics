@@ -6,18 +6,8 @@ X-WR-CALNAME:The Joiners — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
-UID:sg-43433210@southampton.live
-DTSTAMP:20261111T171255Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Bonfire Radicals
-LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
-URL:https://southampton.live/e/bonfire-radicals-sg-43433210.html
-DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43433210-bonfire-radicals-at-joiners\nDetails can change — check with the venue.
-END:VEVENT
-BEGIN:VEVENT
 UID:sg-43433975@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Undeath
@@ -27,7 +17,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-42978307@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Rosalie Cunningham
@@ -37,7 +27,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433358@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Hail the Sun
@@ -47,7 +37,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43434152@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Edging
@@ -57,7 +47,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43372894@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261118T190000
 SUMMARY:Yndling
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -66,7 +56,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43348291@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261119T190000
 SUMMARY:North
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -75,7 +65,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43222375@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261120T190000
 SUMMARY:Tokyo Tea Room
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -84,7 +74,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42415287@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261121T190000
 SUMMARY:Definitely Oasis - Southampton
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -93,7 +83,7 @@ DESCRIPTION:Gig\n£16\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43378157@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261122T190000
 SUMMARY:Teenage Bottlerocket
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -102,7 +92,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43428586@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:ĠENN
@@ -112,7 +102,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42485729@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Myriad @ The Joiners!
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -121,7 +111,7 @@ DESCRIPTION:Gig\n£12\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZk3pGkdPvFTs@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261128T190000
 SUMMARY:Bleech 9:3
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -130,7 +120,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43260565@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261201T190000
 SUMMARY:Rum Jungle
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -139,7 +129,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43425645@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261203T193000
 SUMMARY:The Family Battenberg
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -148,7 +138,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43415255@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Battle Born
@@ -158,7 +148,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18Q025-fdFoXAGalxD@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261206T190000
 SUMMARY:The Entitled Sons
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -167,7 +157,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433395@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:The Hara
@@ -177,7 +167,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43432928@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:World News
@@ -187,7 +177,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43262843@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261209T190000
 SUMMARY:World News (UK)
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -196,7 +186,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43434031@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Sweet Unrest
@@ -206,7 +196,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43420804@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261211T190000
 SUMMARY:BIG TROUSERS
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -215,7 +205,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43168541@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20261212T193000
 SUMMARY:Kuntford and Sons
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -224,7 +214,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43432976@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Softcult
@@ -234,7 +224,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43483703@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Scarlet Reading
@@ -244,7 +234,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43439496@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Worry Club
@@ -254,7 +244,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43504740@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Wonk Unit
@@ -264,7 +254,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43501353@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270108T190000
 SUMMARY:Matt Embree
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -273,7 +263,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43469848@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Tummyache
@@ -283,7 +273,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43493604@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Riskee and the Ridicule
@@ -293,7 +283,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43450642@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:The Xcerts
@@ -303,7 +293,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43496864@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Prince Daddy & The Hyena
@@ -313,7 +303,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43434072@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:Do Nothing
@@ -323,7 +313,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QID7IYdyAZgvzgUO@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270213T190000
 SUMMARY:Scarlet Rebels
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -332,7 +322,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43433598@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Big Truck
@@ -342,7 +332,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43450998@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270218T190000
 SUMMARY:Cheap Thrills
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -351,7 +341,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43457319@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270220T190000
 SUMMARY:JAYLER
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -360,7 +350,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43437096@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270226T190000
 SUMMARY:Split Dogs
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -369,7 +359,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43151866@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270303T190000
 SUMMARY:The Zac Schulze Gang
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -378,7 +368,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43230961@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270311T190000
 SUMMARY:The Howlers
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -387,7 +377,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43208265@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270324T190000
 SUMMARY:SOFY
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -396,7 +386,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QtDi8XCWsPx4LgvD@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270327T190000
 SUMMARY:LostAlone
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -405,7 +395,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43501010@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 SUMMARY:Meryl Streek
@@ -415,7 +405,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43458938@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Rob Clamp
@@ -425,7 +415,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43506766@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270407T190000
 SUMMARY:Hallan
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -434,7 +424,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43450966@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270420T190000
 SUMMARY:Bokassa
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -443,7 +433,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42666691@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270605T190000
 SUMMARY:Mosh Spice (Spice Girls Metal Tribute)- The Joiners\, Southampton
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
@@ -452,7 +442,7 @@ DESCRIPTION:Gig\n£20\nListed via Skiddle\nTickets: https://www.skiddle.com/what
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43487035@southampton.live
-DTSTAMP:20261111T171255Z
+DTSTAMP:20261112T004805Z
 DTSTART;TZID=Europe/London:20270605T190000
 SUMMARY:Spinors
 LOCATION:The Joiners\, 141 St Mary Street\, Southampton\, SO14 1NS
