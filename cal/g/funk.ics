@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Funk in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-dce5fd66-bdb@southampton.live
+DTSTAMP:20261112T195855Z
+DTSTART;TZID=Europe/London:20270424T160000
+SUMMARY:Funk & Soul Over 30s Day Party: Southampton
+LOCATION:Popworld\, 17 Lower Banister St\, Southampton SO15 2EH\, SO15 2EH
+URL:https://southampton.live/e/funk-soul-over-30s-day-party-southampton-fat-dce5fd66-bdb.html
+DESCRIPTION:Club night\n£12–£22\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/z4in8t8d/funk-soul-over-30s-day-party-southampton\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

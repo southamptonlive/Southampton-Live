@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-f8aea793-0dc@southampton.live
-DTSTAMP:20261112T111440Z
+DTSTAMP:20261112T195855Z
 DTSTART;TZID=Europe/London:20261118T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -16,7 +16,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d9c8a151-6b3@southampton.live
-DTSTAMP:20261112T111440Z
+DTSTAMP:20261112T195855Z
 DTSTART;TZID=Europe/London:20261125T200000
 SUMMARY:Karaoke & DJ from 8pm
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -25,7 +25,7 @@ DESCRIPTION:Event\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/
 END:VEVENT
 BEGIN:VEVENT
 UID:mayf-christmas-at-the-movies-2026-11-29-1900@southampton.live
-DTSTAMP:20261112T111440Z
+DTSTAMP:20261112T195855Z
 DTSTART;TZID=Europe/London:20261129T190000
 SUMMARY:Christmas at the Movies
 LOCATION:Mayflower Theatre\, Commercial Road\, Southampton\, SO15 1GE
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\n£39.50–£49.50\nListed via Mayflower Theatre\nTickets: https
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42698829@southampton.live
-DTSTAMP:20261112T111440Z
+DTSTAMP:20261112T195855Z
 DTSTART;TZID=Europe/London:20261218T190000
 SUMMARY:Massaoke
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Grime in Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-22e10d2c-f58@southampton.live
+DTSTAMP:20261112T195855Z
+DTSTART;TZID=Europe/London:20261201T230000
+SUMMARY:Fusion Nights - Southampton End of Term Special
+LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/fusion-nights-southampton-end-of-term-special-fat-22e10d2c-f58.html
+DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/xfb8njjj/fusion-nights-southampton-end-of-term-special\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR

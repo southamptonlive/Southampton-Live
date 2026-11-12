@@ -16,6 +16,7 @@
   <url><loc>https://southampton.live/v/papillon.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/brook.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/heartbreakers.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/vinilo-record-store.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/attic.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/guildhall.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/mayflower.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -37,6 +38,7 @@
   <url><loc>https://southampton.live/v/mast.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/trilogy.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/popworld.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://southampton.live/v/orange-rooms.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/crib.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/rubys.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
   <url><loc>https://southampton.live/v/funky-flamingo.html</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -313,9 +315,11 @@
   <url><loc>https://southampton.live/d/2027-11-03.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-11-06.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-11-12.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2027-11-25.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-11-27.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-11-28.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2027-12-10.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2027-12-18.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-02-14.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-02-15.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-02-16.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
@@ -339,13 +343,15 @@
   <url><loc>https://southampton.live/d/2028-03-10.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-03-11.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-03-21.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2028-03-22.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2028-03-23.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2028-03-24.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://southampton.live/d/2028-03-25.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/d/2028-07-29.html</loc><changefreq>daily</changefreq><priority>0.6</priority></url>
   <url><loc>https://southampton.live/e/undeath-sg-43433975.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/jamie-webster-sg-43513631.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/echo-the-bunnymen-sk-42798850.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-rezillos-tm-LvZ18QfADFR9d78Z0BSdV.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/the-unfriend-mayf-the-unfriend-2026-11-12-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/bluebeards-castle-and-oedipus-rex-mayf-bluebeard-s-castle-and-oedipus-rex-2026-11-12-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/daniel-foxx-mayf-daniel-foxx-2026-11-12-1945.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/chris-payn-the-parade-br-chris-payn-the-parade-2026-11-12.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/glam-thursdays-gym-shark-giveaway-southamptons-best-student--fat-8ed04007-496.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/pop-off-thursdays-free-entry-shot-fat-6d67ed05-bcd.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -355,8 +361,8 @@
   <url><loc>https://southampton.live/e/the-vintage-explosion-sk-41634043.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/arthur-smith-sg-43328835.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/creedence-clearwater-review-tm-LvZ18Qp0VetQDVOZwgIxl.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/the-unfriend-mayf-the-unfriend-2026-11-13-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/la-boheme-mayf-la-boh-me-2026-11-13-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/the-unfriend-mayf-the-unfriend-2026-11-13-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-allergies-beneath-this-sun-live-tour-br-the-allergies-beneath-this-sun-live-tour-2026-11-13.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/beardyman-sg-43186032.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/butch-kassidy-sg-43302594.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -365,7 +371,7 @@
   <url><loc>https://southampton.live/e/tonights-the-night-fat-43d17b48-ae8.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/urban-room-fridays-upstairs-fat-12007744-94b.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/get-hookd-x-regen-presents-harley-d-sk-43056814.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/95-sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tio-fat-88cc46b7-c5b.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tion-w-fat-88cc46b7-c5b.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/feel-good-friday-cafe-parfait-fat-0183973b-0b3.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/hail-the-sun-sg-43433358.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/essence-southamptons-newest-rb-saturday-night-fat-9f112614-11d.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -399,6 +405,7 @@
   <url><loc>https://southampton.live/e/dermot-henry-tm-1AdfZ_8GkzDF7OV.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/operation-mincemeat-mayf-operation-mincemeat-2026-11-17-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-other-side-of-murder-mayf-the-other-side-of-murder-2026-11-17-1945.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/socrazy-every-tuesday-17th-november-2026-1-doubles-all-night-fat-4f8b2a11-59d.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/pounded-tuesdays-1-drinks-fat-d3b0e5ae-e88.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/operation-mincemeat-mayf-operation-mincemeat-2026-11-18-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-other-side-of-murder-mayf-the-other-side-of-murder-2026-11-18-1430.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -433,7 +440,7 @@
   <url><loc>https://southampton.live/e/dessie-magee-venue-upgrade-br-dessie-magee-venue-upgrade-2026-11-20.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/bingo-cabaret-cocktails-prizes-to-be-won-fat-df60781a-506.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/friday-midnight-maddness-fat-987b8089-426.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/apocalypse-southampton-metal-alternative-emo-fat-d69e4750-3cd.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/apocalypse-southampton-free-for-all-metal-alternative-emo-fat-d69e4750-3cd.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/urban-room-fridays-upstairs-fat-203ca87a-c52.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/amc-phantom-presents-grassroots-energy-southampton-sk-42488954.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/kaleidoscope-trance-and-techno-fat-6b6771e7-b86.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -539,7 +546,8 @@
   <url><loc>https://southampton.live/e/the-big-one-cocktails-2-4-1-fat-17242150-03b.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/los-pacaminos-featuring-paul-young-br-los-pacaminos-featuring-paul-young-2026-11-28.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/saturday-sessions-fat-4b6a29cb-655.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-3ab688a1-d5c.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/south-indian-x-bollywood-night-southampton-tamil-x-malayalam-fat-3ab688a1-d5c.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/south-indian-night-southampton-tamil-x-malayalam-x-telugu-x--fat-532ade32-7b1.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/afro-kulture-urban-room-fat-9f57af6a-d2f.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/patron-el-alto-x-cafe-parfait-fat-62e00d57-bd1.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/heavy-jams-linkin-park-hybrid-theory-playthrough-sk-42815128.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -555,9 +563,11 @@
   <url><loc>https://southampton.live/e/open-mic-night-the-platform-tavern-1st-december-fat-da13721f-209.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/rum-jungle-sg-43260565.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/operacocktail-mayf-operacocktail-2026-12-01-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/fusion-nights-southampton-end-of-term-special-fat-22e10d2c-f58.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-very-hungry-caterpillar-christmas-show-mayf-the-very-hungry-caterpillar-christ-2026-12-02-1000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/solent-writers-networking-day-mayf-solent-writers-networking-day-2026-12-02-1000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-very-hungry-caterpillar-christmas-show-mayf-the-very-hungry-caterpillar-christ-2026-12-02-1300.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/ssj-christmas-choir-br-ssj-christmas-choir-2026-12-02.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/ash-tm-17uOv0G61kQ8NpZ.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-fell-w-billy-sheehan-tm-LvZ18QN85-vjRKOZzUl4k.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/cinderella-a-very-happy-ending-mayf-cinderella-a-very-happy-ending-2026-12-02-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -634,6 +644,7 @@
   <url><loc>https://southampton.live/e/cinderella-a-very-happy-ending-mayf-cinderella-a-very-happy-ending-2026-12-10-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/glam-thursdays-snow-party-southamptons-best-student-night-1--fat-f81ee87d-6b6.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/snow-rave-fat-036a6f14-20f.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/wtf-is-indie-winter-wunderland-fat-f391c6db-c21.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/taking-back-thursdays-merry-axemas-sk-42670370.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-very-hungry-caterpillar-christmas-show-mayf-the-very-hungry-caterpillar-christ-2026-12-11-1000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/martin-kemp-back-to-the-80s-christmas-party-sk-41502264.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -646,6 +657,7 @@
   <url><loc>https://southampton.live/e/gingrbread-party-friday-fat-de1e3bed-09d.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/jesters-christmas-party-fat-84b7d760-b84.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/feel-good-friday-cafe-parfait-fat-6f878a65-642.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/jamie-fielding-sg-43514717.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/so3-collective-christmas-party-2026-sk-43118288.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-very-hungry-caterpillar-christmas-show-mayf-the-very-hungry-caterpillar-christ-2026-12-12-1000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-very-hungry-caterpillar-christmas-show-mayf-the-very-hungry-caterpillar-christ-2026-12-12-1300.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -795,6 +807,7 @@
   <url><loc>https://southampton.live/e/mean-girls-mayf-mean-girls-2027-01-13-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/mean-girls-mayf-mean-girls-2027-01-14-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/mean-girls-mayf-mean-girls-2027-01-14-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/glam-thursdays-student-return-party-southamptons-best-studen-fat-75997a02-a5f.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/diva-purple-tm-LvZ18Qx58Uq5bT8ZM-63E.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/oye-santana-derick-clapton-the-dynamos-br-oye-santana-derick-clapton-the-dynamos-2027-01-15.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/mean-girls-mayf-mean-girls-2027-01-15-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -812,6 +825,7 @@
   <url><loc>https://southampton.live/e/blood-brothers-mayf-blood-brothers-2027-01-21-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/blood-brothers-mayf-blood-brothers-2027-01-21-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-witches-of-eastwick-mayf-the-witches-of-eastwick-2027-01-21-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/glam-thursdays-rep-your-football-team-southamptons-best-stud-fat-47df34f3-202.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/thunderstruck-sk-42793599.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/stipe-tm-LvZ18Q-lSbzukSOvOHM86.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/blood-brothers-mayf-blood-brothers-2027-01-22-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -939,6 +953,7 @@
   <url><loc>https://southampton.live/e/mrs-doubtfire-mayf-mrs-doubtfire-2027-02-20-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/catseye-enginerooms-southampton-sk-42673629.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/pip-and-posy-live-on-stage-mayf-pip-and-posy-live-on-stage-2027-02-20-1600.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/rnb-mania-southamptons-galentines-rb-fest-sk-43167845.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/jayler-sg-43457319.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/a-night-for-jason-tm-LvZ18Qnguzh4YA3kHsbcW.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/downloaded-br-downloaded-2027-02-20.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1059,6 +1074,7 @@
   <url><loc>https://southampton.live/e/lostalone-tm-LvZ18QtDi8XCWsPx4LgvD.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/alan-carr-mayf-alan-carr-2027-03-27-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/queenz-mayf-queenz-2027-03-27-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/dirty-dc-special-bon-scott-brian-johnson-show-br-dirty-dc-special-bon-scott-brian-johnson-2027-03-27.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/showhawk-duo-br-showhawk-duo-2027-03-28.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/meryl-streek-sg-43501010.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/cats-mayf-cats-2027-03-30-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1129,6 +1145,7 @@
   <url><loc>https://southampton.live/e/swiftogeddon-the-reputation-special-sk-43126199.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-mousetrap-mayf-the-mousetrap-2027-04-24-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/old-skool-day-rave-southampton-sk-43019216.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/funk-soul-over-30s-day-party-southampton-fat-dce5fd66-bdb.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-mousetrap-mayf-the-mousetrap-2027-04-24-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/moving-pictures-tm-LvZ18QtLHl69I0xmfh7ct.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/al-murray-the-pub-landlord-mayf-al-murray-the-pub-landlord-2027-04-25-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1214,6 +1231,7 @@
   <url><loc>https://southampton.live/e/jack-skipper-mayf-jack-skipper-2027-05-28-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/singin-in-the-rain-mayf-singin-in-the-rain-2027-05-29-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/rock-day-party-southampton-fat-52111014-d01.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/uk-garage-classics-day-party-southampton-fat-0aabecc1-716.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-stone-garden-sg-43392704.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-gods-of-grunge-tour-ft-stonegarden-the-smashed-in-pumpki-tm-LvZ18QIg08Q_GQJ4uZFQX.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/singin-in-the-rain-mayf-singin-in-the-rain-2027-05-29-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1268,6 +1286,7 @@
   <url><loc>https://southampton.live/e/back-to-the-future-the-musical-mayf-back-to-the-future-the-musical-2027-07-01-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/back-to-the-future-the-musical-mayf-back-to-the-future-the-musical-2027-07-02-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/back-to-the-future-the-musical-mayf-back-to-the-future-the-musical-2027-07-03-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/back-to-the-80s-day-party-southampton-fat-fe3f586b-bcd.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/re-verve-ocean-cover-scene-tm-LvZ18QxA4vDABkZZM3iOW.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/back-to-the-future-the-musical-mayf-back-to-the-future-the-musical-2027-07-03-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/pretty-woman-the-musical-mayf-pretty-woman-the-musical-2027-07-06-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1302,6 +1321,7 @@
   <url><loc>https://southampton.live/e/the-smartest-giant-in-town-mayf-the-smartest-giant-in-town-2027-07-24-1600.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/voodoo-room-perform-hendrix-clapton-cream-sg-43353389.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/faith-no-man-alice-in-chains-uk-tm-LvZ18QNfFKOdrrZZzlAbi.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/90s-00s-rb-hip-hop-classics-day-party-southampton-fat-d8b64b1c-8fd.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/type-of-negative-pantera-ad-tm-LvZ18QbdQrGMWR8ZwPxvO.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/nozfest-sk-43144003.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/a-foreigners-journey-tm-LvZ18QNy_k906G6xtWq5d.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1321,6 +1341,7 @@
   <url><loc>https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-09-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-10-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-11-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/country-classics-day-party-southampton-fat-43a79e08-e28.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/sounds-of-seattle-tm-LvZ18QirzXUTCoIxBsWc6.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/jesus-christ-superstar-mayf-jesus-christ-superstar-2027-09-11-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/starlight-express-mayf-starlight-express-2027-09-15-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1368,6 +1389,7 @@
   <url><loc>https://southampton.live/e/matt-bragg-mayf-matt-bragg-2027-10-09-2000.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-chats-tm-LvZ18QcbkrXylObHR34e1.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/dr-feelgood-nine-below-zero-tm-LvZ18Ql78WhqZQwFiONpa.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/trance-anthems-day-party-southampton-fat-c8686139-ab4.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/bruce-foxton-50-years-of-the-jam-sk-43127741.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/elo-again-moved-from-8th-january-br-elo-again-moved-from-8th-january-2027-10-16.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/an-evening-of-stories-and-songs-with-kenny-thomas-southampto-sk-42670372.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1378,13 +1400,16 @@
   <url><loc>https://southampton.live/e/the-ruts-50-years-of-ruts-music-1977-2027-tm-LvZ18QngBzmcmsdtT-6f6.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/the-sensational-60s-experience-mayf-the-sensational-60s-experience-2027-11-02-1900.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/clint-boon-inspiral-carpets-tm-LvZ18QtPfemFTO1FXUt3c.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/motown-magic-day-party-southampton-fat-7945ab39-728.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/lightning-seeds-sk-43122831.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/erasured-tm-LvZ18QnARLBja9YPhXsPk.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/roy-chubby-brown-sg-42956957.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/dom-joly-sg-43514080.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/ed-force-one-priest-unleashed-tm-LvZ18QtZWhroecMTUqUPi.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/mike-bubbins-sg-42858285.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/tom-allen-mayf-tom-allen-2027-11-28-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/space-cowboy-sg-43468541.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/the-ultimate-pre-christmas-day-party-southampton-fat-c15cacca-897.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/hairspray-mayf-hairspray-2028-02-14-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/hairspray-mayf-hairspray-2028-02-15-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/hairspray-mayf-hairspray-2028-02-16-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -1418,5 +1443,11 @@
   <url><loc>https://southampton.live/e/an-inspector-calls-mayf-an-inspector-calls-2028-03-11-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/an-inspector-calls-mayf-an-inspector-calls-2028-03-11-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-21-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-22-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-23-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-23-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-24-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-25-1400.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://southampton.live/e/hamnet-mayf-hamnet-2028-03-25-1930.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://southampton.live/e/a-foreigners-journey-sg-43380734.html</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
 </urlset>
