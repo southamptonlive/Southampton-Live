@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-4f8b2a11-59d@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261117T220000
 SUMMARY:SO:CRAZY - EVERY TUESDAY - 17th November 2026 - £1 DOUBLES ALL NIGHT. 50p J BOMBS!
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£4–£7\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-d69e4750-3cd@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261120T220000
 SUMMARY:Apocalypse Southampton - FREE FOR ALL! - Metal / Alternative / Emo
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\nFree\nListed via Fatsoma\nTickets: https://www.fatsoma.c
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-1af4b94e-7d4@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:Southampton Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-df18bd64-29c@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:DesiBeatz Southampton Presents : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0da04718-9a2@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261123T220000
 SUMMARY:UOP Punjabi Soc : DESI 023
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -52,7 +52,7 @@ DESCRIPTION:Club night\n£5–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-291330d4-8b3@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:BLACK FRIDAY - 50p J BOMBS - £1 CANS - £2 DOUBLES - OPEN UNTILL 3AM
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -61,7 +61,7 @@ DESCRIPTION:Club night\n£1.99–£9\nListed via Fatsoma\nTickets: https://www.f
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-27e01cd5-453@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261127T220000
 SUMMARY:BLACK FRIDAY - 50p J BOMBS - £1 CANS - £2 DOUBLES - 100 FREE ENTRY TICKETS - OPEN UNTILL 3AM
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -70,7 +70,7 @@ DESCRIPTION:Club night\n£0–£9\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-3ab688a1-d5c@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian x Bollywood Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -79,7 +79,7 @@ DESCRIPTION:Club night\n£4.99–£26.40\nListed via Fatsoma\nTickets: https://w
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-532ade32-7b1@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:South Indian Night Southampton | Tamil x Malayalam x Telugu x Kannada
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -88,7 +88,7 @@ DESCRIPTION:Club night\n£6.99–£12.09\nListed via Fatsoma\nTickets: https://w
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-f15a6dc9-37a@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261205T170000
 SUMMARY:Concrete & Sobar Present: TURNO
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -97,7 +97,7 @@ DESCRIPTION:Club night\n£6–£16.50\nListed via Fatsoma\nTickets: https://www.
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43514717@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Jamie Fielding
@@ -107,7 +107,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-c628b7cb-2ac@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20261231T220000
 SUMMARY:Apocalypse Southampton - NEW YEARS EVE!
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -116,7 +116,7 @@ DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fat
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-ec63696c-188@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20270502T030000
 SUMMARY:R.U.M IN THE SUN : 10 YEARS OF R.U.M IN THE SUN
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
@@ -125,7 +125,7 @@ DESCRIPTION:Gig\n£6.95–£15.35\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-0badd251-fd4@southampton.live
-DTSTAMP:20261113T015432Z
+DTSTAMP:20261113T110333Z
 DTSTART;TZID=Europe/London:20270930T230000
 SUMMARY:Southampton Freshers 2027 Welcome Party
 LOCATION:The Sobar\, Southampton\, SO14 0JZ
