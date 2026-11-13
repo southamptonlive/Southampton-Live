@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-fc58462c-fe8@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20261114T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-8c1aa27f-75a@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9f57af6a-d2f@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20261128T220000
 SUMMARY:Afro Kulture | Urban Room
 LOCATION:Medbar\, 50 Oxford St\, Southampton SO14 3DP\, SO14 3DP
@@ -34,7 +34,7 @@ DESCRIPTION:Club night\n£4\nListed via Fatsoma\nTickets: https://www.fatsoma.co
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9735fab1-94f@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20261204T210000
 SUMMARY:CLUB KOKO - ALL WHITE PARTY
 LOCATION:CRIB\, 3-4 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
@@ -43,7 +43,7 @@ DESCRIPTION:Club night\n£0–£4\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42610446@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20270515T190000
 SUMMARY:The Reggae Orchestra
 LOCATION:Engine Rooms\, West Quay Road\, Southampton\, SO15 1GZ
@@ -52,7 +52,7 @@ DESCRIPTION:Gig\n£18–£23\nListed via Skiddle\nTickets: https://www.skiddle.c
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-LvZ18QmI1pSIq0fF2seog@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20270521T190000
 SUMMARY:The Marley Experience + New School Reggae Jams
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
@@ -61,7 +61,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.universe.com/even
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-42822139@southampton.live
-DTSTAMP:20261113T110333Z
+DTSTAMP:20261113T194638Z
 DTSTART;TZID=Europe/London:20271022T190000
 SUMMARY:Ruts DC Prestents The Ruts
 LOCATION:The 1865\, Brunswick Square\, SO14 3AR
