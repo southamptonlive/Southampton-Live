@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-13T19:46:38.508Z",
+ "generated": "2026-11-14T01:31:47.912Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -16,7 +16,7 @@
    "label": "Skiddle · EngineRooms",
    "url": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/",
    "ok": true,
-   "events": 62
+   "events": 61
   },
   {
    "id": "skiddle:Suburbia-Southampton",
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 408
+   "events": 399
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 520
+   "events": 519
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 181
+   "events": 186
   },
   {
    "id": "ticketmaster",
@@ -174,16 +174,16 @@
    "address": "20 Hanover Buildings, Southampton"
   },
   {
-   "id": "attic",
-   "name": "The Attic",
-   "postcode": "SO40 9HQ",
-   "address": "Totton, Southampton"
-  },
-  {
    "id": "guildhall",
    "name": "O2 Guildhall",
    "postcode": "SO14 7LP",
    "address": "West Marlands Road, Southampton"
+  },
+  {
+   "id": "attic",
+   "name": "The Attic",
+   "postcode": "SO40 9HQ",
+   "address": "Totton, Southampton"
   },
   {
    "id": "mayflower",
@@ -379,469 +379,6 @@
   }
  ],
  "events": [
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-42978307",
-   "artist": "Rosalie Cunningham",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-11-13",
-   "time": null,
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/42978307-rosalie-cunningham-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/42978307-rosalie-cunningham-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [
-    "rock",
-    "soul",
-    "blues"
-   ],
-   "hot": false,
-   "id": "sk-41634043",
-   "artist": "The Vintage Explosion",
-   "venueId": "engine",
-   "venueName": "EngineRooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "doors": "19:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 32.5,
-   "priceMax": 32.5,
-   "priceText": null,
-   "genre": "soul",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/7/a/d/2158142_98353856_The-Vintage-Explosion_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/The-Vintage-Explosion/41634043/",
-   "going": 0,
-   "minage": "14",
-   "desc": "Get yourself down for a night of astonishing Rock n roll, Soul & Rhythm and Blues from the amazing Vintage Explosion.",
-   "source": "skiddle",
-   "sourceRun": "skiddle:EngineRooms",
-   "genres": [
-    "soul",
-    "blues",
-    "rock"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43328835",
-   "artist": "Arthur Smith",
-   "venueId": "attic",
-   "venueName": "The Attic",
-   "postcode": "SO40 9HQ",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43328835-arthur-smith-at-attic",
-   "infoUrl": "https://www.songkick.com/concerts/43328835-arthur-smith-at-attic",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18Qp0VetQDVOZwgIxl",
-   "artist": "Creedence Clearwater Review",
-   "venueId": "the-1865",
-   "venueName": "The 1865",
-   "postcode": "SO14 3AR",
-   "date": "2026-11-13",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://images.universe.com/b25da784-115a-4b67-a9df-cc7dd18fb080/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-   "ticketUrl": "https://www.universe.com/events/creedence-clearwater-review-tickets-ZMWSVH?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/creedence-clearwater-review-tickets-ZMWSVH?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-LvZ18QnnwhmTHhDghWdSz",
-   "artist": "The Allergies - 'Beneath This Sun' Live Tour",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "hip-hop",
-   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x683/center/-/progressive/yes/-/inline/yes/",
-   "ticketUrl": "https://www.universe.com/events/the-allergies-beneath-this-sun-live-tour-tickets-GZ3Q1K?ref=ticketmaster",
-   "infoUrl": "https://www.universe.com/events/the-allergies-beneath-this-sun-live-tour-tickets-GZ3Q1K?ref=ticketmaster",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genres": [
-    "hip-hop"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43186032",
-   "artist": "Beardyman",
-   "venueId": "papillon",
-   "venueName": "Papillon",
-   "postcode": "SO15 1GG",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
-   "infoUrl": "https://www.songkick.com/concerts/43186032-beardyman-at-papillon",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43302594",
-   "artist": "Butch Kassidy",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-11-13",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43302594-butch-kassidy-at-heartbreakers",
-   "infoUrl": "https://www.songkick.com/concerts/43302594-butch-kassidy-at-heartbreakers",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-in-the-air-tonight-2026-11-13-1945",
-   "artist": "In the Air Tonight",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-13",
-   "time": "19:45",
-   "price": 34,
-   "priceMax": 34,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://images.mayflower.org.uk/uploads/2026/06/In-The-Air-Tonight-Website-Image-960x600-entertainers.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54261/54262",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/in-the-air-tonight-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drag"
-   ],
-   "hot": false,
-   "id": "fat-43b22eea-856",
-   "artist": "🎤Bingo, Cabaret & Cocktails - Prizes to be won!🎁",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-13",
-   "time": "20:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/89p1e0zk/bingo-cabaret-cocktails-prizes-to-be-won",
-   "infoUrl": "https://www.fatsoma.com/e/89p1e0zk/bingo-cabaret-cocktails-prizes-to-be-won",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "disco"
-   ],
-   "hot": false,
-   "id": "fat-43d17b48-ae8",
-   "artist": "TONIGHTS THE NIGHT",
-   "venueId": "popworld",
-   "venueName": "Popworld",
-   "postcode": "SO15 2EH",
-   "date": "2026-11-13",
-   "time": "21:00",
-   "price": 0,
-   "priceMax": 4,
-   "priceText": "£0–£4",
-   "genre": "disco",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/o2glefel/tonights-the-night",
-   "infoUrl": "https://www.fatsoma.com/e/o2glefel/tonights-the-night",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "disco"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "hip hop",
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-12007744-94b",
-   "artist": "Urban Room Fridays | Upstairs",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-13",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 4,
-   "priceText": null,
-   "genre": "hip-hop",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/qyie9rsr/urban-room-fridays-upstairs",
-   "infoUrl": "https://www.fatsoma.com/e/qyie9rsr/urban-room-fridays-upstairs",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "hip-hop",
-    "rnb",
-    "afrobeat"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "drum & bass"
-   ],
-   "hot": false,
-   "id": "sk-43056814",
-   "artist": "Get Hook'd x Re:Gen presents: HARLEY D",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-11-13",
-   "time": "22:30",
-   "doors": "22:30",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 10,
-   "priceMax": 10,
-   "priceText": null,
-   "genre": "dnb",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/4/6/1/2454582_7be83e9c_get-hook-d-x-re-gen-presents-harley-d_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/Get-Hookd-x-ReGen-presents-HARLEY-D/43056814/",
-   "going": 0,
-   "minage": "18",
-   "desc": "We're taking over Suburbia for a night dedicated to the deeper, rolling side of drum and bass. Headlining is Harley D",
-   "source": "skiddle",
-   "sourceRun": "skiddle:Suburbia-Southampton",
-   "genres": [
-    "dnb",
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "freshers",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-88cc46b7-c5b",
-   "artist": "[SOLD OUT!] DesiBeatz Southampton : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-13",
-   "time": "23:00",
-   "price": 11,
-   "priceMax": 17.6,
-   "priceText": "£11–£17.60",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/qc4ba4ur/sold-out-desibeatz-southampton-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
-   "infoUrl": "https://www.fatsoma.com/e/qc4ba4ur/sold-out-desibeatz-southampton-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "house",
-    "freshers",
-    "halloween"
-   ],
-   "hot": false,
-   "id": "fat-e68e638d-a23",
-   "artist": "[SOLD OUT!] DesiBeatz Southamptom : Bricardi Afterparty FT TION WAYNE LIVE ! | ENGINE ROOMS | 13/11/26",
-   "venueId": "engine",
-   "venueName": "Engine Rooms",
-   "postcode": "SO15 1GZ",
-   "date": "2026-11-13",
-   "time": "23:00",
-   "price": 11,
-   "priceMax": 17.6,
-   "priceText": "£11–£17.60",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/aw2jpe8a/sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
-   "infoUrl": "https://www.fatsoma.com/e/aw2jpe8a/sold-out-desibeatz-southamptom-bricardi-afterparty-ft-tion-wayne-live-engine-rooms-13-11-26",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "latin"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry",
-    "house"
-   ],
-   "hot": false,
-   "id": "fat-0183973b-0b3",
-   "artist": "Feel . Good . Friday @ Cafe Parfait",
-   "venueId": "cafe-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-11-13",
-   "time": "23:00",
-   "price": 0,
-   "priceMax": 7,
-   "priceText": "£0–£7",
-   "genre": "house",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/4qkl1rbb/feel-good-friday-cafe-parfait",
-   "infoUrl": "https://www.fatsoma.com/e/4qkl1rbb/feel-good-friday-cafe-parfait",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "house",
-    "dance"
-   ]
-  },
   {
    "type": "gig",
    "tags": [],
@@ -1743,9 +1280,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-17",
    "time": "19:30",
-   "price": 38,
+   "price": 56,
    "priceMax": 62.5,
-   "priceText": "£38–£62.50",
+   "priceText": "£56–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52074",
@@ -6982,6 +6519,36 @@
    "sourceRun": "fatsoma",
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [],
+   "hot": false,
+   "id": "fat-363eec7c-b1d",
+   "artist": "OASIS × DND : WINTER BALL AFTERPARTY 🥂",
+   "venueId": "sobar",
+   "venueName": "The Sobar",
+   "postcode": "SO14 0JZ",
+   "date": "2026-12-03",
+   "time": "23:00",
+   "price": 6,
+   "priceMax": 9,
+   "priceText": "£6–£9",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/v7mbyfm7/oasis-dnd-winter-ball-afterparty",
+   "infoUrl": "https://www.fatsoma.com/e/v7mbyfm7/oasis-dnd-winter-ball-afterparty",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -19189,6 +18756,38 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-1a027f9e-132",
+   "artist": "Glam Thursdays | FIFTY SHADES OF GREGGS 🌭 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy",
+   "venueName": "Trilogy",
+   "postcode": "SO15 2AD",
+   "date": "2027-03-04",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/n5e4oih0/glam-thursdays-fifty-shades-of-greggs-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/n5e4oih0/glam-thursdays-fifty-shades-of-greggs-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -20074,6 +19673,38 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-b44b3d1a-6a6",
+   "artist": "Glam Thursdays | 🏎️ F1 PARTY! 🏎️ Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy",
+   "venueName": "Trilogy",
+   "postcode": "SO15 2AD",
+   "date": "2027-03-11",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/7mf2fyuy/glam-thursdays-f1-party-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/7mf2fyuy/glam-thursdays-f1-party-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -20675,6 +20306,38 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-c656ca49-c75",
+   "artist": "Glam Thursdays | 🍀 ST PATRICKS PARTY!🍀 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy",
+   "venueName": "Trilogy",
+   "postcode": "SO15 2AD",
+   "date": "2027-03-18",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/c0yc0mvg/glam-thursdays-st-patricks-party-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/c0yc0mvg/glam-thursdays-st-patricks-party-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -21213,6 +20876,38 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-d3d9a25f-430",
+   "artist": "Glam Thursdays | 🐣🐰 EASTER PARTY! 🐣🐰 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy",
+   "venueName": "Trilogy",
+   "postcode": "SO15 2AD",
+   "date": "2027-03-25",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/1aalydw9/glam-thursdays-easter-party-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/1aalydw9/glam-thursdays-easter-party-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -21663,6 +21358,38 @@
    "sourceRun": "mayflower",
    "genres": [
     "theatre"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-3a4ba1e7-c5b",
+   "artist": "Glam Thursdays | Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
+   "venueId": "trilogy",
+   "venueName": "Trilogy",
+   "postcode": "SO15 2AD",
+   "date": "2027-04-01",
+   "time": "22:00",
+   "price": 3.8,
+   "priceMax": 4.8,
+   "priceText": "£3.80–£4.80",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/wpmp06c5/glam-thursdays-southampton-s-best-student-night-1-shots-all-night",
+   "infoUrl": "https://www.fatsoma.com/e/wpmp06c5/glam-thursdays-southampton-s-best-student-night-1-shots-all-night",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -25212,11 +24939,11 @@
    "postcode": "SO17 3QF",
    "date": "2027-05-21",
    "time": "19:30",
-   "price": 20.35,
-   "priceMax": 20.35,
+   "price": 22,
+   "priceMax": 22,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/12/10/14_Original.jpg?v=4",
+   "img": "https://i.ticketweb.com/i/00/13/12/10/14_Original.jpg?v=5",
    "ticketUrl": "https://www.ticketweb.uk/event/soulsville-revue-the-brook-tickets/14408434",
    "infoUrl": "https://www.the-brook.com/tm-event/soulsville-revue/",
    "going": 0,
@@ -30544,8 +30271,8 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "br-newton-faulkner-2027-10-19",
-   "artist": "Newton Faulkner",
+   "id": "br-newton-faulkner-sold-out-2nd-date-added-2027-10-19",
+   "artist": "Newton Faulkner - Sold Out - 2nd Date Added",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
@@ -30555,8 +30282,8 @@
    "priceMax": 18.7,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/13/40/34_Original.jpg?v=9",
-   "ticketUrl": "https://www.ticketweb.uk/event/newton-faulkner-the-brook-tickets/14424724",
+   "img": "https://i.ticketweb.com/i/00/13/13/40/34_Original.jpg?v=10",
+   "ticketUrl": "https://www.ticketweb.uk/event/newton-faulkner-sold-the-brook-tickets/14424724",
    "infoUrl": "https://www.the-brook.com/tm-event/newton-faulkner/",
    "going": 0,
    "minage": "18+ (14+ accompanied)",
