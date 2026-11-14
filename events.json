@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-14T18:05:48.047Z",
+ "generated": "2026-11-14T22:34:06.783Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -23,7 +23,7 @@
    "label": "Skiddle · Suburbia Southampton",
    "url": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/",
    "ok": true,
-   "events": 30
+   "events": 29
   },
   {
    "id": "skiddle:The-Joiners",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 517
+   "events": 515
   },
   {
    "id": "skiddle:api",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 182
+   "events": 180
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 218
+   "events": 219
   }
  ],
  "venues": [
@@ -440,98 +440,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [
-    "disco"
-   ],
-   "hot": false,
-   "id": "fat-2345db26-0a0",
-   "artist": "The ABBA Day Party: Southampton 💃🕺",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-11-14",
-   "time": "15:00",
-   "price": 12.5,
-   "priceMax": 22.5,
-   "priceText": "£12.50–£22.50",
-   "genre": "disco",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/x8y858e7/the-abba-day-party-southampton",
-   "infoUrl": "https://www.fatsoma.com/e/x8y858e7/the-abba-day-party-southampton",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "disco",
-    "dance"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "free entry"
-   ],
-   "hot": false,
-   "id": "fat-6d04c2ce-800",
-   "artist": "Daytime Clubbing | 4pm-10pm",
-   "venueId": "medbar",
-   "venueName": "Medbar",
-   "postcode": "SO14 3DP",
-   "date": "2026-11-14",
-   "time": "16:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/q3pq21o9/daytime-clubbing-4pm-10pm",
-   "infoUrl": "https://www.fatsoma.com/e/q3pq21o9/daytime-clubbing-4pm-10pm",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sk-42623059",
-   "artist": "TuffAF Presents: Compounds",
-   "venueId": "suburbia",
-   "venueName": "Suburbia Southampton",
-   "postcode": "SO14 0JD",
-   "date": "2026-11-14",
-   "time": "18:00",
-   "doors": "18:00",
-   "doorsText": "openingtimes.doorsopen (Skiddle)",
-   "price": 8,
-   "priceMax": 8,
-   "priceText": null,
-   "genre": "punk",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/0/2/1/2314122_9315c7f4_tuffaf-presents-compounds_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TuffAF-Presents-Compounds/42623059/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/TuffAF-Presents-Compounds/42623059/",
-   "going": 0,
-   "minage": "14",
-   "desc": "TuffAF Promotions presents Compounds live at Suburbia with Exhilaro , Averted and Vinaya. Saturday 14th November, 6 - 10PM.",
-   "source": "skiddle",
-   "sourceRun": "skiddle:Suburbia-Southampton",
-   "genres": [
-    "punk"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -589,33 +497,6 @@
    ]
   },
   {
-   "type": "comedy",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-unfriend-2026-11-14-1900",
-   "artist": "The Unfriend",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-14",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "comedy",
-   "img": "https://images.mayflower.org.uk/uploads/2026/07/SUP-The-Unfriend-event-masthead.jpg?resize=640%2C400",
-   "ticketUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-unfriend-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "comedy"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -648,6 +529,35 @@
    "type": "gig",
    "tags": [],
    "hot": false,
+   "id": "tm-LvZ18QnngdBrFobi6qWv3",
+   "artist": "Bon Giovi",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/bon-giovi-tickets-4MB71H?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/bon-giovi-tickets-4MB71H?ref=ticketmaster",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
    "id": "sg-42915208",
    "artist": "Fin Taylor",
    "venueId": "guildhall",
@@ -674,27 +584,30 @@
   },
   {
    "type": "gig",
-   "tags": [],
+   "tags": [
+    "tribute"
+   ],
    "hot": false,
-   "id": "mayf-what-s-love-got-to-do-with-it-2026-11-14-1930",
-   "artist": "What's Love Got To Do With It?",
+   "id": "tm-G5vHZbUDVchm3",
+   "artist": "What's Love Got to do With it? - The Ultimate Tribute to Tina Turner",
    "venueId": "mayflower",
    "venueName": "Mayflower Theatre",
    "postcode": "SO15 1GE",
    "date": "2026-11-14",
    "time": "19:30",
-   "price": 28.5,
-   "priceMax": 38.5,
-   "priceText": "£28.50–£38.50",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
    "genre": "indie",
-   "img": "https://images.mayflower.org.uk/uploads/2025/11/Southampton-Tina-960x600-whats-love.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53062/53064",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/whats-love-got-to-do-with-it-2026/",
-   "going": 0,
+   "img": "https://s1.ticketm.net/dam/a/5e4/acfa59dc-363e-417b-b3db-1ad99ef8d5e4_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/whats-love-got-to-do-with-southampton-14-11-2026/event/1F00636EF4B5BB92",
+   "infoUrl": "https://www.ticketmaster.co.uk/whats-love-got-to-do-with-southampton-14-11-2026/event/1F00636EF4B5BB92",
+   "going": null,
    "minage": null,
    "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
@@ -727,37 +640,6 @@
    "sourceRun": "fatsoma",
    "genres": [
     "electronic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-bon-giovi-2026-11-14",
-   "artist": "Bon Giovi",
-   "venueId": "brook",
-   "venueName": "The Brook",
-   "postcode": "SO17 3QF",
-   "date": "2026-11-14",
-   "time": "20:30",
-   "price": 22,
-   "priceMax": 22,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/12/92/96/04_Original.jpg?v=9",
-   "ticketUrl": "https://www.ticketweb.uk/event/bon-giovi-the-brook-tickets/14210954",
-   "infoUrl": "https://www.the-brook.com/tm-event/bon-giovi/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
-   "desc": null,
-   "source": "thebrook",
-   "doors": "19:00",
-   "doorsText": "Doors: 7:00 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
-   "genreGuess": true,
-   "genres": [
-    "indie"
    ]
   },
   {
@@ -2111,6 +1993,35 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "theatre",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "mayf-the-stimming-pool-2026-11-20-1900",
+   "artist": "The Stimming Pool",
+   "venueId": "mast",
+   "venueName": "MAST Mayflower Studios",
+   "postcode": "SO14 7DU",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "price": 0,
+   "priceMax": 10,
+   "priceText": "£0–£10",
+   "genre": "theatre",
+   "img": "https://images.mayflower.org.uk/uploads/2026/11/Event-Card_Stimming-Pool.png?resize=640%2C400",
+   "ticketUrl": "https://ticketing.mayflower.org.uk/54959/54960",
+   "infoUrl": "https://www.mayflower.org.uk/whats-on/sfw-the-stimming-pool-2026/",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "mayflower",
+   "sourceRun": "mayflower",
+   "genres": [
+    "theatre"
    ]
   },
   {
@@ -5625,7 +5536,7 @@
    "price": 39.5,
    "priceMax": 49.5,
    "priceText": "£39.50–£49.50",
-   "genre": "other",
+   "genre": "indie",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BSO-Xmas-at-the-Movies_Event-Card_960x600pxls.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52493/52494",
    "infoUrl": "https://www.mayflower.org.uk/whats-on/christmas-at-the-movies-2026/",
@@ -5634,8 +5545,9 @@
    "desc": null,
    "source": "mayflower",
    "sourceRun": "mayflower",
+   "genreGuess": true,
    "genres": [
-    "other"
+    "indie"
    ]
   },
   {
@@ -29219,9 +29131,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-09-18",
    "time": "19:30",
-   "price": 25,
+   "price": 32,
    "priceMax": 80.5,
-   "priceText": "£25–£80.50",
+   "priceText": "£32–£80.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/04/SE_Tour_Generic_960x600_InclSafeArea.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53908/53938",
@@ -30485,6 +30397,37 @@
    "sourceRun": "ticketmaster",
    "genres": [
     "punk"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "br-bon-giovi-2027-10-30",
+   "artist": "Bon Giovi",
+   "venueId": "brook",
+   "venueName": "The Brook",
+   "postcode": "SO17 3QF",
+   "date": "2027-10-30",
+   "time": "20:30",
+   "price": 18.7,
+   "priceMax": 18.7,
+   "priceText": null,
+   "genre": "indie",
+   "img": "https://i.ticketweb.com/i/00/13/15/49/54_Original.jpg?v=4",
+   "ticketUrl": "https://www.ticketweb.uk/event/bon-giovi-the-brook-tickets/14448574",
+   "infoUrl": "https://www.the-brook.com/tm-event/bon-giovi-2/",
+   "going": 0,
+   "minage": "18+ (14+ accompanied)",
+   "desc": null,
+   "source": "thebrook",
+   "doors": "19:30",
+   "doorsText": "Doors: 7:30 PM",
+   "feeIncluded": true,
+   "sourceRun": "thebrook",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
