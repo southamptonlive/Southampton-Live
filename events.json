@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-15T16:26:24.294Z",
+ "generated": "2026-11-15T22:54:16.600Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -79,7 +79,7 @@
    "label": "The Brook (the-brook.com)",
    "url": "https://www.the-brook.com/",
    "ok": true,
-   "events": 61
+   "events": 60
   },
   {
    "id": "songkick:metro",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 515
+   "events": 514
   },
   {
    "id": "skiddle:api",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 172
+   "events": 171
   },
   {
    "id": "ticketmaster",
@@ -377,58 +377,59 @@
    "type": "gig",
    "tags": [],
    "hot": false,
-   "id": "mayf-jools-holland-2026-11-15-1930",
-   "artist": "Jools Holland",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-15",
-   "time": "19:30",
-   "price": 60,
-   "priceMax": 60,
-   "priceText": null,
-   "genre": "blues",
-   "img": "https://images.mayflower.org.uk/uploads/2026/01/Jools-Event-Card-960x600px.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/53598/53599",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/jools-holland-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "blues"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "br-the-wannadies-2026-11-15",
+   "id": "tm-LvZ18QnnUutXbsqa-oPEs",
    "artist": "The Wannadies",
    "venueId": "brook",
    "venueName": "The Brook",
    "postcode": "SO17 3QF",
    "date": "2026-11-15",
-   "time": "20:00",
-   "price": 30.8,
-   "priceMax": 30.8,
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
    "priceText": null,
    "genre": "indie",
-   "img": "https://i.ticketweb.com/i/00/13/38/49/93_Original.jpg?v=8",
-   "ticketUrl": "https://www.ticketweb.uk/event/the-wannadies-the-brook-tickets/14781213",
-   "infoUrl": "https://www.the-brook.com/tm-event/the-wannadies/",
-   "going": 0,
-   "minage": "18+ (14+ accompanied)",
+   "img": "https://images.universe.com/0c0000b9-2cae-43da-a14f-c116b8eb0313/-/format/jpeg/-/scale_crop/1024x576/center/-/progressive/yes/-/inline/yes/",
+   "ticketUrl": "https://www.universe.com/events/the-wannadies-tickets-VK640H?ref=ticketmaster",
+   "infoUrl": "https://www.universe.com/events/the-wannadies-tickets-VK640H?ref=ticketmaster",
+   "going": null,
+   "minage": null,
    "desc": null,
-   "source": "thebrook",
-   "doors": "19:30",
-   "doorsText": "Doors: 7:30 PM",
-   "feeIncluded": true,
-   "sourceRun": "thebrook",
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [
+    "blues"
+   ],
+   "hot": false,
+   "id": "tm-G5vHZ_eSZdS_P",
+   "artist": "Jools Holland and His Rhythm and Blues Orchestra",
+   "venueId": "mayflower",
+   "venueName": "Mayflower Theatre",
+   "postcode": "SO15 1GE",
+   "date": "2026-11-15",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "blues",
+   "img": "https://s1.ticketm.net/dam/a/019/6294c73d-9b27-4b20-93d3-f92b3cbd8019_SOURCE",
+   "ticketUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-and-southampton-15-11-2026/event/1F00642CC00F3665",
+   "infoUrl": "https://www.ticketmaster.co.uk/jools-holland-and-his-rhythm-and-southampton-15-11-2026/event/1F00642CC00F3665",
+   "going": null,
+   "minage": null,
+   "desc": null,
+   "status": null,
+   "source": "ticketmaster",
+   "sourceRun": "ticketmaster",
+   "genres": [
+    "blues"
    ]
   },
   {
@@ -28472,9 +28473,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-09-17",
    "time": "19:30",
-   "price": 25,
+   "price": 32,
    "priceMax": 80.5,
-   "priceText": "£25–£80.50",
+   "priceText": "£32–£80.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/04/SE_Tour_Generic_960x600_InclSafeArea.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/53908/53936",
