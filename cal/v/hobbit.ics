@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43384348@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20261121T193000
 SUMMARY:Diaz Brothers
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -16,7 +16,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-82c487ad-8dc@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20261204T160000
 SUMMARY:DOOMED - WOMEN OF ALT!
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£2–£5\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43387670@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20261211T190000
 SUMMARY:7eventh sea
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -34,7 +34,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43449385@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20261219T200000
 SUMMARY:Aubrey Blakeledge
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -42,8 +42,17 @@ URL:https://southampton.live/e/aubrey-blakeledge-sg-43449385.html
 DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43449385-aubrey-blakeledge-at-hobbit-pub\nDetails can change — check with the venue.
 END:VEVENT
 BEGIN:VEVENT
+UID:fat-0043195a-962@southampton.live
+DTSTAMP:20261116T194049Z
+DTSTART;TZID=Europe/London:20261231T170000
+SUMMARY:NEW YEARS EVE AT THE HOBBIT & THE SHOOTING STAR
+LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
+URL:https://southampton.live/e/new-years-eve-at-the-hobbit-the-shooting-star-fat-0043195a-962.html
+DESCRIPTION:Club night\n£3–£10\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/7t5c5s7b/new-years-eve-at-the-hobbit-the-shooting-star\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
 UID:sg-43387186@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20270108T190000
 SUMMARY:Parasitic Encephalitis
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ
@@ -52,7 +61,7 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sk-43185698@southampton.live
-DTSTAMP:20261116T063530Z
+DTSTAMP:20261116T194049Z
 DTSTART;TZID=Europe/London:20270220T190000
 SUMMARY:Asleep At The Helm
 LOCATION:The Hobbit\, 134 Bevois Valley Road\, Southampton\, SO14 0JZ

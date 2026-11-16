@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Southampton.Live//listings//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Mile High Southampton — Southampton.Live
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+BEGIN:VEVENT
+UID:fat-29c11ac5-b6d@southampton.live
+DTSTAMP:20261116T194049Z
+DTSTART;TZID=Europe/London:20261128T220000
+SUMMARY:LATIN PARTY EXCLUSIVE OLD SCHOOL EDITION
+LOCATION:Mile High Southampton\, Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/latin-party-exclusive-old-school-edition-fat-29c11ac5-b6d.html
+DESCRIPTION:Club night\n£6–£11\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/34blxumo/latin-party-exclusive-old-school-edition\nDetails can change — check with the venue.
+END:VEVENT
+END:VCALENDAR
