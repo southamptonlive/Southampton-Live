@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43362833@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Avatar
@@ -17,7 +17,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AdbZ_kGkDKj9pC@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261122T193000
 SUMMARY:Waterloo A Tribute To ABBA
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -26,7 +26,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G619ScUDN@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261124T190000
 SUMMARY:Yard Act
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -35,7 +35,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZk8MGke0zdSu@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261127T190000
 SUMMARY:Embrace - Celebrating 30 Years
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -44,7 +44,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZkfbGkeWllCB@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261128T193000
 SUMMARY:Kneecap
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -53,7 +53,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G61kQ8NpZ@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261202T190000
 SUMMARY:Ash
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -62,7 +62,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZkfxGkeEgkpf@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261212T180000
 SUMMARY:SPC & SU Phil: Coronation and Celebration
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -71,7 +71,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AdbZ_dGkng7VLe@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261218T193000
 SUMMARY:STEP INTO CHRISTMAS
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -80,7 +80,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZkfUGkeOxSRz@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261219T150000
 SUMMARY:Day Fever
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -89,7 +89,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G6uaDGoL2@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270128T190000
 SUMMARY:Massive Wagons & Terrorvision
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -98,7 +98,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G65mQJFCe@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270201T190000
 SUMMARY:DMA'S
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -107,7 +107,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G6ukNNgbE@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270225T190000
 SUMMARY:Saxon - Gods Of Thunder
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -116,7 +116,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G61UoJw6N@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270305T193000
 SUMMARY:Man In the Mirror
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -125,7 +125,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZk3bGkd4T6W4@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270312T190000
 SUMMARY:The Editors
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -134,7 +134,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G6GXWV4jJ@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270319T193000
 SUMMARY:Ben Portsmouth: This Is Elvis
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -143,7 +143,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-17uOv0G62w6yoz9@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270428T190000
 SUMMARY:Richard Thompson - Hippies\, Thugs and Heroes - Band Tour 2027
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -152,7 +152,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AUZkftGkeV2J27@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270512T190000
 SUMMARY:Palace
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -161,7 +161,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AdbZ_8GkmRU09F@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20270515T193000
 SUMMARY:The Illegal Eagles Their Greatest Hits Tour 2027
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -170,7 +170,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:tm-1AdbZ_dGkSsNb0M@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20271008T193000
 SUMMARY:Michael Mania
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP
@@ -179,7 +179,7 @@ DESCRIPTION:Gig\nListed via Ticketmaster\nTickets: https://www.ticketmaster.co.u
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-42956957@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20271112T193000
 SUMMARY:Roy "Chubby" Brown
 LOCATION:O2 Guildhall\, West Marlands Road\, Southampton\, SO14 7LP

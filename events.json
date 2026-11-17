@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-17T03:59:08.521Z",
+ "generated": "2026-11-17T16:04:37.414Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 395
+   "events": 401
   },
   {
    "id": "mitc",
@@ -114,7 +114,7 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 173
+   "events": 181
   },
   {
    "id": "ticketmaster",
@@ -300,6 +300,12 @@
    "address": "17 Lower Banister St, Southampton SO15 2EH"
   },
   {
+   "id": "funky-flamingo",
+   "name": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
+  },
+  {
    "id": "orange-rooms",
    "name": "Orange Rooms",
    "postcode": "SO15 2EJ",
@@ -310,12 +316,6 @@
    "name": "Ruby's at the Grand",
    "postcode": "SO14 3AS",
    "address": "South Western House, Southampton"
-  },
-  {
-   "id": "funky-flamingo",
-   "name": "Funky Flamingo",
-   "postcode": "SO15 2EL",
-   "address": "3 Winchester St, Bedford Pl, Southampton SO15 2EL"
   },
   {
    "id": "st-denys-church",
@@ -972,9 +972,9 @@
    "postcode": "SO17 3QF",
    "date": "2026-11-19",
    "time": "19:30",
-   "price": 27.5,
-   "priceMax": 27.5,
-   "priceText": null,
+   "price": 6,
+   "priceMax": 19.25,
+   "priceText": "£6–£19.25",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/02/24/14_Original.jpg?v=20",
    "ticketUrl": "https://www.ticketweb.uk/event/listening-room-live-the-brook-tickets/14306014",
@@ -1486,6 +1486,37 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "comedy",
+   "tags": [
+    "comedy"
+   ],
+   "hot": false,
+   "id": "fat-0c843838-5fa",
+   "artist": "Stand Up Comedy with Ria Lina, Tom Ward and Joey Page",
+   "venueId": "papillon",
+   "venueName": "Papillon",
+   "postcode": "SO15 1GG",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "price": 24.75,
+   "priceMax": 24.75,
+   "priceText": null,
+   "genre": "comedy",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/efipfgym/stand-up-comedy-with-ria-lina-tom-ward-and-joey-page",
+   "infoUrl": "https://www.fatsoma.com/e/efipfgym/stand-up-comedy-with-ria-lina-tom-ward-and-joey-page",
+   "going": null,
+   "minage": "16+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "comedy"
    ]
   },
   {
@@ -2243,6 +2274,73 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-17032fed-99f",
+   "artist": "ESSENCE: Southampton's newest R&B Saturday night.",
+   "venueId": "funky-flamingo",
+   "venueName": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/mdh595cl/essence-southampton-s-newest-r-b-saturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/mdh595cl/essence-southampton-s-newest-r-b-saturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "rnb"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "hip hop",
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-4a9195a8-a3a",
+   "artist": "ESSENCE: Southampton's only R&B, HIP HOP, AFROBEATS, BASHMENTSaturday night.",
+   "venueId": "funky-flamingo",
+   "venueName": "Funky Flamingo",
+   "postcode": "SO15 2EL",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "hip-hop",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/kxbcwx77/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night",
+   "infoUrl": "https://www.fatsoma.com/e/kxbcwx77/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "hip-hop",
+    "rnb",
+    "afrobeat"
    ]
   },
   {
@@ -4070,7 +4168,7 @@
   {
    "type": "club",
    "tags": [],
-   "hot": false,
+   "hot": true,
    "id": "sk-42502156",
    "artist": "WHE Presents: 4am Kru + Support",
    "venueId": "engine",
@@ -5867,7 +5965,7 @@
   {
    "type": "gig",
    "tags": [],
-   "hot": true,
+   "hot": false,
    "id": "sk-42476319",
    "artist": "The Wurzels",
    "venueId": "engine",
@@ -8142,38 +8240,6 @@
    ]
   },
   {
-   "type": "club",
-   "tags": [
-    "r&b"
-   ],
-   "hot": false,
-   "id": "fat-2869b3f4-3e7",
-   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
-   "venueId": "cafe-parfait",
-   "venueName": "Café Parfait",
-   "postcode": "SO14 7DW",
-   "date": "2026-12-12",
-   "time": "16:00",
-   "price": 17.6,
-   "priceMax": 82.5,
-   "priceText": "£17.60–£82.50",
-   "genre": "rnb",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "infoUrl": "https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "rnb",
-    "dance"
-   ]
-  },
-  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -10012,6 +10078,39 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-8471bb8e-28a",
+   "artist": "BAD SANTA",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-20",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3,
+   "priceText": "£0–£3",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/4jasabfv/bad-santa",
+   "infoUrl": "https://www.fatsoma.com/e/4jasabfv/bad-santa",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -11090,6 +11189,34 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43520323",
+   "artist": "Korn Again",
+   "venueId": "the-1865",
+   "venueName": "The 1865",
+   "postcode": "SO14 3AR",
+   "date": "2026-12-30",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43520323-korn-again-at-1865",
+   "infoUrl": "https://www.songkick.com/concerts/43520323-korn-again-at-1865",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -11616,7 +11743,7 @@
    "tags": [
     "rave"
    ],
-   "hot": true,
+   "hot": false,
    "id": "sk-43148116",
    "artist": "Switch x Minimal",
    "venueId": "the-1865",
@@ -11682,7 +11809,7 @@
    "venueName": "Popworld",
    "postcode": "SO15 2EH",
    "date": "2027-01-02",
-   "time": "21:00",
+   "time": "22:00",
    "price": 0,
    "priceMax": 6,
    "priceText": "£0–£6",
@@ -12175,7 +12302,7 @@
    "venueName": "Popworld",
    "postcode": "SO15 2EH",
    "date": "2027-01-08",
-   "time": "21:00",
+   "time": "22:00",
    "price": 0,
    "priceMax": 4,
    "priceText": "£0–£4",
@@ -12334,6 +12461,39 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-9314bb07-75d",
+   "artist": "SATURDAY SESSIONS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2027-01-09",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/44myr23m/saturday-sessions",
+   "infoUrl": "https://www.fatsoma.com/e/44myr23m/saturday-sessions",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -12619,6 +12779,39 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-587e8e52-4d6",
+   "artist": "FRIDAY - MIDNIGHT MADDNESS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2027-01-15",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "house",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/lurpnkqm/friday-midnight-maddness",
+   "infoUrl": "https://www.fatsoma.com/e/lurpnkqm/friday-midnight-maddness",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "house"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -12734,6 +12927,39 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-e1bcd60c-9fb",
+   "artist": "SATURDAY SESSIONS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2027-01-16",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/6g3sivrh/saturday-sessions",
+   "infoUrl": "https://www.fatsoma.com/e/6g3sivrh/saturday-sessions",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
    "type": "gig",
    "tags": [],
    "hot": false,
@@ -12800,9 +13026,9 @@
    "postcode": "SO15 1GE",
    "date": "2027-01-20",
    "time": "14:00",
-   "price": 24.5,
+   "price": 41.5,
    "priceMax": 52.5,
-   "priceText": "£24.50–£52.50",
+   "priceText": "£41.50–£52.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/08/BB_Sthmptn_900x600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52496/52498",
@@ -13158,6 +13384,39 @@
    ]
   },
   {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "house",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-d3d0ffd8-944",
+   "artist": "FRIDAY - MIDNIGHT MADDNESS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2027-01-22",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 4,
+   "priceText": "£0–£4",
+   "genre": "house",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/c37nnp4v/friday-midnight-maddness",
+   "infoUrl": "https://www.fatsoma.com/e/c37nnp4v/friday-midnight-maddness",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "house"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -13349,6 +13608,39 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry",
+    "tribute"
+   ],
+   "hot": false,
+   "id": "fat-e31b39df-a71",
+   "artist": "SATURDAY SESSIONS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2027-01-23",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 6,
+   "priceText": "£0–£6",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/mgjfe2e8/saturday-sessions",
+   "infoUrl": "https://www.fatsoma.com/e/mgjfe2e8/saturday-sessions",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
    ]
   },
   {
@@ -14982,6 +15274,38 @@
    "genres": [
     "theatre",
     "comedy"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "r&b"
+   ],
+   "hot": false,
+   "id": "fat-2869b3f4-3e7",
+   "artist": "RnB Throwbacks: Over 30's Day Party with 90's & 00's RnB",
+   "venueId": "cafe-parfait",
+   "venueName": "Café Parfait",
+   "postcode": "SO14 7DW",
+   "date": "2027-02-06",
+   "time": "16:00",
+   "price": 17.6,
+   "priceMax": 82.5,
+   "priceText": "£17.60–£82.50",
+   "genre": "rnb",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
+   "infoUrl": "https://www.fatsoma.com/e/vcrrh15n/rnb-throwbacks-over-30-s-day-party-with-90-s-00-s-rnb",
+   "going": null,
+   "minage": null,
+   "status": "postponed",
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "rnb",
+    "dance"
    ]
   },
   {
@@ -18350,11 +18674,12 @@
   {
    "type": "club",
    "tags": [
-    "free entry"
+    "free entry",
+    "hip hop"
    ],
    "hot": false,
    "id": "sk-43125232",
-   "artist": "On A Mission Rewind - LINE UP TBA!",
+   "artist": "On A Mission Rewind - Dillinja, Hazard, Hype, Rap",
    "venueId": "engine",
    "venueName": "EngineRooms",
    "postcode": "SO15 1GZ",
@@ -18365,18 +18690,17 @@
    "price": 0,
    "priceMax": 0,
    "priceText": "Free",
-   "genre": "electronic",
-   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/5/3/2457778_fcfeb3c7_on-a-mission-rewind-line-up-tba-_1024.jpg",
-   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---LINE-UP-TBA/43125232/",
-   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---LINE-UP-TBA/43125232/",
+   "genre": "hip-hop",
+   "img": "https://d31fr2pwly4c4s.cloudfront.net/e/5/3/2457778_e04c7b58_on-a-mission-rewind-dillinja-hazard-hype-rap_1024.jpg",
+   "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---Dillinja-Hazard-Hype-Rap/43125232/",
+   "infoUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/On-A-Mission-Rewind---Dillinja-Hazard-Hype-Rap/43125232/",
    "going": 0,
    "minage": "18",
    "desc": "On A Mission lands back at EngineRooms for a massive rewind event with some of the names that pioneered the scene we all know and love!",
    "source": "skiddle",
    "sourceRun": "skiddle:EngineRooms",
-   "genreGuess": true,
    "genres": [
-    "electronic"
+    "hip-hop"
    ]
   },
   {
@@ -22592,6 +22916,33 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43521370",
+   "artist": "Down for the Count Swing Orchestra",
+   "venueId": "turnersims",
+   "venueName": "Turner Sims",
+   "postcode": "SO17 1BJ",
+   "date": "2027-04-24",
+   "time": "14:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "jazz",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43521370-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall",
+   "infoUrl": "https://www.songkick.com/concerts/43521370-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genres": [
+    "jazz"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -22711,6 +23062,33 @@
    "genreGuess": true,
    "genres": [
     "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43521374",
+   "artist": "Down for the Count Swing Orchestra",
+   "venueId": "turnersims",
+   "venueName": "Turner Sims",
+   "postcode": "SO17 1BJ",
+   "date": "2027-04-24",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "jazz",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43521374-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall",
+   "infoUrl": "https://www.songkick.com/concerts/43521374-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genres": [
+    "jazz"
    ]
   },
   {

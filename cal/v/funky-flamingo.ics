@@ -6,8 +6,26 @@ X-WR-CALNAME:Funky Flamingo — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
+UID:fat-17032fed-99f@southampton.live
+DTSTAMP:20261117T160437Z
+DTSTART;TZID=Europe/London:20261121T220000
+SUMMARY:ESSENCE: Southampton's newest R&B Saturday night.
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/essence-southamptons-newest-rb-saturday-night-fat-17032fed-99f.html
+DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/mdh595cl/essence-southampton-s-newest-r-b-saturday-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:fat-4a9195a8-a3a@southampton.live
+DTSTAMP:20261117T160437Z
+DTSTART;TZID=Europe/London:20261121T220000
+SUMMARY:ESSENCE: Southampton's only R&B\, HIP HOP\, AFROBEATS\, BASHMENTSaturday night.
+LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
+URL:https://southampton.live/e/essence-southamptons-only-rb-hip-hop-afrobeats-bashmentsatur-fat-4a9195a8-a3a.html
+DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/kxbcwx77/essence-southampton-s-only-r-b-hip-hop-afrobeats-bashmentsaturday-night\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
 UID:fat-9a4eeeea-b3a@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261127T223000
 SUMMARY:SOUTHAMPTON THIS IS R.U.M: TERMINAL 4 / SAVVY / TEESHOW / DJ LARNI
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL

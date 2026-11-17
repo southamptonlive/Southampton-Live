@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:sg-43238868@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Jesca Hoop
@@ -17,7 +17,7 @@ DESCRIPTION:Gig\nStart time not yet published\nListed via Songkick\nTickets: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140480@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261219T140000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
@@ -26,11 +26,29 @@ DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts
 END:VEVENT
 BEGIN:VEVENT
 UID:sg-43140484@southampton.live
-DTSTAMP:20261117T035908Z
+DTSTAMP:20261117T160437Z
 DTSTART;TZID=Europe/London:20261219T190000
 SUMMARY:Down for the Count Swing Orchestra
 LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
 URL:https://southampton.live/e/down-for-the-count-swing-orchestra-sg-43140484.html
 DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43140484-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43521370@southampton.live
+DTSTAMP:20261117T160437Z
+DTSTART;TZID=Europe/London:20270424T140000
+SUMMARY:Down for the Count Swing Orchestra
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/down-for-the-count-swing-orchestra-sg-43521370.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43521370-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-43521374@southampton.live
+DTSTAMP:20261117T160437Z
+DTSTART;TZID=Europe/London:20270424T190000
+SUMMARY:Down for the Count Swing Orchestra
+LOCATION:Turner Sims\, University of Southampton\, SO17 1BJ
+URL:https://southampton.live/e/down-for-the-count-swing-orchestra-sg-43521374.html
+DESCRIPTION:Gig\nListed via Songkick\nTickets: https://www.songkick.com/concerts/43521374-down-for-the-count-swing-orchestra-at-turner-sims-concert-hall\nDetails can change — check with the venue.
 END:VEVENT
 END:VCALENDAR
