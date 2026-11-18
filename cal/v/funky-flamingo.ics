@@ -7,7 +7,7 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
 UID:fat-17032fed-99f@southampton.live
-DTSTAMP:20261118T114725Z
+DTSTAMP:20261118T203547Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:ESSENCE: Southampton's newest R&B Saturday night.
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -16,7 +16,7 @@ DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-4a9195a8-a3a@southampton.live
-DTSTAMP:20261118T114725Z
+DTSTAMP:20261118T203547Z
 DTSTART;TZID=Europe/London:20261121T220000
 SUMMARY:ESSENCE: Southampton's only R&B\, HIP HOP\, AFROBEATS\, BASHMENTSaturday night.
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
@@ -25,7 +25,7 @@ DESCRIPTION:Club night\n£0–£6\nListed via Fatsoma\nTickets: https://www.fats
 END:VEVENT
 BEGIN:VEVENT
 UID:fat-9a4eeeea-b3a@southampton.live
-DTSTAMP:20261118T114725Z
+DTSTAMP:20261118T203547Z
 DTSTART;TZID=Europe/London:20261127T223000
 SUMMARY:SOUTHAMPTON THIS IS R.U.M: TERMINAL 4 / SAVVY / TEESHOW / DJ LARNI
 LOCATION:Funky Flamingo\, 3 Winchester St\, Bedford Pl\, Southampton SO15 2EL\, SO15 2EL
