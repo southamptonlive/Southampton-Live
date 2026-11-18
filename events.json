@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-17T16:04:37.414Z",
+ "generated": "2026-11-18T01:02:04.043Z",
  "region": "Greater Southampton",
  "note": "Listings aggregated from public venue pages and ticket outlets. Always confirm with the venue.",
  "sources": [
@@ -86,7 +86,7 @@
    "label": "Songkick · Southampton metro",
    "url": "https://www.songkick.com/metro-areas/24584-uk-southampton",
    "ok": true,
-   "events": 401
+   "events": 402
   },
   {
    "id": "mitc",
@@ -100,7 +100,7 @@
    "label": "Mayflower Theatre + MAST (mayflower.org.uk)",
    "url": "https://www.mayflower.org.uk/whats-on/",
    "ok": true,
-   "events": 513
+   "events": 511
   },
   {
    "id": "skiddle:api",
@@ -114,14 +114,14 @@
    "label": "Fatsoma (api.fatsoma.com)",
    "url": "https://www.fatsoma.com/search?query=southampton",
    "ok": true,
-   "events": 181
+   "events": 182
   },
   {
    "id": "ticketmaster",
    "label": "Ticketmaster Discovery (optional key)",
    "url": "https://www.ticketmaster.co.uk/",
    "ok": true,
-   "events": 215
+   "events": 214
   }
  ],
  "venues": [
@@ -380,182 +380,6 @@
  ],
  "events": [
   {
-   "type": "gig",
-   "tags": [
-    "free entry",
-    "open mic"
-   ],
-   "hot": false,
-   "id": "fat-6d43ad6b-9e0",
-   "artist": "Open Mic Night @ The Platform Tavern (17th November)",
-   "venueId": "platform-tavern",
-   "venueName": "Platform Tavern",
-   "postcode": "SO14 2NY",
-   "date": "2026-11-17",
-   "time": "18:00",
-   "price": 0,
-   "priceMax": 0,
-   "priceText": "Free",
-   "genre": "folk-acoustic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/fqzujv99/open-mic-night-the-platform-tavern-17th-november",
-   "infoUrl": "https://www.fatsoma.com/e/fqzujv99/open-mic-night-the-platform-tavern-17th-november",
-   "going": null,
-   "minage": null,
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "folk-acoustic"
-   ]
-  },
-  {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "tm-1AdfZ_8GkzDF7OV",
-   "artist": "Dermot Henry",
-   "venueId": "heartbreakers",
-   "venueName": "Heartbreakers",
-   "postcode": "SO14 1JX",
-   "date": "2026-11-17",
-   "time": "19:00",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": "https://s1.ticketm.net/dam/a/5d9/402daee4-e472-444d-bdac-0e7c6d7c65d9_SOURCE",
-   "ticketUrl": "https://www.ticketmaster.co.uk/dermot-henry-southampton-17-11-2026/event/3500650E3B204834",
-   "infoUrl": "https://www.ticketmaster.co.uk/dermot-henry-southampton-17-11-2026/event/3500650E3B204834",
-   "going": null,
-   "minage": null,
-   "desc": null,
-   "status": null,
-   "source": "ticketmaster",
-   "sourceRun": "ticketmaster",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-operation-mincemeat-2026-11-17-1930",
-   "artist": "Operation Mincemeat",
-   "venueId": "mayflower",
-   "venueName": "Mayflower Theatre",
-   "postcode": "SO15 1GE",
-   "date": "2026-11-17",
-   "time": "19:30",
-   "price": 56,
-   "priceMax": 62.5,
-   "priceText": "£56–£62.50",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52074",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/operation-mincemeat-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre",
-    "comedy"
-   ]
-  },
-  {
-   "type": "theatre",
-   "tags": [],
-   "hot": false,
-   "id": "mayf-the-other-side-of-murder-2026-11-17-1945",
-   "artist": "The Other Side of Murder",
-   "venueId": "mast",
-   "venueName": "MAST Mayflower Studios",
-   "postcode": "SO14 7DU",
-   "date": "2026-11-17",
-   "time": "19:45",
-   "price": 20.5,
-   "priceMax": 26,
-   "priceText": "£20.50–£26",
-   "genre": "theatre",
-   "img": "https://images.mayflower.org.uk/uploads/2026/05/TOSOM-Web-Prod-SHamp_960-x-600px-1.jpg?resize=640%2C400",
-   "ticketUrl": "https://ticketing.mayflower.org.uk/54085/54087",
-   "infoUrl": "https://www.mayflower.org.uk/whats-on/the-other-side-of-murder-2026/",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "mayflower",
-   "sourceRun": "mayflower",
-   "genres": [
-    "theatre"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-4f8b2a11-59d",
-   "artist": "SO:CRAZY - EVERY TUESDAY - 17th November 2026 - £1 DOUBLES ALL NIGHT. 50p J BOMBS!",
-   "venueId": "sobar",
-   "venueName": "The Sobar",
-   "postcode": "SO14 0JZ",
-   "date": "2026-11-17",
-   "time": "22:00",
-   "price": 4,
-   "priceMax": 7,
-   "priceText": "£4–£7",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/q365dp1c/so-crazy-every-tuesday-17th-november-2026-1-doubles-all-night-50p-j-bombs",
-   "infoUrl": "https://www.fatsoma.com/e/q365dp1c/so-crazy-every-tuesday-17th-november-2026-1-doubles-all-night-50p-j-bombs",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [],
-   "hot": false,
-   "id": "fat-d3b0e5ae-e88",
-   "artist": "💥Pounded Tuesdays - £1 Drinks 💥",
-   "venueId": "the-edge",
-   "venueName": "The Edge",
-   "postcode": "SO14 0BH",
-   "date": "2026-11-17",
-   "time": "22:00",
-   "price": 1.5,
-   "priceMax": 3.5,
-   "priceText": "£1.50–£3.50",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/d48pkavc/pounded-tuesdays-1-drinks",
-   "infoUrl": "https://www.fatsoma.com/e/d48pkavc/pounded-tuesdays-1-drinks",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genreGuess": true,
-   "genres": [
-    "electronic"
-   ]
-  },
-  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -649,9 +473,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-18",
    "time": "19:30",
-   "price": 47.5,
+   "price": 59,
    "priceMax": 62.5,
-   "priceText": "£47.50–£62.50",
+   "priceText": "£59–£62.50",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52082",
@@ -816,6 +640,39 @@
    "genreGuess": true,
    "genres": [
     "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
+    "free entry"
+   ],
+   "hot": false,
+   "id": "fat-ea2da7b7-72d",
+   "artist": "Fiesta Miércoles | International Party 🍊",
+   "venueId": "orange-rooms",
+   "venueName": "Orange Rooms",
+   "postcode": "SO15 2EJ",
+   "date": "2026-11-18",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 5.5,
+   "priceText": "£0–£5.50",
+   "genre": "latin",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/jie2fz6d/fiesta-miércoles-international-party",
+   "infoUrl": "https://www.fatsoma.com/e/jie2fz6d/fiesta-miércoles-international-party",
+   "going": null,
+   "minage": null,
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genres": [
+    "latin",
+    "electronic",
+    "dance"
    ]
   },
   {
@@ -1142,8 +999,8 @@
    "date": "2026-11-19",
    "time": "22:00",
    "price": 3.8,
-   "priceMax": 4.8,
-   "priceText": "£3.80–£4.80",
+   "priceMax": 5.8,
+   "priceText": "£3.80–£5.80",
    "genre": "electronic",
    "img": null,
    "ticketUrl": "https://www.fatsoma.com/e/zm8fbnpt/glam-thursdays-lord-of-the-wings-southampton-s-best-student-night-1-shots-all-night",
@@ -2107,9 +1964,9 @@
    "postcode": "SO15 1GE",
    "date": "2026-11-21",
    "time": "19:30",
-   "price": 47.5,
+   "price": 34.5,
    "priceMax": 64,
-   "priceText": "£47.50–£64",
+   "priceText": "£34.50–£64",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2025/05/OMM_960_600.jpg?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/52072/52087",
@@ -4697,9 +4554,9 @@
    "postcode": "SO17 3QF",
    "date": "2026-11-28",
    "time": "20:15",
-   "price": 27.5,
-   "priceMax": 27.5,
-   "priceText": null,
+   "price": 6,
+   "priceMax": 19.25,
+   "priceText": "£6–£19.25",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/32/99/03_Original.jpg?v=10",
    "ticketUrl": "https://www.ticketweb.uk/event/los-pacaminos-featuring-paul-young-the-brook-tickets/14716103",
@@ -5418,8 +5275,8 @@
    "date": "2026-12-02",
    "time": "17:15",
    "price": 6,
-   "priceMax": 6,
-   "priceText": null,
+   "priceMax": 19.25,
+   "priceText": "£6–£19.25",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/14/93/14_Original.jpg?v=9",
    "ticketUrl": "https://www.ticketweb.uk/event/ssj-christmas-choir-the-brook-tickets/14443114",
@@ -5613,6 +5470,34 @@
    ]
   },
   {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43425645",
+   "artist": "The Family Battenberg",
+   "venueId": "joiners",
+   "venueName": "The Joiners",
+   "postcode": "SO14 1NS",
+   "date": "2026-12-03",
+   "time": "19:00",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
+   "infoUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
    "type": "theatre",
    "tags": [],
    "hot": false,
@@ -5640,34 +5525,6 @@
    ]
   },
   {
-   "type": "gig",
-   "tags": [],
-   "hot": false,
-   "id": "sg-43425645",
-   "artist": "The Family Battenberg",
-   "venueId": "joiners",
-   "venueName": "The Joiners",
-   "postcode": "SO14 1NS",
-   "date": "2026-12-03",
-   "time": "19:30",
-   "price": null,
-   "priceMax": null,
-   "priceText": null,
-   "genre": "indie",
-   "img": null,
-   "ticketUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
-   "infoUrl": "https://www.songkick.com/concerts/43425645-family-battenberg-at-joiners",
-   "going": 0,
-   "minage": null,
-   "desc": null,
-   "source": "songkick",
-   "sourceRun": "songkick:metro",
-   "genreGuess": true,
-   "genres": [
-    "indie"
-   ]
-  },
-  {
    "type": "comedy",
    "tags": [],
    "hot": false,
@@ -5692,37 +5549,6 @@
    "sourceRun": "mayflower",
    "genres": [
     "comedy"
-   ]
-  },
-  {
-   "type": "club",
-   "tags": [
-    "rave"
-   ],
-   "hot": false,
-   "id": "fat-5dc8c40b-fa5",
-   "artist": "😻 Glam Thursdays | 🎅🏻 BAD SANTA RAVE! 🎅🏽 Southampton's Best Student Night! 😻 £1 Shots All Night! 🥃",
-   "venueId": "trilogy",
-   "venueName": "Trilogy",
-   "postcode": "SO15 2AD",
-   "date": "2026-12-03",
-   "time": "22:00",
-   "price": 3.8,
-   "priceMax": 6,
-   "priceText": "£3.80–£6",
-   "genre": "electronic",
-   "img": null,
-   "ticketUrl": "https://www.fatsoma.com/e/2904mel9/glam-thursdays-bad-santa-rave-southampton-s-best-student-night-1-shots-all-night",
-   "infoUrl": "https://www.fatsoma.com/e/2904mel9/glam-thursdays-bad-santa-rave-southampton-s-best-student-night-1-shots-all-night",
-   "going": null,
-   "minage": "18+",
-   "status": null,
-   "desc": null,
-   "feeIncluded": true,
-   "source": "fatsoma",
-   "sourceRun": "fatsoma",
-   "genres": [
-    "electronic"
    ]
   },
   {
@@ -6065,6 +5891,34 @@
    "img": null,
    "ticketUrl": "https://www.songkick.com/concerts/43449375-aubrey-blakeledge-at-bitterne-railway-station",
    "infoUrl": "https://www.songkick.com/concerts/43449375-aubrey-blakeledge-at-bitterne-railway-station",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43521858",
+   "artist": "The Yobs",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43521858-yobs-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43521858-yobs-at-heartbreakers",
    "going": 0,
    "minage": null,
    "desc": null,
@@ -10861,6 +10715,39 @@
   {
    "type": "club",
    "tags": [
+    "free entry",
+    "xmas"
+   ],
+   "hot": false,
+   "id": "fat-f3a4745c-738",
+   "artist": "THE NEVER ENDING CHRISTMAS",
+   "venueId": "popworld",
+   "venueName": "Popworld",
+   "postcode": "SO15 2EH",
+   "date": "2026-12-27",
+   "time": "22:00",
+   "price": 0,
+   "priceMax": 3,
+   "priceText": "£0–£3",
+   "genre": "electronic",
+   "img": null,
+   "ticketUrl": "https://www.fatsoma.com/e/ld7jmfpz/the-never-ending-christmas",
+   "infoUrl": "https://www.fatsoma.com/e/ld7jmfpz/the-never-ending-christmas",
+   "going": null,
+   "minage": "18+",
+   "status": null,
+   "desc": null,
+   "feeIncluded": true,
+   "source": "fatsoma",
+   "sourceRun": "fatsoma",
+   "genreGuess": true,
+   "genres": [
+    "electronic"
+   ]
+  },
+  {
+   "type": "club",
+   "tags": [
     "free entry"
    ],
    "hot": false,
@@ -13053,9 +12940,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-01-20",
    "time": "19:30",
-   "price": 18.7,
-   "priceMax": 18.7,
-   "priceText": null,
+   "price": 6,
+   "priceMax": 19.25,
+   "priceText": "£6–£19.25",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/11/62/84_Original.jpg?v=6",
    "ticketUrl": "https://www.ticketweb.uk/event/beatallica-the-brook-tickets/14403654",
@@ -13454,9 +13341,9 @@
    "postcode": "SO14 7DU",
    "date": "2027-01-23",
    "time": "14:30",
-   "price": 19.5,
+   "price": 22,
    "priceMax": 25,
-   "priceText": "£19.50–£25",
+   "priceText": "£22–£25",
    "genre": "theatre",
    "img": "https://images.mayflower.org.uk/uploads/2026/07/SOS-Witches-of-Eastwick-Digital_960x600-NO-LOGO.png?resize=640%2C400",
    "ticketUrl": "https://ticketing.mayflower.org.uk/54324/54328",
@@ -15453,6 +15340,34 @@
    "sourceRun": "mayflower",
    "genres": [
     "comedy"
+   ]
+  },
+  {
+   "type": "gig",
+   "tags": [],
+   "hot": false,
+   "id": "sg-43521660",
+   "artist": "Fat Dog",
+   "venueId": "heartbreakers",
+   "venueName": "Heartbreakers",
+   "postcode": "SO14 1JX",
+   "date": "2027-02-06",
+   "time": "21:30",
+   "price": null,
+   "priceMax": null,
+   "priceText": null,
+   "genre": "indie",
+   "img": null,
+   "ticketUrl": "https://www.songkick.com/concerts/43521660-fat-dog-at-heartbreakers",
+   "infoUrl": "https://www.songkick.com/concerts/43521660-fat-dog-at-heartbreakers",
+   "going": 0,
+   "minage": null,
+   "desc": null,
+   "source": "songkick",
+   "sourceRun": "songkick:metro",
+   "genreGuess": true,
+   "genres": [
+    "indie"
    ]
   },
   {
@@ -24391,9 +24306,9 @@
    "postcode": "SO17 3QF",
    "date": "2027-05-15",
    "time": "19:00",
-   "price": 19.25,
+   "price": 6,
    "priceMax": 19.25,
-   "priceText": null,
+   "priceText": "£6–£19.25",
    "genre": "indie",
    "img": "https://i.ticketweb.com/i/00/13/08/29/14_Original.jpg?v=5",
    "ticketUrl": "https://www.ticketweb.uk/event/arkayla-the-brook-tickets/14369694",

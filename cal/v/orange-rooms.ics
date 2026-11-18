@@ -6,8 +6,17 @@ X-WR-CALNAME:Orange Rooms — Southampton.Live
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 BEGIN:VEVENT
+UID:fat-ea2da7b7-72d@southampton.live
+DTSTAMP:20261118T010204Z
+DTSTART;TZID=Europe/London:20261118T220000
+SUMMARY:Fiesta Miércoles | International Party 🍊
+LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
+URL:https://southampton.live/e/fiesta-miercoles-international-party-fat-ea2da7b7-72d.html
+DESCRIPTION:Club night\n£0–£5.50\nListed via Fatsoma\nTickets: https://www.fatsoma.com/e/jie2fz6d/fiesta-miércoles-international-party\nDetails can change — check with the venue.
+END:VEVENT
+BEGIN:VEVENT
 UID:fat-22e10d2c-f58@southampton.live
-DTSTAMP:20261117T160437Z
+DTSTAMP:20261118T010204Z
 DTSTART;TZID=Europe/London:20261201T230000
 SUMMARY:Fusion Nights - Southampton End of Term Special
 LOCATION:Orange Rooms\, 1-2 Vernon Walk\, Southampton SO15 2EJ\, SO15 2EJ
